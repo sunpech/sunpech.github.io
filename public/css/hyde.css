@@ -53,6 +53,12 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+ .avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
@@ -60,6 +66,10 @@ html {
   background-color: #202020;
 }
 @media (min-width: 48em) {
+  .avatar {
+    display: inline;
+    margin: 0;
+  }
   .sidebar {
     position: fixed;
     top: 0;
