@@ -24,7 +24,7 @@ My OnePlus invite email:
 
 <b>I consider the Nexus 5 to be the best Nexus device that Google has made to date</b>. I've used the G1, Nexus One, Nexus S, Galaxy Nexus, and the current one-- basically all the Nexus devices except for the Nexus 4.
 
-Prior to the N5, I've always felt that the Nexus One was the best Nexus device for its time. I even wrote about <a href="/2010/01/06/my-new-phone-googles-nexus-one">my unboxing of the Nexus One</a> back in 2010. The device <i>still</i> works well running an old Cyanogen ROM on it.
+Prior to the N5, I've always felt that the Nexus One was the best Nexus device for its time. I even wrote about <a href="/2010/01/my-new-phone-googles-nexus-one">my unboxing of the Nexus One</a> back in 2010. The device <i>still</i> works well running an old Cyanogen ROM on it.
 
 <b>What I love about the N5 is that it's light, fast, and has a great battery life</b>. I can get through a day easily with it. My carrier is T-Mobile and the reception is amazing on it-- I have 4G/LTE everywhere I went in Los Angeles. It's also a cheap device: $400.
 

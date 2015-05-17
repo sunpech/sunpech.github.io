@@ -18,7 +18,7 @@ Last week I as in San Diego for <a href="http://www.comic-con.org/cci">Comic Con
 
 <a href="http://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s1600/2014-07-23+at+13-48-44.jpg" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s1600/2014-07-23+at+13-48-44.jpg" height="360" width="640" /></a>
 
-This year I didn't take as many pictures as I did in previous years. I think it's mostly because I'm more interested in attending panels and enjoying myself. Just a few weeks ago I was at <a href="/2014/07/07/anime-expo-2014">Anime Expo 2014</a> (AX) and took a lot of photos of cosplayers. AX honestly has the best cosplay I've ever seen. Although SDCC has a greater number of attendees and ultimately cosplayers, the quality of craftsmanship of AX cosplayers is unmatched except maybe for <a href="http://www.dragoncon.org/">DragonCon</a>.
+This year I didn't take as many pictures as I did in previous years. I think it's mostly because I'm more interested in attending panels and enjoying myself. Just a few weeks ago I was at <a href="/2014/07/anime-expo-2014">Anime Expo 2014</a> (AX) and took a lot of photos of cosplayers. AX honestly has the best cosplay I've ever seen. Although SDCC has a greater number of attendees and ultimately cosplayers, the quality of craftsmanship of AX cosplayers is unmatched except maybe for <a href="http://www.dragoncon.org/">DragonCon</a>.
 
 <a href="http://www.tested.com/">Tested</a> has a nice set of cosplay pictures <a href="http://www.tested.com/art/makers/462936-comic-con-2014-cosplay-gallery-750-photos/">here</a>, 750+ photos.
 

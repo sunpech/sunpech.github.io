@@ -14,7 +14,7 @@ blogger_orig_url: http://www.sunpech.com/2014/08/san-diego-skyline.html
 
 I really like the city of San Diego. It's a very clean city with little to no smog in the air, unlike Los Angeles.
 
-I was there for <a href="http://www.comic-con.org/cci">Comic Con</a> a few days early <a href="/2014/07/31/san-diego-comic-con-2014">last week</a>. So I put aside some time to go take pictures of the skyline from Coronado Island. I did a little research on <a href="http://www.500px.com/">500px</a> and picked a spot that had a clear shot of the skyline.
+I was there for <a href="http://www.comic-con.org/cci">Comic Con</a> a few days early <a href="/2014/07/san-diego-comic-con-2014">last week</a>. So I put aside some time to go take pictures of the skyline from Coronado Island. I did a little research on <a href="http://www.500px.com/">500px</a> and picked a spot that had a clear shot of the skyline.
 
 I was planning to take shots in bulb-mode, but I forgot to bring my shutter release. So I just stuck in aperture-priority mode around f/8 on my tripod and hoped that no ferries would come into the shot for the long exposure.
 

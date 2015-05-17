@@ -49,7 +49,7 @@ I know many embrace this limit, saying that it requires that tweets are succinct
 
 ## Instagram
 
-<a href="/2013/01/07/cleaning-up-old-social-accounts">A while ago</a>, I didn't like <a href="http://www.instagram.com/">Instagram</a> (IG). Similar to Twitter, I closed my account, and about a year later opened a new account with a new handle: <a href="http://instagram.com/sunpechphoto">@sunpechphoto</a> (<i>They don't allow you to reopen closed accounts</i>). I now find IG to have a higher level of engagement-- possibly because every post has a picture and the community is just there to absorb in the pictures, hashtags, and even to a small degree whatever description is there.
+<a href="/2013/01/cleaning-up-old-social-accounts">A while ago</a>, I didn't like <a href="http://www.instagram.com/">Instagram</a> (IG). Similar to Twitter, I closed my account, and about a year later opened a new account with a new handle: <a href="http://instagram.com/sunpechphoto">@sunpechphoto</a> (<i>They don't allow you to reopen closed accounts</i>). I now find IG to have a higher level of engagement-- possibly because every post has a picture and the community is just there to absorb in the pictures, hashtags, and even to a small degree whatever description is there.
 
 However, there are several things I find annoying about the culture on Instagram:
 
