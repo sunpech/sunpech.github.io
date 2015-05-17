@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+navigation: true
 ---
 
 ## Blog Posts

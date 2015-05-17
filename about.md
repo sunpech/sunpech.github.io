@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+navigation: true
 ---
 
 My full name is Sunpech Steven Suwatanapongched. I mostly just go by Steven. I also go by Spong, which comes from a combination of letters from <b>S</b> from <b>S</b>teven, and <b>Pong</b> from Suwatana<b>pong</b>ched.

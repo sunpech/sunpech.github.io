@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+navigation: true
 ---
 
 <img border="0" class="img-rounded" src="http://1.bp.blogspot.com/-9NHzSKyyc-I/Tg2FOm1A5_I/AAAAAAABYio/vdgL_h4d_YQ/s1600/Steven_al_maljis.jpg" width="140" />
