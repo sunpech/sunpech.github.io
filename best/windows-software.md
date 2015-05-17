@@ -7,7 +7,7 @@ best: true
 
 I've put together a list of the best software for Windows PCs. These are all free, unless otherwise noted.
 
-I have a pages for <a href="mac-software">Best Mac Software</a> and <a href="software-development-tools">Best Software Development Tools</a>.
+I have a pages for <a href="/best/mac-software.html">Best Mac Software</a> and <a href="/best/software-development-tools.html">Best Software Development Tools</a>.
 
 <h2>Cloud Storage, Sync, and Backup</h2>
 <ul>
