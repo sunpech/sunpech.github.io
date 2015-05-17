@@ -19,7 +19,7 @@ I enjoy solving problems, and coding is one of the ways I go about creating solu
 
 I have a <a href="http://github.com/sunpech">Github</a> and <a href="http://bitbucket.org/sunpech">Bitbucket</a> accounts where I host some of my projects-- most of which are private.<br />
 
-I like to contribute my idle CPU cycles to help crunch some numbers for a good cause. See <a href="http://www.sunpech.com/p/team-spong-wcg_01.html">Team Spong World Community Grid</a>.<br />
+I like to contribute my idle CPU cycles to help crunch some numbers for a good cause. See <a href="/wcg">Team Spong World Community Grid</a>.<br />
 
 I'm also a casual blogger. I've been blogging since 1999. I've written my own blog software using various tools back then. From Perl, PHP, MySQL, ASP, ASP.net, C#, and MSSQL. I've also used several blogging platforms from Wordpress, Posterous, Blogger, and finally to <a href="https://pages.github.com/">Github pages</a> using <a href="jekyllrb.com">Jekyll</a>. My old blog is at: <a href="http://spong.org/">spong.org</a>.
 
