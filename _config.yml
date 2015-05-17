@@ -19,6 +19,8 @@ author:
 
 paginate:         1
 
+timezone: "America/Chicago"
+
 pages_list:       
   About: '/about'
   Contact: '/contact'
