@@ -21,10 +21,6 @@ paginate:         1
 
 timezone: "America/Chicago"
 
-pages_list:       
-  About: '/about'
-  Contact: '/contact'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+
 
 # Custom vars
