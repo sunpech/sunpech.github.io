@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<h2>Tag: {{ page.tag }}</h2>
+<ul>
+{% for post in page.posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }} | Tags: {{ post | tags }})</li>
+{% endfor %}
+</ul>
+
+<h2>Tag Cloud </h2>
+<div id="tag-cloud">
+  {% assign tags = site.tags | sort %}
+    {% for tag in tags %}
+     <span class="site-tag">
+        <a href="/tag/{{ tag | first | slugify }}/"
+            style="font-size: {{ tag | last | size  |  times: 2 | plus: 80  }}%">
+                {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+        </a>
+    </span>
+    {% endfor %}
+</div>

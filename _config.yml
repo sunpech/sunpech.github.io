@@ -21,6 +21,9 @@ paginate:         1
 
 timezone: "America/Chicago"
 
-
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+ignored_tags: [funny, personal]
 
 # Custom vars
