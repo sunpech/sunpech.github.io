@@ -26,4 +26,7 @@ tag_page_dir: tag
 tag_permalink_style: pretty
 ignored_tags: [funny, personal]
 
+gems: 
+ - jekyll/tagging
+
 # Custom vars
