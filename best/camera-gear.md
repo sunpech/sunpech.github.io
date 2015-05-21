@@ -3,6 +3,7 @@ layout: page
 title: Camera Gear
 navigation: false
 best: true
+permalink: camera-gear/
 ---
 
 <i>"The Best Camera Is The One That’s With You" - </i>Chase Jarvis
@@ -62,4 +63,4 @@ For long exposures, I like to use a release cable. I use the <a href="http://www
 
 I also use <a href="http://www.amazon.com/gp/product/B005HWC6PI/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005HWC6PI&amp;linkCode=as2&amp;tag=sunpech-20">Black Rapid Sports camera strap</a> when I'm at conventions and events for fast access.
 
-I have another page where I have <a href="/best/camera-bags.html">recommendations for camera bags</a>. But in short, I recommend the <a href="http://www.amazon.com/gp/product/B0039ZJ15I/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0039ZJ15I&amp;linkCode=as2&amp;tag=sunpech-20">Think Tank Retrospective 30</a>.
+I have another page where I have <a href="/best/camera-bags/">recommendations for camera bags</a>. But in short, I recommend the <a href="http://www.amazon.com/gp/product/B0039ZJ15I/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0039ZJ15I&amp;linkCode=as2&amp;tag=sunpech-20">Think Tank Retrospective 30</a>.

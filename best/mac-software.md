@@ -3,11 +3,12 @@ layout: page
 title: Mac Software
 navigation: false
 best: true
+permalink: mac-software/
 ---
 
 Mac OS X Mavericks is my main operating system now. I still use Windows and Linux a bit, but by far this is where I do most of my work.
 
-I also have a pages for the <a href="/best/windows-software.html">Best Windows Software</a> and <a href="/best/software-development-tools.html">Best Software Development Tools</a>.
+I also have a pages for the <a href="/best/windows-software/">Best Windows Software</a> and <a href="/best/software-development-tools/">Best Software Development Tools</a>.
 
 <h2>Cloud Storage, Sync, and Backup</h2>
 <ul>

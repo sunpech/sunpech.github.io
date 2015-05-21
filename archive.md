@@ -2,6 +2,7 @@
 layout: page
 title: Archive
 navigation: true
+permalink: archive/
 ---
 
 ## Blog Posts

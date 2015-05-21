@@ -3,6 +3,7 @@ layout: page
 title: Camera Bags
 navigation: false
 best: true
+permalink: camera-bags/
 ---
 
 I own quite a few camera bags. These are my favorite that I feel comfortable recommending because I own them.

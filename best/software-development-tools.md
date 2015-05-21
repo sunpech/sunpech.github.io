@@ -3,11 +3,12 @@ layout: page
 title: Software Development Tools
 navigation: false
 best: true
+permalink: software-development-tools/
 ---
 
 I love using great tools to help me get my stuff done. These are my favorite tools I must install on my Mac or Windows for software development.
 
-I also have pages for <a href="/best/mac-software.html">Best Mac Software</a> and <a href="/best/windows-software.html">Best Windows Software</a>.
+I also have pages for <a href="/best/mac-software/">Best Mac Software</a> and <a href="/best/windows-software/">Best Windows Software</a>.
 
 <h2>Coding</h2>
 <ul>

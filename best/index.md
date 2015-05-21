@@ -2,6 +2,7 @@
 layout: page
 title: Best Stuff
 navigation: true
+permalink: best/
 ---
 
 A list of some of the best stuff I've come across. Enjoy.

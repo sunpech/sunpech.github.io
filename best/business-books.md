@@ -3,6 +3,7 @@ layout: page
 title: Busininess Books
 navigation: false
 best: true
+permalink: business-books/
 ---
 
 This may be bit more of a weird page. As some of these books aren't exactly business or economics exactly-- or rather purely, but they're books I enjoyed.
