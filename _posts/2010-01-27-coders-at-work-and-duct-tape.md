@@ -10,6 +10,7 @@ tags:
 modified_time: '2014-08-08T16:58:51.881-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5331333518303753478
 blogger_orig_url: http://www.sunpech.com/2010/01/coders-at-work-and-duct-tape.html
+redirect_from: /2010/01/coders-at-work-and-duct-tape.html
 ---
 
 I finished reading <a href="http://www.amazon.com/Coders-at-Work-Peter-Seibel/dp/1430219483?ie=UTF8&amp;tag=sunpech-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Coders at Work</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=1430219483" style="border: none !important; margin: 0px !important; padding: 0px !important;" width="1" />! I really enjoyed the interviews with <a href="http://en.wikipedia.org/wiki/Jamie_Zawinski">Jamie Zawinksi</a>, <a href="http://en.wikipedia.org/wiki/Douglas_Crockford">Douglas Crockford</a>, <a href="http://en.wikipedia.org/wiki/Brendan_Eich">Brendan Eich</a>, and <a href="http://en.wikipedia.org/wiki/Ken_Thompson">Ken Thompson</a>. I wasn't too interested in compilers and the much older systems some of the programmers once developed in. I must admit, I had a short attention span reading over those sections.

@@ -8,6 +8,7 @@ tags:
 modified_time: '2012-01-11T03:57:20.396-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6618802036324428012
 blogger_orig_url: http://www.sunpech.com/2008/01/looking-forward-to-2008.html
+redirect_from: /2008/01/looking-forward-to-2008.html
 ---
 
 As 2007 comes to a close, it marks the end of one year, and the beginning of another.  So too does it bring an end more or less of my blogging on <a href="http://spong.org">spong.org</a>.  It was a personal side project of I started 9 years ago before blogs and other free services were available.  Now I'm reading to officially say that I'm stopping development on it as I have other things in my life I wish to focus on.  I do plan on keeping the spong.org domain and hosting, but the vaporware known as spongblog 2.0 is closed.

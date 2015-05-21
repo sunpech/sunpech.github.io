@@ -11,6 +11,7 @@ modified_time: '2014-08-07T16:21:33.272-05:00'
 thumbnail: http://1.bp.blogspot.com/-S8eTy0FsAwA/T1ns0pEdC8I/AAAAAAAA7qk/VlH4yBH4Fng/s72-c/2012-03-08+at+19-03-56.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4218937194033384844
 blogger_orig_url: http://www.sunpech.com/2012/03/light-chasers-artwalk-downtown.html
+redirect_from: /2012/03/light-chasers-artwalk-downtown.html
 ---
 
 Last night I attended the <a href="http://www.meetup.com/LightChasers/events/52841652/">Light Chasers Artwalk Downtown meetup</a>. I arrived early and walked to the <a href="http://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall">Walt Disney Concert Hall</a> to do some HDR shots. Upon arriving there, I immediately regretted not bringing my <a href="http://www.amazon.com/gp/product/B000NP46K2/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000NP46K2">16-35mm f/2.8 L lens</a>. So made due with my recently purchased <a href="http://www.amazon.com/gp/product/B00513JCA0/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00513JCA0">24-105 f/4 L lens</a>, which I really haven't used that much yet.

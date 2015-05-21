@@ -9,6 +9,7 @@ tags:
 modified_time: '2012-01-30T07:49:29.140-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5783205170973058067
 blogger_orig_url: http://www.sunpech.com/2012/01/socal-code-camp-is-tomorrow.html
+redirect_from: /2012/01/socal-code-camp-is-tomorrow.html
 ---
 
 <a href="http://www.socalcodecamp.com/">SoCal Code Camp</a> is tomorrow. <a href="http://www.socalcodecamp.com/sessions.aspx">Sessions</a> have been posted, as well as the <a href="http://www.socalcodecamp.com/schedule.aspx">schedule</a>. It's a two day event, January 28 and 29 (Saturday and Sunday), full of sessions on a variety of software development topics.

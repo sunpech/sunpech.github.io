@@ -11,6 +11,7 @@ modified_time: '2014-08-08T16:58:10.417-05:00'
 thumbnail: http://3.bp.blogspot.com/-Nke0rU7WhHw/S95NA89AsII/AAAAAAAAPmA/Xy74BEHWndk/s72-c/2010-05-01+08.48.30.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1374439247986756690
 blogger_orig_url: http://www.sunpech.com/2010/06/chicago-code-camp-2-pictures.html
+redirect_from: /2010/06/chicago-code-camp-2-pictures.html
 ---
 
 I'm going to start posting pictures I take from various Tech Events I attend.  One, I'm doing it because I want to share visually, what the Tech community looks like.  And two, because I'm picking up photography as a hobby now.

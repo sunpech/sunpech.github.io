@@ -11,6 +11,7 @@ modified_time: '2014-08-21T02:19:18.877-05:00'
 thumbnail: http://4.bp.blogspot.com/-ZTq8a5zkdh8/TgL6yQ66bZI/AAAAAAAApPc/v386yfypqi4/s72-c/2011-05-25+at+19-13-45.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4892633009397276148
 blogger_orig_url: http://www.sunpech.com/2011/06/pictures-from-tech-meetups-in-may-and.html
+redirect_from: /2011/06/pictures-from-tech-meetups-in-may-and.html
 ---
 
 In May I came across a new group: <a href="http://www.meetup.com/Refresh-Chicago/">Refresh Chicago</a> (<a href="https://twitter.com/#!/refreshchi">@refreshchi</a>). So far, their meetups have been pretty good. From their twitter, the group is described as: <i>Monthly meetup for the advancement of Chicago’s designers and developers</i>. Pretty cool.

@@ -9,6 +9,7 @@ modified_time: '2014-11-09T14:47:25.940-06:00'
 thumbnail: http://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s72-c/2013-10-27+at+20-10-06.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2286525837830791660
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-toronto.html
+redirect_from: /2014/01/photos-from-toronto.html
 ---
 
 Last year I did some traveling in October and November. In late October, I went to Toronto for the first time. The city is beautiful there. I've probably been in Los Angeles too long, but I noticed how clear the skies were and was astonished to look at buildings with no haze in front. It really showcases how LA is such a polluted and dirty city.

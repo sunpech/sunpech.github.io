@@ -12,6 +12,7 @@ modified_time: '2014-09-29T17:25:24.475-05:00'
 thumbnail: http://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s72-c/2014-07-23+at+13-48-44.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-9022593571742244527
 blogger_orig_url: http://www.sunpech.com/2014/07/san-diego-comic-con-2014.html
+redirect_from: /2014/07/san-diego-comic-con-2014.html
 ---
 
 Last week I as in San Diego for <a href="http://www.comic-con.org/cci">Comic Con</a> (SDCC). This visit marks my fourth visit to San Diego's Comic Con, with <i>next year (2015) marking twenty years since I attended my first comic con in Chicago</i>. I cannot believe it's been that long since I first ventured into a convention

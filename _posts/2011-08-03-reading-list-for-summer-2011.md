@@ -9,6 +9,7 @@ modified_time: '2014-08-09T20:02:28.073-05:00'
 thumbnail: http://3.bp.blogspot.com/-F1-5WattxEk/TxVmEghOsFI/AAAAAAAA2pc/Z5S18kuDhXw/s72-c/www-4.jpeg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7088570989232884983
 blogger_orig_url: http://www.sunpech.com/2011/08/reading-list-for-summer-2011.html
+redirect_from: /2011/08/reading-list-for-summer-2011.html
 ---
 
 I have selected the books I'd like to complete before the end of Summer/Fall season. I think it's a nice set and variety of books.

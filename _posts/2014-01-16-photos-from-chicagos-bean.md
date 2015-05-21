@@ -10,6 +10,7 @@ modified_time: '2014-11-09T14:46:14.559-06:00'
 thumbnail: http://3.bp.blogspot.com/-50djAaDv4Pg/Us8CvGqedSI/AAAAAAABl4E/HJOo2KUgzaU/s72-c/2014-01-04+at+07-33-31.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5345695750799205786
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-bean.html
+redirect_from: /2014/01/photos-from-chicagos-bean.html
 ---
 
 I was in Chicago for nearly three weeks during the holidays. I only planned to be there with my parents/family for about two weeks, but the snow, friends, and family all kept me from leaving-- so I ended up rebooking my flight TWICE.

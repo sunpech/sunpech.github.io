@@ -11,6 +11,7 @@ modified_time: '2014-08-07T16:21:33.251-05:00'
 thumbnail: http://2.bp.blogspot.com/-pCkOKh6JiaQ/Tt25R0BSYTI/AAAAAAAAxtg/4ZTwhQ45MVM/s72-c/2011-12-05+at+19-31-47.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3073489886148143074
 blogger_orig_url: http://www.sunpech.com/2011/12/pictures-from-la-dotnet-december-meetup.html
+redirect_from: /2011/12/pictures-from-la-dotnet-december-meetup.html
 ---
 
 I've been in living in Los Angeles for two months now. About a month ago I finally bought a car to get around in. On Monday, December 5, 2011, I was able to attend my first the <a href="http://www.ladotnet.org/">Los Angeles .Net Developer's Group</a> hosted at <a href="http://www.blankspaces.com/">Blankspaces</a>.

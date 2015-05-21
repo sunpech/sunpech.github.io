@@ -9,6 +9,7 @@ modified_time: '2014-08-09T19:59:58.401-05:00'
 thumbnail: http://2.bp.blogspot.com/-9PGs5zr-3k0/TxVmDMws0pI/AAAAAAAA2o0/ByIR-2Y4ymA/s72-c/music_logos.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2301494187404577926
 blogger_orig_url: http://www.sunpech.com/2011/08/why-im-excited-about-spotify.html
+redirect_from: /2011/08/why-im-excited-about-spotify.html
 ---
 
 <blockquote class="tr_bq"><em>I'm so excited and I just can't hide it.</em> - Pointer Sisters (<a href="http://en.wikipedia.org/wiki/I'm_So_Excited">reference</a>) </blockquote>

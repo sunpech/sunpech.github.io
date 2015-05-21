@@ -9,6 +9,7 @@ modified_time: '2014-08-19T02:33:54.768-05:00'
 thumbnail: http://1.bp.blogspot.com/-8tLJ84y31BE/TEze0DUpkEI/AAAAAAAAUHA/6a5d4SBGIqY/s72-c/IMG_1625.JPG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7523263956691145662
 blogger_orig_url: http://www.sunpech.com/2010/07/my-visit-to-blizzard-entertainment-hq.html
+redirect_from: /2010/07/my-visit-to-blizzard-entertainment-hq.html
 ---
 
 On my way to Los Angeles from San Diego, I had the opportunity to stop by the <a href="http://www.blizzard.com/">Blizzard Entertainment</a> HQ in Irvine, California.  I must say that they have an awesome campus with very developer/designer friendly offices.  Toys and models everywhere!

@@ -9,6 +9,7 @@ modified_time: '2013-04-27T19:13:01.730-05:00'
 thumbnail: http://4.bp.blogspot.com/-itgDoYkpqyw/UXw5PYB4hxI/AAAAAAABbvo/f3YFiG4A5XA/s72-c/IMG_20130427_134020.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7004941695709937630
 blogger_orig_url: http://www.sunpech.com/2013/04/whats-in-my-camera-bag.html
+redirect_from: /2013/04/whats-in-my-camera-bag.html
 ---
 
 In <a href="http://www.feedly.com/">Feedly</a>, there's a <a href="http://www.flickr.com/">Flickr</a> group that I subscribe to: <a href="http://www.flickr.com/groups/camerabag/pool/">What's in your camera bag?</a> I like to consider it photography gear <i>porn</i>.

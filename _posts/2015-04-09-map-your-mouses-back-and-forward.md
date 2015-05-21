@@ -10,6 +10,7 @@ modified_time: '2015-04-09T10:00:00.953-05:00'
 thumbnail: http://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s72-c/IMG_20150408_153732.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6474388924633229595
 blogger_orig_url: http://www.sunpech.com/2015/04/map-your-mouses-back-and-forward.html
+redirect_from: /2015/04/map-your-mouses-back-and-forward.html
 ---
 
 I've been using OS X as my main OS for almost five years now. But one thing that's bugged me for a while was the lack of support for Logitech and other mice's forward and back buttons. These are mouse shortcut buttons found on many gaming mice. As much as I enjoy Apple's trackpad, I still like to use the mouse for gaming and other things.

@@ -10,6 +10,7 @@ modified_time: '2014-08-07T19:36:22.312-05:00'
 thumbnail: http://1.bp.blogspot.com/-yU7gPhRWdPg/T-wtYgHP_BI/AAAAAAABOks/dvPzH189ZBg/s72-c/Nexus7_tablets.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7235748124438055884
 blogger_orig_url: http://www.sunpech.com/2012/06/putting-cyanogenmod-on-kindle-fire.html
+redirect_from: /2012/06/putting-cyanogenmod-on-kindle-fire.html
 ---
 
 After seeing the <a href="http://www.engadget.com/2012/06/27/nexus-7-tablet-hands-on/">Nexus 7 tablet</a> make its debut at <a href="https://developers.google.com/events/io/">Google I/O</a> yesterday, it made me realize how my Kindle Fire (KF) is kind of lame. I <a href="/2011/11/kindle-fire-review">reviewed the Kindle Fire</a> back in November 2011.

@@ -9,6 +9,7 @@ modified_time: '2014-08-18T09:02:37.781-05:00'
 thumbnail: http://3.bp.blogspot.com/-m2Js1R3pBLk/TdwEHwTmU1I/AAAAAAAAo38/KXGgdGHylxs/s72-c/IMG_20110516_015143.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5189826723904649781
 blogger_orig_url: http://www.sunpech.com/2011/05/trip-to-baltimore.html
+redirect_from: /2011/05/trip-to-baltimore.html
 ---
 
 I was out in Baltimore, Maryland for <a href="http://www.railsconf.com/">RailsConf</a> last week. The conference was great, but this was also the first time I've been in Baltimore other than for a flight layover. For the most part I was there for the 4 day conference and eating.

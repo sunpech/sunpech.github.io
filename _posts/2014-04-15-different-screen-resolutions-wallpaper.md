@@ -9,6 +9,7 @@ modified_time: '2014-04-16T08:11:51.571-05:00'
 thumbnail: http://3.bp.blogspot.com/-75gF8jF6mAU/U02pJ4uoXVI/AAAAAAABoHo/TQxJMKrEmFw/s72-c/2560x1440_wallpaper.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4873789071517389530
 blogger_orig_url: http://www.sunpech.com/2014/04/different-screen-resolutions-wallpaper.html
+redirect_from: /2014/04/different-screen-resolutions-wallpaper.html
 ---
 
 When I design websites and always wonder what the site would look like on different screen resolutions. I don't always have all the devices to test the layout on, so I generally will prefer to resize my browser window. I once had a wallpaper that had different screen resolutions marked out, but I couldn't find it or google it. So I decided to make my own.

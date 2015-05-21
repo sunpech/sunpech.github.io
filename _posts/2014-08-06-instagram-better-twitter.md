@@ -10,6 +10,7 @@ modified_time: '2014-08-06T11:00:00.628-05:00'
 thumbnail: http://2.bp.blogspot.com/-BYQ46aWVEJ4/U-DxKnCEGDI/AAAAAAABv6I/qq2oO4rI48M/s72-c/InstagramTwitter.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3956333293285211554
 blogger_orig_url: http://www.sunpech.com/2014/08/instagram-better-twitter.html
+redirect_from: /2014/08/instagram-better-twitter.html
 ---
 
 <img border="0" src="http://2.bp.blogspot.com/-BYQ46aWVEJ4/U-DxKnCEGDI/AAAAAAABv6I/qq2oO4rI48M/s1600/InstagramTwitter.jpg" height="291" width="400" />

@@ -11,6 +11,7 @@ modified_time: '2014-08-09T09:26:10.883-05:00'
 thumbnail: http://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s72-c/IMG_0115.JPG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5169324682668914058
 blogger_orig_url: http://www.sunpech.com/2010/01/my-new-phone-googles-nexus-one.html
+redirect_from: /2010/01/my-new-phone-googles-nexus-one.html
 ---
 
 Yesterday Google gave a presentation on the Google Nexus One.  I watched it on the <a href="http://live.gizmodo.com/">Gizmodo Liveblog</a>.  Ten minutes after reading the blog and looking at the pictures, I was sold.  I knew I was eventually going to get it, but I didn't know until that moment that that was the moment I was going to get it.

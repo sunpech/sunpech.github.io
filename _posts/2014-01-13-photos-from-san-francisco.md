@@ -10,6 +10,7 @@ modified_time: '2014-11-09T14:46:51.136-06:00'
 thumbnail: http://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s72-c/2013-11-30+at+19-37-15.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-9054948656372759016
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-san-francisco.html
+redirect_from: /2014/01/photos-from-san-francisco.html
 ---
 
 I was up in San Francisco in late November and early December last year. It was a very last minute trip, but one I wanted to do for such a long time. I've always wanted to get some shots of the iconic Golden Gate Bridge in SF-- without any fog. My prior visits have always been foggy and I could never see the full bridge.

@@ -11,6 +11,7 @@ modified_time: '2014-08-07T16:21:33.212-05:00'
 thumbnail: http://1.bp.blogspot.com/-Kcp9ikdCPh0/TxlS9ycaiCI/AAAAAAAA2sA/HHwSnU_FCbk/s72-c/2012-01-19+at+19-50-48.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2012633697097354269
 blogger_orig_url: http://www.sunpech.com/2012/01/designers-hub-meet-and-greet.html
+redirect_from: /2012/01/designers-hub-meet-and-greet.html
 ---
 
 Last night I went to LA's <a href="http://www.meetup.com/Designers-Hub/events/48232482/">Designer's Hub Meet and Greet event</a>

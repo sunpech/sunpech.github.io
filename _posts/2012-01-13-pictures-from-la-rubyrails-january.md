@@ -11,6 +11,7 @@ modified_time: '2014-08-07T16:21:33.341-05:00'
 thumbnail: http://1.bp.blogspot.com/-Yy58_MljGs0/Txok9EKT07I/AAAAAAAA24Q/0cJ6sUCHgMg/s72-c/2012-01-12+at+19-36-24.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7109268828872775521
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-la-rubyrails-january.html
+redirect_from: /2012/01/pictures-from-la-rubyrails-january.html
 ---
 
 Last night went to the <a href="http://www.meetup.com/laruby/events/40600702/">LA Ruby/Rails Meetup</a> hosted at <a href="http://www.attinteractive.com/">AT&amp;T Interactive</a>. There were two presentations followed by three lightning talks.

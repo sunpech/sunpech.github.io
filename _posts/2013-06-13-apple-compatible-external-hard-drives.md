@@ -10,6 +10,7 @@ modified_time: '2014-08-08T16:43:20.770-05:00'
 thumbnail: http://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s72-c/Screen+Shot+2013-06-13+at+1.26.39+AM.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-80238894314867501
 blogger_orig_url: http://www.sunpech.com/2013/06/apple-compatible-external-hard-drives.html
+redirect_from: /2013/06/apple-compatible-external-hard-drives.html
 ---
 
 Buying any technology related products online is still by far the best way to save money over buying from traditional brick and mortar stores. The likely products you would buy for your PC/Mac are keyboards, mice, external hard drive, and headphones.

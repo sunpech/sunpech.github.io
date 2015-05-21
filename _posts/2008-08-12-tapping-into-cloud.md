@@ -9,6 +9,7 @@ modified_time: '2012-01-03T03:43:02.260-06:00'
 thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/SKJv-gJLYkI/AAAAAAAAAlQ/VNgf9rCJw1I/s72-c/datacenter.gif
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1341003321150735126
 blogger_orig_url: http://www.sunpech.com/2008/08/tapping-into-cloud.html
+redirect_from: /2008/08/tapping-into-cloud.html
 ---
 
 A few years ago I envisioned a world where computers would return back to acting more like terminal PCs connected to a mainframe.  A world where accessing files/applications locally would be a thing of the past.  In a way, that's what <a href="http://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a> seems to be about.  A user can be on any computer (albeit a PC, a Mac, or a Linux box), all that is required is Internet connection and a web browser, and the user can run most of his/her computing needs.

@@ -9,6 +9,7 @@ modified_time: '2012-01-03T03:33:36.704-06:00'
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/R9NZa__IjYI/AAAAAAAAAg8/CmnXYhGEx1E/s72-c/31LvL228ARL._AA280_.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6092485655267772036
 blogger_orig_url: http://www.sunpech.com/2008/03/my-man-bags.html
+redirect_from: /2008/03/my-man-bags.html
 ---
 
 I went on an online shopping spree earlier this week and bought some <a href="http://en.wikipedia.org/wiki/Manbag">Man bags</a> for myself.  I only bought 2, but from the set below, I'm showing 2 because I ordered the one on the left (the more green/olive color), but I received the one on the right (brownish/dark-green).  At first I was going to send it back, but I grew attached to the color and didn't want to go through the hassle of sending it back.  This one is for when I want to pack my laptop to go.

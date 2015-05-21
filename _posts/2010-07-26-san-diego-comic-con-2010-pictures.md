@@ -12,6 +12,7 @@ modified_time: '2015-01-19T16:09:40.483-06:00'
 thumbnail: http://2.bp.blogspot.com/-5Efz3YK1MKc/TEe39nW4D4I/AAAAAAAASi4/LPrSKE5oPl8/s72-c/IMG_0989.JPG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6991968773402061189
 blogger_orig_url: http://www.sunpech.com/2010/07/san-diego-comic-con-2010-pictures.html
+redirect_from: /2010/07/san-diego-comic-con-2010-pictures.html
 ---
 
 Went to the <a href="http://www.comic-con.org/">San Diego Comic Con</a> this year.  First time.  Awesome.

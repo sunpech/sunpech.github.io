@@ -11,6 +11,7 @@ modified_time: '2014-08-09T20:09:43.391-05:00'
 thumbnail: http://1.bp.blogspot.com/-3c9eM45Hc24/TjDjycmckJI/AAAAAAAAsrY/goiIaQnBwi0/s72-c/2011-07-27+at+18-34-09.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7885787101186030066
 blogger_orig_url: http://www.sunpech.com/2011/07/pictures-from-july-refresh-and-ignite.html
+redirect_from: /2011/07/pictures-from-july-refresh-and-ignite.html
 ---
 
 I didn't go to too many meetups this month, only three. Sorry, the weather's been either really hot or super rainy. Interestingly when I condensed the meetup names in this blog title, they both hint at <i>refreshing</i> and <i>igniting</i> Chicago.

@@ -10,6 +10,7 @@ tags:
 modified_time: '2014-08-08T17:03:10.458-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4801877592240175271
 blogger_orig_url: http://www.sunpech.com/2008/07/finished-reading-groundswell.html
+redirect_from: /2008/07/finished-reading-groundswell.html
 ---
 
 I just finished reading <a href="http://www.amazon.com/gp/product/1422125009?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1422125009">Groundswell: Winning in a World Transformed by Social Technologies</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=as2&amp;o=1&amp;a=1422125009" style="border: none !important; margin: 0px !important;" width="1" />.  Probably one of the best books I've read this year thus far.

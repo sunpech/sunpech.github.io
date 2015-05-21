@@ -13,6 +13,7 @@ modified_time: '2015-01-19T16:09:40.457-06:00'
 thumbnail: http://4.bp.blogspot.com/-o3QWHkq9UKw/UATSbXIBiII/AAAAAAABQBo/FS8166mfs2g/s72-c/2012-07-13+at+17-49-31.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3677375251137094691
 blogger_orig_url: http://www.sunpech.com/2012/07/san-diego-comic-con.html
+redirect_from: /2012/07/san-diego-comic-con.html
 ---
 
 Last week I went to the <a href="http://comic-con.org/">San Diego Comic Con</a> (SDCC) and had a blast. The last time I went was back in 2010, which I blogged about <a href="/2010/07/san-diego-comic-con-2010-pictures">here</a>. I took quite a few photos, but only post-processed a fraction of them. I may choose to post-process more of them at a later date. You can view the full album <a href="https://picasaweb.google.com/101693597219413173200/2012SanDiegoComicCon">here</a>.

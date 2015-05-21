@@ -9,6 +9,7 @@ modified_time: '2014-08-09T20:06:03.939-05:00'
 thumbnail: http://1.bp.blogspot.com/-gbYBh-CCb7M/Tjb-jG8YLTI/AAAAAAAAs2I/lLZ68CJEAyE/s72-c/IMAG0035.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7900288197508905176
 blogger_orig_url: http://www.sunpech.com/2011/08/recent-camera-gear-purchases.html
+redirect_from: /2011/08/recent-camera-gear-purchases.html
 ---
 
 I've recently made some camera gear purchases.

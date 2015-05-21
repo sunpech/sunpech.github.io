@@ -9,6 +9,7 @@ modified_time: '2014-08-08T16:44:05.675-05:00'
 thumbnail: http://3.bp.blogspot.com/-0u0hAs9jI6k/UOqVkz_QO8I/AAAAAAABX_g/ijuyfQp5cDg/s72-c/trash-can-icon.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-115107213411749098
 blogger_orig_url: http://www.sunpech.com/2013/01/cleaning-up-old-social-accounts.html
+redirect_from: /2013/01/cleaning-up-old-social-accounts.html
 ---
 
 <img border="0" src="http://3.bp.blogspot.com/-0u0hAs9jI6k/UOqVkz_QO8I/AAAAAAABX_g/ijuyfQp5cDg/s1600/trash-can-icon.jpg" />

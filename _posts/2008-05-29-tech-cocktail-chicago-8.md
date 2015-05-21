@@ -10,6 +10,7 @@ modified_time: '2011-04-30T16:32:06.108-05:00'
 thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s72-c/112682035.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2387330688297963811
 blogger_orig_url: http://www.sunpech.com/2008/05/tech-cocktail-chicago-8.html
+redirect_from: /2008/05/tech-cocktail-chicago-8.html
 ---
 
 I'm pretty excited about going to the Tech Cocktail Chicago 8 event this evening.  I'm just so curious as to what kind of exciting tech people/companies are here in Chicago!

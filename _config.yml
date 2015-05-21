@@ -21,4 +21,7 @@ paginate:         1
 
 timezone: "America/Chicago"
 
+gems:
+  - jekyll-redirect-from
+  
 # Custom vars

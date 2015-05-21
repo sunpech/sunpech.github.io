@@ -10,6 +10,7 @@ modified_time: '2015-02-16T11:00:05.156-06:00'
 thumbnail: http://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s72-c/B9byWCtCAAEa_L_.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-530934058347219991
 blogger_orig_url: http://www.sunpech.com/2015/02/scott-mccloud-at-chicago-humanities.html
+redirect_from: /2015/02/scott-mccloud-at-chicago-humanities.html
 ---
 
 This past Friday the <a href="http://chicagohumanities.org/">Chicago Humanities Festival</a> had <a href="http://scottmccloud.com/">Scott McCloud</a> at the <a href="http://www.artic.edu/">Art Institute</a>. Not many of my friends and family know that Mr. McCloud was a big influence during my teenage and high school years.

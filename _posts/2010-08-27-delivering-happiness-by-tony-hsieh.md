@@ -9,6 +9,7 @@ tags:
 modified_time: '2014-08-08T16:56:53.038-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4045851285877658078
 blogger_orig_url: http://www.sunpech.com/2010/08/delivering-happiness-by-tony-hsieh.html
+redirect_from: /2010/08/delivering-happiness-by-tony-hsieh.html
 ---
 
 A few months ago, <a href="http://en.wikipedia.org/wiki/Tony_Hsieh">Tony Hsieh</a>, the CEO of <a href="http://www.zappos.com/">Zappos</a>, offered free copies of his new book, <a href="http://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446563048?ie=UTF8&amp;tag=sunpech-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Delivering Happiness: A Path to Profits, Passion, and Purpose</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=0446563048" style="border: none !important; margin: 0px !important; padding: 0px !important;" width="1" /> via <a href="http://twitter.com/ZAPPOS">his twitter</a>.  I hopped on it right away and got myself two copies of it by using two different email addresses.  I gave one away to a friend and kept the remaining copy to myself to keep and read.

@@ -9,6 +9,7 @@ modified_time: '2011-03-01T00:33:26.710-06:00'
 thumbnail: https://lh3.googleusercontent.com/-0hSDcQ2NkWc/TWySjHAavKI/AAAAAAAAhBg/s-7Ytz4ee5g/s72-c/steven_icon.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3891639060264515416
 blogger_orig_url: http://www.sunpech.com/2011/03/food-is-happiness.html
+redirect_from: /2011/03/food-is-happiness.html
 ---
 
 I started a new blog/website over at <a href="http://www.foodishappiness.com/">foodishappiness.com</a>. I exported all my food posts from this site as well as from <a href="http://bestburgerintown.blogspot.com/">bestburgerintown.blogspot.com</a> (which I've abandoned) and imported them into the new site. It's just something new I wanted to try out, to see if I could generate content from my food/eating passion. I'm still on an "eating tour" of Bangkok, Thailand so to speak.

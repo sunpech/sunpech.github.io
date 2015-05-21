@@ -9,6 +9,7 @@ modified_time: '2012-01-11T04:05:03.224-06:00'
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/Ry30XI_pzwI/AAAAAAAAAMk/AbpH5ogrTNk/s72-c/sansa_e280.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5821213847246130504
 blogger_orig_url: http://www.sunpech.com/2007/11/my-new-mp3-player-sansa-e280.html
+redirect_from: /2007/11/my-new-mp3-player-sansa-e280.html
 ---
 
 I got myself a new mp3 player, the <a type="amzn" asin="B000HZ9CCA">Sansa e280</a>.  I used to have an Apple iPod mini, but the battery life on that device was just horrible after less than one year.  I was thinking of getting a new Ipod, but I was sick of Apple's proprietary music format.  I love <a href="http://www.itunes.com/" target="_blank">iTunes</a>, but it's a bit bloated.  So now I use either plain old <a href="http://www.winamp.com/" target="_blank">winamp</a> or the relatively new open source, <a href="http://www.songbirdnest.com/" target="_blank">Songbird</a>.

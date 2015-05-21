@@ -9,6 +9,7 @@ tags:
 modified_time: '2014-08-08T16:59:36.881-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1049614843493224891
 blogger_orig_url: http://www.sunpech.com/2009/09/what-i-love-about-microsoft.html
+redirect_from: /2009/09/what-i-love-about-microsoft.html
 ---
 
 I am primarily a Microsoft software developer. But I was not always a M$FT user/developer so to speak. I used to use Windows 3.1 back in the heyday, followed a little with Windows 95/98. But by then, I was a college student at <a href="http://www.bu.edu" target="_blank">Boston University</a>. The computer labs there had primarily Unix terminals and Solaris boxes. So I naturally had to use and learn these technologies. Everything from using the command shell, pine, star office, gcc compiler, etc. It wasn’t easy to pick up, but a great learning experience nonetheless. I later used Linux (Red Hat/Mandrake) on my home PCs.

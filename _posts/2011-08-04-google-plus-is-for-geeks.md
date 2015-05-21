@@ -11,6 +11,7 @@ modified_time: '2014-08-09T20:00:29.647-05:00'
 thumbnail: http://2.bp.blogspot.com/-PypiOuIp3sE/TxVmBkEDhxI/AAAAAAAA2oM/vnv1_j3PTY0/s72-c/GooglPlus_SocialNetworks.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8295370269793332381
 blogger_orig_url: http://www.sunpech.com/2011/08/google-plus-is-for-geeks.html
+redirect_from: /2011/08/google-plus-is-for-geeks.html
 ---
 
 <a href="http://plus.google.com/">Google Plus</a> (G+) is for geeks. It's how it is now, and I think that's how it's going to be going forward, <em>more or less</em>.

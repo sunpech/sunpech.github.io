@@ -10,6 +10,7 @@ modified_time: '2014-08-07T16:21:33.247-05:00'
 thumbnail: http://4.bp.blogspot.com/-340-cksRhXc/T0SDaqOVMwI/AAAAAAAA6ZM/9jPe-nmBbHk/s72-c/2012-02-21+at+19-12-50.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3031480624207382140
 blogger_orig_url: http://www.sunpech.com/2012/02/la-mongodb-february-meetup.html
+redirect_from: /2012/02/la-mongodb-february-meetup.html
 ---
 
 Last night I went to my first <a href="http://www.meetup.com/Los-Angeles-MongoDB-User-Group/events/43674352/">MongoDB meetup</a>. They have a twitter account: <a href="http://twitter.com/lamongodb">@lamongodb</a>. The meetup was hosted at <a href="http://www.factual.com/">Factual Inc</a>.

@@ -9,6 +9,7 @@ modified_time: '2012-01-03T03:33:36.687-06:00'
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s72-c/shopping_lines.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2656121711518304156
 blogger_orig_url: http://www.sunpech.com/2008/11/black-friday-is-just-stupid.html
+redirect_from: /2008/11/black-friday-is-just-stupid.html
 ---
 
 To my recollection, I've only ever participated in a Black Friday event back in 2006.  And it was really really tough.  In a nutshell, I went shopping at midnight, went home to nap, then went out again to shop during the day, totally 15 some hours of shopping by day's end.  It's something that I hope to never do again in my life.  (Note: I only did this because some girls wanted to do some shopping).

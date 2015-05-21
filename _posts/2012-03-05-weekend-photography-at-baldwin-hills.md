@@ -10,6 +10,7 @@ modified_time: '2014-08-07T16:21:33.276-05:00'
 thumbnail: http://1.bp.blogspot.com/-yTFbhEK0kGI/T1LmvFjx01I/AAAAAAAA7SY/q416XmLmDDE/s72-c/2012-03-03+at+17-52-11.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4269628222443201168
 blogger_orig_url: http://www.sunpech.com/2012/03/weekend-photography-at-baldwin-hills.html
+redirect_from: /2012/03/weekend-photography-at-baldwin-hills.html
 ---
 
 Over the weekend I took my camera out to take some photos here in LA.

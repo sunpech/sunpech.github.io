@@ -10,6 +10,7 @@ modified_time: '2014-08-08T16:52:39.825-05:00'
 thumbnail: http://1.bp.blogspot.com/-IqWzGKfEWEs/TxVmCbV3RJI/AAAAAAAA2og/A0qiVuWc3nw/s72-c/IMG_20100920_084235.jpeg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2866166338806766360
 blogger_orig_url: http://www.sunpech.com/2012/01/getting-ready-to-jet-blue-with-blue.html
+redirect_from: /2012/01/getting-ready-to-jet-blue-with-blue.html
 ---
 
 Last year, in 2010, I took off with <a href="http://www.jetblue.com/">JetBlue</a> with my <a href="http://www.jetblue.com/aycj/">All-You-Can-Jet (AYCJ) pass</a> during the month of September/October. I visited Boston, New York City, Los Angeles, San Francisco, and Denver. Five cities! Friends, food, and fun! It was such a fantastic journey!

@@ -11,6 +11,7 @@ modified_time: '2014-08-08T16:49:48.958-05:00'
 thumbnail: http://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s72-c/2012-02-08+at+23-15-52.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8675918015450725598
 blogger_orig_url: http://www.sunpech.com/2012/02/jiro-dreams-of-sushi.html
+redirect_from: /2012/02/jiro-dreams-of-sushi.html
 ---
 
 Just got back from watching a special advanced screening of <a href="http://www.sushimovie.com/">Jiro Dreams of Sushi</a> at the Landmark. Special thanks to <a href="https://twitter.com/#!/tisaisha">Aisha</a> and <a href="http://www.foodspotting.com/">Foodspotting</a> for putting me on the list!

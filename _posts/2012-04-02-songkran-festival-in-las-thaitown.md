@@ -11,6 +11,7 @@ modified_time: '2014-08-08T16:47:48.347-05:00'
 thumbnail: http://3.bp.blogspot.com/-9Cn53uE3Nso/T3kAPSmkN5I/AAAAAAAA_a4/6-CgD9nFMfY/s72-c/2012-04-01+at+10-52-11.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5398941952039990553
 blogger_orig_url: http://www.sunpech.com/2012/04/songkran-festival-in-las-thaitown.html
+redirect_from: /2012/04/songkran-festival-in-las-thaitown.html
 ---
 
 This past weekend, on Sunday April 1, 2012, I went to <a href="http://en.wikipedia.org/wiki/Thai_Town,_Los_Angeles">LA's Thaitown</a> to check out the <a href="http://en.wikipedia.org/wiki/Songkran"><i>Songkran</i></a> (Thai New Year) celebrations along Hollywood Blvd. They closed Hollywood off from Western all the way to Normandie to have a street festival/parade. I arrived around 11am and spent about 30 minutes just trying to find parking. I ran along Hollywood just in time to catch the beginning of the parade.

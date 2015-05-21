@@ -10,6 +10,7 @@ modified_time: '2012-02-27T05:00:06.064-06:00'
 thumbnail: http://1.bp.blogspot.com/-obx1ka9-pv8/T0qZc7_CUgI/AAAAAAAA6sE/HYsQE1rOZdo/s72-c/meetup_fight_club.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8003625405023615625
 blogger_orig_url: http://www.sunpech.com/2012/02/i-am-meetup-junkie.html
+redirect_from: /2012/02/i-am-meetup-junkie.html
 ---
 
 I've become a <i>Meetup Junkie.</i> Every month I attend several meetups related to technology and food. I can't seem to get enough of following these interests with other like-minded individuals, <i>in the real world</i>.

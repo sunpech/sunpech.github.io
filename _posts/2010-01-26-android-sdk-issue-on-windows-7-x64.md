@@ -12,6 +12,7 @@ modified_time: '2014-08-07T20:14:24.526-05:00'
 thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/S1-JuvXb-TI/AAAAAAAAOEc/-7CpDZMLDBA/s72-c/Android_error_message_64bit.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6014119442015021448
 blogger_orig_url: http://www.sunpech.com/2010/01/android-sdk-issue-on-windows-7-x64.html
+redirect_from: /2010/01/android-sdk-issue-on-windows-7-x64.html
 ---
 
 I recently installed the <a href="http://developer.android.com/sdk/">Android SDK</a> and <a href="http://www.eclipse.org/downloads/">Eclipse</a> (32-bit) onto my Windows 7 Ultimate 64-bit machine.  First thing I wanted to do was go through the <a href="http://developer.android.com/guide/tutorials/hello-world.html">Android Hello World Tutorial</a>. 

@@ -11,6 +11,7 @@ modified_time: '2014-08-09T19:55:02.260-05:00'
 thumbnail: http://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s72-c/2012-02-29+at+12-22-53.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6373629466885906791
 blogger_orig_url: http://www.sunpech.com/2012/02/design-of-everyday-things.html
+redirect_from: /2012/02/design-of-everyday-things.html
 ---
 
 <a href="http://www.amazon.com/gp/product/0465067107/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0465067107">The Design of Everyday Things</a> comes highly recommended on <a href="http://www.codinghorror.com/blog/2004/02/recommended-reading-for-developers.html">Coding Horror's recommended reading list</a> as well as many other software developers. After giving it a read, I thought it was good, relevant today, but slightly dated with their examples.

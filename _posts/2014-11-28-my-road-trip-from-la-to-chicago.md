@@ -10,6 +10,7 @@ modified_time: '2014-11-28T11:00:02.055-06:00'
 thumbnail: http://4.bp.blogspot.com/-qBBZTqYZz-8/VHbtQnX5ziI/AAAAAAAB0nY/sJXuGH_3zSE/s72-c/Screen%2BShot%2B2014-11-27%2Bat%2B3.20.55%2BAM.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8058210042568552729
 blogger_orig_url: http://www.sunpech.com/2014/11/my-road-trip-from-la-to-chicago.html
+redirect_from: /2014/11/my-road-trip-from-la-to-chicago.html
 ---
 
 Last week I drove from Los Angeles back to my hometown of Chicago. I've moved back home for personal reasons. It took my sister and I nine days to get across the US-- mostly just eating, driving, sleeping, and taking pictures.

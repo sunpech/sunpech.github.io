@@ -11,6 +11,7 @@ modified_time: '2012-01-11T04:03:11.365-06:00'
 thumbnail: http://4.bp.blogspot.com/-GO8zdM4suwo/TcwN0B7fOpI/AAAAAAAAnss/T1nD2L7lmJc/s72-c/logo-horizontal.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1806659350697521854
 blogger_orig_url: http://www.sunpech.com/2011/05/chicago-code-camp-2011.html
+redirect_from: /2011/05/chicago-code-camp-2011.html
 ---
 
 The schedule for <a href="http://chicagocodecamp.com/">Chicago Code Camp</a> is now up! You can register for the <b>free</b> event <a href="http://chicagocodecamp.eventbrite.com/">here</a>. You can follow them on twitter at: <a href="https://twitter.com/#!/chicagocodecamp">@chicagocodecamp</a>. The twitter hash tag to follow at the event is: <a href="https://twitter.com/#!/search?q=%23ccc3">#ccc3</a>

@@ -10,6 +10,7 @@ tags:
 modified_time: '2012-01-11T03:46:58.328-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2739763017537844629
 blogger_orig_url: http://www.sunpech.com/2008/07/event-social-dev-camp-chicago.html
+redirect_from: /2008/07/event-social-dev-camp-chicago.html
 ---
 
 I hope I can make this!  From the facebook event link, I found: <a href="http://webdesign.meetup.com/473/">Chicago Interactive Design/Development Meetup Group</a>.  So interesting!

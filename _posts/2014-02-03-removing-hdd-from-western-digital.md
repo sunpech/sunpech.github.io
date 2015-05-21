@@ -10,6 +10,7 @@ modified_time: '2014-08-07T15:55:46.614-05:00'
 thumbnail: http://4.bp.blogspot.com/-naqk30TbIqI/Uu9flsWw4bI/AAAAAAABmLk/4yDNxg8VWTI/s72-c/2014-02-03+at+01-13-03.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-411709171229829793
 blogger_orig_url: http://www.sunpech.com/2014/02/removing-hdd-from-western-digital.html
+redirect_from: /2014/02/removing-hdd-from-western-digital.html
 ---
 
 I have an old <a href="http://www.amazon.com/gp/product/B004SH5VQ4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004SH5VQ4&amp;linkCode=as2&amp;tag=sunpech-20">Western Digital Elements External USB HDD</a>&nbsp;(3TB)&nbsp;that that mostly sits on my shelf since I've moved my data onto a formal network area storage (NAS). After doing some research, it turns out that these external USB hard drives actually have full 3.5" SATA hard drive inside! All you need to do is pry open the back with a knife or flathead screwdriver and remove the hard drive, and remove the USB adapter. Simple!

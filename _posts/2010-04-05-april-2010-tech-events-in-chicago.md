@@ -9,6 +9,7 @@ tags:
 modified_time: '2012-01-11T04:06:18.227-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5149944125992155695
 blogger_orig_url: http://www.sunpech.com/2010/04/april-2010-tech-events-in-chicago.html
+redirect_from: /2010/04/april-2010-tech-events-in-chicago.html
 ---
 
 Here's a list of April 2010 Tech events in Chicago that I'm aware of.  Most of them, I shall be attending.

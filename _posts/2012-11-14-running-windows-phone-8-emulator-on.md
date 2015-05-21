@@ -10,6 +10,7 @@ modified_time: '2014-08-08T16:44:52.111-05:00'
 thumbnail: http://1.bp.blogspot.com/-zmyacljuX2g/UKN_RJcTrtI/AAAAAAABVvU/68s9SzlJNw0/s72-c/VMF5_WinPhone8.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7557647617734760650
 blogger_orig_url: http://www.sunpech.com/2012/11/running-windows-phone-8-emulator-on.html
+redirect_from: /2012/11/running-windows-phone-8-emulator-on.html
 ---
 
 Not long ago I blogged about <a href="/2012/11/installing-windows-8-pro-on-parallels-8">Installing Windows 8 Pro on Parallels Desktop 8</a>. That of course worked for me, but when it came time to having Visual Studio 2012 (VS2012) and running an emulator for Windows Phone 8, it simply doesn't work. I searched the Internet as to why, and came up with the following links:

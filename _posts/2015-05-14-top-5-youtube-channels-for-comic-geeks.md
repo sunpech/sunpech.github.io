@@ -10,6 +10,7 @@ modified_time: '2015-05-14T09:00:04.552-05:00'
 thumbnail: http://4.bp.blogspot.com/-43oWAaB2058/VVP6WIYsGlI/AAAAAAAB5ac/51I-ngg8GOU/s72-c/Top-5-YouTubes-for-Comic-Geeks.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2850648438258669169
 blogger_orig_url: http://www.sunpech.com/2015/05/top-5-youtube-channels-for-comic-geeks.html
+redirect_from: /2015/05/top-5-youtube-channels-for-comic-geeks.html
 ---
 
 It's such an amazing time to be a comic book fan/geek. From movies to TV shows and merchandising, all the way to comic cons, there's just so much content to consume that it can be a bit overwhelming. I don't really watch TV anymore and just rely on my social media feed, websites, and youTube for all my news and entertainment. So there are a few YouTube channels that I absolutely love and would recommend to my friends and comic fans alike.

@@ -9,6 +9,7 @@ tags:
 modified_time: '2014-08-08T16:59:01.585-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5467231622730355089
 blogger_orig_url: http://www.sunpech.com/2010/03/rework-by-jason-fried-and-david.html
+redirect_from: /2010/03/rework-by-jason-fried-and-david.html
 ---
 
 I finished reading <a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745?ie=UTF8&amp;tag=sunpech-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Rework </a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=0307463745" style="border: none !important; margin: 0px !important; padding: 0px !important;" width="1" />by the founders of <a href="http://www.37signals.com/">37Signals</a>. I really really enjoyed the book. The chapters were concise and to the point.

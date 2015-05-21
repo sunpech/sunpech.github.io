@@ -10,6 +10,7 @@ modified_time: '2014-08-08T16:43:00.805-05:00'
 thumbnail: http://2.bp.blogspot.com/-b7Y5eWJwih0/Ub7XDQr14EI/AAAAAAABeaw/Kbe3Jp2udyY/s72-c/Screen+Shot+2013-06-17+at+2.29.29+AM.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3309650584819850059
 blogger_orig_url: http://www.sunpech.com/2013/06/man-of-steel-review.html
+redirect_from: /2013/06/man-of-steel-review.html
 ---
 
 <a href="http://www.imdb.com/title/tt0770828/">Man of Steel</a> is the best take on <a href="http://www.imdb.com/title/tt0078346/">Superman</a> movie since <a href="http://en.wikipedia.org/wiki/Christopher_Reeve">Christopher Reeve</a> donned the role. For me, he set the bar as to what Superman was before anything. Immediately after watching the movie, I said I liked it. But after sleeping on it and thinking about it more and more, I've come to like it less and less.

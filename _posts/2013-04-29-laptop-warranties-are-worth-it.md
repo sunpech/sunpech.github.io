@@ -9,6 +9,7 @@ modified_time: '2014-08-09T19:52:22.755-05:00'
 thumbnail: http://1.bp.blogspot.com/-USx-cqUYusQ/UXuk3exJ-6I/AAAAAAABbu0/q2JKWVMrkGc/s72-c/2013-04-27+at+02-05-06.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-877258152395510777
 blogger_orig_url: http://www.sunpech.com/2013/04/laptop-warranties-are-worth-it.html
+redirect_from: /2013/04/laptop-warranties-are-worth-it.html
 ---
 
 I've owned three laptops over the last nearly twelve years. Each of them, I've gotten some kind of warranty with. And I'm glad I did. If you don't want to read this blog post, here is the shortened version:

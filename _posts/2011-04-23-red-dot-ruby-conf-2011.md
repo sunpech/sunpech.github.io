@@ -12,6 +12,7 @@ modified_time: '2014-08-18T09:04:54.624-05:00'
 thumbnail: http://4.bp.blogspot.com/-94TOg8r0A2w/TbLxe-82AXI/AAAAAAAAmQI/gnzrrMj8CvE/s72-c/2011-04-22+at+08-17-45.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6781926858766975955
 blogger_orig_url: http://www.sunpech.com/2011/04/red-dot-ruby-conf-2011.html
+redirect_from: /2011/04/red-dot-ruby-conf-2011.html
 ---
 
 As part of my trip back to the US, I attended <a href="http://reddotrubyconf.com/">Red Dot Ruby Conf 2011</a> on April 22-23, 2011. This event takes place in Singapore, at the <a href="http://www.smu.edu.sg/">Singapore Management University</a> (SMU).

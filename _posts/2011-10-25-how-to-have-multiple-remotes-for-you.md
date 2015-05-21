@@ -9,6 +9,7 @@ tags:
 modified_time: '2014-08-08T16:51:54.686-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-913905597106831886
 blogger_orig_url: http://www.sunpech.com/2011/10/how-to-have-multiple-remotes-for-you.html
+redirect_from: /2011/10/how-to-have-multiple-remotes-for-you.html
 ---
 
 When I found out that <a href="http://blog.bitbucket.org/2011/10/03/bitbucket-now-rocks-git/">BitBucket added support for Git</a>, I got pretty excited.

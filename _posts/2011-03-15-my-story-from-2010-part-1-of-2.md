@@ -10,6 +10,7 @@ modified_time: '2014-08-07T16:23:36.321-05:00'
 thumbnail: https://lh6.googleusercontent.com/-OsvAPJsKT2s/TX9b3Hs2swI/AAAAAAAAhyk/i4hoy-1yBdM/s72-c/IMG_20100920_084235.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5593991005457404478
 blogger_orig_url: http://www.sunpech.com/2011/03/my-story-from-2010-part-1-of-2.html
+redirect_from: /2011/03/my-story-from-2010-part-1-of-2.html
 ---
 
 Just want to give a quick overview of my life since mid 2010 to present, early 2011. This is part 1 of 2.

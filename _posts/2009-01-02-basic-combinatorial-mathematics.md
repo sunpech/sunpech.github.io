@@ -8,6 +8,7 @@ tags:
 modified_time: '2012-01-03T03:40:21.168-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8659935873398615085
 blogger_orig_url: http://www.sunpech.com/2009/01/basic-combinatorial-mathematics.html
+redirect_from: /2009/01/basic-combinatorial-mathematics.html
 ---
 
 I absolutely love reading <a href="http://www.codinghorror.com">CodingHorror.com</a>.  It's easily one of my favorite blogs to read about problem solving from the viewpoint of a programming/developer.  Recently, Jeff Atwood posted a problem:

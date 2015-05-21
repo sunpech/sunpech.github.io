@@ -10,6 +10,7 @@ modified_time: '2012-01-03T00:50:57.403-06:00'
 thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s72-c/shamrock_shuffle_2009_8k_map.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6508460152260409821
 blogger_orig_url: http://www.sunpech.com/2009/01/signed-up-for-2009-shamrock-shuffle-8k.html
+redirect_from: /2009/01/signed-up-for-2009-shamrock-shuffle-8k.html
 ---
 
 After hearing that several friends will be doing the <a href="http://www.shamrockshuffle.com/">Shamrock Shuffle</a> this year, I decided I wanted to challenge myself to it again.  I did it two years ago, in 2007.  I did little to no training for that, and ran at about a 13min/mile pace.  I'm hoping to bring that down to a 10min/mile pace with some proper training.

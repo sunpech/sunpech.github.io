@@ -10,6 +10,7 @@ modified_time: '2012-01-03T03:54:09.869-06:00'
 thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s72-c/microsoft_dreamspark.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3139078602405042702
 blogger_orig_url: http://www.sunpech.com/2009/02/free-microsoft-development-tools-for.html
+redirect_from: /2009/02/free-microsoft-development-tools-for.html
 ---
 
 On <a href="https://www.dreamspark.com">Microsoft Dreamspark</a>, they have a very nice list of Microsoft development tools that you can download for FREE.  Mind you, these aren't just the free editions of their software, these are <b>Standard </b>to <b>Professional </b>editions that individuals and companies pay a lot of money for.

@@ -10,6 +10,7 @@ modified_time: '2014-08-07T20:05:12.694-05:00'
 thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SKuMp6JQvsI/AAAAAAAAAmQ/4waYOTE3SV8/s72-c/prodigy.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7257599362438747856
 blogger_orig_url: http://www.sunpech.com/2008/08/facebook-to-become-new-aol.html
+redirect_from: /2008/08/facebook-to-become-new-aol.html
 ---
 
 I used to use <a href="http://en.wikipedia.org/wiki/Prodigy_(ISP)">Prodigy</a> as my Internet Service Provider (ISP) back in the 1990s.  It was fun to post to bulletin boards and participate in various discussions.  I then jumped over to use <a href="http://en.wikipedia.org/wiki/AOL">America Online</a> (AOL) because of it's nicer interface, live chat rooms, email, instant messaging, buddy lists, and overall better features.  To be honest, back then I used the Internet for two things: to talk about wrestling and find Dragonball Z pictures.
