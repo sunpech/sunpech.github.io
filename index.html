@@ -13,7 +13,7 @@ title: Home
     </h1>
     <span class="post-tag">
       Tags: 
-      {% for t in post.tags %}<a href="/tag/{{ t | slugify }}">{{ t }}</a>{% if post.tags.last != t %},&nbsp;{% endif %}{% endfor %}
+      {% for t in post.tags %}<a href="/tag/{{ t | replace: " ", "-" }}">{{ t }}</a>{% if post.tags.last != t %},&nbsp;{% endif %}{% endfor %}
     </span>
 
 
