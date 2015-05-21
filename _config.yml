@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            sunpech.blog
 tagline:          'A blog about technology, photography, and stuff.'
 description:      'A blog about technology, photography, and stuff.'
-url:              http://sunpech.github.io
+url:              http://sunpech.com
 baseurl:          /
 
 author:
@@ -20,13 +20,5 @@ author:
 paginate:         1
 
 timezone: "America/Chicago"
-
-tag_page_layout: tag_page
-tag_page_dir: tag
-tag_permalink_style: pretty
-ignored_tags: [funny, personal]
-
-gems: 
- - jekyll/tagging
 
 # Custom vars
