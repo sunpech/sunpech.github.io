@@ -12,3 +12,15 @@ ul#social-list{
   list-style: none;
   list-style-type: none;
 }
+
+.social {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.post-tag {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
