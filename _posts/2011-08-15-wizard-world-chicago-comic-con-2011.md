@@ -8,7 +8,7 @@ tags:
 - Cosplay
 - Comic Con
 modified_time: '2015-01-19T16:09:40.443-06:00'
-thumbnail: http://2.bp.blogspot.com/-DpM_DZxtaiw/TkdDIQLUtuI/AAAAAAAAtRM/dO48OHyomiI/s72-c/2011-08-13+at+11-47-40.jpg
+thumbnail: http://2.bp.blogspot.com/-DpM_DZxtaiw/TkdDIQLUtuI/AAAAAAAAtRM/dO48OHyomiI/s600/2011-08-13+at+11-47-40.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-337811324264202981
 blogger_orig_url: http://www.sunpech.com/2011/08/wizard-world-chicago-comic-con-2011.html
 redirect_from: /2011/08/wizard-world-chicago-comic-con-2011.html

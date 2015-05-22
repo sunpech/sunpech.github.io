@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Los Angeles
 modified_time: '2014-08-07T16:21:11.817-05:00'
-thumbnail: http://4.bp.blogspot.com/-II83ENaAySk/UE5z2Zw1AVI/AAAAAAABTzQ/JBqFaiTADEI/s72-c/2012-09-07.jpg
+thumbnail: http://4.bp.blogspot.com/-II83ENaAySk/UE5z2Zw1AVI/AAAAAAABTzQ/JBqFaiTADEI/s600/2012-09-07.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2572569809487277069
 blogger_orig_url: http://www.sunpech.com/2012/09/greekfest-la.html
 redirect_from: /2012/09/greekfest-la.html

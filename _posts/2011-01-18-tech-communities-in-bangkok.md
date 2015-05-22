@@ -11,7 +11,7 @@ tags:
 - Meetup
 - Bangkok
 modified_time: '2014-08-09T20:25:28.423-05:00'
-thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/TTLBFEe0h1I/AAAAAAAAfNc/7bkqHeyGPcg/s72-c/IMG_20101109_195137.jpg
+thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/TTLBFEe0h1I/AAAAAAAAfNc/7bkqHeyGPcg/s600/IMG_20101109_195137.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6553785517673157729
 blogger_orig_url: http://www.sunpech.com/2011/01/tech-communities-in-bangkok.html
 redirect_from: /2011/01/tech-communities-in-bangkok.html

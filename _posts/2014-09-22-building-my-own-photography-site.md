@@ -7,7 +7,8 @@ tags:
 - Photography
 - Software Development
 modified_time: '2014-09-22T18:35:51.362-05:00'
-thumbnail: http://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s72-c/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png
+thumbnail: http://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png
+image: https://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8373625049182046772
 blogger_orig_url: http://www.sunpech.com/2014/09/building-my-own-photography-site.html
 redirect_from: /2014/09/building-my-own-photography-site.html

@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Photography
 modified_time: '2012-04-09T14:36:34.872-05:00'
-thumbnail: http://3.bp.blogspot.com/-wA0U05podk0/T4AhgtRPfQI/AAAAAAABAr4/eCBf62xy0pc/s72-c/2012-04-04+at+17-19-47.jpg
+thumbnail: http://3.bp.blogspot.com/-wA0U05podk0/T4AhgtRPfQI/AAAAAAABAr4/eCBf62xy0pc/s600/2012-04-04+at+17-19-47.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-611700992499511728
 blogger_orig_url: http://www.sunpech.com/2012/04/my-new-lense-and-camera-body.html
 redirect_from: /2012/04/my-new-lense-and-camera-body.html

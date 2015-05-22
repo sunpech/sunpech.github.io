@@ -7,7 +7,7 @@ tags:
 - Travel
 - Singapore
 modified_time: '2014-08-08T16:54:58.656-05:00'
-thumbnail: http://4.bp.blogspot.com/-GPlnDEX8OyY/TbTb--h4vBI/AAAAAAAAnCg/6u5Y_2GY-Bw/s72-c/IMG_20110425_102052.jpg
+thumbnail: http://4.bp.blogspot.com/-GPlnDEX8OyY/TbTb--h4vBI/AAAAAAAAnCg/6u5Y_2GY-Bw/s600/IMG_20110425_102052.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6623915410691087472
 blogger_orig_url: http://www.sunpech.com/2011/04/apn-info-for-singtel-3g-in-singapore.html
 redirect_from: /2011/04/apn-info-for-singtel-3g-in-singapore.html

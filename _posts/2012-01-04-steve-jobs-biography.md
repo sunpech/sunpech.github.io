@@ -8,7 +8,7 @@ tags:
 - Review
 - Books
 modified_time: '2014-08-08T16:50:54.433-05:00'
-thumbnail: http://3.bp.blogspot.com/-7MB6rrGMwsI/TwI19FKW7gI/AAAAAAAA2E8/ZFF4p7AnwoQ/s72-c/IMG_0088.JPG
+thumbnail: http://3.bp.blogspot.com/-7MB6rrGMwsI/TwI19FKW7gI/AAAAAAAA2E8/ZFF4p7AnwoQ/s600/IMG_0088.JPG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4848298429337855045
 blogger_orig_url: http://www.sunpech.com/2012/01/steve-jobs-biography.html
 redirect_from: /2012/01/steve-jobs-biography.html

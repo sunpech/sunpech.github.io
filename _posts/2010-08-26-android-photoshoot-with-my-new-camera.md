@@ -8,7 +8,7 @@ tags:
 - Photography
 - Android
 modified_time: '2014-08-07T19:36:22.317-05:00'
-thumbnail: http://2.bp.blogspot.com/-il8rnMQNWH0/THW4cqvg3KI/AAAAAAAAV_Y/J5s28A1dNks/s72-c/daylight-2141.jpg
+thumbnail: http://2.bp.blogspot.com/-il8rnMQNWH0/THW4cqvg3KI/AAAAAAAAV_Y/J5s28A1dNks/s600/daylight-2141.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8328768637418640277
 blogger_orig_url: http://www.sunpech.com/2010/08/android-photoshoot-with-my-new-camera.html
 redirect_from: /2010/08/android-photoshoot-with-my-new-camera.html

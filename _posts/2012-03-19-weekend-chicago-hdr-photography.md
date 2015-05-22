@@ -7,7 +7,7 @@ tags:
 - Chicago
 - Photography
 modified_time: '2014-08-07T16:21:33.223-05:00'
-thumbnail: http://4.bp.blogspot.com/-1mbREOOesug/T2eR0ZoprQI/AAAAAAAA81s/F6ZNs0DCUXw/s72-c/2012-03-18+at+03-48-06.jpg
+thumbnail: http://4.bp.blogspot.com/-1mbREOOesug/T2eR0ZoprQI/AAAAAAAA81s/F6ZNs0DCUXw/s600/2012-03-18+at+03-48-06.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2250433814193860096
 blogger_orig_url: http://www.sunpech.com/2012/03/weekend-chicago-hdr-photography.html
 redirect_from: /2012/03/weekend-chicago-hdr-photography.html

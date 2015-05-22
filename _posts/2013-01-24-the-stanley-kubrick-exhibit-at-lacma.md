@@ -7,7 +7,7 @@ tags:
 - Los Angeles
 - Events
 modified_time: '2014-08-07T16:21:11.871-05:00'
-thumbnail: http://2.bp.blogspot.com/-9E3ZzvtHbTk/UQHd5KVuODI/AAAAAAABYZU/oAVNDhWpGGI/s72-c/IMG_20130124_163545.jpg
+thumbnail: http://2.bp.blogspot.com/-9E3ZzvtHbTk/UQHd5KVuODI/AAAAAAABYZU/oAVNDhWpGGI/s600/IMG_20130124_163545.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7136513350174465116
 blogger_orig_url: http://www.sunpech.com/2013/01/the-stanley-kubrick-exhibit-at-lacma.html
 redirect_from: /2013/01/the-stanley-kubrick-exhibit-at-lacma.html

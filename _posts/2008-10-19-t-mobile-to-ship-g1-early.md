@@ -7,7 +7,7 @@ tags:
 - Technology
 - Android
 modified_time: '2014-08-07T19:36:22.293-05:00'
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SPvKJ1MI4gI/AAAAAAAAIJE/LamGf5KMYTs/s72-c/tmobile_g1_arrive_early.jpg
+thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SPvKJ1MI4gI/AAAAAAAAIJE/LamGf5KMYTs/s600/tmobile_g1_arrive_early.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3940009128169467042
 blogger_orig_url: http://www.sunpech.com/2008/10/t-mobile-to-ship-g1-early.html
 redirect_from: /2008/10/t-mobile-to-ship-g1-early.html

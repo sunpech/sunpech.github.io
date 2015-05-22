@@ -8,7 +8,7 @@ tags:
 - Events
 - Code Camp
 modified_time: '2014-08-07T16:21:11.827-05:00'
-thumbnail: http://3.bp.blogspot.com/-c0HUzw7CqWw/UIIIhnLmWBI/AAAAAAABVOc/J2Fu10yEWNc/s72-c/2012-10-14+at+09-35-38.jpg
+thumbnail: http://3.bp.blogspot.com/-c0HUzw7CqWw/UIIIhnLmWBI/AAAAAAABVOc/J2Fu10yEWNc/s600/2012-10-14+at+09-35-38.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4089127591301387426
 blogger_orig_url: http://www.sunpech.com/2012/10/socal-code-camp-at-usc.html
 redirect_from: /2012/10/socal-code-camp-at-usc.html

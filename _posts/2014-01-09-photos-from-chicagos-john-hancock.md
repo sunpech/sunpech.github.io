@@ -7,7 +7,7 @@ tags:
 - Chicago
 - Photography
 modified_time: '2014-11-09T14:48:02.012-06:00'
-thumbnail: http://4.bp.blogspot.com/-2EVzL7RoP7o/Us8C1EVO0WI/AAAAAAABly4/xWQXxmc-EHQ/s72-c/2014-01-08+at+21-37-31.jpg
+thumbnail: http://4.bp.blogspot.com/-2EVzL7RoP7o/Us8C1EVO0WI/AAAAAAABly4/xWQXxmc-EHQ/s600/2014-01-08+at+21-37-31.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2219549512899701117
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-john-hancock.html
 redirect_from: /2014/01/photos-from-chicagos-john-hancock.html

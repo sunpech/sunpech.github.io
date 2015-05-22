@@ -7,7 +7,7 @@ tags:
 - Chicago
 - Software Development
 modified_time: '2014-08-07T16:23:46.108-05:00'
-thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/TEUN8thQXxI/AAAAAAAASVM/sM6lMLptc74/s72-c/2010-07-06+18.11.49.jpg
+thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/TEUN8thQXxI/AAAAAAAASVM/sM6lMLptc74/s600/2010-07-06+18.11.49.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6792538864737527702
 blogger_orig_url: http://www.sunpech.com/2010/07/pictures-from-july-2010-tech-events-in.html
 redirect_from: /2010/07/pictures-from-july-2010-tech-events-in.html

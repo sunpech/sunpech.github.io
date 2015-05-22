@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Technology
 modified_time: '2012-01-11T03:41:02.415-06:00'
-thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/R6E-JOQ-KLI/AAAAAAAAAcA/_w8mLZ-fudk/s72-c/bluray.jpg
+thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/R6E-JOQ-KLI/AAAAAAAAAcA/_w8mLZ-fudk/s600/bluray.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4299348676015921697
 blogger_orig_url: http://www.sunpech.com/2008/01/ps3-and-bluray-is-way-to-go-for-now.html
 redirect_from: /2008/01/ps3-and-bluray-is-way-to-go-for-now.html

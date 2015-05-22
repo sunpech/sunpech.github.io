@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Technology
 modified_time: '2012-01-11T03:41:02.434-06:00'
-thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/R69A6AhSFhI/AAAAAAAAAds/Jl8Jn6m7-Xg/s72-c/belkin-pre-n-250x250.JPG
+thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/R69A6AhSFhI/AAAAAAAAAds/Jl8Jn6m7-Xg/s600/belkin-pre-n-250x250.JPG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5090524995992239173
 blogger_orig_url: http://www.sunpech.com/2008/02/belkins-pre-n-router-laggy-on-ps3.html
 redirect_from: /2008/02/belkins-pre-n-router-laggy-on-ps3.html

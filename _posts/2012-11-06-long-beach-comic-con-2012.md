@@ -8,7 +8,7 @@ tags:
 - Cosplay
 - Comic Con
 modified_time: '2014-09-29T17:25:24.456-05:00'
-thumbnail: http://3.bp.blogspot.com/-3ArVU-G9lYU/UJjpm9yQ5fI/AAAAAAABVmM/axhhXKnhwYM/s72-c/2012-11-04+at+11-22-19.jpg
+thumbnail: http://3.bp.blogspot.com/-3ArVU-G9lYU/UJjpm9yQ5fI/AAAAAAABVmM/axhhXKnhwYM/s600/2012-11-04+at+11-22-19.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6008116428342228532
 blogger_orig_url: http://www.sunpech.com/2012/11/long-beach-comic-con-2012.html
 redirect_from: /2012/11/long-beach-comic-con-2012.html

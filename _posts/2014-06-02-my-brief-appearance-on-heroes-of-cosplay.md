@@ -10,7 +10,7 @@ tags:
 - Cosplay
 - Comic Con
 modified_time: '2015-01-19T16:09:40.498-06:00'
-thumbnail: http://1.bp.blogspot.com/--DhAbdzwuqA/U4ovzD7Dx_I/AAAAAAABsIA/rk_aFy9AB9M/s72-c/Heroes_of_Cosplay-Steven_01.jpg
+thumbnail: http://1.bp.blogspot.com/--DhAbdzwuqA/U4ovzD7Dx_I/AAAAAAABsIA/rk_aFy9AB9M/s600/Heroes_of_Cosplay-Steven_01.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7797759634072294797
 blogger_orig_url: http://www.sunpech.com/2014/06/my-brief-appearance-on-heroes-of-cosplay.html
 redirect_from: /2014/06/my-brief-appearance-on-heroes-of-cosplay.html

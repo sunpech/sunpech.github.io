@@ -8,7 +8,7 @@ tags:
 - Books
 - Design
 modified_time: '2014-08-09T19:55:02.260-05:00'
-thumbnail: http://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s72-c/2012-02-29+at+12-22-53.jpg
+thumbnail: http://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s600/2012-02-29+at+12-22-53.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6373629466885906791
 blogger_orig_url: http://www.sunpech.com/2012/02/design-of-everyday-things.html
 redirect_from: /2012/02/design-of-everyday-things.html

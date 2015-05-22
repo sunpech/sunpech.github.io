@@ -8,7 +8,7 @@ tags:
 - Software Development
 - Meetup
 modified_time: '2014-08-07T16:23:46.057-05:00'
-thumbnail: http://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF0oVw/s72-c/IMG_2267.jpg
+thumbnail: http://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF0oVw/s600/IMG_2267.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3580206941784703410
 blogger_orig_url: http://www.sunpech.com/2010/10/pictures-from-september-tech-events-in.html
 redirect_from: /2010/10/pictures-from-september-tech-events-in.html

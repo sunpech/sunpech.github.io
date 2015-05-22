@@ -7,7 +7,7 @@ tags:
 - Photography
 - Los Angeles
 modified_time: '2014-11-09T14:44:06.586-06:00'
-thumbnail: http://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s72-c/2014-02-15+at+19-45-14.jpg
+thumbnail: http://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2960241080145268119
 blogger_orig_url: http://www.sunpech.com/2014/02/photos-from-6th-st-bridge.html
 redirect_from: /2014/02/photos-from-6th-st-bridge.html

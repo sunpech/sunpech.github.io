@@ -7,7 +7,7 @@ tags:
 - Technology
 - Social Media
 modified_time: '2014-08-09T20:02:59.428-05:00'
-thumbnail: http://3.bp.blogspot.com/-7HCppjKGTCY/TiE5fFqGMqI/AAAAAAAAsj4/Aa2FsIbulr4/s72-c/asian_avenue.png
+thumbnail: http://3.bp.blogspot.com/-7HCppjKGTCY/TiE5fFqGMqI/AAAAAAAAsj4/Aa2FsIbulr4/s600/asian_avenue.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7628044174949162487
 blogger_orig_url: http://www.sunpech.com/2011/07/history-of-social-networks-part-1.html
 redirect_from: /2011/07/history-of-social-networks-part-1.html

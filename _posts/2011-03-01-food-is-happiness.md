@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Personal
 modified_time: '2011-03-01T00:33:26.710-06:00'
-thumbnail: https://lh3.googleusercontent.com/-0hSDcQ2NkWc/TWySjHAavKI/AAAAAAAAhBg/s-7Ytz4ee5g/s72-c/steven_icon.jpg
+thumbnail: https://lh3.googleusercontent.com/-0hSDcQ2NkWc/TWySjHAavKI/AAAAAAAAhBg/s-7Ytz4ee5g/s600/steven_icon.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3891639060264515416
 blogger_orig_url: http://www.sunpech.com/2011/03/food-is-happiness.html
 redirect_from: /2011/03/food-is-happiness.html

@@ -12,7 +12,7 @@ tags:
 - Code Camp
 - San Diego
 modified_time: '2012-07-09T22:45:06.922-05:00'
-thumbnail: http://2.bp.blogspot.com/-3ixYxkBE-y4/T4zIO8wS0QI/AAAAAAABEik/P5hTKN4pEao/s72-c/GooglePlus_Conference.jpg
+thumbnail: http://2.bp.blogspot.com/-3ixYxkBE-y4/T4zIO8wS0QI/AAAAAAABEik/P5hTKN4pEao/s600/GooglePlus_Conference.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1548202190422393924
 blogger_orig_url: http://www.sunpech.com/2012/04/upcoming-summer-conventions.html
 redirect_from: /2012/04/upcoming-summer-conventions.html

@@ -7,7 +7,8 @@ tags:
 - Technology
 - Guide
 modified_time: '2015-04-09T10:00:00.953-05:00'
-thumbnail: http://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s72-c/IMG_20150408_153732.jpg
+thumbnail: http://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s600/IMG_20150408_153732.jpg
+image: http://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s600/IMG_20150408_153732.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6474388924633229595
 blogger_orig_url: http://www.sunpech.com/2015/04/map-your-mouses-back-and-forward.html
 redirect_from: /2015/04/map-your-mouses-back-and-forward.html

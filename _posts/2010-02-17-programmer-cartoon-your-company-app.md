@@ -7,7 +7,7 @@ tags:
 - Software Development
 - Funny
 modified_time: '2014-08-18T09:07:47.251-05:00'
-thumbnail: http://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s72-c/intapplications.jpg
+thumbnail: http://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-9098924218094536148
 blogger_orig_url: http://www.sunpech.com/2010/02/programmer-cartoon-your-company-app.html
 redirect_from: /2010/02/programmer-cartoon-your-company-app.html

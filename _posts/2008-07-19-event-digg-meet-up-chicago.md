@@ -7,7 +7,7 @@ tags:
 - Chicago
 - Meetup
 modified_time: '2012-01-01T20:54:15.895-06:00'
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s72-c/digg_chicago.jpg
+thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s600/digg_chicago.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2590090663219965451
 blogger_orig_url: http://www.sunpech.com/2008/07/event-digg-meet-up-chicago.html
 redirect_from: /2008/07/event-digg-meet-up-chicago.html

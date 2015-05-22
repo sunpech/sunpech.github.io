@@ -8,7 +8,7 @@ tags:
 - Personal
 - Funny
 modified_time: '2014-08-08T17:00:46.863-05:00'
-thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s72-c/vending_machine.jpg
+thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s600/vending_machine.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7725967953957464778
 blogger_orig_url: http://www.sunpech.com/2009/02/vending-machine-at-work.html
 redirect_from: /2009/02/vending-machine-at-work.html

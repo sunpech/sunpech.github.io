@@ -7,7 +7,7 @@ tags:
 - Technology
 - Guide
 modified_time: '2014-08-08T16:45:30.420-05:00'
-thumbnail: http://4.bp.blogspot.com/-l3pToD2O5l0/UJhCTG6KgvI/AAAAAAABVlQ/jYSsgAd8pow/s72-c/IMG_20121105_144324.jpeg
+thumbnail: http://4.bp.blogspot.com/-l3pToD2O5l0/UJhCTG6KgvI/AAAAAAABVlQ/jYSsgAd8pow/s600/IMG_20121105_144324.jpeg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4473399837525284424
 blogger_orig_url: http://www.sunpech.com/2012/11/installing-windows-8-pro-on-parallels-8.html
 redirect_from: /2012/11/installing-windows-8-pro-on-parallels-8.html

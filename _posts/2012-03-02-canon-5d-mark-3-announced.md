@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Photography
 modified_time: '2012-03-04T05:04:00.254-06:00'
-thumbnail: http://1.bp.blogspot.com/-WjZ3XJWGLf4/T1FvjdqGx4I/AAAAAAAA7QQ/mj03W3OqIKc/s72-c/canon_5d_mark3.png
+thumbnail: http://1.bp.blogspot.com/-WjZ3XJWGLf4/T1FvjdqGx4I/AAAAAAAA7QQ/mj03W3OqIKc/s600/canon_5d_mark3.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8259180177650790418
 blogger_orig_url: http://www.sunpech.com/2012/03/canon-5d-mark-3-announced.html
 redirect_from: /2012/03/canon-5d-mark-3-announced.html

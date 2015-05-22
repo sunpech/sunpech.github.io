@@ -7,7 +7,7 @@ tags:
 - Los Angeles
 - Meetup
 modified_time: '2014-08-07T16:21:33.280-05:00'
-thumbnail: http://3.bp.blogspot.com/-wAM9-h8i18I/T3qFDq9-UzI/AAAAAAABAFk/3XDwXNNf1WU/s72-c/2012-04-02+at+17-52-57.jpg
+thumbnail: http://3.bp.blogspot.com/-wAM9-h8i18I/T3qFDq9-UzI/AAAAAAABAFk/3XDwXNNf1WU/s600/2012-04-02+at+17-52-57.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4288063580417625648
 blogger_orig_url: http://www.sunpech.com/2012/04/ladotnet-april-meetup.html
 redirect_from: /2012/04/ladotnet-april-meetup.html

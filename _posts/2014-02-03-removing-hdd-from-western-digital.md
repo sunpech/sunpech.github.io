@@ -7,7 +7,7 @@ tags:
 - Technology
 - Guide
 modified_time: '2014-08-07T15:55:46.614-05:00'
-thumbnail: http://4.bp.blogspot.com/-naqk30TbIqI/Uu9flsWw4bI/AAAAAAABmLk/4yDNxg8VWTI/s72-c/2014-02-03+at+01-13-03.jpg
+thumbnail: http://4.bp.blogspot.com/-naqk30TbIqI/Uu9flsWw4bI/AAAAAAABmLk/4yDNxg8VWTI/s600/2014-02-03+at+01-13-03.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-411709171229829793
 blogger_orig_url: http://www.sunpech.com/2014/02/removing-hdd-from-western-digital.html
 redirect_from: /2014/02/removing-hdd-from-western-digital.html

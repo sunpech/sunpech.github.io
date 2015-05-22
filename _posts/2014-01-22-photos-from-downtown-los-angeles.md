@@ -7,7 +7,7 @@ tags:
 - Photography
 - Los Angeles
 modified_time: '2014-11-09T14:45:20.280-06:00'
-thumbnail: http://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG8z8E/s72-c/2014-01-18+at+17-58-51.jpg
+thumbnail: http://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG8z8E/s600/2014-01-18+at+17-58-51.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2154108763861035678
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-downtown-los-angeles.html
 redirect_from: /2014/01/photos-from-downtown-los-angeles.html

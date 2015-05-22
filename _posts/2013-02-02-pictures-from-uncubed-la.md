@@ -7,7 +7,7 @@ tags:
 - Los Angeles
 - Events
 modified_time: '2014-08-07T16:21:11.863-05:00'
-thumbnail: http://1.bp.blogspot.com/--h90gI86ngk/UQujbs79HbI/AAAAAAABYjk/uTbcvf8c3X8/s72-c/2013-01-31+at+13-07-49.jpg
+thumbnail: http://1.bp.blogspot.com/--h90gI86ngk/UQujbs79HbI/AAAAAAABYjk/uTbcvf8c3X8/s600/2013-01-31+at+13-07-49.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6373609989912297370
 blogger_orig_url: http://www.sunpech.com/2013/02/pictures-from-uncubed-la.html
 redirect_from: /2013/02/pictures-from-uncubed-la.html

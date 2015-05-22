@@ -7,7 +7,7 @@ tags:
 - Chicago
 - Personal
 modified_time: '2012-01-11T03:41:02.371-06:00'
-thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s72-c/1225833347830.jpg
+thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vvHvJ0/s600/1225833347830.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1098775083325003979
 blogger_orig_url: http://www.sunpech.com/2008/11/went-to-obama-rally-in-grant-park.html
 redirect_from: /2008/11/went-to-obama-rally-in-grant-park.html

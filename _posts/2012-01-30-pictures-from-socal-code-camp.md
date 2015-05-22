@@ -8,7 +8,7 @@ tags:
 - Los Angeles
 - Code Camp
 modified_time: '2014-08-07T16:21:33.259-05:00'
-thumbnail: http://3.bp.blogspot.com/-Hu-zgSKY4QE/TyZ2Zd4z_MI/AAAAAAAA3OM/ZtxUI_ruawc/s72-c/2012-01-28+at+08-41-11.jpg
+thumbnail: http://3.bp.blogspot.com/-Hu-zgSKY4QE/TyZ2Zd4z_MI/AAAAAAAA3OM/ZtxUI_ruawc/s600/2012-01-28+at+08-41-11.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3642208207534834119
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-socal-code-camp.html
 redirect_from: /2012/01/pictures-from-socal-code-camp.html

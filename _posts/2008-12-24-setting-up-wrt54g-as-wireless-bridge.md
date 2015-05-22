@@ -7,7 +7,7 @@ tags:
 - Technology
 - Guide
 modified_time: '2014-08-08T17:01:27.441-05:00'
-thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SVMeq-RLbEI/AAAAAAAAIZk/b33sMkW_w9o/s72-c/linksys_wrt54g.jpg
+thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SVMeq-RLbEI/AAAAAAAAIZk/b33sMkW_w9o/s600/linksys_wrt54g.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7628154985244238079
 blogger_orig_url: http://www.sunpech.com/2008/12/setting-up-wrt54g-as-wireless-bridge.html
 redirect_from: /2008/12/setting-up-wrt54g-as-wireless-bridge.html

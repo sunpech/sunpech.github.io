@@ -8,7 +8,7 @@ tags:
 - Software Development
 - Code Camp
 modified_time: '2014-08-18T09:11:55.771-05:00'
-thumbnail: http://4.bp.blogspot.com/-rmrocbUzGGI/Tc9CXwGtkvI/AAAAAAAAnxQ/FCmoXpNe_bM/s72-c/2011-05-14+at+08-29-25.jpg
+thumbnail: http://4.bp.blogspot.com/-rmrocbUzGGI/Tc9CXwGtkvI/AAAAAAAAnxQ/FCmoXpNe_bM/s600/2011-05-14+at+08-29-25.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6638138167294273546
 blogger_orig_url: http://www.sunpech.com/2011/05/pictures-from-chicago-code-camp-2011.html
 redirect_from: /2011/05/pictures-from-chicago-code-camp-2011.html

@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Technology
 modified_time: '2012-01-03T03:43:02.341-06:00'
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s72-c/ydl_logo.jpg
+thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s600/ydl_logo.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7690951789641924578
 blogger_orig_url: http://www.sunpech.com/2008/02/yellow-dog-linux-on-my-ps3.html
 redirect_from: /2008/02/yellow-dog-linux-on-my-ps3.html

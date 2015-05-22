@@ -9,7 +9,7 @@ tags:
 - Personal
 - Meetup
 modified_time: '2014-08-08T17:02:47.589-05:00'
-thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s72-c/112682035.jpg
+thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s600/112682035.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1201083312763754792
 blogger_orig_url: http://www.sunpech.com/2008/10/tech-cocktail-chicago-9.html
 redirect_from: /2008/10/tech-cocktail-chicago-9.html

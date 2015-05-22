@@ -8,7 +8,7 @@ tags:
 - Los Angeles
 - Meetup
 modified_time: '2014-08-07T16:21:33.272-05:00'
-thumbnail: http://1.bp.blogspot.com/-S8eTy0FsAwA/T1ns0pEdC8I/AAAAAAAA7qk/VlH4yBH4Fng/s72-c/2012-03-08+at+19-03-56.jpg
+thumbnail: http://1.bp.blogspot.com/-S8eTy0FsAwA/T1ns0pEdC8I/AAAAAAAA7qk/VlH4yBH4Fng/s600/2012-03-08+at+19-03-56.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4218937194033384844
 blogger_orig_url: http://www.sunpech.com/2012/03/light-chasers-artwalk-downtown.html
 redirect_from: /2012/03/light-chasers-artwalk-downtown.html

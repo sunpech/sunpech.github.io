@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Los Angeles
 modified_time: '2014-08-07T16:21:11.796-05:00'
-thumbnail: http://3.bp.blogspot.com/-6l8X5Wzm_Ho/UE7klloXqPI/AAAAAAABT6I/hnD7OFgRGkI/s72-c/2012-09-08-2.jpg
+thumbnail: http://3.bp.blogspot.com/-6l8X5Wzm_Ho/UE7klloXqPI/AAAAAAABT6I/hnD7OFgRGkI/s600/2012-09-08-2.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1300319648008138363
 blogger_orig_url: http://www.sunpech.com/2012/09/brazilian-day-in-la.html
 redirect_from: /2012/09/brazilian-day-in-la.html

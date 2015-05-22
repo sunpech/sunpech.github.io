@@ -8,7 +8,7 @@ tags:
 - Los Angeles
 - Events
 modified_time: '2014-08-08T16:47:48.347-05:00'
-thumbnail: http://3.bp.blogspot.com/-9Cn53uE3Nso/T3kAPSmkN5I/AAAAAAAA_a4/6-CgD9nFMfY/s72-c/2012-04-01+at+10-52-11.jpg
+thumbnail: http://3.bp.blogspot.com/-9Cn53uE3Nso/T3kAPSmkN5I/AAAAAAAA_a4/6-CgD9nFMfY/s600/2012-04-01+at+10-52-11.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5398941952039990553
 blogger_orig_url: http://www.sunpech.com/2012/04/songkran-festival-in-las-thaitown.html
 redirect_from: /2012/04/songkran-festival-in-las-thaitown.html

@@ -7,7 +7,7 @@ tags:
 - Los Angeles
 - Meetup
 modified_time: '2014-08-07T16:21:33.247-05:00'
-thumbnail: http://4.bp.blogspot.com/-340-cksRhXc/T0SDaqOVMwI/AAAAAAAA6ZM/9jPe-nmBbHk/s72-c/2012-02-21+at+19-12-50.jpg
+thumbnail: http://4.bp.blogspot.com/-340-cksRhXc/T0SDaqOVMwI/AAAAAAAA6ZM/9jPe-nmBbHk/s600/2012-02-21+at+19-12-50.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3031480624207382140
 blogger_orig_url: http://www.sunpech.com/2012/02/la-mongodb-february-meetup.html
 redirect_from: /2012/02/la-mongodb-february-meetup.html

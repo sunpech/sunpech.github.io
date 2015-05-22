@@ -8,7 +8,7 @@ tags:
 - Software Development
 - Meetup
 modified_time: '2014-08-07T16:23:36.281-05:00'
-thumbnail: http://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGndvo0/s72-c/2011-08-10+at+18-34-11.jpg
+thumbnail: http://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGndvo0/s600/2011-08-10+at+18-34-11.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3541971829617268380
 blogger_orig_url: http://www.sunpech.com/2011/08/pictures-from-chicago-altnet.html
 redirect_from: /2011/08/pictures-from-chicago-altnet.html

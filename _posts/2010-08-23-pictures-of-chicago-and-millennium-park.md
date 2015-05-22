@@ -7,7 +7,7 @@ tags:
 - Chicago
 - Photography
 modified_time: '2014-08-07T16:23:46.073-05:00'
-thumbnail: http://2.bp.blogspot.com/-UiNG3-k_BY0/TG4QoafrZsI/AAAAAAAAVJw/W3ld86ABlxs/s72-c/IMG_1883.jpg
+thumbnail: http://2.bp.blogspot.com/-UiNG3-k_BY0/TG4QoafrZsI/AAAAAAAAVJw/W3ld86ABlxs/s600/IMG_1883.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4515913570956106026
 blogger_orig_url: http://www.sunpech.com/2010/08/pictures-of-chicago-and-millennium-park.html
 redirect_from: /2010/08/pictures-of-chicago-and-millennium-park.html

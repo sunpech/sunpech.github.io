@@ -7,7 +7,7 @@ tags:
 - Personal
 - Travel
 modified_time: '2013-08-18T03:19:52.471-05:00'
-thumbnail: http://4.bp.blogspot.com/-WF8jU2_jjQg/TxVmCDQyByI/AAAAAAAA2oc/8Y87Up7S0fg/s72-c/IMG_4121.jpeg
+thumbnail: http://4.bp.blogspot.com/-WF8jU2_jjQg/TxVmCDQyByI/AAAAAAAA2oc/8Y87Up7S0fg/s600/IMG_4121.jpeg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6588025767771779402
 blogger_orig_url: http://www.sunpech.com/2011/08/some-thoughts-on-traveling.html
 redirect_from: /2011/08/some-thoughts-on-traveling.html

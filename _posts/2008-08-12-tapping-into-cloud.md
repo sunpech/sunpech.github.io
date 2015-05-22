@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Technology
 modified_time: '2012-01-03T03:43:02.260-06:00'
-thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/SKJv-gJLYkI/AAAAAAAAAlQ/VNgf9rCJw1I/s72-c/datacenter.gif
+thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/SKJv-gJLYkI/AAAAAAAAAlQ/VNgf9rCJw1I/s600/datacenter.gif
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1341003321150735126
 blogger_orig_url: http://www.sunpech.com/2008/08/tapping-into-cloud.html
 redirect_from: /2008/08/tapping-into-cloud.html

@@ -8,7 +8,7 @@ tags:
 - Events
 - Code Camp
 modified_time: '2014-08-19T02:32:23.128-05:00'
-thumbnail: http://2.bp.blogspot.com/-NipS80fmeFk/UIIM1UjScTI/AAAAAAABVRs/O-DGSIDMLjM/s72-c/2012-10-18+at+11-24-25.jpg
+thumbnail: http://2.bp.blogspot.com/-NipS80fmeFk/UIIM1UjScTI/AAAAAAABVRs/O-DGSIDMLjM/s600/2012-10-18+at+11-24-25.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4147924816490106107
 blogger_orig_url: http://www.sunpech.com/2012/10/mobile-camp-la.html
 redirect_from: /2012/10/mobile-camp-la.html

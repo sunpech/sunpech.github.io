@@ -8,7 +8,7 @@ tags:
 - Review
 - Personal
 modified_time: '2014-08-09T20:01:11.513-05:00'
-thumbnail: http://2.bp.blogspot.com/-6D5Og5RH0Ig/TxVmC40SSpI/AAAAAAAA2os/kWZWK6GL8y4/s72-c/JfGCq.jpeg
+thumbnail: http://2.bp.blogspot.com/-6D5Og5RH0Ig/TxVmC40SSpI/AAAAAAAA2os/kWZWK6GL8y4/s600/JfGCq.jpeg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7699881149625372247
 blogger_orig_url: http://www.sunpech.com/2011/08/purchased-herman-miller-aeron-chair.html
 redirect_from: /2011/08/purchased-herman-miller-aeron-chair.html

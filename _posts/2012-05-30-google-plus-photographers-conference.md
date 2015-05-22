@@ -9,7 +9,7 @@ tags:
 - Events
 - Google
 modified_time: '2014-08-08T16:46:58.306-05:00'
-thumbnail: http://4.bp.blogspot.com/-rCRq_EeCNVU/T77SZMTcUcI/AAAAAAABL8c/U-Fd4sTGRe8/s72-c/2012-05-22+at+05-16-11.jpg
+thumbnail: http://4.bp.blogspot.com/-rCRq_EeCNVU/T77SZMTcUcI/AAAAAAABL8c/U-Fd4sTGRe8/s600/2012-05-22+at+05-16-11.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7904137589312131309
 blogger_orig_url: http://www.sunpech.com/2012/05/google-plus-photographers-conference.html
 redirect_from: /2012/05/google-plus-photographers-conference.html

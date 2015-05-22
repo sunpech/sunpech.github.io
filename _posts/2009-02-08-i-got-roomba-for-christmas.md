@@ -7,7 +7,7 @@ tags:
 - Technology
 - Personal
 modified_time: '2014-08-08T17:00:33.265-05:00'
-thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SY-8UnHUnsI/AAAAAAAAIhs/iXyFIUA2EJ0/s72-c/nintendo_power_set.png
+thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SY-8UnHUnsI/AAAAAAAAIhs/iXyFIUA2EJ0/s600/nintendo_power_set.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4204154948874747235
 blogger_orig_url: http://www.sunpech.com/2009/02/i-got-roomba-for-christmas.html
 redirect_from: /2009/02/i-got-roomba-for-christmas.html

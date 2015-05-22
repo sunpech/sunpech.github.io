@@ -9,7 +9,7 @@ tags:
 - Meetup
 - Bangkok
 modified_time: '2014-08-09T20:24:25.121-05:00'
-thumbnail: https://lh3.googleusercontent.com/-VjBD7Li-SdM/TX2vnTjIE6I/AAAAAAAAhxo/QvaAmkTLvpM/s72-c/IMG_20110303_134105.jpg
+thumbnail: https://lh3.googleusercontent.com/-VjBD7Li-SdM/TX2vnTjIE6I/AAAAAAAAhxo/QvaAmkTLvpM/s600/IMG_20110303_134105.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8747427407656011722
 blogger_orig_url: http://www.sunpech.com/2011/03/tedxbkk-pictures.html
 redirect_from: /2011/03/tedxbkk-pictures.html

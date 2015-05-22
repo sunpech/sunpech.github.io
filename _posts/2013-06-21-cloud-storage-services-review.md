@@ -7,7 +7,7 @@ tags:
 - Technology
 - Review
 modified_time: '2014-08-07T20:12:47.462-05:00'
-thumbnail: http://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s72-c/Cloud_Storage_Apps.jpg
+thumbnail: http://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s600/Cloud_Storage_Apps.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2824231464794545018
 blogger_orig_url: http://www.sunpech.com/2013/06/cloud-storage-services-review.html
 redirect_from: /2013/06/cloud-storage-services-review.html

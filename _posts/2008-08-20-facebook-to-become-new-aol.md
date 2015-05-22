@@ -7,7 +7,7 @@ tags:
 - Technology
 - Social Media
 modified_time: '2014-08-07T20:05:12.694-05:00'
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SKuMp6JQvsI/AAAAAAAAAmQ/4waYOTE3SV8/s72-c/prodigy.png
+thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SKuMp6JQvsI/AAAAAAAAAmQ/4waYOTE3SV8/s600/prodigy.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7257599362438747856
 blogger_orig_url: http://www.sunpech.com/2008/08/facebook-to-become-new-aol.html
 redirect_from: /2008/08/facebook-to-become-new-aol.html

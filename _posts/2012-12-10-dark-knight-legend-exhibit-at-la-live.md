@@ -7,7 +7,7 @@ tags:
 - Los Angeles
 - Events
 modified_time: '2014-08-07T16:21:11.835-05:00'
-thumbnail: http://4.bp.blogspot.com/-BtnMgir62Xg/UMWpmjz_dQI/AAAAAAABWcg/DzdG4Z-RWI0/s72-c/2012-12-09+at+16-09-04.jpg
+thumbnail: http://4.bp.blogspot.com/-BtnMgir62Xg/UMWpmjz_dQI/AAAAAAABWcg/DzdG4Z-RWI0/s600/2012-12-09+at+16-09-04.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4540726878038656700
 blogger_orig_url: http://www.sunpech.com/2012/12/dark-knight-legend-exhibit-at-la-live.html
 redirect_from: /2012/12/dark-knight-legend-exhibit-at-la-live.html

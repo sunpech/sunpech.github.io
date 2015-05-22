@@ -7,7 +7,7 @@ tags:
 - Technology
 - Guide
 modified_time: '2014-08-08T16:45:23.364-05:00'
-thumbnail: http://4.bp.blogspot.com/-FBVfhSHJKIM/UI4eGVAOCtI/AAAAAAABVfU/ZWbZfflKTAQ/s72-c/2012-10-23+at+15-35-39.jpg
+thumbnail: http://4.bp.blogspot.com/-FBVfhSHJKIM/UI4eGVAOCtI/AAAAAAABVfU/ZWbZfflKTAQ/s600/2012-10-23+at+15-35-39.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7498147728384436121
 blogger_orig_url: http://www.sunpech.com/2012/10/upgrading-my-2010-macbook-pro-to-ssd.html
 redirect_from: /2012/10/upgrading-my-2010-macbook-pro-to-ssd.html

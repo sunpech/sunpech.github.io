@@ -9,7 +9,7 @@ tags:
 - Meetup
 - Bangkok
 modified_time: '2014-08-08T16:55:17.684-05:00'
-thumbnail: http://1.bp.blogspot.com/-rLGnZkN3LLU/TZyzokx6FbI/AAAAAAAAlKU/Jef39GJ7jWk/s72-c/IMG_5316.JPG
+thumbnail: http://1.bp.blogspot.com/-rLGnZkN3LLU/TZyzokx6FbI/AAAAAAAAlKU/Jef39GJ7jWk/s600/IMG_5316.JPG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1378732813473444949
 blogger_orig_url: http://www.sunpech.com/2011/04/stack-overflow-meetup-in-bangkok.html
 redirect_from: /2011/04/stack-overflow-meetup-in-bangkok.html

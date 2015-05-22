@@ -8,7 +8,7 @@ tags:
 - Review
 - Android
 modified_time: '2014-08-08T17:01:45.552-05:00'
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s72-c/g1officialnewnew.jpg
+thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s600/g1officialnewnew.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6274634595402651573
 blogger_orig_url: http://www.sunpech.com/2008/11/my-impressions-of-g1-running-android.html
 redirect_from: /2008/11/my-impressions-of-g1-running-android.html

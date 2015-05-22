@@ -7,7 +7,7 @@ tags:
 - Chicago
 - Meetup
 modified_time: '2014-08-21T02:04:33.752-05:00'
-thumbnail: http://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUFycQo/s72-c/2011-07-09+at+14-17-28.jpg
+thumbnail: http://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUFycQo/s600/2011-07-09+at+14-17-28.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4805360256206371602
 blogger_orig_url: http://www.sunpech.com/2011/07/barcamp-chicago-at-pumping-station-one.html
 redirect_from: /2011/07/barcamp-chicago-at-pumping-station-one.html

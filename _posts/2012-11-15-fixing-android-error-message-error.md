@@ -8,7 +8,7 @@ tags:
 - Android
 - Guide
 modified_time: '2014-08-09T19:52:59.212-05:00'
-thumbnail: http://4.bp.blogspot.com/-DbUPW35q1z8/UKQaM0IRF2I/AAAAAAABVvg/ZrAWFQtepXc/s72-c/A7j94bVCYAI6WZd.png-large.jpg
+thumbnail: http://4.bp.blogspot.com/-DbUPW35q1z8/UKQaM0IRF2I/AAAAAAABVvg/ZrAWFQtepXc/s600/A7j94bVCYAI6WZd.png-large.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1451340704159923701
 blogger_orig_url: http://www.sunpech.com/2012/11/fixing-android-error-message-error.html
 redirect_from: /2012/11/fixing-android-error-message-error.html

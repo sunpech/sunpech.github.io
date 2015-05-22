@@ -7,7 +7,7 @@ tags:
 - Boston
 - Funny
 modified_time: '2014-08-09T20:28:29.713-05:00'
-thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s72-c/nt_side.jpg
+thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s600/nt_side.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3737892954027799934
 blogger_orig_url: http://www.sunpech.com/2010/11/boston-universitys-cs-lab-in-2001-and.html
 redirect_from: /2010/11/boston-universitys-cs-lab-in-2001-and.html

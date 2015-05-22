@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Photography
 modified_time: '2014-11-09T14:47:25.940-06:00'
-thumbnail: http://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s72-c/2013-10-27+at+20-10-06.jpg
+thumbnail: http://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s600/2013-10-27+at+20-10-06.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2286525837830791660
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-toronto.html
 redirect_from: /2014/01/photos-from-toronto.html

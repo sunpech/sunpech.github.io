@@ -7,7 +7,7 @@ tags:
 - Review
 - Movies
 modified_time: '2014-08-07T20:09:44.912-05:00'
-thumbnail: http://2.bp.blogspot.com/-PraOGmGUarU/Tf99e3a7QWI/AAAAAAAApOU/dxpnXotOs6o/s72-c/Green+Lantern+Poster.jpeg
+thumbnail: http://2.bp.blogspot.com/-PraOGmGUarU/Tf99e3a7QWI/AAAAAAAApOU/dxpnXotOs6o/s600/Green+Lantern+Poster.jpeg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2543556610536716114
 blogger_orig_url: http://www.sunpech.com/2011/06/green-lantern-movie-review.html
 redirect_from: /2011/06/green-lantern-movie-review.html

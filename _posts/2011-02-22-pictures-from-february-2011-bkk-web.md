@@ -10,7 +10,7 @@ tags:
 - Meetup
 - Bangkok
 modified_time: '2014-08-07T16:23:36.299-05:00'
-thumbnail: http://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s72-c/IMG_4802.JPG
+thumbnail: http://1.bp.blogspot.com/-jGdPPO7NV44/TWQAiEiTn1I/AAAAAAAAg6A/rPImBNonVvQ/s600/IMG_4802.JPG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4137235649584689527
 blogger_orig_url: http://www.sunpech.com/2011/02/pictures-from-february-2011-bkk-web.html
 redirect_from: /2011/02/pictures-from-february-2011-bkk-web.html

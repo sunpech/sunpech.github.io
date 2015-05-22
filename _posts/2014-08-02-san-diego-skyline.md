@@ -7,7 +7,7 @@ tags:
 - Photography
 - San Diego
 modified_time: '2014-11-09T14:41:52.965-06:00'
-thumbnail: http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s72-c/2014-07-22+at+21-32-55.jpg
+thumbnail: http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4062393227721725225
 blogger_orig_url: http://www.sunpech.com/2014/08/san-diego-skyline.html
 redirect_from: /2014/08/san-diego-skyline.html

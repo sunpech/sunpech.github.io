@@ -7,7 +7,7 @@ tags:
 - Chicago
 - Photography
 modified_time: '2014-11-09T14:45:56.563-06:00'
-thumbnail: http://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h1A84/s72-c/2014-01-12+at+16-56-36.jpg
+thumbnail: http://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h1A84/s600/2014-01-12+at+16-56-36.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7715400429929590653
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-adler-planetarium.html
 redirect_from: /2014/01/photos-from-chicagos-adler-planetarium.html

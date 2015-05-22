@@ -8,7 +8,8 @@ tags:
 - Android
 - Google
 modified_time: '2014-08-15T08:03:49.472-05:00'
-thumbnail: http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s72-c/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg
+thumbnail: http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg
+image: http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5527383971101594263
 blogger_orig_url: http://www.sunpech.com/2014/08/oneplus-one-vs-nexus-5.html
 redirect_from: /2014/08/oneplus-one-vs-nexus-5.html

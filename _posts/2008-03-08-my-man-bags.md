@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Personal
 modified_time: '2012-01-03T03:33:36.704-06:00'
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/R9NZa__IjYI/AAAAAAAAAg8/CmnXYhGEx1E/s72-c/31LvL228ARL._AA280_.jpg
+thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/R9NZa__IjYI/AAAAAAAAAg8/CmnXYhGEx1E/s600/31LvL228ARL._AA280_.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6092485655267772036
 blogger_orig_url: http://www.sunpech.com/2008/03/my-man-bags.html
 redirect_from: /2008/03/my-man-bags.html

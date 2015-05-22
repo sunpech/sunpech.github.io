@@ -8,7 +8,7 @@ tags:
 - Review
 - Google
 modified_time: '2015-02-10T23:31:15.992-06:00'
-thumbnail: http://3.bp.blogspot.com/-m620JTXukHw/UUHa9S71IdI/AAAAAAABZdg/GRdIKXEEb6I/s72-c/GR_v_GPlus.jpg
+thumbnail: http://3.bp.blogspot.com/-m620JTXukHw/UUHa9S71IdI/AAAAAAABZdg/GRdIKXEEb6I/s600/GR_v_GPlus.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5477450420295405387
 blogger_orig_url: http://www.sunpech.com/2013/03/why-i-love-google-reader.html
 redirect_from: /2013/03/why-i-love-google-reader.html

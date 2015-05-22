@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Personal
 modified_time: '2012-01-03T03:33:36.687-06:00'
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s72-c/shopping_lines.jpg
+thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s600/shopping_lines.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2656121711518304156
 blogger_orig_url: http://www.sunpech.com/2008/11/black-friday-is-just-stupid.html
 redirect_from: /2008/11/black-friday-is-just-stupid.html

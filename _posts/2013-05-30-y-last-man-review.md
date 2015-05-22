@@ -7,7 +7,7 @@ tags:
 - Review
 - Books
 modified_time: '2014-08-09T19:51:50.157-05:00'
-thumbnail: http://2.bp.blogspot.com/-ovArPrDyoUQ/UafznelRNiI/AAAAAAABc3k/uLnxDACopuk/s72-c/IMG_20130530_174718.jpg
+thumbnail: http://2.bp.blogspot.com/-ovArPrDyoUQ/UafznelRNiI/AAAAAAABc3k/uLnxDACopuk/s600/IMG_20130530_174718.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7285875603607456810
 blogger_orig_url: http://www.sunpech.com/2013/05/y-last-man-review.html
 redirect_from: /2013/05/y-last-man-review.html

@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Technology
 modified_time: '2012-01-03T03:54:09.849-06:00'
-thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8Sdwg/s72-c/IMG_0076.JPG
+thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8Sdwg/s600/IMG_0076.JPG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1420566522271267597
 blogger_orig_url: http://www.sunpech.com/2008/10/installed-ubuntu-linux-onto-my-thinkpad.html
 redirect_from: /2008/10/installed-ubuntu-linux-onto-my-thinkpad.html

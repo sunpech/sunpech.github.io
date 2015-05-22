@@ -8,7 +8,7 @@ tags:
 - Design
 - Meetup
 modified_time: '2014-08-07T16:21:33.337-05:00'
-thumbnail: http://2.bp.blogspot.com/-IZagZyoKMww/TzzPjsaPG9I/AAAAAAAA6NU/SwIIgLGYlcc/s72-c/2012-02-15+at+19-18-12.jpg
+thumbnail: http://2.bp.blogspot.com/-IZagZyoKMww/TzzPjsaPG9I/AAAAAAAA6NU/SwIIgLGYlcc/s600/2012-02-15+at+19-18-12.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-655988805539086421
 blogger_orig_url: http://www.sunpech.com/2012/02/small-business-web-guide-meetup.html
 redirect_from: /2012/02/small-business-web-guide-meetup.html

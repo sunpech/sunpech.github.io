@@ -10,7 +10,7 @@ tags:
 - Meetup
 - Bangkok
 modified_time: '2014-08-07T16:23:36.318-05:00'
-thumbnail: http://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID1JPw/s72-c/IMG_5097.JPG
+thumbnail: http://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID1JPw/s600/IMG_5097.JPG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5408126596200107751
 blogger_orig_url: http://www.sunpech.com/2011/03/thoughts-from-march-bkk-web-meetup.html
 redirect_from: /2011/03/thoughts-from-march-bkk-web-meetup.html

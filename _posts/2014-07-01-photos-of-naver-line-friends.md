@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Photography
 modified_time: '2014-11-09T14:43:17.187-06:00'
-thumbnail: http://1.bp.blogspot.com/-wvPKw4iOnD0/U7JW1630loI/AAAAAAABs_M/JYHSWFn-sFQ/s72-c/01-Gimme-a-Call_600px.jpg
+thumbnail: http://1.bp.blogspot.com/-wvPKw4iOnD0/U7JW1630loI/AAAAAAABs_M/JYHSWFn-sFQ/s600/01-Gimme-a-Call_600px.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1509456618147452250
 blogger_orig_url: http://www.sunpech.com/2014/07/photos-of-naver-line-friends.html
 redirect_from: /2014/07/photos-of-naver-line-friends.html

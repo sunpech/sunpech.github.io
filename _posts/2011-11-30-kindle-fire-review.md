@@ -8,7 +8,7 @@ tags:
 - Review
 - Android
 modified_time: '2014-08-09T19:58:26.361-05:00'
-thumbnail: http://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s72-c/www-3.jpeg
+thumbnail: http://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s600/www-3.jpeg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2684204526212972889
 blogger_orig_url: http://www.sunpech.com/2011/11/kindle-fire-review.html
 redirect_from: /2011/11/kindle-fire-review.html

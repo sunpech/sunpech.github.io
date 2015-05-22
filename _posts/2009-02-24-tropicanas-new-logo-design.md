@@ -7,7 +7,7 @@ tags:
 - Technology
 - Design
 modified_time: '2014-08-08T16:59:54.574-05:00'
-thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s72-c/1235483922047.jpg
+thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s600/1235483922047.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6004280238372069101
 blogger_orig_url: http://www.sunpech.com/2009/02/tropicanas-new-logo-design.html
 redirect_from: /2009/02/tropicanas-new-logo-design.html

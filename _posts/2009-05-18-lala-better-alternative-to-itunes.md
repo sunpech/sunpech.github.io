@@ -8,7 +8,7 @@ tags:
 - Technology
 - Review
 modified_time: '2014-08-08T16:59:46.656-05:00'
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/ShGPRxWqbBI/AAAAAAAAIn4/QkHHq1JcEFo/s72-c/screenshot_LALA.png
+thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/ShGPRxWqbBI/AAAAAAAAIn4/QkHHq1JcEFo/s600/screenshot_LALA.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-498565704680728382
 blogger_orig_url: http://www.sunpech.com/2009/05/lala-better-alternative-to-itunes.html
 redirect_from: /2009/05/lala-better-alternative-to-itunes.html

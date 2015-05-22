@@ -7,7 +7,7 @@ tags:
 - Technology
 - Google
 modified_time: '2014-08-07T20:07:07.686-05:00'
-thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBcHWg0/s72-c/google_reader_screenshot.png
+thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBcHWg0/s600/google_reader_screenshot.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2783695198555469621
 blogger_orig_url: http://www.sunpech.com/2009/02/my-favorite-web-app-google-reader.html
 redirect_from: /2009/02/my-favorite-web-app-google-reader.html

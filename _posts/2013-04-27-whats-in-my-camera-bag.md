@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Photography
 modified_time: '2013-04-27T19:13:01.730-05:00'
-thumbnail: http://4.bp.blogspot.com/-itgDoYkpqyw/UXw5PYB4hxI/AAAAAAABbvo/f3YFiG4A5XA/s72-c/IMG_20130427_134020.jpg
+thumbnail: http://4.bp.blogspot.com/-itgDoYkpqyw/UXw5PYB4hxI/AAAAAAABbvo/f3YFiG4A5XA/s600/IMG_20130427_134020.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7004941695709937630
 blogger_orig_url: http://www.sunpech.com/2013/04/whats-in-my-camera-bag.html
 redirect_from: /2013/04/whats-in-my-camera-bag.html

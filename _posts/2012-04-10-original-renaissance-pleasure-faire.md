@@ -8,7 +8,7 @@ tags:
 - Los Angeles
 - Events
 modified_time: '2014-08-08T16:47:29.084-05:00'
-thumbnail: http://4.bp.blogspot.com/-1gQgmuWo4JM/T4LS5Hg1EYI/AAAAAAABCYY/mfy1mqqBGs0/s72-c/2012-04-08+at+11-52-05.jpg
+thumbnail: http://4.bp.blogspot.com/-1gQgmuWo4JM/T4LS5Hg1EYI/AAAAAAABCYY/mfy1mqqBGs0/s600/2012-04-08+at+11-52-05.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5183690229538167366
 blogger_orig_url: http://www.sunpech.com/2012/04/original-renaissance-pleasure-faire.html
 redirect_from: /2012/04/original-renaissance-pleasure-faire.html

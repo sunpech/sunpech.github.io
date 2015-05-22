@@ -8,7 +8,7 @@ tags:
 - Los Angeles
 - Meetup
 modified_time: '2014-08-09T19:55:57.864-05:00'
-thumbnail: http://2.bp.blogspot.com/-Ikb_KJoxdDc/T0tbxm5CYiI/AAAAAAAA6tQ/54DmXWcT1tE/s72-c/2012-02-26+at+16-18-14.jpg
+thumbnail: http://2.bp.blogspot.com/-Ikb_KJoxdDc/T0tbxm5CYiI/AAAAAAAA6tQ/54DmXWcT1tE/s600/2012-02-26+at+16-18-14.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-63636205120413934
 blogger_orig_url: http://www.sunpech.com/2012/02/la-photowalk-with-trey-ratcliff-and-tom.html
 redirect_from: /2012/02/la-photowalk-with-trey-ratcliff-and-tom.html

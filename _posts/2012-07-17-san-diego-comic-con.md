@@ -10,7 +10,7 @@ tags:
 - Comic Con
 - San Diego
 modified_time: '2015-01-19T16:09:40.457-06:00'
-thumbnail: http://4.bp.blogspot.com/-o3QWHkq9UKw/UATSbXIBiII/AAAAAAABQBo/FS8166mfs2g/s72-c/2012-07-13+at+17-49-31.jpg
+thumbnail: http://4.bp.blogspot.com/-o3QWHkq9UKw/UATSbXIBiII/AAAAAAABQBo/FS8166mfs2g/s600/2012-07-13+at+17-49-31.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3677375251137094691
 blogger_orig_url: http://www.sunpech.com/2012/07/san-diego-comic-con.html
 redirect_from: /2012/07/san-diego-comic-con.html

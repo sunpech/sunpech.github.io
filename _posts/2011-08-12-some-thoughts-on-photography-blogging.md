@@ -7,7 +7,7 @@ tags:
 - Photography
 - Software Development
 modified_time: '2012-01-17T06:18:25.600-06:00'
-thumbnail: http://1.bp.blogspot.com/-WuLnoARIQSA/TxVm8julanI/AAAAAAAA2qw/QJGYhDm_jo0/s72-c/IMG_1101.jpeg
+thumbnail: http://1.bp.blogspot.com/-WuLnoARIQSA/TxVm8julanI/AAAAAAAA2qw/QJGYhDm_jo0/s600/IMG_1101.jpeg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8512560648169804312
 blogger_orig_url: http://www.sunpech.com/2011/08/some-thoughts-on-photography-blogging.html
 redirect_from: /2011/08/some-thoughts-on-photography-blogging.html

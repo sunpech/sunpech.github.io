@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Technology
 modified_time: '2012-01-03T03:54:09.889-06:00'
-thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SORXyukPKJI/AAAAAAAAIHs/mn5kb3gxf64/s72-c/google_doc.jpg
+thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SORXyukPKJI/AAAAAAAAIHs/mn5kb3gxf64/s600/google_doc.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4392666686068284243
 blogger_orig_url: http://www.sunpech.com/2008/10/using-google-docs-as-collaboration-tool.html
 redirect_from: /2008/10/using-google-docs-as-collaboration-tool.html

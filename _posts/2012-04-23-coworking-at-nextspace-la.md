@@ -7,7 +7,7 @@ tags:
 - Los Angeles
 - Meetup
 modified_time: '2014-08-07T16:21:33.317-05:00'
-thumbnail: http://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s72-c/2012-04-20+at+10-17-56.jpg
+thumbnail: http://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnxA-uo/s600/2012-04-20+at+10-17-56.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5793771890500663374
 blogger_orig_url: http://www.sunpech.com/2012/04/coworking-at-nextspace-la.html
 redirect_from: /2012/04/coworking-at-nextspace-la.html

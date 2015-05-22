@@ -6,7 +6,8 @@ author: Steven Suwatanapongched
 tags:
 - Photography
 modified_time: '2015-01-19T15:39:39.427-06:00'
-thumbnail: http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s72-c/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png
+thumbnail: http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png
+image: http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1564464479286947721
 blogger_orig_url: http://www.sunpech.com/2015/01/why-i-recommend-adobe-photoshop.html
 redirect_from: /2015/01/why-i-recommend-adobe-photoshop.html

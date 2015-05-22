@@ -7,7 +7,7 @@ tags:
 - Photography
 - Los Angeles
 modified_time: '2013-05-31T20:16:04.500-05:00'
-thumbnail: http://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s72-c/2013-05-30+at+19-48-35.jpg
+thumbnail: http://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s600/2013-05-30+at+19-48-35.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4436052358523078717
 blogger_orig_url: http://www.sunpech.com/2013/05/my-first-drink-and-click-la-event.html
 redirect_from: /2013/05/my-first-drink-and-click-la-event.html

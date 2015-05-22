@@ -8,7 +8,7 @@ tags:
 - Los Angeles
 - Meetup
 modified_time: '2014-08-07T16:21:33.194-05:00'
-thumbnail: http://3.bp.blogspot.com/-jitl_GPSx3o/TzDqRVlAABI/AAAAAAAA5xM/HVj9IsMtvQE/s72-c/2012-02-06+at+18-29-34.jpg
+thumbnail: http://3.bp.blogspot.com/-jitl_GPSx3o/TzDqRVlAABI/AAAAAAAA5xM/HVj9IsMtvQE/s600/2012-02-06+at+18-29-34.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1085102922345459344
 blogger_orig_url: http://www.sunpech.com/2012/02/ladotnet-february-meetup.html
 redirect_from: /2012/02/ladotnet-february-meetup.html

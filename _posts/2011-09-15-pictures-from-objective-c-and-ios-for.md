@@ -8,7 +8,7 @@ tags:
 - Software Development
 - Meetup
 modified_time: '2014-08-07T16:23:36.292-05:00'
-thumbnail: http://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42YqLY/s72-c/2011-09-14+at+16-28-37.jpg
+thumbnail: http://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42YqLY/s600/2011-09-14+at+16-28-37.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3752641313520283111
 blogger_orig_url: http://www.sunpech.com/2011/09/pictures-from-objective-c-and-ios-for.html
 redirect_from: /2011/09/pictures-from-objective-c-and-ios-for.html

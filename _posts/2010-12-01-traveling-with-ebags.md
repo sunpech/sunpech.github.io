@@ -7,7 +7,7 @@ tags:
 - Personal
 - Travel
 modified_time: '2014-01-23T13:46:23.372-06:00'
-thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8H0Y0/s72-c/IMG_20101005_164504.jpg
+thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8H0Y0/s600/IMG_20101005_164504.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-988457410436302548
 blogger_orig_url: http://www.sunpech.com/2010/12/traveling-with-ebags.html
 redirect_from: /2010/12/traveling-with-ebags.html

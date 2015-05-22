@@ -8,7 +8,7 @@ tags:
 - Los Angeles
 - Meetup
 modified_time: '2014-08-07T16:23:36.273-05:00'
-thumbnail: http://1.bp.blogspot.com/-n_AlCTGRQ78/TmxS8JqYPvI/AAAAAAAAuV0/A1cQMkbqcx8/s72-c/2011-09-08+at+19-19-26.jpg
+thumbnail: http://1.bp.blogspot.com/-n_AlCTGRQ78/TmxS8JqYPvI/AAAAAAAAuV0/A1cQMkbqcx8/s600/2011-09-08+at+19-19-26.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2762427504609341889
 blogger_orig_url: http://www.sunpech.com/2011/09/pictures-from-los-angeles-rubyrails.html
 redirect_from: /2011/09/pictures-from-los-angeles-rubyrails.html

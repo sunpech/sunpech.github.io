@@ -7,7 +7,7 @@ tags:
 - Technology
 - Android
 modified_time: '2014-08-07T19:36:22.289-05:00'
-thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SPU7xQYooGI/AAAAAAAAIIg/wbhjqnijWfE/s72-c/g1.jpg
+thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SPU7xQYooGI/AAAAAAAAIIg/wbhjqnijWfE/s600/g1.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2197693627411045955
 blogger_orig_url: http://www.sunpech.com/2008/10/getting-g1-in-one-week.html
 redirect_from: /2008/10/getting-g1-in-one-week.html

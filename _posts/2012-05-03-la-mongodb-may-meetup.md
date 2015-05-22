@@ -7,7 +7,7 @@ tags:
 - Los Angeles
 - Meetup
 modified_time: '2014-08-07T16:21:33.313-05:00'
-thumbnail: http://1.bp.blogspot.com/-aCmnzVo3uiw/T6JzVtgHskI/AAAAAAABH7c/zsaOYWt3MG0/s72-c/2012-05-02+at+19-28-21.jpg
+thumbnail: http://1.bp.blogspot.com/-aCmnzVo3uiw/T6JzVtgHskI/AAAAAAABH7c/zsaOYWt3MG0/s600/2012-05-02+at+19-28-21.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5691057246844918189
 blogger_orig_url: http://www.sunpech.com/2012/05/la-mongodb-may-meetup.html
 redirect_from: /2012/05/la-mongodb-may-meetup.html

@@ -7,7 +7,7 @@ tags:
 - San Francisco
 - Photography
 modified_time: '2014-08-07T16:21:33.364-05:00'
-thumbnail: http://2.bp.blogspot.com/-sNtVFyyx-tw/T6J0lxH9-mI/AAAAAAABIBY/kgRy6Jq2zvs/s72-c/20120429-13-47-33.jpg
+thumbnail: http://2.bp.blogspot.com/-sNtVFyyx-tw/T6J0lxH9-mI/AAAAAAABIBY/kgRy6Jq2zvs/s600/20120429-13-47-33.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8063578736306189712
 blogger_orig_url: http://www.sunpech.com/2012/05/muir-woods-hike-photos.html
 redirect_from: /2012/05/muir-woods-hike-photos.html
