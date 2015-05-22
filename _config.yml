@@ -23,5 +23,6 @@ timezone: "America/Chicago"
 
 gems:
   - jekyll-redirect-from
-  
+  - jekyll-auto-image
+
 # Custom vars
