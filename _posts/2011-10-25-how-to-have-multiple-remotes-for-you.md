@@ -38,8 +38,8 @@ Here is an example <strong>.git/config</strong> setting, with the bolded text th
         remote = origin
         merge = refs/heads/master
 [remote "origin"]
-        url = git@github.com:sunpech/project_foo.git
-        url = git@bitbucket.org:sunpech/project_foo.git
+        <b>url = git@github.com:sunpech/project_foo.git
+        url = git@bitbucket.org:sunpech/project_foo.git</b>
         fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "heroku"]
         url = git@heroku.com:project_foo.git
