@@ -105,9 +105,15 @@ In short, buy if you <i>only</i> want to use Lightroom. Subscribe if you want to
 
 Hope this post was helpful. Here are some links for you.
 
-<span style="font-size: large;"><a href="http://www.amazon.com/gp/product/B00CY1OB5S/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00CY1OB5S&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=42RJZNV7AJ6RHXLW">Buy Adobe Photoshop Lightroom v5</a></span><br />Currently at $140-ish.<br />Or you can do a <a href="https://creative.adobe.com/products/download/lightroom">free trial</a>. I believe it's 30 days.
+##### <a href="http://www.amazon.com/gp/product/B00CY1OB5S/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00CY1OB5S&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=42RJZNV7AJ6RHXLW">Buy Adobe Photoshop Lightroom v5</a>
 
-<a href="http://www.amazon.com/gp/product/B00KNDCCE6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00KNDCCE6&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=4VHYRNIY2GKTFCIG"><span style="font-size: large;">Subscribe to Adobe Creative Cloud for Photographers</span></a><br />Currently at $9.99/month.
+Currently at $140-ish.<br />Or you can do a <a href="https://creative.adobe.com/products/download/lightroom">free trial</a>. I believe it's 30 days.
 
-<a href="http://www.slrlounge.com/store-product/lightroom-presets/"><span style="font-size: large;">SLR Lounge Presets v6</span></a><br />These are the presets I recommend and use. $149.
+##### <a href="http://www.amazon.com/gp/product/B00KNDCCE6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00KNDCCE6&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=4VHYRNIY2GKTFCIG">Subscribe to Adobe Creative Cloud for Photographers</a>
+
+Currently at $9.99/month.
+
+#### <a href="http://www.slrlounge.com/store-product/lightroom-presets/">SLR Lounge Presets v6</span></a>
+
+These are the presets I recommend and use. $149.
 
