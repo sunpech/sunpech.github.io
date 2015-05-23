@@ -31,13 +31,13 @@ The world is digital now and the future isn't in CDs, DVDs, or even Blu-ray disc
 </ul>
 
 Below we have both a VHS and Betamax players.
-<img border="0" src="http://3.bp.blogspot.com/-RtQGUkd8Rfg/U6XaaRYqaGI/AAAAAAABs5Q/mPNDpV1RyZI/s1600/2014-06-21+at+14-07-46.jpg" height="266" width="400" />
+<img border="0" src="http://3.bp.blogspot.com/-RtQGUkd8Rfg/U6XaaRYqaGI/AAAAAAABs5Q/mPNDpV1RyZI/s600/2014-06-21+at+14-07-46.jpg"   />
 
 Uses the standard RCA cables as input/output.
-<img border="0" src="http://4.bp.blogspot.com/-YLYksPG3fgo/U6XaZPxq2fI/AAAAAAABs5A/5hwTfyNSQew/s1600/2014-06-21+at+14-06-09.jpg" height="266" width="400" />
+<img border="0" src="http://4.bp.blogspot.com/-YLYksPG3fgo/U6XaZPxq2fI/AAAAAAABs5A/5hwTfyNSQew/s600/2014-06-21+at+14-06-09.jpg"   />
 
 The video capture device. It's USB.
-<img border="0" src="http://1.bp.blogspot.com/-iy1WR3F6Ny0/U6XaaECr-VI/AAAAAAABs5I/gjJ0V0o2Yp4/s1600/2014-06-21+at+14-07-36.jpg" height="266" width="400" />
+<img border="0" src="http://1.bp.blogspot.com/-iy1WR3F6Ny0/U6XaaECr-VI/AAAAAAABs5I/gjJ0V0o2Yp4/s600/2014-06-21+at+14-07-36.jpg"   />
 
 ## Extras
 
@@ -51,26 +51,26 @@ So here's a quick list of what I recommend as extra if you got the cash or reall
 </ul>
 
 The Drobo 5D.
-<img border="0" src="http://1.bp.blogspot.com/-jh6BYwChDAI/U6XaZOaMStI/AAAAAAABs48/Dce4erRz9-s/s1600/2014-06-21+at+14-04-25.jpg" height="266" width="400" />
+<img border="0" src="http://1.bp.blogspot.com/-jh6BYwChDAI/U6XaZOaMStI/AAAAAAABs48/Dce4erRz9-s/s600/2014-06-21+at+14-04-25.jpg"   />
 
 The three internal hard drives, and two unused bays.
-<img border="0" src="http://2.bp.blogspot.com/-VrDILhLIQzE/U6XaZAZG9qI/AAAAAAABs44/jfIgOcq3Xec/s1600/2014-06-21+at+14-04-52.jpg" height="266" width="400" />
+<img border="0" src="http://2.bp.blogspot.com/-VrDILhLIQzE/U6XaZAZG9qI/AAAAAAABs44/jfIgOcq3Xec/s600/2014-06-21+at+14-04-52.jpg"   />
 
 ## Do It Yourself
 
 So these are my recommendations. I do not recommend you take them to CostCo or some other store to have them convert your tapes to DVDs/online. No! I personally consider the tapes to be too valuable to leave with a store or stranger to convert. You can easily do this yourself with the peace of mind that your valuable memories won't get accidentally lost or destroyed.
 
-<img border="0" src="http://1.bp.blogspot.com/-Y3Cce-qKRVA/U6XgDFFhTVI/AAAAAAABs5w/rvkUAwN9CaE/s1600/Screen_Shot_2014-06-21_at_2_39_29_PM.jpg" height="337" width="400" />
+<img border="0" src="http://1.bp.blogspot.com/-Y3Cce-qKRVA/U6XgDFFhTVI/AAAAAAABs5w/rvkUAwN9CaE/s600/Screen_Shot_2014-06-21_at_2_39_29_PM.jpg"   />
 
 ## How it Works
 
 Here's how the conversion process works for video tapes. You put the tape into the VCR and play them as you would normally. The video/audio feed then connects via the capture card and goes into your computer. Your computer's software will record all this digitally. The space required varies depending on how long the videos are, but I find that it's between 500MB for 30 minutes, and 1.7GB for 2 hours of video. The software allows you to trim the beginning and end in case there's blank or empty space.
 
 A screenshot of the video capture software running on Mac OS X (Mavericks)-- pretty straightforward guide.
-<img border="0" src="http://4.bp.blogspot.com/-HzaOrPmhOGs/U6XlR6cxacI/AAAAAAABs6E/4EWKxIJsXwg/s1600/elgato_screenshot.jpg" height="282" width="400" />
+<img border="0" src="http://4.bp.blogspot.com/-HzaOrPmhOGs/U6XlR6cxacI/AAAAAAABs6E/4EWKxIJsXwg/s600/elgato_screenshot.jpg"  />
 
 If you have some DVDs that you want to convert, there's <a href="http://handbrake.fr/">Handbrake</a> software. What it does is detect the video/audio source files needed to convert into a single video file output.
-<img border="0" src="http://3.bp.blogspot.com/-erMe7vskMg8/U6XkeYjuUcI/AAAAAAABs58/qp3QOJw1WUY/s1600/Screen+Shot+2014-06-21+at+2.59.12+PM.png" height="262" width="400" />
+<img border="0" src="http://3.bp.blogspot.com/-erMe7vskMg8/U6XkeYjuUcI/AAAAAAABs58/qp3QOJw1WUY/s600/Screen+Shot+2014-06-21+at+2.59.12+PM.png"  />
 
 I recommend naming the files something that makes sense to you. I personally use the following format:
 

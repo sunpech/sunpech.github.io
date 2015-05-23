@@ -24,7 +24,7 @@ I see that many people that I invited, just don't use it. They either don't get 
 
 Honestly, this all feels <em>very familiar </em>to me. It's as though I've been here before....
 
-<img border="0" src="http://2.bp.blogspot.com/-PypiOuIp3sE/TxVmBkEDhxI/AAAAAAAA2oM/vnv1_j3PTY0/s320/GooglPlus_SocialNetworks.png" height="187" width="400" />
+<img border="0" src="http://2.bp.blogspot.com/-PypiOuIp3sE/TxVmBkEDhxI/AAAAAAAA2oM/vnv1_j3PTY0/s320/GooglPlus_SocialNetworks.png"  />
 
 I remember back in 1998/1999. I was an undergraduate still. Many of my friends were either in high school or also in college. I really liked <a href="http://en.wikipedia.org/wiki/ICQ">ICQ</a> as an instant messager (IM). Their software was far superior to AOL's <a href="http://en.wikipedia.org/wiki/AOL_Instant_Messenger">AIM</a> in terms of functionality. But it didn't get widely adopted amongst my American friends. Too many people were stuck with AOL as an <a href="http://en.wikipedia.org/wiki/Internet_service_provider">internet service provider</a> (ISP). By default they didn't adopt ICQ because AIM was already available to them, which all their friends were using. Instead AIM became the popular standard, and AOL eventually bought out ICQ, which turned into a bloated software with less support.
 

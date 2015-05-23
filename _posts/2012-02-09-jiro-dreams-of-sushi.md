@@ -24,13 +24,10 @@ When asked what his favorite sushi restaurant is in LA, he said it was <a href="
 
 The movie will be out in the US on <b>March 9, 2012</b>. I recommend everyone check it out!
 
-<a href="http://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s1600/2012-02-08+at+23-15-52.jpg"><img border="0" height="320" src="http://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s320/2012-02-08+at+23-15-52.jpg" width="213" /></a>
+<a href="http://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s600/2012-02-08+at+23-15-52.jpg"><img border="0"  src="http://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqDeVtU/s400/2012-02-08+at+23-15-52.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-Cst8etJmzTY/TzNzzMzuVEI/AAAAAAAA6EQ/7lHoXgbHUk4/s1600/2012-02-08+at+18-09-50.jpg"><img border="0" height="240" src="http://3.bp.blogspot.com/-Cst8etJmzTY/TzNzzMzuVEI/AAAAAAAA6EQ/7lHoXgbHUk4/s320/2012-02-08+at+18-09-50.jpg" width="320" /></a>
+<a href="http://3.bp.blogspot.com/-Cst8etJmzTY/TzNzzMzuVEI/AAAAAAAA6EQ/7lHoXgbHUk4/s600/2012-02-08+at+18-09-50.jpg"><img border="0" src="http://3.bp.blogspot.com/-Cst8etJmzTY/TzNzzMzuVEI/AAAAAAAA6EQ/7lHoXgbHUk4/s400/2012-02-08+at+18-09-50.jpg"  /></a>
 
-The trailer:
-
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/hbV6knbeUFE" width="560"></iframe>
 
 Please check out my food blog: <a href="http://www.foodishappiness.com/">Foodishappiness.com</a>. I also tweet at <a href="http://www.twitter.com/foodishappiness">@foodishappiness</a>.
 

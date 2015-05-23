@@ -24,7 +24,7 @@ Things I try to consider:
   <li>Anything else more than storage</li>
 </ul>
 
-<img border="0" height="276" src="http://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s400/Cloud_Storage_Apps.jpg" width="400" />
+<img border="0" src="http://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s400/Cloud_Storage_Apps.jpg"  />
 
 ### <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000828861">Amazon Cloud Drive</a>
 
@@ -44,7 +44,7 @@ Their <a href="https://www.box.com/settings/sync">desktop client sync tool</a> i
 
 I'm moving away from using this app. It's causing me a lot of problems with my Mac OS X. It's just eating up a lot of storage space. Here is a screenshot of the log folder that just grows to outrageous size over a few days:
 
-<a href="http://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s1600/screenshot_BoxSync.jpg" imageanchor="1"><img border="0" height="262" src="http://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s400/screenshot_BoxSync.jpg" width="400" /></a>
+<a href="http://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s600/screenshot_BoxSync.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-x73Kfbars_U/UcRn1pFpKDI/AAAAAAABeeA/SJfeRHqTkHs/s400/screenshot_BoxSync.jpg"  /></a>
 
 The command I ran in the terminal is:
 <span style="font-family: Courier New, Courier, monospace;">du -sch ~/Library/Logs/Box Sync</span>
@@ -90,7 +90,7 @@ You may have noticed that I left out iCloud. Well, right off it just doesn't wor
 
 Speaking of apps, on my phone I have all the apps installed, but really only use half of them.
 
-<img border="0" height="400" src="http://3.bp.blogspot.com/-eJbpX9PkakE/UZ3ZHGiXnMI/AAAAAAABcy8/xxPbQHRaExI/s400/Screenshot_2013-05-23-01-41-16.png" width="225" />
+<img border="0"  src="http://3.bp.blogspot.com/-eJbpX9PkakE/UZ3ZHGiXnMI/AAAAAAABcy8/xxPbQHRaExI/s400/Screenshot_2013-05-23-01-41-16.png" />
 
 <span style="font-size: small;">screenshot of my Android phone's folder of Cloud apps</span>
 
@@ -98,7 +98,7 @@ Speaking of apps, on my phone I have all the apps installed, but really only use
 
 My <i>current</i> favorite is: <a href="https://copy.com/?r=1u9vhV"><b>Copy</b></a>.
 
-<img border="0" height="200" src="http://2.bp.blogspot.com/-I3qZdkEuruM/UZ30KiXSmTI/AAAAAAABczc/wC0HXl1J91g/s200/cb555b2b988984a493d0398b74220248.png" width="200" />
+<img border="0" src="http://2.bp.blogspot.com/-I3qZdkEuruM/UZ30KiXSmTI/AAAAAAABczc/wC0HXl1J91g/s200/cb555b2b988984a493d0398b74220248.png" />
 
 It may have to do with the fact that it's pretty darn easy to sign up and set up. Their referrals are crazy good by giving 5 GB to both people. Their pricing plans are monthly, so commitment is friendly to individuals. Using my referral link starts you off with 20GB! I believe if you tweet out a link, you can earn another 2GB!
 

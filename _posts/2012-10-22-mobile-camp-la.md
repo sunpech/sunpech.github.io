@@ -28,29 +28,29 @@ One more complaint in general, here was one session I ended up not enjoying wher
 
 The interesting thing I walked away with was how many new products/services Adobe was coming out with for not just designers, but also developers. Check out <a href="http://html.adobe.com/">html.adobe.com</a> to see all these brand new stuff. They are definitely pushing the <a href="http://www.adobe.com/products/creativecloud.html">Creative Cloud</a>. Something I'll have to keep my eye on since I use Photoshop and Lightroom pretty heavily these days.
 
-<img border="0" height="213" src="http://2.bp.blogspot.com/-NipS80fmeFk/UIIM1UjScTI/AAAAAAABVRs/O-DGSIDMLjM/s320/2012-10-18+at+11-24-25.jpg" width="320" />
+<img border="0" src="http://2.bp.blogspot.com/-NipS80fmeFk/UIIM1UjScTI/AAAAAAABVRs/O-DGSIDMLjM/s400/2012-10-18+at+11-24-25.jpg" />
 
-<img border="0" height="213" src="http://2.bp.blogspot.com/-jhdvwofcMdw/UIIMwOyltAI/AAAAAAABVRE/-2MdLr09wOM/s320/2012-10-18+at+09-27-37.jpg" width="320" />
+<img border="0" src="http://2.bp.blogspot.com/-jhdvwofcMdw/UIIMwOyltAI/AAAAAAABVRE/-2MdLr09wOM/s400/2012-10-18+at+09-27-37.jpg" />
 
 Prashant Sridharan (from Facebook) presenting on Native iOS Development.
-<img border="0" height="213" src="http://2.bp.blogspot.com/-Vk-OKTi7Rco/UIIMxKsV77I/AAAAAAABVRM/sNVWyVZ1gJg/s320/2012-10-18+at+10-20-33.jpg" width="320" />
+<img border="0" src="http://2.bp.blogspot.com/-Vk-OKTi7Rco/UIIMxKsV77I/AAAAAAABVRM/sNVWyVZ1gJg/s400/2012-10-18+at+10-20-33.jpg" />
 
 Cross-platform MObile HTML5 Apps by Max Katz
-<img border="0" height="213" src="http://1.bp.blogspot.com/-GdzN-N3F1Kc/UIIM0dEZTjI/AAAAAAABVRk/TFiBGwPA0Xg/s320/2012-10-18+at+11-16-44.jpg" width="320" />
+<img border="0" src="http://1.bp.blogspot.com/-GdzN-N3F1Kc/UIIM0dEZTjI/AAAAAAABVRk/TFiBGwPA0Xg/s400/2012-10-18+at+11-16-44.jpg" />
 
 SASS/LESS by Jake Johnson
-<img border="0" height="213" src="http://3.bp.blogspot.com/-3OsQbrn1vYM/UIIM3AJLyVI/AAAAAAABVR8/WSE7qZ0pYUI/s320/2012-10-18+at+11-26-32.jpg" width="320" />
+<img border="0" src="http://3.bp.blogspot.com/-3OsQbrn1vYM/UIIM3AJLyVI/AAAAAAABVR8/WSE7qZ0pYUI/s400/2012-10-18+at+11-26-32.jpg" />
 
-<img border="0" height="213" src="http://1.bp.blogspot.com/-27v8tPuxHhA/UIIM4bRnNoI/AAAAAAABVSE/dQTvzzyCxj4/s320/2012-10-18+at+12-02-26.jpg" width="320" />
+<img border="0" src="http://1.bp.blogspot.com/-27v8tPuxHhA/UIIM4bRnNoI/AAAAAAABVSE/dQTvzzyCxj4/s400/2012-10-18+at+12-02-26.jpg" />
 
-<img border="0" height="213" src="http://1.bp.blogspot.com/-I8xPPAqIq04/UIIM5m-sqDI/AAAAAAABVSM/5FbCczP6jIo/s320/2012-10-18+at+12-02-57.jpg" width="320" />
+<img border="0" src="http://1.bp.blogspot.com/-I8xPPAqIq04/UIIM5m-sqDI/AAAAAAABVSM/5FbCczP6jIo/s400/2012-10-18+at+12-02-57.jpg" />
 
 Windows 8 Tablet by Daniel Egan
-<img border="0" height="213" src="http://4.bp.blogspot.com/-_OUG6CdvQlo/UIIM7jnnK5I/AAAAAAABVSc/ucOheHxLs8I/s320/2012-10-18+at+12-47-59.jpg" width="320" />
+<img border="0" src="http://4.bp.blogspot.com/-_OUG6CdvQlo/UIIM7jnnK5I/AAAAAAABVSc/ucOheHxLs8I/s400/2012-10-18+at+12-47-59.jpg" />
 
 Backbone with mobile backend by Sid Maestre
-<img border="0" height="213" src="http://4.bp.blogspot.com/-dl7fV3oQkts/UIIM9bMzsXI/AAAAAAABVSs/QV7aW6DAEOA/s320/2012-10-18+at+13-42-04.jpg" width="320" />
+<img border="0" src="http://4.bp.blogspot.com/-dl7fV3oQkts/UIIM9bMzsXI/AAAAAAABVSs/QV7aW6DAEOA/s400/2012-10-18+at+13-42-04.jpg" />
 
 Fund Your Start-up by Glang Biscan
-<img border="0" height="213" src="http://1.bp.blogspot.com/-8F7q6IIxFbA/UIIM-XGj2xI/AAAAAAABVS0/qEPgKFZhkG8/s320/2012-10-18+at+14-28-32.jpg" width="320" />
+<img border="0" src="http://1.bp.blogspot.com/-8F7q6IIxFbA/UIIM-XGj2xI/AAAAAAABVS0/qEPgKFZhkG8/s400/2012-10-18+at+14-28-32.jpg" />
 

@@ -19,19 +19,19 @@ A recent group I started to attend is <a href="http://www.meetup.com/bkk-web/">B
 
 Below are the pictures I took from the <a href="http://www.meetup.com/bkk-web/events/15940959/">January Meetup: Computer Vision with Android</a>. The presentation is by Andrea Gagliardi La Gala.
 
-<a href="http://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s1600/IMG_4772.jpg" imageanchor="1"><img border="0" height="213" src="http://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s320/IMG_4772.jpg" width="320" /></a>
+<a href="http://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s1600/IMG_4772.jpg" imageanchor="1"><img border="0"  src="http://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_qZfM/s320/IMG_4772.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-FbYrNDzYxiI/TT8b_c5r04I/AAAAAAAAfRA/gEUuGt9qcpc/s1600/IMG_4773.jpg" imageanchor="1"><img border="0" height="213" src="http://3.bp.blogspot.com/-FbYrNDzYxiI/TT8b_c5r04I/AAAAAAAAfRA/gEUuGt9qcpc/s320/IMG_4773.jpg" width="320" /></a>
+<a href="http://3.bp.blogspot.com/-FbYrNDzYxiI/TT8b_c5r04I/AAAAAAAAfRA/gEUuGt9qcpc/s1600/IMG_4773.jpg" imageanchor="1"><img border="0"  src="http://3.bp.blogspot.com/-FbYrNDzYxiI/TT8b_c5r04I/AAAAAAAAfRA/gEUuGt9qcpc/s320/IMG_4773.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-QfeqohOOGY0/TT8cC1FMf7I/AAAAAAAAfRQ/g6zvOLWY7Y0/s1600/IMG_4775.jpg" imageanchor="1"><img border="0" height="213" src="http://3.bp.blogspot.com/-QfeqohOOGY0/TT8cC1FMf7I/AAAAAAAAfRQ/g6zvOLWY7Y0/s320/IMG_4775.jpg" width="320" /></a>
+<a href="http://3.bp.blogspot.com/-QfeqohOOGY0/TT8cC1FMf7I/AAAAAAAAfRQ/g6zvOLWY7Y0/s1600/IMG_4775.jpg" imageanchor="1"><img border="0"  src="http://3.bp.blogspot.com/-QfeqohOOGY0/TT8cC1FMf7I/AAAAAAAAfRQ/g6zvOLWY7Y0/s320/IMG_4775.jpg"  /></a>
 
-<a href="http://4.bp.blogspot.com/-JS0T2s73jcY/TT8cEEj3iuI/AAAAAAAAfRY/KvxqFZ0JJ_0/s1600/IMG_4776.jpg" imageanchor="1"><img border="0" height="213" src="http://4.bp.blogspot.com/-JS0T2s73jcY/TT8cEEj3iuI/AAAAAAAAfRY/KvxqFZ0JJ_0/s320/IMG_4776.jpg" width="320" /></a>
+<a href="http://4.bp.blogspot.com/-JS0T2s73jcY/TT8cEEj3iuI/AAAAAAAAfRY/KvxqFZ0JJ_0/s1600/IMG_4776.jpg" imageanchor="1"><img border="0"  src="http://4.bp.blogspot.com/-JS0T2s73jcY/TT8cEEj3iuI/AAAAAAAAfRY/KvxqFZ0JJ_0/s320/IMG_4776.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-Nc2me4rfSmo/TT8cK9rAmAI/AAAAAAAAfR4/VQvtnWOQwlA/s1600/IMG_4780.jpg" imageanchor="1"><img border="0" height="213" src="http://3.bp.blogspot.com/-Nc2me4rfSmo/TT8cK9rAmAI/AAAAAAAAfR4/VQvtnWOQwlA/s320/IMG_4780.jpg" width="320" /></a>
+<a href="http://3.bp.blogspot.com/-Nc2me4rfSmo/TT8cK9rAmAI/AAAAAAAAfR4/VQvtnWOQwlA/s1600/IMG_4780.jpg" imageanchor="1"><img border="0"  src="http://3.bp.blogspot.com/-Nc2me4rfSmo/TT8cK9rAmAI/AAAAAAAAfR4/VQvtnWOQwlA/s320/IMG_4780.jpg"  /></a>
 
-<a href="http://4.bp.blogspot.com/-_5EsUmKoeg8/TT8cipM7QTI/AAAAAAAAfTY/y6_acnX4y7A/s1600/IMG_4791.jpg" imageanchor="1"><img border="0" height="213" src="http://4.bp.blogspot.com/-_5EsUmKoeg8/TT8cipM7QTI/AAAAAAAAfTY/y6_acnX4y7A/s320/IMG_4791.jpg" width="320" /></a>
+<a href="http://4.bp.blogspot.com/-_5EsUmKoeg8/TT8cipM7QTI/AAAAAAAAfTY/y6_acnX4y7A/s1600/IMG_4791.jpg" imageanchor="1"><img border="0"  src="http://4.bp.blogspot.com/-_5EsUmKoeg8/TT8cipM7QTI/AAAAAAAAfTY/y6_acnX4y7A/s320/IMG_4791.jpg"  /></a>
 
-<a href="http://4.bp.blogspot.com/-rwcsDH1ONSQ/TT8cqcgZMwI/AAAAAAAAfT4/Di7FleyaquU/s1600/IMG_4796.jpg" imageanchor="1"><img border="0" height="213" src="http://4.bp.blogspot.com/-rwcsDH1ONSQ/TT8cqcgZMwI/AAAAAAAAfT4/Di7FleyaquU/s320/IMG_4796.jpg" width="320" /></a>
+<a href="http://4.bp.blogspot.com/-rwcsDH1ONSQ/TT8cqcgZMwI/AAAAAAAAfT4/Di7FleyaquU/s1600/IMG_4796.jpg" imageanchor="1"><img border="0"  src="http://4.bp.blogspot.com/-rwcsDH1ONSQ/TT8cqcgZMwI/AAAAAAAAfT4/Di7FleyaquU/s320/IMG_4796.jpg"  /></a>
 
 Full album <a href="https://picasaweb.google.com/101693597219413173200/2011JanuaryBKKWebMeetup">here</a>.
 

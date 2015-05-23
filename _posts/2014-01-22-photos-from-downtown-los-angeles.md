@@ -25,11 +25,11 @@ Here are my photos:
 
 #### Downtown Los Angeles
 Buy prints: <a href="http://500pxart.com/photo/58388314">http://500pxart.com/photo/58388314</a>
-<img border="0" src="http://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG8z8E/s1600/2014-01-18+at+17-58-51.jpg" height="426" width="640" />
+<img border="0" src="http://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG8z8E/s600/2014-01-18+at+17-58-51.jpg"   />
 
 #### Los Angeles Skyline from LADWP
 Buy prints: <a href="http://500pxart.com/photo/58498860">http://500pxart.com/photo/58498860</a>
-<img border="0" src="http://1.bp.blogspot.com/-iZJATpi0YC0/Ut7zGnfcsbI/AAAAAAABl_0/i4RfREvevYY/s1600/2014-01-18+at+18-26-34.jpg" height="360" width="640" />
+<img border="0" src="http://1.bp.blogspot.com/-iZJATpi0YC0/Ut7zGnfcsbI/AAAAAAABl_0/i4RfREvevYY/s600/2014-01-18+at+18-26-34.jpg"   />
 
 More city and landscape photos from the past few months:
 

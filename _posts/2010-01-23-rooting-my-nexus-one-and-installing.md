@@ -21,6 +21,6 @@ Step 1: Root your phone.  You can read about that and watch a video: <a href="ht
 
 Step 2: Watch the Thai video of how this guy did it.  <a href="http://www.youtube.com/watch?v=Eisltouk2Zw">Thai font for Nexus One</a>.  I also downloaded the Thai fonts <a href="https://sites.google.com/site/ohmrefresh/fonts.zip?attredirects=0&d=1">here</a> (source: <a href="http://www.droidsans.com/node/1279">Droidsans.com</a>).  You can read and see pics of the steps too at: <a href="http://www.pdamobiz.com/forum/forum_posts.asp?TID=276942&PN=1">Android Review: แกะกล่อง Nexus One ฉบับย่อ พร้อม Root ลงไทย By PDAMobiz</a>.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Eisltouk2Zw&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Eisltouk2Zw&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Eisltouk2Zw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Awesome.

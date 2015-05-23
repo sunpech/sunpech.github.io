@@ -15,11 +15,11 @@ redirect_from: /2011/08/some-thoughts-on-traveling.html
 
 In July of 2010, I quit my full time job as a software developer. I wanted to break away from the nine-to-five, travel a bit, have fun, and teach myself new things in the process. I was able to visit San Diego, Los Angeles, San Francisco, Boston, New York City, Denver, Bangkok, Chiang Mai, and Pattaya.
 
-<a href="http://4.bp.blogspot.com/-WF8jU2_jjQg/TxVmCDQyByI/AAAAAAAA2oc/8Y87Up7S0fg/s1600/IMG_4121.jpeg" imageanchor="1"><img border="0" height="266" src="http://4.bp.blogspot.com/-WF8jU2_jjQg/TxVmCDQyByI/AAAAAAAA2oc/8Y87Up7S0fg/s400/IMG_4121.jpeg" width="400" /></a>
+<a href="http://4.bp.blogspot.com/-WF8jU2_jjQg/TxVmCDQyByI/AAAAAAAA2oc/8Y87Up7S0fg/s600/IMG_4121.jpeg" ><img border="0"  src="http://4.bp.blogspot.com/-WF8jU2_jjQg/TxVmCDQyByI/AAAAAAAA2oc/8Y87Up7S0fg/s400/IMG_4121.jpeg"  /></a>
 
 In 2011, I kept traveling, I visited Hua Hin, Phuket, Phang Nga, Singapore, Las Vegas, and Baltimore, before returning to Chicago for a time period greater than one week. Chicago is where I am right now. It's been such a rush getting on and off a plane, knowing that there's a different upcoming destination, just hours away. I've actually grown to like being in airports.  
 
-<a href="http://1.bp.blogspot.com/-hiWVdXqLmSY/TxVmCLpCLRI/AAAAAAAA2pg/TqPhLFZimMM/s1600/IMG_2976.jpeg" imageanchor="1"><img border="0" height="266" src="http://1.bp.blogspot.com/-hiWVdXqLmSY/TxVmCLpCLRI/AAAAAAAA2pg/TqPhLFZimMM/s400/IMG_2976.jpeg" width="400" /></a> 
+<a href="http://1.bp.blogspot.com/-hiWVdXqLmSY/TxVmCLpCLRI/AAAAAAAA2pg/TqPhLFZimMM/s600/IMG_2976.jpeg" ><img border="0"  src="http://1.bp.blogspot.com/-hiWVdXqLmSY/TxVmCLpCLRI/AAAAAAAA2pg/TqPhLFZimMM/s400/IMG_2976.jpeg"  /></a> 
 
 I am reminded of a blog post I read before I left for Thailand, back in October of 2010: <a href="http://www.fourhourworkweek.com/blog/2010/10/30/20-things-ive-learned-from-traveling-around-the-world-for-three-years/">20 Things I've Learned From Traveling Around the World for Three Years</a> by <a href="http://en.wikipedia.org/wiki/Timothy_Ferriss">Tim Ferriss</a>. I think it very much holds true.  
 
@@ -42,8 +42,8 @@ But I have one more that I would add to his list:
 
 <strong>Social Technologies matter.</strong> I used <a href="http://www.meetup.com/">Meetup.com</a>, <a href="http://www.facebook.com/">Facebook</a>, and <a href="http://www.twitter.com/">Twitter</a> to meet so many interesting and passionate people. Often times, they were travelers or expats. Combined with the English language, this is a great means to communicate, learn, and reach out to a local communities/individuals.&gt;
 
-<a href="http://1.bp.blogspot.com/-Wm8mVRkV3Rg/TxVmCsiWdtI/AAAAAAAA2oo/YQTAPyixApc/s1600/IMG_20101109_195137.jpeg" imageanchor="1"><img border="0" height="301" src="http://1.bp.blogspot.com/-Wm8mVRkV3Rg/TxVmCsiWdtI/AAAAAAAA2oo/YQTAPyixApc/s400/IMG_20101109_195137.jpeg" width="400" /></a>
+<a href="http://1.bp.blogspot.com/-Wm8mVRkV3Rg/TxVmCsiWdtI/AAAAAAAA2oo/YQTAPyixApc/s400/IMG_20101109_195137.jpeg" ><img border="0" src="http://1.bp.blogspot.com/-Wm8mVRkV3Rg/TxVmCsiWdtI/AAAAAAAA2oo/YQTAPyixApc/s400/IMG_20101109_195137.jpeg"  /></a>
 
 Next month I'm looking to do some more traveling with my <a href="http://jetblue.com/bluepass/">JetBlue BluePass</a>. I'm still learning new things too, such as becoming a more experienced Rails developer, a better photographer, and a decent writer/blogger. I do wish to rejoin the workforce, but only once I feel comfortable and confident in what I've learned.
 
-<img border="0" height="266" src="http://4.bp.blogspot.com/-yYl8eB0wvrY/TxVmBy6uCPI/AAAAAAAA2oU/dWaKakVh-z0/s400/IMG_2804.jpeg" width="400" />
+<img border="0"  src="http://4.bp.blogspot.com/-yYl8eB0wvrY/TxVmBy6uCPI/AAAAAAAA2oU/dWaKakVh-z0/s400/IMG_2804.jpeg"  />

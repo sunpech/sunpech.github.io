@@ -17,11 +17,11 @@ Last week I went to a Microsoft launch event, <a href="http://www.microsoft.com/
 
 <i>Please note that the latest PC I own is a Lenovo Thinkpad T60 from 2006, which the wireless card just broke the other day. </i>So my MBP from 2010 is the latest hardware I own.
 
-<img border="0" height="240" src="http://4.bp.blogspot.com/-l3pToD2O5l0/UJhCTG6KgvI/AAAAAAABVlQ/jYSsgAd8pow/s320/IMG_20121105_144324.jpeg" width="320" />
+<img border="0" src="http://4.bp.blogspot.com/-l3pToD2O5l0/UJhCTG6KgvI/AAAAAAABVlQ/jYSsgAd8pow/s400/IMG_20121105_144324.jpeg"  />
 
 The problems is that the current Parallels (version 8) does not support <i>upgrading</i> from any Windows OS to Windows 8. Here is the screenshot of what Parallels sent to me via email:
 
-<img border="0" height="222" src="http://4.bp.blogspot.com/-ZVlD_LN1QLY/UJhLBsHm18I/AAAAAAABVl4/k9TsqIUU0-4/s320/Screen+Shot+2012-11-05+at+3.04.49+PM.png" width="320" />
+<img border="0"  src="http://4.bp.blogspot.com/-ZVlD_LN1QLY/UJhLBsHm18I/AAAAAAABVl4/k9TsqIUU0-4/s400/Screen+Shot+2012-11-05+at+3.04.49+PM.png"  />
 
 I learned this the hard way when I installed a preview edition of Win8 and upgraded to Win8 Pro, and things were just wacky. The following was screwed up:
 <ol>
@@ -33,11 +33,11 @@ The preview edition of Win8 ran better than the upgraded Win8 on Parallels Deskt
 But there's a workaround. If you do a full install, it should run just fine. Here's how:
 Through Parallels 8, I'm not sure about previous versions, you have an option to install other virtual machines to whatever you already have. From the virtual machines list, click on new.
 
-<img border="0" height="210" src="http://3.bp.blogspot.com/-6-bQJU6nUqI/UJhEf6IJWsI/AAAAAAABVlk/WXdmsmKu6yY/s320/Screen+Shot+2012-11-05+at+2.57.07+PM.png" width="320" />
+<img border="0" src="http://3.bp.blogspot.com/-6-bQJU6nUqI/UJhEf6IJWsI/AAAAAAABVlk/WXdmsmKu6yY/s400/Screen+Shot+2012-11-05+at+2.57.07+PM.png" />
 
 The window that opens up should allow you to download and install a preview edition of Windows 8 for free. Do that and pick whatever architecture you want (32 or 64 bit). I chose 64 bit and highly recommend that.
 
-<img border="0" height="260" src="http://2.bp.blogspot.com/-LyTYu4sNnLg/UJhEg56336I/AAAAAAABVls/0aUPFR_nHcU/s320/Screen+Shot+2012-11-05+at+2.57.29+PM.png" width="320" />
+<img border="0" src="http://2.bp.blogspot.com/-LyTYu4sNnLg/UJhEg56336I/AAAAAAABVls/0aUPFR_nHcU/s400/Screen+Shot+2012-11-05+at+2.57.29+PM.png" />
 
 Let it download and install fully. From here, as per the instruction given to me from my copy of Windows 8 Pro, go to: <a href="http://www.windows.com/nfrdownload">http://www.windows.com/nfrdownload</a>. Follow the instructions there to begin the download process of Win8 Pro. Once that finishes the download, there should be a screen that comes up that asks where to proceed with some options.
 

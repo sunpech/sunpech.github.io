@@ -18,7 +18,7 @@ I've been looking to get a full-frame DSLR for a while now. Last year I was thin
 
 The price of the M3 is $3500. That's body only, no kit lens. Ouch. It's $1000 more than what the M2 body is priced at currently. As I've read, Canon will continue to manufacture the M2, which I think is good news, as it's still a great camera.
 
-<a href="http://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FGYZFI"><img border="0" height="257" src="http://1.bp.blogspot.com/-WjZ3XJWGLf4/T1FvjdqGx4I/AAAAAAAA7QQ/mj03W3OqIKc/s320/canon_5d_mark3.png" width="320" /></a>
+<a href="http://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FGYZFI"><img border="0" src="http://1.bp.blogspot.com/-WjZ3XJWGLf4/T1FvjdqGx4I/AAAAAAAA7QQ/mj03W3OqIKc/s400/canon_5d_mark3.png"  /></a>
 
 You can pre-order the <a href="http://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FGYZFI">Canon 5D Mark 3 (body only)</a> or the <a href="http://www.amazon.com/gp/product/B007FGZ1V0/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FGZ1V0">Canon 5D Mark 3 with 24-105mm f/4 L lens</a> now.
 

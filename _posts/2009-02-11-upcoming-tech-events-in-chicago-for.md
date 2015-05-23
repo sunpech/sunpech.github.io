@@ -22,7 +22,7 @@ Place: Catalyst Ranch - 656 W Randolph Dr Chicago IL<br />
 Cost: $10 donation<br />
 RSVP: <a href="http://www.chicagotwestival.eventbrite.com/">http://www.chicagotwestival.eventbrite.com</a>
 
-<img alt="" border="0" src="http://farm4.static.flickr.com/3483/3215808421_a7f488d93c_o.jpg" style="height: 143px; width: 500px;" />
+<img alt="" border="0" src="http://farm4.static.flickr.com/3483/3215808421_a7f488d93c_o.jpg" />
 
 ### Event: TECH cocktail Chicago 10
 Date: Thursday, February 19, 2009<br />

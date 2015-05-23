@@ -13,9 +13,9 @@ blogger_orig_url: http://www.sunpech.com/2008/12/setting-up-wrt54g-as-wireless-b
 redirect_from: /2008/12/setting-up-wrt54g-as-wireless-bridge.html
 ---
 
-My parents have a <a href="http://www.thaitv.tv/">Thai TV</a> ethernet box of some kind so they can tune in to their Thai stations, shows, and even radio on their HDTV.  However, I had to run a 50 foot CAT5 cable from the upstairs to the first floor great room, which is quite messy.  So for Christmas this year, I bought them a <a href="http://www.amazon.com/gp/product/B000BTL0OA?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000BTL0OA">Linksys-Cisco WRT54GL Wireless-G Broadband Router</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=as2&amp;o=1&amp;a=B000BTL0OA" style="border: none !important; margin: 0px !important;" width="1" />.
+My parents have a <a href="http://www.thaitv.tv/">Thai TV</a> ethernet box of some kind so they can tune in to their Thai stations, shows, and even radio on their HDTV.  However, I had to run a 50 foot CAT5 cable from the upstairs to the first floor great room, which is quite messy.  So for Christmas this year, I bought them a <a href="http://www.amazon.com/gp/product/B000BTL0OA?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000BTL0OA">Linksys-Cisco WRT54GL Wireless-G Broadband Router</a>.
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5283600511454112834" src="http://4.bp.blogspot.com/_7U5MdumP-no/SVMeq-RLbEI/AAAAAAAAIZk/b33sMkW_w9o/s400/linksys_wrt54g.jpg" style="width: 100px;" />
+<img alt="" border="0" id="BLOGGER_PHOTO_ID_5283600511454112834" src="http://4.bp.blogspot.com/_7U5MdumP-no/SVMeq-RLbEI/AAAAAAAAIZk/b33sMkW_w9o/s400/linksys_wrt54g.jpg" />
 
 The setup I wanted was to have the Thai TV box, which uses an ethernet port for all data, connect to the wireless router, and have the wireless router connect to the wireless router upstairs.  This setup required a wireless bridge, which the router did not come configured with.  So after some googling, I found the proper links to set it all up with:
 

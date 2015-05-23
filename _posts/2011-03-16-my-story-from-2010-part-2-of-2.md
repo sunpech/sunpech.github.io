@@ -17,7 +17,7 @@ This is part 2 of 2 of my story from 2010. You can view part 1 at: <a href="/201
 
 So where I last left off, I was leaving Chicago, destination: Thailand. Below, the bags I packed at O'hare International Airport.
 
-<a href="https://lh5.googleusercontent.com/-kYujSGtsMMw/TPZjHudQV1I/AAAAAAAAez0/8Ehhxmk3b7A/s1600/IMG_20101107_090206.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://lh5.googleusercontent.com/-kYujSGtsMMw/TPZjHudQV1I/AAAAAAAAez0/8Ehhxmk3b7A/s320/IMG_20101107_090206.jpg" width="241" /></a>
+<a href="https://lh5.googleusercontent.com/-kYujSGtsMMw/TPZjHudQV1I/AAAAAAAAez0/8Ehhxmk3b7A/s1600/IMG_20101107_090206.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"  src="https://lh5.googleusercontent.com/-kYujSGtsMMw/TPZjHudQV1I/AAAAAAAAez0/8Ehhxmk3b7A/s320/IMG_20101107_090206.jpg" width="241" /></a>
 
 I was flying <a href="http://www.koreanair.com/">Korea Air</a> for the first time. On my way to Bangkok, Thailand, I had a layover at S. Korea. Some pictures I took at the airport:
 

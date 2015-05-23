@@ -23,13 +23,13 @@ You can view my full album from Chicago <a href="https://plus.google.com/photos/
 
 #### Chicago Winter Sunset
 Buy print: <a href="http://500pxart.com/photo/58449824">http://500pxart.com/photo/58449824</a>
-<img border="0" src="http://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h1A84/s1600/2014-01-12+at+16-56-36.jpg" height="360" width="640" />
+<img border="0" src="http://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h1A84/s600/2014-01-12+at+16-56-36.jpg"   />
 
 #### Chicago from the Adler Planetarium
 Buy print: <a href="http://500pxart.com/photo/57661802">http://500pxart.com/photo/57661802</a>
-<img border="0" src="http://1.bp.blogspot.com/-fmjoN5zagrQ/UteDKVUZ2GI/AAAAAAABl4k/mszOUp4gOJc/s1600/2014-01-12+at+17-51-42.jpg" height="360" width="640" />
+<img border="0" src="http://1.bp.blogspot.com/-fmjoN5zagrQ/UteDKVUZ2GI/AAAAAAABl4k/mszOUp4gOJc/s600/2014-01-12+at+17-51-42.jpg"   />
 
 #### Chicago Skyline - Peace
 Buy print: <a href="http://500pxart.com/photo/57866660">http://500pxart.com/photo/57866660</a>
-<img border="0" src="http://4.bp.blogspot.com/-K5Nalnzt9RY/UteDLDaN2gI/AAAAAAABl4s/zx_wfMLoXyU/s1600/2014-01-12+at+18-13-20.jpg" height="360" width="640" />
+<img border="0" src="http://4.bp.blogspot.com/-K5Nalnzt9RY/UteDLDaN2gI/AAAAAAABl4s/zx_wfMLoXyU/s600/2014-01-12+at+18-13-20.jpg"   />
 

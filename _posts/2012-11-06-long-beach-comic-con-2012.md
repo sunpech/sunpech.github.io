@@ -24,45 +24,45 @@ Full album can be found <a href="https://picasaweb.google.com/101693597219413173
 
 ### Pictures
 
-<img border="0" src="http://3.bp.blogspot.com/-3ArVU-G9lYU/UJjpm9yQ5fI/AAAAAAABVmM/axhhXKnhwYM/s320/2012-11-04+at+11-22-19.jpg" height="266" width="400" />
+<img border="0" src="http://3.bp.blogspot.com/-3ArVU-G9lYU/UJjpm9yQ5fI/AAAAAAABVmM/axhhXKnhwYM/s600/2012-11-04+at+11-22-19.jpg"   />
 
 Went to the <a href="http://valiantuniverse.com/">Valiant Comics</a> panel.
 
-<img border="0" src="http://4.bp.blogspot.com/-wK8dlWDDvEk/UJjppRJYDkI/AAAAAAABVmc/OWy3slLwRFs/s320/2012-11-04+at+12-02-02.jpg" height="266" width="400" />
+<img border="0" src="http://4.bp.blogspot.com/-wK8dlWDDvEk/UJjppRJYDkI/AAAAAAABVmc/OWy3slLwRFs/s600/2012-11-04+at+12-02-02.jpg"   />
 
 Dinesh Shamdasani, CCO of Valiant in the middle.
-<img border="0" src="http://1.bp.blogspot.com/--R93VuzcHtA/UJjps0Q7YnI/AAAAAAABVm0/FjjA4OlYQhY/s320/2012-11-04+at+12-02-57.jpg" height="266" width="400" />
+<img border="0" src="http://1.bp.blogspot.com/--R93VuzcHtA/UJjps0Q7YnI/AAAAAAABVm0/FjjA4OlYQhY/s600/2012-11-04+at+12-02-57.jpg"   />
 
 <a href="http://www.joshuadysart.com/wp/">Joshua Dysart</a>, the writer for Harbinger.
-<img border="0" src="http://4.bp.blogspot.com/-7UZ7MWTl2Kw/UJjpt2zyG5I/AAAAAAABVm8/GpMaJnpQCsA/s320/2012-11-04+at+12-03-03.jpg" height="400" width="266" />
+<img border="0" src="http://4.bp.blogspot.com/-7UZ7MWTl2Kw/UJjpt2zyG5I/AAAAAAABVm8/GpMaJnpQCsA/s600/2012-11-04+at+12-03-03.jpg"   />
 
-<img border="0" src="http://1.bp.blogspot.com/-adC8x2hi9Gc/UJjpu92xUhI/AAAAAAABVnE/nJoX70EOVOQ/s320/2012-11-04+at+12-03-34.jpg" height="400" width="266" />
+<img border="0" src="http://1.bp.blogspot.com/-adC8x2hi9Gc/UJjpu92xUhI/AAAAAAABVnE/nJoX70EOVOQ/s600/2012-11-04+at+12-03-34.jpg"   />
 
-<img border="0" src="http://4.bp.blogspot.com/-YRIl6zxhjKY/UJjp1PGAAhI/AAAAAAABVns/FtJUVd5IZjc/s320/2012-11-04+at+12-51-46.jpg" height="266" width="400" />
+<img border="0" src="http://4.bp.blogspot.com/-YRIl6zxhjKY/UJjp1PGAAhI/AAAAAAABVns/FtJUVd5IZjc/s600/2012-11-04+at+12-51-46.jpg"   />
 
-<img border="0" src="http://2.bp.blogspot.com/-3qTTTRLza6Q/UJjp2YneAnI/AAAAAAABVn0/0rDHTiaTiVE/s320/2012-11-04+at+12-59-54.jpg" height="266" width="400" />
+<img border="0" src="http://2.bp.blogspot.com/-3qTTTRLza6Q/UJjp2YneAnI/AAAAAAABVn0/0rDHTiaTiVE/s600/2012-11-04+at+12-59-54.jpg"   />
 
 Rocksteady!
-<img border="0" src="http://3.bp.blogspot.com/-0Zgq3Fhp5bA/UJjp4-CHzLI/AAAAAAABVoE/CJ4XvGHnHm4/s320/2012-11-04+at+13-22-05.jpg" height="400" width="266" />
+<img border="0" src="http://3.bp.blogspot.com/-0Zgq3Fhp5bA/UJjp4-CHzLI/AAAAAAABVoE/CJ4XvGHnHm4/s600/2012-11-04+at+13-22-05.jpg"   />
 
-<img border="0" src="http://4.bp.blogspot.com/-CRf_uJTtHB0/UJjp6Mj3wsI/AAAAAAABVoM/CUH-6SglcqE/s320/2012-11-04+at+13-52-14.jpg" height="400" width="266" />
+<img border="0" src="http://4.bp.blogspot.com/-CRf_uJTtHB0/UJjp6Mj3wsI/AAAAAAABVoM/CUH-6SglcqE/s600/2012-11-04+at+13-52-14.jpg"   />
 
-<img border="0" src="http://4.bp.blogspot.com/-PAwDJfQjvd0/UJjp-e8ZSnI/AAAAAAABVos/qIEodEPYdOw/s320/2012-11-04+at+14-09-33.jpg" height="266" width="400" />
+<img border="0" src="http://4.bp.blogspot.com/-PAwDJfQjvd0/UJjp-e8ZSnI/AAAAAAABVos/qIEodEPYdOw/s600/2012-11-04+at+14-09-33.jpg"   />
 
-<img border="0" src="http://2.bp.blogspot.com/-ZjVbE5mKZkM/UJjqEcf5uLI/AAAAAAABVpc/eejkU6yV5a0/s320/2012-11-04+at+14-14-18.jpg" height="266" width="400" />
+<img border="0" src="http://2.bp.blogspot.com/-ZjVbE5mKZkM/UJjqEcf5uLI/AAAAAAABVpc/eejkU6yV5a0/s600/2012-11-04+at+14-14-18.jpg"   />
 
-<img border="0" src="http://4.bp.blogspot.com/-NK-VumWZNYU/UJjqF8zxKqI/AAAAAAABVpk/8nGZkoZ8DTo/s320/2012-11-04+at+14-14-25.jpg" height="266" width="400" />
+<img border="0" src="http://4.bp.blogspot.com/-NK-VumWZNYU/UJjqF8zxKqI/AAAAAAABVpk/8nGZkoZ8DTo/s600/2012-11-04+at+14-14-25.jpg"   />
 
 Killer Klowns from Outer Space?! (Movie <a href="http://www.imdb.com/title/tt0095444/">reference</a>)
-<img border="0" src="http://1.bp.blogspot.com/-XZcDyIGbmtA/UJjqJxoQVGI/AAAAAAABVp8/clFZMPdwSaU/s320/2012-11-04+at+14-47-57.jpg" height="400" width="266" />
+<img border="0" src="http://1.bp.blogspot.com/-XZcDyIGbmtA/UJjqJxoQVGI/AAAAAAABVp8/clFZMPdwSaU/s600/2012-11-04+at+14-47-57.jpg"   />
 
-<img border="0" src="http://4.bp.blogspot.com/-EP_9oStDxsE/UJjqK-TGZ4I/AAAAAAABVqE/GM1HtKvbgNo/s320/2012-11-04+at+15-05-47.jpg" height="400" width="266" />
+<img border="0" src="http://4.bp.blogspot.com/-EP_9oStDxsE/UJjqK-TGZ4I/AAAAAAABVqE/GM1HtKvbgNo/s600/2012-11-04+at+15-05-47.jpg"   />
 
-<img border="0" src="http://4.bp.blogspot.com/-t-S12cBc3C4/UJjqMRfBBxI/AAAAAAABVqM/uncbslVqJ5M/s320/2012-11-04+at+15-10-44.jpg" height="266" width="400" />
+<img border="0" src="http://4.bp.blogspot.com/-t-S12cBc3C4/UJjqMRfBBxI/AAAAAAABVqM/uncbslVqJ5M/s600/2012-11-04+at+15-10-44.jpg"   />
 
-<img border="0" src="http://1.bp.blogspot.com/-ebl7oTa72lY/UJjqNVjAgEI/AAAAAAABVqU/R0_p9UAzbpQ/s320/2012-11-04+at+15-20-23.jpg" height="400" width="266" />
+<img border="0" src="http://1.bp.blogspot.com/-ebl7oTa72lY/UJjqNVjAgEI/AAAAAAABVqU/R0_p9UAzbpQ/s600/2012-11-04+at+15-20-23.jpg"   />
 
-<img border="0" src="http://3.bp.blogspot.com/-VZfzbe9UUOM/UJjqO0v-HOI/AAAAAAABVqc/IZW6oP7uyi8/s320/2012-11-04+at+15-47-39.jpg" height="266" width="400" />
+<img border="0" src="http://3.bp.blogspot.com/-VZfzbe9UUOM/UJjqO0v-HOI/AAAAAAABVqc/IZW6oP7uyi8/s600/2012-11-04+at+15-47-39.jpg"   />
 
-<img border="0" src="http://1.bp.blogspot.com/-MW-2wd5-aQo/UJjqQPBCM6I/AAAAAAABVqk/SIBi9mXohhI/s320/2012-11-04+at+15-50-37.jpg" height="400" width="266" />
+<img border="0" src="http://1.bp.blogspot.com/-MW-2wd5-aQo/UJjqQPBCM6I/AAAAAAABVqk/SIBi9mXohhI/s600/2012-11-04+at+15-50-37.jpg"   />
 

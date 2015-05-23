@@ -22,40 +22,40 @@ There were only two events I attended last month:
 
 The Nerd Dinner was at Rock Bottom and was arranged by <a href="http://twitter.com/#!/areshankar">Shankar Ramachandran</a>. Very chill meetup, great talks with awesome .Net developers. I hope there can be more of these.
 
-<a href="http://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF0oVw/s1600/IMG_2267.jpg" imageanchor="1"><img border="0" height="213" src="http://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF0oVw/s320/IMG_2267.jpg" width="320" /></a>
+<a href="http://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF0oVw/s600/IMG_2267.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF0oVw/s320/IMG_2267.jpg"  /></a>
 
-<a href="http://4.bp.blogspot.com/-nXCfJRQH38M/TH8r0l_01PI/AAAAAAAAWhA/U-yVOlBka88/s1600/IMG_2269.jpg" imageanchor="1"><img border="0" height="213" src="http://4.bp.blogspot.com/-nXCfJRQH38M/TH8r0l_01PI/AAAAAAAAWhA/U-yVOlBka88/s320/IMG_2269.jpg" width="320" /></a>
+<a href="http://4.bp.blogspot.com/-nXCfJRQH38M/TH8r0l_01PI/AAAAAAAAWhA/U-yVOlBka88/s600/IMG_2269.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-nXCfJRQH38M/TH8r0l_01PI/AAAAAAAAWhA/U-yVOlBka88/s320/IMG_2269.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-sXpx_QCpgZc/TH8tqes1-aI/AAAAAAAAWhg/-RIhLeLO-qs/s1600/IMG_2270.jpg" imageanchor="1"><img border="0" height="213" src="http://3.bp.blogspot.com/-sXpx_QCpgZc/TH8tqes1-aI/AAAAAAAAWhg/-RIhLeLO-qs/s320/IMG_2270.jpg" width="320" /></a>
+<a href="http://3.bp.blogspot.com/-sXpx_QCpgZc/TH8tqes1-aI/AAAAAAAAWhg/-RIhLeLO-qs/s600/IMG_2270.jpg" ><img border="0"  src="http://3.bp.blogspot.com/-sXpx_QCpgZc/TH8tqes1-aI/AAAAAAAAWhg/-RIhLeLO-qs/s320/IMG_2270.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-hwMEIT321ts/TH8t198LhCI/AAAAAAAAWh8/YeDb4S0t4Ec/s1600/IMG_2273.jpg" imageanchor="1"><img border="0" height="213" src="http://1.bp.blogspot.com/-hwMEIT321ts/TH8t198LhCI/AAAAAAAAWh8/YeDb4S0t4Ec/s320/IMG_2273.jpg" width="320" /></a>
+<a href="http://1.bp.blogspot.com/-hwMEIT321ts/TH8t198LhCI/AAAAAAAAWh8/YeDb4S0t4Ec/s600/IMG_2273.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-hwMEIT321ts/TH8t198LhCI/AAAAAAAAWh8/YeDb4S0t4Ec/s320/IMG_2273.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-eQAUkOwWvo4/TH8t9azBoyI/AAAAAAAAWiM/UfoOx15zOhs/s1600/IMG_2276.jpg" imageanchor="1"><img border="0" height="213" src="http://1.bp.blogspot.com/-eQAUkOwWvo4/TH8t9azBoyI/AAAAAAAAWiM/UfoOx15zOhs/s320/IMG_2276.jpg" width="320" /></a>
+<a href="http://1.bp.blogspot.com/-eQAUkOwWvo4/TH8t9azBoyI/AAAAAAAAWiM/UfoOx15zOhs/s600/IMG_2276.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-eQAUkOwWvo4/TH8t9azBoyI/AAAAAAAAWiM/UfoOx15zOhs/s320/IMG_2276.jpg"  /></a>
 
-<a href="http://4.bp.blogspot.com/-aVxRxPYrkhU/TH8uBNkj16I/AAAAAAAAWiU/jHJ7xyj_dRs/s1600/IMG_2277.jpg" imageanchor="1"><img border="0" height="213" src="http://4.bp.blogspot.com/-aVxRxPYrkhU/TH8uBNkj16I/AAAAAAAAWiU/jHJ7xyj_dRs/s320/IMG_2277.jpg" width="320" /></a>
+<a href="http://4.bp.blogspot.com/-aVxRxPYrkhU/TH8uBNkj16I/AAAAAAAAWiU/jHJ7xyj_dRs/s600/IMG_2277.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-aVxRxPYrkhU/TH8uBNkj16I/AAAAAAAAWiU/jHJ7xyj_dRs/s320/IMG_2277.jpg"  /></a>
 
-<a href="http://2.bp.blogspot.com/-mzqcduPFkJM/TH8wAO9HlKI/AAAAAAAAWio/vxzq8QAmT0Q/s1600/IMG_2278.jpg" imageanchor="1"><img border="0" height="213" src="http://2.bp.blogspot.com/-mzqcduPFkJM/TH8wAO9HlKI/AAAAAAAAWio/vxzq8QAmT0Q/s320/IMG_2278.jpg" width="320" /></a>
+<a href="http://2.bp.blogspot.com/-mzqcduPFkJM/TH8wAO9HlKI/AAAAAAAAWio/vxzq8QAmT0Q/s600/IMG_2278.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-mzqcduPFkJM/TH8wAO9HlKI/AAAAAAAAWio/vxzq8QAmT0Q/s320/IMG_2278.jpg"  /></a>
 
-<a href="http://4.bp.blogspot.com/-PYxXJhRzWFs/TH8yKjYSvmI/AAAAAAAAWjQ/CoXdNHDBkQA/s1600/IMG_2282.jpg" imageanchor="1"><img border="0" height="213" src="http://4.bp.blogspot.com/-PYxXJhRzWFs/TH8yKjYSvmI/AAAAAAAAWjQ/CoXdNHDBkQA/s320/IMG_2282.jpg" width="320" /></a>
+<a href="http://4.bp.blogspot.com/-PYxXJhRzWFs/TH8yKjYSvmI/AAAAAAAAWjQ/CoXdNHDBkQA/s600/IMG_2282.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-PYxXJhRzWFs/TH8yKjYSvmI/AAAAAAAAWjQ/CoXdNHDBkQA/s320/IMG_2282.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-qe_DSOZfWgg/TH8zP44rZmI/AAAAAAAAWjo/5rlNCfOJN5w/s1600/IMG_2284.jpg" imageanchor="1"><img border="0" height="213" src="http://3.bp.blogspot.com/-qe_DSOZfWgg/TH8zP44rZmI/AAAAAAAAWjo/5rlNCfOJN5w/s320/IMG_2284.jpg" width="320" /></a>
+<a href="http://3.bp.blogspot.com/-qe_DSOZfWgg/TH8zP44rZmI/AAAAAAAAWjo/5rlNCfOJN5w/s600/IMG_2284.jpg" ><img border="0"  src="http://3.bp.blogspot.com/-qe_DSOZfWgg/TH8zP44rZmI/AAAAAAAAWjo/5rlNCfOJN5w/s320/IMG_2284.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-mC3kIEuz0WM/TH8zT0n-rKI/AAAAAAAAWjw/dFG30GWjlBA/s1600/IMG_2287.jpg" imageanchor="1"><img border="0" height="213" src="http://3.bp.blogspot.com/-mC3kIEuz0WM/TH8zT0n-rKI/AAAAAAAAWjw/dFG30GWjlBA/s320/IMG_2287.jpg" width="320" /></a>
+<a href="http://3.bp.blogspot.com/-mC3kIEuz0WM/TH8zT0n-rKI/AAAAAAAAWjw/dFG30GWjlBA/s600/IMG_2287.jpg" ><img border="0"  src="http://3.bp.blogspot.com/-mC3kIEuz0WM/TH8zT0n-rKI/AAAAAAAAWjw/dFG30GWjlBA/s320/IMG_2287.jpg"  /></a>
 
 Full album for Nerd Dinner<a href="http://picasaweb.google.com/sunpech/2010September1NerdDinner">here</a>. 
 
 The Selenium presentation was by<a href="http://twitter.com/#!/bwilken">Brad Wilkening</a>. Entertaining and informative. Also a great turnout.
 
-<a href="http://1.bp.blogspot.com/-Qi0nV5kkci4/TIhs3hWDYkI/AAAAAAAAW08/cQs3dUwz_VA/s1600/IMG_2295.jpg" imageanchor="1"><img border="0" height="213" src="http://1.bp.blogspot.com/-Qi0nV5kkci4/TIhs3hWDYkI/AAAAAAAAW08/cQs3dUwz_VA/s320/IMG_2295.jpg" width="320" /></a>
+<a href="http://1.bp.blogspot.com/-Qi0nV5kkci4/TIhs3hWDYkI/AAAAAAAAW08/cQs3dUwz_VA/s600/IMG_2295.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-Qi0nV5kkci4/TIhs3hWDYkI/AAAAAAAAW08/cQs3dUwz_VA/s320/IMG_2295.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-uqMw2jg0U5E/TIhtEldUYLI/AAAAAAAAW08/iflWlsJ_TAo/s1600/IMG_2297.jpg" imageanchor="1"><img border="0" height="213" src="http://1.bp.blogspot.com/-uqMw2jg0U5E/TIhtEldUYLI/AAAAAAAAW08/iflWlsJ_TAo/s320/IMG_2297.jpg" width="320" /></a>
+<a href="http://1.bp.blogspot.com/-uqMw2jg0U5E/TIhtEldUYLI/AAAAAAAAW08/iflWlsJ_TAo/s600/IMG_2297.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-uqMw2jg0U5E/TIhtEldUYLI/AAAAAAAAW08/iflWlsJ_TAo/s320/IMG_2297.jpg"  /></a>
 
-<a href="http://4.bp.blogspot.com/-wGkb0jT9wrY/TIhtI3muTDI/AAAAAAAAW08/a_kZuDJJyi8/s1600/IMG_2298.jpg" imageanchor="1"><img border="0" height="213" src="http://4.bp.blogspot.com/-wGkb0jT9wrY/TIhtI3muTDI/AAAAAAAAW08/a_kZuDJJyi8/s320/IMG_2298.jpg" width="320" /></a>
+<a href="http://4.bp.blogspot.com/-wGkb0jT9wrY/TIhtI3muTDI/AAAAAAAAW08/a_kZuDJJyi8/s600/IMG_2298.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-wGkb0jT9wrY/TIhtI3muTDI/AAAAAAAAW08/a_kZuDJJyi8/s320/IMG_2298.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-SGl4mIVTSEc/TIhtVKyBaCI/AAAAAAAAW08/TRZmRu9DKIc/s1600/IMG_2302.jpg" imageanchor="1"><img border="0" height="213" src="http://1.bp.blogspot.com/-SGl4mIVTSEc/TIhtVKyBaCI/AAAAAAAAW08/TRZmRu9DKIc/s320/IMG_2302.jpg" width="320" /></a>
+<a href="http://1.bp.blogspot.com/-SGl4mIVTSEc/TIhtVKyBaCI/AAAAAAAAW08/TRZmRu9DKIc/s600/IMG_2302.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-SGl4mIVTSEc/TIhtVKyBaCI/AAAAAAAAW08/TRZmRu9DKIc/s320/IMG_2302.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-SM-tDDX7HEU/TIhvlkmyZOI/AAAAAAAAW08/v00oKKDkfnQ/s1600/IMG_2307.jpg" imageanchor="1"><img border="0" height="213" src="http://3.bp.blogspot.com/-SM-tDDX7HEU/TIhvlkmyZOI/AAAAAAAAW08/v00oKKDkfnQ/s320/IMG_2307.jpg" width="320" /></a>
+<a href="http://3.bp.blogspot.com/-SM-tDDX7HEU/TIhvlkmyZOI/AAAAAAAAW08/v00oKKDkfnQ/s600/IMG_2307.jpg" ><img border="0"  src="http://3.bp.blogspot.com/-SM-tDDX7HEU/TIhvlkmyZOI/AAAAAAAAW08/v00oKKDkfnQ/s320/IMG_2307.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-hWCXY0mLEp0/TIhv4AAsXCI/AAAAAAAAW08/rATCmwSLkzg/s1600/IMG_2311.jpg" imageanchor="1"><img border="0" height="213" src="http://1.bp.blogspot.com/-hWCXY0mLEp0/TIhv4AAsXCI/AAAAAAAAW08/rATCmwSLkzg/s320/IMG_2311.jpg" width="320" /></a>
+<a href="http://1.bp.blogspot.com/-hWCXY0mLEp0/TIhv4AAsXCI/AAAAAAAAW08/rATCmwSLkzg/s600/IMG_2311.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-hWCXY0mLEp0/TIhv4AAsXCI/AAAAAAAAW08/rATCmwSLkzg/s320/IMG_2311.jpg"  /></a>
 
 Full album <a href="http://picasaweb.google.com/sunpech/2010SeptemberChicagoAltNetBradWilkeningOnSelenium">here</a>.

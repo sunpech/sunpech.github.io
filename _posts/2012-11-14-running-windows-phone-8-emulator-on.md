@@ -23,7 +23,7 @@ Not long ago I blogged about <a href="/2012/11/installing-windows-8-pro-on-paral
 
 As a lot of people <a href="http://forum.parallels.com/showthread.php?p=646448#post646448">pointed out</a>, it's not really possible in <a href="http://www.parallels.com/products/desktop/">Parallels Desktop 8</a> (PD8), but is possible through <a href="http://www.vmware.com/products/fusion/overview.html">VMware Fusion 5</a> (VMF5) with a small workaround. 
 
-<img border="0" height="160" src="http://1.bp.blogspot.com/-zmyacljuX2g/UKN_RJcTrtI/AAAAAAABVvU/68s9SzlJNw0/s320/VMF5_WinPhone8.jpg" width="320" />
+<img border="0" src="http://1.bp.blogspot.com/-zmyacljuX2g/UKN_RJcTrtI/AAAAAAABVvU/68s9SzlJNw0/s320/VMF5_WinPhone8.jpg" />
 
 I recommend following <a href="http://blog.catenalogic.com/post/2012/10/31/Running-the-Windows-Phone-8-emulator-in-a-virtual-machine.aspx">this guide</a>, but will supplement some more information as it pertains to VMF5, as it's not exactly the same as <a href="http://www.vmware.com/products/workstation/overview.html">VMware Workstation 9</a>. 
 
@@ -32,30 +32,30 @@ First off, I recommend installing from scratch. I tried to import my existing vi
 Even if you have or haven't installed VS2012 with <a href="http://dev.windowsphone.com/en-us/downloadsdk">Windows Phone 8 SDK</a>, you should uninstall Hyper-V. 
 
 You can get to this in Windows 8 through Control Panel and search for "windows features". Then click on "Turn Windows features on or off".
-<img border="0" src="http://1.bp.blogspot.com/-C7zU-pHW7Jw/UKN37F-5vDI/AAAAAAABVuw/nzMZOJBcOdo/s1600/WindowsFeaturesOnOff.jpg" />
+<img border="0" src="http://1.bp.blogspot.com/-C7zU-pHW7Jw/UKN37F-5vDI/AAAAAAABVuw/nzMZOJBcOdo/s600/WindowsFeaturesOnOff.jpg" />
 
 Make sure these boxes are unchecked, as in off. <i>You'll check these back on later.</i>
-<img border="0" src="http://3.bp.blogspot.com/-XR-8QkUXTbc/UKN36ddCFpI/AAAAAAABVuo/9tFQJ48tGHI/s1600/WindowsFeatureHyperV.jpg" />
+<img border="0" src="http://3.bp.blogspot.com/-XR-8QkUXTbc/UKN36ddCFpI/AAAAAAABVuo/9tFQJ48tGHI/s600/WindowsFeatureHyperV.jpg" />
 
 Next in the virtual machine's settings, in Processors &amp; Memory, uncheck "Enable hypervisor applications in this virtual machine". <i>You'll check this back on later.</i>
-<img border="0" src="http://1.bp.blogspot.com/-sCtRF5kTCfY/UKN5_Jt_bbI/AAAAAAABVvI/i90-4JqzU30/s1600/VMF5_Settings_ProcMemory.jpg" />
+<img border="0" src="http://1.bp.blogspot.com/-sCtRF5kTCfY/UKN5_Jt_bbI/AAAAAAABVvI/i90-4JqzU30/s600/VMF5_Settings_ProcMemory.jpg" />
 
-<img border="0" src="http://1.bp.blogspot.com/-cyYSt7ZXA5U/UKN35aaDeNI/AAAAAAABVuY/o4hbXsnSDvc/s1600/Enable_HypervisorApps.jpeg" />
+<img border="0" src="http://1.bp.blogspot.com/-cyYSt7ZXA5U/UKN35aaDeNI/AAAAAAABVuY/o4hbXsnSDvc/s600/Enable_HypervisorApps.jpeg" />
 
 Next you have the Virtual Machine Library window open, and then right click + hold alt (option) key to get the option to "Open Config File in Editor".
-<img border="0" src="http://3.bp.blogspot.com/-pQzTbbDdYys/UKN3592LDpI/AAAAAAABVug/YITcCVyxs_w/s1600/VirtualMachineLibrary_screenshot.jpg" />
+<img border="0" src="http://3.bp.blogspot.com/-pQzTbbDdYys/UKN3592LDpI/AAAAAAABVug/YITcCVyxs_w/s600/VirtualMachineLibrary_screenshot.jpg" />
 
 Here add the following settings, as they shouldn't exist.
 
 <span style="font-family: Courier New, Courier, monospace;">hypervisor.cpuid.v0 = "FALSE" </span>
 <span style="font-family: Courier New, Courier, monospace;">mce.enable = "TRUE"</span>
 
-<img border="0" src="http://4.bp.blogspot.com/-AHePf3IN7os/UKN45Tx3lZI/AAAAAAABVvA/ywwBSwzJpYk/s1600/EditVMXFile.jpg" />
+<img border="0" src="http://4.bp.blogspot.com/-AHePf3IN7os/UKN45Tx3lZI/AAAAAAABVvA/ywwBSwzJpYk/s600/EditVMXFile.jpg" />
 
 Finally, check back on everything you unchecked from before. A restart is probably needed for the Windows Hyper-V install again.
 
 Now you'll be able to run a Windows Phone Emulator within VMware Fusion 5, on a Mac!
-<img border="0" src="http://1.bp.blogspot.com/-gieJA_9CfPE/UKN38Cjws5I/AAAAAAABVu4/TIrgwj5uh3c/s1600/WindowsPhoneEmulator.jpg" />
+<img border="0" src="http://1.bp.blogspot.com/-gieJA_9CfPE/UKN38Cjws5I/AAAAAAABVu4/TIrgwj5uh3c/s600/WindowsPhoneEmulator.jpg" />
 
 Happy coding!
 

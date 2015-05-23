@@ -18,7 +18,7 @@ This is my vending machine at work.  I happen to like Reeses Peanut Butter Cups.
 
 Can you see what's wrong?
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s1600-h/vending_machine.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5304355707276257122" src="http://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s400/vending_machine.jpg" /></a>
+<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s600-h/vending_machine.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5304355707276257122" src="http://4.bp.blogspot.com/_7U5MdumP-no/SZzbaX6EZ2I/AAAAAAAAIks/UHThbD6zBb0/s400/vending_machine.jpg" /></a>
 
 It's behind a 100 Grand, one of the worst pieces of candy in the entire machine.  I haven't enjoyed a 100 Grand since I was a kid, which is probably the age of the candy since everybody knows it's stale and gross.
 

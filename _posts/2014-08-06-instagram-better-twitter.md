@@ -13,7 +13,7 @@ blogger_orig_url: http://www.sunpech.com/2014/08/instagram-better-twitter.html
 redirect_from: /2014/08/instagram-better-twitter.html
 ---
 
-<img border="0" src="http://2.bp.blogspot.com/-BYQ46aWVEJ4/U-DxKnCEGDI/AAAAAAABv6I/qq2oO4rI48M/s1600/InstagramTwitter.jpg" height="291" width="400" />
+<img border="0" src="http://2.bp.blogspot.com/-BYQ46aWVEJ4/U-DxKnCEGDI/AAAAAAABv6I/qq2oO4rI48M/s600/InstagramTwitter.jpg" height="291"  />
 
 I like Twitter for following interesting people and entities. But lately, I've taken to Instagram more because it can also be interesting <i>and</i> more visually pleasing since each post has a picture telling a story.
 
@@ -93,5 +93,5 @@ This all said, the communities are vastly different. I definitely tweet a lot mo
 
 Screenshots of the Jessica Alba's recent Instagram and Twitter posts. Engagement on Instagram far higher than Twitter.
 
-<img border="0" src="http://3.bp.blogspot.com/-VORsyfQmUj4/U-FL5-eL_kI/AAAAAAABv64/OslgxDSLk24/s1600/JessicaAlba_Instagram_vs_Twitter.jpg" height="327" width="400" />
+<img border="0" src="http://3.bp.blogspot.com/-VORsyfQmUj4/U-FL5-eL_kI/AAAAAAABv64/OslgxDSLk24/s600/JessicaAlba_Instagram_vs_Twitter.jpg" height="327"  />
 

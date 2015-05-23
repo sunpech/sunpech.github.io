@@ -29,7 +29,7 @@ We switched over to AOL because there was a social aspect to it. You could build
 
 I probably joined <a href="http://www.asianave.com/">Asian Avenue</a> my freshman year in college in 1997. I'm pretty sure my Canadian-Chinese roommate got me on it. It was a social network for Asians obviously. The site is still alive today, but it's very different from how it was back then. My account no longer exists, as they terminated it without giving me any notice. I just recall it being somewhat of a game where the number of visits to your profile was rewarded with points that you could use to get a free Asian Ave hat, t-shirt, or some other prize. I never got enough points to get anything.
 
-<a href="http://3.bp.blogspot.com/-7HCppjKGTCY/TiE5fFqGMqI/AAAAAAAAsj4/Aa2FsIbulr4/s1600/asian_avenue.png" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/-7HCppjKGTCY/TiE5fFqGMqI/AAAAAAAAsj4/Aa2FsIbulr4/s400/asian_avenue.png" height="282" width="400" /></a>
+<a href="http://3.bp.blogspot.com/-7HCppjKGTCY/TiE5fFqGMqI/AAAAAAAAsj4/Aa2FsIbulr4/s600/asian_avenue.png" ><img border="0" src="http://3.bp.blogspot.com/-7HCppjKGTCY/TiE5fFqGMqI/AAAAAAAAsj4/Aa2FsIbulr4/s400/asian_avenue.png" /></a>
 
 ### Geocities
 

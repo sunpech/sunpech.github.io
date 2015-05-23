@@ -43,5 +43,5 @@ Okay, rant over. Sharing time. One photo only though, I like to keep this weddin
 
 Here is a shot of the gazebo before the wedding. This is one of my favorite shots I took in the Bahamas.
 
-<img border="0" height="358" src="http://3.bp.blogspot.com/-dSsewRaCBs4/UXw5SGYDdsI/AAAAAAABbvw/F96m8A4vlJI/s640/2013-04-19+at+12-23-23.jpg" width="640" />
+<img border="0" src="http://3.bp.blogspot.com/-dSsewRaCBs4/UXw5SGYDdsI/AAAAAAABbvw/F96m8A4vlJI/s600/2013-04-19+at+12-23-23.jpg"  />
 

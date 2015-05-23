@@ -19,7 +19,7 @@ What makes it my favorite is that it collects all my favorite websites/blogs int
 
 I used to use Microsoft Outlook, Google's personal homepage, and even <a href="http://www.netvibes.com">NetVibes</a> to collect my feeds, but as I use several computers to read my news feeds, they would never sync what I already read.
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBcHWg0/s1600-h/google_reader_screenshot.png"><img style="cursor:pointer; cursor:hand;width: 400px; height: 369px;" src="http://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBcHWg0/s400/google_reader_screenshot.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5305255604637676466" /></a>
+<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBcHWg0/s600-h/google_reader_screenshot.png"><img src="http://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBcHWg0/s400/google_reader_screenshot.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5305255604637676466" /></a>
 
 #### Other Web Apps
 A close second would be <a href="http://mail.google.com">Gmail</a>.  But lately the application has been getting features which I consider somewhat "bloating".  And I do mean this through the Labs feature.  There are just too many options that just add clutter and confusion to what's supposed to be a simple and fast interface for email.  Thankfully, I didn't enable many of them, but I do notice that Gmail seems to load slower than before.

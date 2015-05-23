@@ -34,7 +34,7 @@ Not long after, Google came out with a beta for <a href="http://music.google.com
 
 In June 2011 Steve Jobs revealed the <a href="http://www.apple.com/icloud/">iCloud</a> service, but it won't be available until Fall of 2011. It would maybe be of interest to me if it would retroactively let me download all the previously purchased music from 2005/2006. But it doesn't change the fact that I stil do no like using iTunes even on my Macbook Pro.
 
-<img border="0" src="http://2.bp.blogspot.com/-9PGs5zr-3k0/TxVmDMws0pI/AAAAAAAA2o0/ByIR-2Y4ymA/s320/music_logos.png" height="285" width="400" />
+<img border="0" src="http://2.bp.blogspot.com/-9PGs5zr-3k0/TxVmDMws0pI/AAAAAAAA2o0/ByIR-2Y4ymA/s320/music_logos.png" height="285"  />
   
 In mid July 2011, <a href="http://www.spotify.com/us/blog/archives/2011/07/14/hello-america-spotify-here/">Spotify says hello the the US</a>. Hello Spotify.
 

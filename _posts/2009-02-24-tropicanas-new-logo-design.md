@@ -15,7 +15,7 @@ redirect_from: /2009/02/tropicanas-new-logo-design.html
 
 This morning I had a peanut butter and jelly sandwich, toasted.  It was delicious.  Along with it I had some orange juice (OJ), but not just any OJ, Minute Maid OJ.
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s1600-h/1235483922047.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5306519151514531906" src="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s400/1235483922047.jpg" style="cursor: hand; cursor: pointer; height: 300px; width: 400px;" /></a>
+<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s600-h/1235483922047.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5306519151514531906" src="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNXhQZw/s400/1235483922047.jpg" /></a>
 
 For years I've been more of a Tropicana OJ kind-of-guy, but with Tropicana's somewhat recent logo switch on their cartons, I just felt compelled to switch.  
 
@@ -25,7 +25,7 @@ What they had before made sense (see left carton).  An orange with a straw in it
 
 Their new logo (right carton)... I don't know what that's supposed to be.  It doesn't register in my mind as any kind of orange icon or flavor.  It's generic and boring looking.
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDiJrFAI/AAAAAAAAIlo/wkUWyNsm2VQ/s1600-h/tropicana.png"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5306519153772532738" src="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDiJrFAI/AAAAAAAAIlo/wkUWyNsm2VQ/s400/tropicana.png" style="cursor: hand; cursor: pointer; height: 225px; width: 300px;" /></a>
+<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDiJrFAI/AAAAAAAAIlo/wkUWyNsm2VQ/s600-h/tropicana.png"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5306519153772532738" src="http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDiJrFAI/AAAAAAAAIlo/wkUWyNsm2VQ/s400/tropicana.png" /></a>
 
 I like my OJ pulp-free.  Notice how Tropicana's old logo, the text of "No Pulp" is easy to find, top and middle.  Look at Minute Maid's logo, "Pulp Free" is right under it!  Both so simple!
 

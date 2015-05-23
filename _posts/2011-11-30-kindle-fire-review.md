@@ -14,7 +14,7 @@ blogger_orig_url: http://www.sunpech.com/2011/11/kindle-fire-review.html
 redirect_from: /2011/11/kindle-fire-review.html
 ---
 
-I pre-ordered my <a href="http://www.amazon.com/gp/product/B0051VVOB2?ie=UTF8&amp;tag=spongorg&amp;linkCode=shr&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B0051VVOB2&amp;ref_=amb_link_359054382_4">Kindle Fire</a> in early October. I've wanted an eReader device for a long time, ever since I've been traveling so much. Carrying books around is such a pain.
+I pre-ordered my <a href="http://www.amazon.com/gp/product/B0051VVOB2?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=shr&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B0051VVOB2&amp;ref_=amb_link_359054382_4">Kindle Fire</a> in early October. I've wanted an eReader device for a long time, ever since I've been traveling so much. Carrying books around is such a pain.
 
 Like many others out there, I got my Kindle Fire on November 15, 2011. After a few weeks of using the Fire, I felt I could give it a good review. I've used it for playing Words With Friends, some basic browsing on Amazon, and I finished reading the Steve Jobs biography on it.
 
@@ -32,13 +32,13 @@ I know I've made comparisons to the iPad several times already. But I feel that 
 
 If you are looking for tablet with tons of apps, this device probably isn't for you. If you are looking for an eReader, love shopping on Amazon, and play only a few app games, and don't want to spend $300-700, then you should consider the Kindle Fire.
 
-<a href="http://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s1600/www-3.jpeg"><img border="0" src="http://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s320/www-3.jpeg" height="300" width="400" /></a>
+<a href="http://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s600/www-3.jpeg"><img border="0" src="http://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2dCbAE/s320/www-3.jpeg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-9YQejrnjuRM/TxVmFfgn9_I/AAAAAAAA2p4/K0FZPy4wgOk/s1600/www.jpeg"><img border="0" src="http://1.bp.blogspot.com/-9YQejrnjuRM/TxVmFfgn9_I/AAAAAAAA2p4/K0FZPy4wgOk/s320/www.jpeg" height="300" width="400" /></a>
+<a href="http://1.bp.blogspot.com/-9YQejrnjuRM/TxVmFfgn9_I/AAAAAAAA2p4/K0FZPy4wgOk/s600/www.jpeg"><img border="0" src="http://1.bp.blogspot.com/-9YQejrnjuRM/TxVmFfgn9_I/AAAAAAAA2p4/K0FZPy4wgOk/s320/www.jpeg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-cwo4oE2HmJ8/TxVmDntlcbI/AAAAAAAA2pI/ejBvq7Pcjv8/s1600/www-1.jpeg"><img border="0" src="http://1.bp.blogspot.com/-cwo4oE2HmJ8/TxVmDntlcbI/AAAAAAAA2pI/ejBvq7Pcjv8/s320/www-1.jpeg" height="400" width="300" /></a>
+<a href="http://1.bp.blogspot.com/-cwo4oE2HmJ8/TxVmDntlcbI/AAAAAAAA2pI/ejBvq7Pcjv8/s600/www-1.jpeg"><img border="0" src="http://1.bp.blogspot.com/-cwo4oE2HmJ8/TxVmDntlcbI/AAAAAAAA2pI/ejBvq7Pcjv8/s320/www-1.jpeg"  width="300" /></a>
 
-<a href="http://1.bp.blogspot.com/-tEucXHdMemg/TxVmDyZ_kzI/AAAAAAAA2pQ/C5ImPwIrfdg/s1600/www-2.jpeg"><img border="0" src="http://1.bp.blogspot.com/-tEucXHdMemg/TxVmDyZ_kzI/AAAAAAAA2pQ/C5ImPwIrfdg/s320/www-2.jpeg" height="300" width="400" /></a>
+<a href="http://1.bp.blogspot.com/-tEucXHdMemg/TxVmDyZ_kzI/AAAAAAAA2pQ/C5ImPwIrfdg/s600/www-2.jpeg"><img border="0" src="http://1.bp.blogspot.com/-tEucXHdMemg/TxVmDyZ_kzI/AAAAAAAA2pQ/C5ImPwIrfdg/s320/www-2.jpeg"  /></a>
 
 
 

@@ -26,29 +26,29 @@ Here's what I bought:
   <li><a href="http://www.amazon.com/gp/product/B003Z2NIH2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003Z2NIH2&amp;linkCode=as2&amp;tag=sunpech-20">2.5 inch SATA Hard Drive to USB 2.0 Adapter Cable with Silicon Protective Case</a> (~$10)</li>
 </ol>
 
-<img border="0" height="213" src="http://4.bp.blogspot.com/-FBVfhSHJKIM/UI4eGVAOCtI/AAAAAAABVfU/ZWbZfflKTAQ/s320/2012-10-23+at+15-35-39.jpg" width="320" />
+<img border="0"  src="http://4.bp.blogspot.com/-FBVfhSHJKIM/UI4eGVAOCtI/AAAAAAABVfU/ZWbZfflKTAQ/s320/2012-10-23+at+15-35-39.jpg"  />
 
 The SATA to USB 2.0 adapter and cable with the SSD attached.
-<img border="0" height="213" src="http://4.bp.blogspot.com/-0XZ7zRKaIEo/UI4eHRhZfTI/AAAAAAABVfc/K80c8YCwe68/s320/2012-10-23+at+15-45-22.jpg" width="320" />
+<img border="0"  src="http://4.bp.blogspot.com/-0XZ7zRKaIEo/UI4eHRhZfTI/AAAAAAABVfc/K80c8YCwe68/s320/2012-10-23+at+15-45-22.jpg"  />
 
 Next, I cloned my current hard drive over to the SSD. I used a <i>free</i> cloning app: <a href="http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html">Super Duper</a>. Install it and just choose to <i>backup all files</i>. This may take a while, depending on how much data you're transferring over. Interestingly enough, the USB adapter used two USB connections.
 
 Transferring my files over to the SSD via USB, aka cloning the hard drive.
-<img border="0" height="213" src="http://2.bp.blogspot.com/-oOa2Ter8GPA/UI4eIA0gDtI/AAAAAAABVfk/ka9mCEfn2Wc/s320/2012-10-23+at+16-02-29.jpg" width="320" />
+<img border="0"  src="http://2.bp.blogspot.com/-oOa2Ter8GPA/UI4eIA0gDtI/AAAAAAABVfk/ka9mCEfn2Wc/s320/2012-10-23+at+16-02-29.jpg"  />
 
 Next, I needed to remove the screws. As shown in the picture, the three screws on the top right are longer than the others. A Phillips Head #00 is required (in the screw set I recommended above).
 
 Preparing the take the screws out.
-<img border="0" height="213" src="http://4.bp.blogspot.com/-Dx9ssmcB4hE/UI4eJaK63sI/AAAAAAABVfs/z9uZrTxx3gM/s320/2012-10-23+at+21-17-55.jpg" width="320" />
+<img border="0"  src="http://4.bp.blogspot.com/-Dx9ssmcB4hE/UI4eJaK63sI/AAAAAAABVfs/z9uZrTxx3gM/s320/2012-10-23+at+21-17-55.jpg"  />
 
 With the bottom lid removed, the hardware is exposed. The hard drive is on the bottom left. To remove that, you'll need the Torx T6 screwdriver (also found in screw set I recommended).
 
 I also recommend getting a <a href="http://www.amazon.com/gp/product/B0032OX1N4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0032OX1N4&amp;linkCode=as2&amp;tag=sunpech-20">dust remover</a> to help clean the inside of the Macbook Pro. It's amazing how much dust got into mine!
 
 Removing the hard drive
-<img border="0" height="213" src="http://1.bp.blogspot.com/-v8DsLfJaWrg/UI4eKcBZBNI/AAAAAAABVf0/3iZhr0UgLPk/s320/2012-10-23+at+21-24-12.jpg" width="320" />
+<img border="0"  src="http://1.bp.blogspot.com/-v8DsLfJaWrg/UI4eKcBZBNI/AAAAAAABVf0/3iZhr0UgLPk/s320/2012-10-23+at+21-24-12.jpg"  />
 
-<img border="0" height="213" src="http://1.bp.blogspot.com/-xNlysFymchM/UI4eLtFl6zI/AAAAAAABVf8/HMJs7C-oo4Y/s320/2012-10-23+at+21-24-18.jpg" width="320" />
+<img border="0"  src="http://1.bp.blogspot.com/-xNlysFymchM/UI4eLtFl6zI/AAAAAAABVf8/HMJs7C-oo4Y/s320/2012-10-23+at+21-24-18.jpg"  />
 
 Then I simply attached my SSD, and screwed everything back in, and ta-da, done! Well, I also recommend to enable Trim with <a href="http://www.groths.org/?page_id=322">Trim Enabler</a>.
 

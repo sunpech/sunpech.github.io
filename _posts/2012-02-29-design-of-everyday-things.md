@@ -20,7 +20,7 @@ redirect_from: /2012/02/design-of-everyday-things.html
 
 After reading the book, I am reminded of the light switch to my bathroom in my current apartment in Los Angeles. See below.
 
-<a href="http://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s1600/2012-02-29+at+12-22-53.jpg" imageanchor="1"><img border="0" height="150" src="http://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s200/2012-02-29+at+12-22-53.jpg" width="200" /></a>
+<img border="0" src="http://2.bp.blogspot.com/-lqXpR6FzT9g/T06LSu_hF_I/AAAAAAAA7K4/2KAKtjCS6FY/s400/2012-02-29+at+12-22-53.jpg" />
 
 It's such a horrible design! The left-most button, which is red, is for off. And then there are three switch combination to turn lights on. Three. It's just, awful.
 

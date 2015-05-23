@@ -26,19 +26,19 @@ I plan to take my photography gear to take plenty of pictures too! It's really f
 May 22-23, 2012<br/>
 Yerba Buena Center for Arts in San Francisco, CA
 
-<img border="0" src="http://2.bp.blogspot.com/-3ixYxkBE-y4/T4zIO8wS0QI/AAAAAAABEik/P5hTKN4pEao/s1600/GooglePlus_Conference.jpg" />
+<img border="0" src="http://2.bp.blogspot.com/-3ixYxkBE-y4/T4zIO8wS0QI/AAAAAAABEik/P5hTKN4pEao/s600/GooglePlus_Conference.jpg" />
 
 <a href="http://www.anime-expo.org/">Anime Expo</a>
 June 29 - July 2, 2012<br/>
 Los Angeles Convention Center in Los Angeles, CA
 
-<img border="0" src="http://4.bp.blogspot.com/-5-YMp8mosdU/T4zIOyH86aI/AAAAAAABEio/Y5UyRnAxv4E/s1600/anime_expo.jpg" />
+<img border="0" src="http://4.bp.blogspot.com/-5-YMp8mosdU/T4zIOyH86aI/AAAAAAABEio/Y5UyRnAxv4E/s600/anime_expo.jpg" />
 
 <a href="http://www.comic-con.org/cci/">San Diego Comic Con International</a> 
 July 11 - 15, 2012<br/>
 San Diego Convention Center in San Diego, CA
 
-<img border="0" src="http://3.bp.blogspot.com/-kak9h2BH910/T4zIO7NPRlI/AAAAAAABEis/FG8OzAk4z4c/s1600/SDCC.jpg" />
+<img border="0" src="http://3.bp.blogspot.com/-kak9h2BH910/T4zIO7NPRlI/AAAAAAABEis/FG8OzAk4z4c/s600/SDCC.jpg" />
 
 The above are all in California, but there's a few in Chicago, that I won't be attending, that I  recommend:
 
@@ -46,13 +46,13 @@ The above are all in California, but there's a few in Chicago, that I won't be a
 May 19, 2012<br/>
 College of Lake County in Grayslake, IL
 
-<img border="0" height="56" src="http://3.bp.blogspot.com/-b4CiLsMZ2LE/T4zJDHFbN_I/AAAAAAABEjA/vR8JOJ8EymI/s320/Chicago_Code_Camp.png" width="320" />
+<img border="0" height="56" src="http://3.bp.blogspot.com/-b4CiLsMZ2LE/T4zJDHFbN_I/AAAAAAABEjA/vR8JOJ8EymI/s320/Chicago_Code_Camp.png"  />
 
 <a href="http://www.wizardworldcomiccon.com/chicago.html">Wizard World Chicago Comic Con</a>
 Auguest 9-12, 2012<br/>
 Donald E. Stephens Convention Center in Chicago, IL
 
-<img border="0" src="http://3.bp.blogspot.com/-4DZ-AJTCj8Q/T44KPiGUTEI/AAAAAAABErM/wZjsqUmVCbs/s1600/wizard_world.jpg" />
+<img border="0" src="http://3.bp.blogspot.com/-4DZ-AJTCj8Q/T44KPiGUTEI/AAAAAAABErM/wZjsqUmVCbs/s600/wizard_world.jpg" />
 
 Another conference I won't be attending this year is RailsConf.
 

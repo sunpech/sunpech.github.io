@@ -26,7 +26,7 @@ I'm fine with maintenance and the short notice. I do have a <i>free plan</i> in 
 
 I didn't even know they could update the variables of my app without me! So I login to my Heroku account and see what the new credentials are, so I can update my project and check those changes into git.
 
-<img border="0" src="http://1.bp.blogspot.com/-vENWaWgHtA0/U1zvgEuumLI/AAAAAAABoJE/bYnxnmERa7Y/s1600/Screen_Shot_2014-04-27_at_4_50_28_AM.jpg" height="248" width="640" />
+<img border="0" src="http://1.bp.blogspot.com/-vENWaWgHtA0/U1zvgEuumLI/AAAAAAABoJE/bYnxnmERa7Y/s600/Screen_Shot_2014-04-27_at_4_50_28_AM.jpg" height="248"  />
 
 Noted, copied, and pasted. Done. The new credentials are updated in my local project as well as my project origin. At this point I haven't even checked to see if the website is even up yet. Turns out, it's not up. The app keeps crashing. I check the logs with <span style="font-family: Courier New, Courier, monospace;">heroku logs --tail</span> and find something like following repeating:
 
@@ -36,7 +36,7 @@ The error message is not very helpful-- yes I know the website keeps crashing, I
 
 My initial thought was that this was an older rails project and something was outdated or something new was pushed accidentally. So after a long time of fiddling around with not just my code, error logs, various settings, Gemfile, etc-- I notice something in the logs about a postgres connection failure with what appears to be my old credentials. I run the command <span style="font-family: Courier New, Courier, monospace;">heroku config</span> and get:
 
-<img border="0" src="http://1.bp.blogspot.com/-wyYvlmGNB2M/U1z0dkvTZOI/AAAAAAABoJc/xbrbGtJQ-1o/s1600/Screen_Shot_2014-04-27_at_5_10_26_AM.jpg" height="194" width="640" />
+<img border="0" src="http://1.bp.blogspot.com/-wyYvlmGNB2M/U1z0dkvTZOI/AAAAAAABoJc/xbrbGtJQ-1o/s600/Screen_Shot_2014-04-27_at_5_10_26_AM.jpg" height="194"  />
 
 This is where I noticed that the values for <span style="font-family: Courier New, Courier, monospace;">DATABASE_URL</span> had the old credentials in it, while the <span style="font-family: Courier New, Courier, monospace;">HEROKU_POSTGRESQL_COLOR_URL</span> had the new values. So I updated <span style="font-family: Courier New, Courier, monospace;">DATABASE_URL</span> with the following command:
 

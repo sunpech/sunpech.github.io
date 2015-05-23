@@ -30,4 +30,4 @@ They currently offer:
   <li>IT Academy Student Pass </li>
 </ul>
 
-<a href="http://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s1600-h/microsoft_dreamspark.png"><img style="cursor:pointer; cursor:hand;width: 400px; height: 282px;" src="http://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s400/microsoft_dreamspark.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5307996929058267218" /></a>
+<a href="http://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s600-h/microsoft_dreamspark.png"><img src="http://2.bp.blogspot.com/_7U5MdumP-no/SanLFYFh4FI/AAAAAAAAImQ/cY7jidEuOCY/s400/microsoft_dreamspark.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5307996929058267218" /></a>

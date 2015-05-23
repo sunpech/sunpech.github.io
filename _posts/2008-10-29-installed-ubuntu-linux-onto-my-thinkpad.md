@@ -20,6 +20,6 @@ What made me sick was that I could not get my work done on it and I truly enjoye
 
 Tomorrow, 8.10 will be released and I will again be upgrading my OS.  The picture below is of my system running 8.04.  Notice my G1 next to it.
 
-<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8Sdwg/s1600-h/IMG_0076.JPG"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5262781140481320466" src="http://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8Sdwg/s400/IMG_0076.JPG" style="cursor: hand; cursor: pointer; height: 267px; width: 400px;" /></a>
+<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8Sdwg/s600-h/IMG_0076.JPG"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5262781140481320466" src="http://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8Sdwg/s400/IMG_0076.JPG" /></a>
 
 On the screen I have <a href="http://conky.sourceforge.net/">Conky</a> running along with <a href="http://getsongbird.com/">Songbird</a>.  You probably can't see it from the angle this was taken.

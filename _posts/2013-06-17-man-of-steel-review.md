@@ -17,7 +17,7 @@ redirect_from: /2013/06/man-of-steel-review.html
 
 <b>SPOILERS below. You have been warned.</b>
 
-<img border="0" src="http://2.bp.blogspot.com/-b7Y5eWJwih0/Ub7XDQr14EI/AAAAAAABeaw/Kbe3Jp2udyY/s640/Screen+Shot+2013-06-17+at+2.29.29+AM.png" height="396" width="640" />
+<img border="0" src="http://2.bp.blogspot.com/-b7Y5eWJwih0/Ub7XDQr14EI/AAAAAAABeaw/Kbe3Jp2udyY/s640/Screen+Shot+2013-06-17+at+2.29.29+AM.png" />
 
 ### What I liked:
 
@@ -33,11 +33,11 @@ Similar to <a href="http://www.imdb.com/title/tt0348150/">Superman Returns</a>, 
 
 The father/son relationship between Kal-El (Superman) and Jor-El is solid. I'm a sucker for father/son relationship stories. <a href="http://www.imdb.com/name/nm0000128/">Russell Crowe</a> nailed it as Jor-El. <a href="http://www.imdb.com/name/nm0000126/">Kevin Costner </a>is just okay as Jonathan Kent.
 
-<img border="0" src="http://1.bp.blogspot.com/-swmomOz89a0/Ub7dWhkT65I/AAAAAAABebA/eF4cSbB3KCg/s320/Screen+Shot+2013-06-17+at+2.55.49+AM.png" height="320" width="320" />
+<img border="0" src="http://1.bp.blogspot.com/-swmomOz89a0/Ub7dWhkT65I/AAAAAAABebA/eF4cSbB3KCg/s320/Screen+Shot+2013-06-17+at+2.55.49+AM.png" />
 
 Their choice of the Man of Steel, <a href="http://www.imdb.com/name/nm0147147/">Henry Cavill</a> is fantastic. I really believe he is Superman. He does look a bit like <a href="http://en.wikipedia.org/wiki/Tom_Welling">Tom Welling</a> from Smallville, but way more buff and grittier. No doubt Cavill's role in <a href="http://www.imdb.com/title/tt1253864/">Immortals</a> may have something to do with it.
 
-<img border="0" src="http://1.bp.blogspot.com/-vBs9avXTh5I/Ub7QnjvityI/AAAAAAABeag/oJUICHJLur4/s320/man_of_steel.jpg" height="320" width="320" />
+<img border="0" src="http://1.bp.blogspot.com/-vBs9avXTh5I/Ub7QnjvityI/AAAAAAABeag/oJUICHJLur4/s320/man_of_steel.jpg" />
 
 ### What I didn't like:
 

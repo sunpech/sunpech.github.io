@@ -16,7 +16,7 @@ redirect_from: /2011/05/chicago-code-camp-2011.html
 
 The schedule for <a href="http://chicagocodecamp.com/">Chicago Code Camp</a> is now up! You can register for the <b>free</b> event <a href="http://chicagocodecamp.eventbrite.com/">here</a>. You can follow them on twitter at: <a href="https://twitter.com/#!/chicagocodecamp">@chicagocodecamp</a>. The twitter hash tag to follow at the event is: <a href="https://twitter.com/#!/search?q=%23ccc3">#ccc3</a>
 
-<img border="0" height="70" src="http://4.bp.blogspot.com/-GO8zdM4suwo/TcwN0B7fOpI/AAAAAAAAnss/T1nD2L7lmJc/s400/logo-horizontal.png" width="400" />
+<img border="0" src="http://4.bp.blogspot.com/-GO8zdM4suwo/TcwN0B7fOpI/AAAAAAAAnss/T1nD2L7lmJc/s400/logo-horizontal.png"  />
 
 The link to actual schedule: <a href="http://chicagocodecamp.com/schedules">Chicago Code Camp 2011 Schedule</a> (<i>this link may not work in the future-- beyond 2011</i>).
 
@@ -49,5 +49,5 @@ Saturday, May 14, 2011 from 9:00 AM - 5:00 PM<br />
 19351 West Washington Street<br />
 Grayslake, IL 60030<br />
 
-<iframe frameborder="0" height="350" marginheight="0" marginwidth="0" scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=College+of+Lake+County,+Grayslake,+IL+60030&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=65.17542,112.5&amp;ie=UTF8&amp;hq=College+of+Lake+County,+Grayslake,+IL+60030&amp;hnear=College+of+Lake+County,+19351+W+Washington+St,+Grayslake,+Illinois+60030-1198&amp;z=14&amp;iwloc=A&amp;cid=11226092070957742249&amp;ll=42.355782,-88.014246&amp;output=embed" width="425"></iframe>
+<iframe frameborder="0" height="350" marginheight="0" marginwidth="0" scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=College+of+Lake+County,+Grayslake,+IL+60030&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=65.17542,112.5&amp;ie=UTF8&amp;hq=College+of+Lake+County,+Grayslake,+IL+60030&amp;hnear=College+of+Lake+County,+19351+W+Washington+St,+Grayslake,+Illinois+60030-1198&amp;z=14&amp;iwloc=A&amp;cid=11226092070957742249&amp;ll=42.355782,-88.014246&amp;output=embed" ></iframe>
 <small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=College+of+Lake+County,+Grayslake,+IL+60030&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=65.17542,112.5&amp;ie=UTF8&amp;hq=College+of+Lake+County,+Grayslake,+IL+60030&amp;hnear=College+of+Lake+County,+19351+W+Washington+St,+Grayslake,+Illinois+60030-1198&amp;z=14&amp;iwloc=A&amp;cid=11226092070957742249&amp;ll=42.355782,-88.014246" style="color: blue; text-align: left;">View Larger Map</a></small>

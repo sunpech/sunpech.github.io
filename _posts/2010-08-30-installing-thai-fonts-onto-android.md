@@ -30,18 +30,18 @@ Those are the <u>two prerequisites</u> to installing Thai fonts: <b>a rooted dev
   <li>
       Unzip it and you will see a folder.
 
-    <a href="http://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3cFIw/s1600/Screen+shot+2010-08-30+at+4.40.01+AM.png" ><img border="0" height="158" src="http://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3cFIw/s400/Screen+shot+2010-08-30+at+4.40.01+AM.png" width="400" /></a>
+    <a href="http://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3cFIw/s600/Screen+shot+2010-08-30+at+4.40.01+AM.png" ><img border="0" height="158" src="http://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3cFIw/s400/Screen+shot+2010-08-30+at+4.40.01+AM.png"  /></a>
 
     The contents of the folder should be placed in the <i>tools folder</i> of the Android SDK where adb is.
 
-    <a href="http://4.bp.blogspot.com/_7U5MdumP-no/THt3wnkUvrI/AAAAAAAAWV0/kbDhyy2OiBA/s1600/Screen+shot+2010-08-30+at+4.19.06+AM.png"><img border="0" height="145" src="http://4.bp.blogspot.com/_7U5MdumP-no/THt3wnkUvrI/AAAAAAAAWV0/kbDhyy2OiBA/s400/Screen+shot+2010-08-30+at+4.19.06+AM.png" width="400" /></a>
+    <a href="http://4.bp.blogspot.com/_7U5MdumP-no/THt3wnkUvrI/AAAAAAAAWV0/kbDhyy2OiBA/s600/Screen+shot+2010-08-30+at+4.19.06+AM.png"><img border="0" height="145" src="http://4.bp.blogspot.com/_7U5MdumP-no/THt3wnkUvrI/AAAAAAAAWV0/kbDhyy2OiBA/s400/Screen+shot+2010-08-30+at+4.19.06+AM.png"  /></a>
 
-    <a href="http://4.bp.blogspot.com/_7U5MdumP-no/THt4gn4_XCI/AAAAAAAAWV4/hw9ChuVl1d0/s1600/Screen+shot+2010-08-30+at+4.22.30+AM.png"><img border="0" height="285" src="http://4.bp.blogspot.com/_7U5MdumP-no/THt4gn4_XCI/AAAAAAAAWV4/hw9ChuVl1d0/s400/Screen+shot+2010-08-30+at+4.22.30+AM.png" width="400" /></a>
+    <a href="http://4.bp.blogspot.com/_7U5MdumP-no/THt4gn4_XCI/AAAAAAAAWV4/hw9ChuVl1d0/s600/Screen+shot+2010-08-30+at+4.22.30+AM.png"><img border="0" height="285" src="http://4.bp.blogspot.com/_7U5MdumP-no/THt4gn4_XCI/AAAAAAAAWV4/hw9ChuVl1d0/s400/Screen+shot+2010-08-30+at+4.22.30+AM.png"  /></a>
   </li>
   <li>
     Open up a Terminal (Applications-&gt;Utilities-&gt;Terminal.app) and go into the directory where your android SDK and go into the folder: <i>tools</i>.
 
-    <a href="http://3.bp.blogspot.com/_7U5MdumP-no/THt6S0SffzI/AAAAAAAAWV8/oRgkGqYEnCs/s1600/Screen+shot+2010-08-30+at+4.30.23+AM.png"><img border="0" height="210" src="http://3.bp.blogspot.com/_7U5MdumP-no/THt6S0SffzI/AAAAAAAAWV8/oRgkGqYEnCs/s400/Screen+shot+2010-08-30+at+4.30.23+AM.png" width="400" /></a>
+    <a href="http://3.bp.blogspot.com/_7U5MdumP-no/THt6S0SffzI/AAAAAAAAWV8/oRgkGqYEnCs/s600/Screen+shot+2010-08-30+at+4.30.23+AM.png"><img border="0" height="210" src="http://3.bp.blogspot.com/_7U5MdumP-no/THt6S0SffzI/AAAAAAAAWV8/oRgkGqYEnCs/s400/Screen+shot+2010-08-30+at+4.30.23+AM.png"  /></a>
   </li>
   <li>
     You can test to make sure that your device is connected by the following command in the terminal:
@@ -110,4 +110,4 @@ chmod +x install_thai_fonts.sh
   </li>
 </ol>
 
-<a href="http://2.bp.blogspot.com/_7U5MdumP-no/THsv9JiqFhI/AAAAAAAAWVQ/IgkgPKQu6Ag/s1600/IMG_2253.jpg"><img border="0" height="640" src="http://2.bp.blogspot.com/_7U5MdumP-no/THsv9JiqFhI/AAAAAAAAWVQ/IgkgPKQu6Ag/s640/IMG_2253.jpg" width="424" /></a>
+<a href="http://2.bp.blogspot.com/_7U5MdumP-no/THsv9JiqFhI/AAAAAAAAWVQ/IgkgPKQu6Ag/s600/IMG_2253.jpg"><img border="0"  src="http://2.bp.blogspot.com/_7U5MdumP-no/THsv9JiqFhI/AAAAAAAAWVQ/IgkgPKQu6Ag/s640/IMG_2253.jpg" /></a>

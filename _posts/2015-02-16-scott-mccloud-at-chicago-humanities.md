@@ -34,16 +34,16 @@ These are the books I own and have read by Mr. McCloud.
   <li><a href="http://www.amazon.com/gp/product/1596435739/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1596435739&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=P7VEXVXZUOHLG7TR">The Sculptor</a></li>
 </ul>
 
-<div><img border="0" src="http://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s1600/B9byWCtCAAEa_L_.jpg" height="474" width="640" /></div>
+<img border="0" src="http://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo/s600/B9byWCtCAAEa_L_.jpg" />
 
 <h2>Pictures</h2>
 Lynne Thomas and Scott McCloud sit down for a conversation.
-<div><img border="0" src="http://1.bp.blogspot.com/-CBa1QRbJ5zA/VN7nI06rzpI/AAAAAAAB4Xo/_bLYK9foMLc/s1600/2015-02-13%2Bat%2B18-25-56.jpg" height="425" width="640" /></div>
+<img border="0" src="http://1.bp.blogspot.com/-CBa1QRbJ5zA/VN7nI06rzpI/AAAAAAAB4Xo/_bLYK9foMLc/s600/2015-02-13%2Bat%2B18-25-56.jpg"   />
 
-<div><img border="0" src="http://2.bp.blogspot.com/-ex1PTi4iSOU/VN7nNCqbEPI/AAAAAAAB4YQ/oJfJAfVD_bM/s1600/2015-02-13%2Bat%2B18-34-40.jpg" height="425" width="640" /></div>
+<img border="0" src="http://2.bp.blogspot.com/-ex1PTi4iSOU/VN7nNCqbEPI/AAAAAAAB4YQ/oJfJAfVD_bM/s600/2015-02-13%2Bat%2B18-34-40.jpg"   />
 
-<div><img border="0" src="http://3.bp.blogspot.com/-UFz5oa6DfE4/VN7nJnALZKI/AAAAAAAB4Xw/b06HEOn92Kc/s1600/2015-02-13%2Bat%2B18-27-44.jpg" height="425" width="640" /></div>
+<img border="0" src="http://3.bp.blogspot.com/-UFz5oa6DfE4/VN7nJnALZKI/AAAAAAAB4Xw/b06HEOn92Kc/s600/2015-02-13%2Bat%2B18-27-44.jpg"   />
 
 Scott McCloud signed my books!
-<div><img border="0" src="http://3.bp.blogspot.com/-vs94ecMt_rA/VN7nQxl7RgI/AAAAAAAB4Y4/gdQQz9a-988/s1600/2015-02-13%2Bat%2B20-10-32.jpg" height="425" width="640" /></div>
+<img border="0" src="http://3.bp.blogspot.com/-vs94ecMt_rA/VN7nQxl7RgI/AAAAAAAB4Y4/gdQQz9a-988/s600/2015-02-13%2Bat%2B20-10-32.jpg"   />
 

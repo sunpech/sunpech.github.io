@@ -51,66 +51,66 @@ A quote that I really enjoyed from Trey Ratcliff:
 
 Sunrise at Golden Gate Bridge from Battery Spencer at 6am.
 
-<a href="http://4.bp.blogspot.com/-rCRq_EeCNVU/T77SZMTcUcI/AAAAAAABL8c/U-Fd4sTGRe8/s1600/2012-05-22+at+05-16-11.jpg" imageanchor="1"><img border="0" height="266" src="http://4.bp.blogspot.com/-rCRq_EeCNVU/T77SZMTcUcI/AAAAAAABL8c/U-Fd4sTGRe8/s400/2012-05-22+at+05-16-11.jpg" width="400" /></a>
+<a href="http://4.bp.blogspot.com/-rCRq_EeCNVU/T77SZMTcUcI/AAAAAAABL8c/U-Fd4sTGRe8/s600/2012-05-22+at+05-16-11.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-rCRq_EeCNVU/T77SZMTcUcI/AAAAAAABL8c/U-Fd4sTGRe8/s400/2012-05-22+at+05-16-11.jpg"  /></a>
 
 I used the <a href="http://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FGYZFI">Canon 5D Mark 3</a>'s HDR feature to take the picture above. I post processed with <a href="http://www.adobe.com/products/photoshop-lightroom.html">Adobe Lightroom 4.1</a> (RC2). I took about a dozen shots of the bridge, but chose only to show my favorite. Again, editing which was a little difficult.
 
 ### Pictures
 
 The registration desk
-<a href="http://2.bp.blogspot.com/-oTCtrKJYxaQ/T77ScbUyIjI/AAAAAAABL8s/9Cs-V8r-pp8/s1600/2012-05-22+at+08-37-13.jpg" imageanchor="1"><img border="0" height="266" src="http://2.bp.blogspot.com/-oTCtrKJYxaQ/T77ScbUyIjI/AAAAAAABL8s/9Cs-V8r-pp8/s400/2012-05-22+at+08-37-13.jpg" width="400" /></a>
+<a href="http://2.bp.blogspot.com/-oTCtrKJYxaQ/T77ScbUyIjI/AAAAAAABL8s/9Cs-V8r-pp8/s600/2012-05-22+at+08-37-13.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-oTCtrKJYxaQ/T77ScbUyIjI/AAAAAAABL8s/9Cs-V8r-pp8/s400/2012-05-22+at+08-37-13.jpg"  /></a>
 
 The lounge
-<a href="http://2.bp.blogspot.com/-XxVCKYzYx0k/T77SeOP8FDI/AAAAAAABL80/QlK2OTqiaDM/s1600/2012-05-22+at+08-44-05.jpg" imageanchor="1"><img border="0" height="266" src="http://2.bp.blogspot.com/-XxVCKYzYx0k/T77SeOP8FDI/AAAAAAABL80/QlK2OTqiaDM/s400/2012-05-22+at+08-44-05.jpg" width="400" /></a>
+<a href="http://2.bp.blogspot.com/-XxVCKYzYx0k/T77SeOP8FDI/AAAAAAABL80/QlK2OTqiaDM/s600/2012-05-22+at+08-44-05.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-XxVCKYzYx0k/T77SeOP8FDI/AAAAAAABL80/QlK2OTqiaDM/s400/2012-05-22+at+08-44-05.jpg"  /></a>
 
-<a href="http://2.bp.blogspot.com/-0mH65KXwH3o/T77SfrHVtHI/AAAAAAABL9E/q2RvX5U1Jn4/s1600/2012-05-22+at+09-04-34.jpg" imageanchor="1"><img border="0" height="266" src="http://2.bp.blogspot.com/-0mH65KXwH3o/T77SfrHVtHI/AAAAAAABL9E/q2RvX5U1Jn4/s400/2012-05-22+at+09-04-34.jpg" width="400" /></a>
+<a href="http://2.bp.blogspot.com/-0mH65KXwH3o/T77SfrHVtHI/AAAAAAABL9E/q2RvX5U1Jn4/s600/2012-05-22+at+09-04-34.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-0mH65KXwH3o/T77SfrHVtHI/AAAAAAABL9E/q2RvX5U1Jn4/s400/2012-05-22+at+09-04-34.jpg"  /></a>
 
 Scott Kelby giving the opening keynote
-<a href="http://4.bp.blogspot.com/-xZsaA6Y7jts/T77Sg-ZA7RI/AAAAAAABMGI/2_niL8qVvjA/s1600/2012-05-22+at+09-04-55.jpg" imageanchor="1"><img border="0" height="266" src="http://4.bp.blogspot.com/-xZsaA6Y7jts/T77Sg-ZA7RI/AAAAAAABMGI/2_niL8qVvjA/s400/2012-05-22+at+09-04-55.jpg" width="400" /></a>
+<a href="http://4.bp.blogspot.com/-xZsaA6Y7jts/T77Sg-ZA7RI/AAAAAAABMGI/2_niL8qVvjA/s600/2012-05-22+at+09-04-55.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-xZsaA6Y7jts/T77Sg-ZA7RI/AAAAAAABMGI/2_niL8qVvjA/s400/2012-05-22+at+09-04-55.jpg"  /></a>
 
 Scott Kelby speaking with Bradley Horowitz
-<a href="http://2.bp.blogspot.com/-VAyCXaLcAPo/T77Su_K6KPI/AAAAAAABL-E/UVPOHH07UxU/s1600/2012-05-22+at+09-57-41.jpg" imageanchor="1"><img border="0" height="266" src="http://2.bp.blogspot.com/-VAyCXaLcAPo/T77Su_K6KPI/AAAAAAABL-E/UVPOHH07UxU/s400/2012-05-22+at+09-57-41.jpg" width="400" /></a>
+<a href="http://2.bp.blogspot.com/-VAyCXaLcAPo/T77Su_K6KPI/AAAAAAABL-E/UVPOHH07UxU/s600/2012-05-22+at+09-57-41.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-VAyCXaLcAPo/T77Su_K6KPI/AAAAAAABL-E/UVPOHH07UxU/s400/2012-05-22+at+09-57-41.jpg"  /></a>
 
 Catherine Hall
-<a href="http://4.bp.blogspot.com/-QeCflImznnM/T77Sz8cvpcI/AAAAAAABL-M/bQiuWPNiAV0/s1600/2012-05-22+at+10-23-32.jpg" imageanchor="1"><img border="0" height="400" src="http://4.bp.blogspot.com/-QeCflImznnM/T77Sz8cvpcI/AAAAAAABL-M/bQiuWPNiAV0/s400/2012-05-22+at+10-23-32.jpg" width="266" /></a>
+<a href="http://4.bp.blogspot.com/-QeCflImznnM/T77Sz8cvpcI/AAAAAAABL-M/bQiuWPNiAV0/s600/2012-05-22+at+10-23-32.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-QeCflImznnM/T77Sz8cvpcI/AAAAAAABL-M/bQiuWPNiAV0/s400/2012-05-22+at+10-23-32.jpg"  /></a>
 
 Matt Kloskowski
-<a href="http://2.bp.blogspot.com/-YE_s9cHuJXw/T77S14L2O0I/AAAAAAABMFE/XIvse_Fnctk/s1600/2012-05-22+at+10-24-16.jpg" imageanchor="1"><img border="0" height="400" src="http://2.bp.blogspot.com/-YE_s9cHuJXw/T77S14L2O0I/AAAAAAABMFE/XIvse_Fnctk/s400/2012-05-22+at+10-24-16.jpg" width="266" /></a>
+<a href="http://2.bp.blogspot.com/-YE_s9cHuJXw/T77S14L2O0I/AAAAAAABMFE/XIvse_Fnctk/s600/2012-05-22+at+10-24-16.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-YE_s9cHuJXw/T77S14L2O0I/AAAAAAABMFE/XIvse_Fnctk/s400/2012-05-22+at+10-24-16.jpg"  /></a>
 
 Colbey Brown
-<a href="http://4.bp.blogspot.com/-65UHVA8A9Z0/T77S4HwWKXI/AAAAAAABMFM/vtpsyVetesA/s1600/2012-05-22+at+10-24-17.jpg" imageanchor="1"><img border="0" height="266" src="http://4.bp.blogspot.com/-65UHVA8A9Z0/T77S4HwWKXI/AAAAAAABMFM/vtpsyVetesA/s400/2012-05-22+at+10-24-17.jpg" width="400" /></a>
+<a href="http://4.bp.blogspot.com/-65UHVA8A9Z0/T77S4HwWKXI/AAAAAAABMFM/vtpsyVetesA/s600/2012-05-22+at+10-24-17.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-65UHVA8A9Z0/T77S4HwWKXI/AAAAAAABMFM/vtpsyVetesA/s400/2012-05-22+at+10-24-17.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-C9yMP-dMHxE/T77S5EcB5DI/AAAAAAABL-k/AVhKjLSxPHY/s1600/2012-05-22+at+10-29-55.jpg" imageanchor="1"><img border="0" height="266" src="http://3.bp.blogspot.com/-C9yMP-dMHxE/T77S5EcB5DI/AAAAAAABL-k/AVhKjLSxPHY/s400/2012-05-22+at+10-29-55.jpg" width="400" /></a>
+<a href="http://3.bp.blogspot.com/-C9yMP-dMHxE/T77S5EcB5DI/AAAAAAABL-k/AVhKjLSxPHY/s600/2012-05-22+at+10-29-55.jpg" ><img border="0"  src="http://3.bp.blogspot.com/-C9yMP-dMHxE/T77S5EcB5DI/AAAAAAABL-k/AVhKjLSxPHY/s400/2012-05-22+at+10-29-55.jpg"  /></a>
 
-<a href="http://3.bp.blogspot.com/-OAwQg4TipB0/T77S6MusNOI/AAAAAAABL-s/JsNzr-Cs8q4/s1600/2012-05-22+at+10-38-32.jpg" imageanchor="1"><img border="0" height="266" src="http://3.bp.blogspot.com/-OAwQg4TipB0/T77S6MusNOI/AAAAAAABL-s/JsNzr-Cs8q4/s400/2012-05-22+at+10-38-32.jpg" width="400" /></a>
+<a href="http://3.bp.blogspot.com/-OAwQg4TipB0/T77S6MusNOI/AAAAAAABL-s/JsNzr-Cs8q4/s600/2012-05-22+at+10-38-32.jpg" ><img border="0"  src="http://3.bp.blogspot.com/-OAwQg4TipB0/T77S6MusNOI/AAAAAAABL-s/JsNzr-Cs8q4/s400/2012-05-22+at+10-38-32.jpg"  /></a>
 
-<a href="http://2.bp.blogspot.com/-Vo1dVEQoGrI/T77S7r7P_pI/AAAAAAABL-0/5uSCIuYVY1E/s1600/2012-05-22+at+10-41-23.jpg" imageanchor="1"><img border="0" height="266" src="http://2.bp.blogspot.com/-Vo1dVEQoGrI/T77S7r7P_pI/AAAAAAABL-0/5uSCIuYVY1E/s400/2012-05-22+at+10-41-23.jpg" width="400" /></a>
+<a href="http://2.bp.blogspot.com/-Vo1dVEQoGrI/T77S7r7P_pI/AAAAAAABL-0/5uSCIuYVY1E/s600/2012-05-22+at+10-41-23.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-Vo1dVEQoGrI/T77S7r7P_pI/AAAAAAABL-0/5uSCIuYVY1E/s400/2012-05-22+at+10-41-23.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-OO2RYA4ic3M/T77S8dU1-oI/AAAAAAABL-8/ourexxG1f1k/s1600/2012-05-22+at+10-41-35.jpg" imageanchor="1"><img border="0" height="266" src="http://1.bp.blogspot.com/-OO2RYA4ic3M/T77S8dU1-oI/AAAAAAABL-8/ourexxG1f1k/s400/2012-05-22+at+10-41-35.jpg" width="400" /></a>
+<a href="http://1.bp.blogspot.com/-OO2RYA4ic3M/T77S8dU1-oI/AAAAAAABL-8/ourexxG1f1k/s600/2012-05-22+at+10-41-35.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-OO2RYA4ic3M/T77S8dU1-oI/AAAAAAABL-8/ourexxG1f1k/s400/2012-05-22+at+10-41-35.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-ED3O6mq0Js0/T77S80w3CAI/AAAAAAABL_E/59OB8XRIwEM/s1600/2012-05-22+at+10-42-51.jpg" imageanchor="1"><img border="0" height="400" src="http://1.bp.blogspot.com/-ED3O6mq0Js0/T77S80w3CAI/AAAAAAABL_E/59OB8XRIwEM/s400/2012-05-22+at+10-42-51.jpg" width="266" /></a>
+<a href="http://1.bp.blogspot.com/-ED3O6mq0Js0/T77S80w3CAI/AAAAAAABL_E/59OB8XRIwEM/s600/2012-05-22+at+10-42-51.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-ED3O6mq0Js0/T77S80w3CAI/AAAAAAABL_E/59OB8XRIwEM/s400/2012-05-22+at+10-42-51.jpg"  /></a>
 
 Adobe showcasing Photoshop CS6 and Lightroom 4
-<a href="http://2.bp.blogspot.com/-DLJoFwwPdRs/T77TDNGMoXI/AAAAAAABL_s/tH1t9Mb4DcE/s1600/2012-05-22+at+12-22-16.jpg" imageanchor="1"><img border="0" height="266" src="http://2.bp.blogspot.com/-DLJoFwwPdRs/T77TDNGMoXI/AAAAAAABL_s/tH1t9Mb4DcE/s400/2012-05-22+at+12-22-16.jpg" width="400" /></a>
+<a href="http://2.bp.blogspot.com/-DLJoFwwPdRs/T77TDNGMoXI/AAAAAAABL_s/tH1t9Mb4DcE/s600/2012-05-22+at+12-22-16.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-DLJoFwwPdRs/T77TDNGMoXI/AAAAAAABL_s/tH1t9Mb4DcE/s400/2012-05-22+at+12-22-16.jpg"  /></a>
 
 Guy Kawasaki on building brand on G+
-<a href="http://4.bp.blogspot.com/-3AUNTrMRJ8c/T77TGIB7QuI/AAAAAAABMAE/AnmY5sEhMuM/s1600/2012-05-22+at+13-50-15.jpg" imageanchor="1"><img border="0" height="400" src="http://4.bp.blogspot.com/-3AUNTrMRJ8c/T77TGIB7QuI/AAAAAAABMAE/AnmY5sEhMuM/s400/2012-05-22+at+13-50-15.jpg" width="266" /></a>
+<a href="http://4.bp.blogspot.com/-3AUNTrMRJ8c/T77TGIB7QuI/AAAAAAABMAE/AnmY5sEhMuM/s600/2012-05-22+at+13-50-15.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-3AUNTrMRJ8c/T77TGIB7QuI/AAAAAAABMAE/AnmY5sEhMuM/s400/2012-05-22+at+13-50-15.jpg"  /></a>
 
 Trey Ratcliff taking a picture of Jeremy Cowart
-<a href="http://2.bp.blogspot.com/-G9dsrclc614/T77TQCV3ehI/AAAAAAABMIU/g6-nRoxW2yw/s1600/2012-05-22+at+16-22-07.jpg" imageanchor="1"><img border="0" height="266" src="http://2.bp.blogspot.com/-G9dsrclc614/T77TQCV3ehI/AAAAAAABMIU/g6-nRoxW2yw/s400/2012-05-22+at+16-22-07.jpg" width="400" /></a>
+<a href="http://2.bp.blogspot.com/-G9dsrclc614/T77TQCV3ehI/AAAAAAABMIU/g6-nRoxW2yw/s600/2012-05-22+at+16-22-07.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-G9dsrclc614/T77TQCV3ehI/AAAAAAABMIU/g6-nRoxW2yw/s400/2012-05-22+at+16-22-07.jpg"  /></a>
 
 Blind Photo Critique
-<a href="http://1.bp.blogspot.com/-FQJm3P_j0DE/T77TRv_ufqI/AAAAAAABMBs/kwE_D05Rc7E/s1600/2012-05-22+at+16-33-04.jpg" imageanchor="1"><img border="0" height="266" src="http://1.bp.blogspot.com/-FQJm3P_j0DE/T77TRv_ufqI/AAAAAAABMBs/kwE_D05Rc7E/s400/2012-05-22+at+16-33-04.jpg" width="400" /></a>
+<a href="http://1.bp.blogspot.com/-FQJm3P_j0DE/T77TRv_ufqI/AAAAAAABMBs/kwE_D05Rc7E/s600/2012-05-22+at+16-33-04.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-FQJm3P_j0DE/T77TRv_ufqI/AAAAAAABMBs/kwE_D05Rc7E/s400/2012-05-22+at+16-33-04.jpg"  /></a>
 
 Live photoshoot
-<a href="http://3.bp.blogspot.com/-Ex1CWAjX_FM/T77TUemwX6I/AAAAAAABMCE/NLHCQBK_g9Y/s1600/2012-05-22+at+18-10-56.jpg" imageanchor="1"><img border="0" height="266" src="http://3.bp.blogspot.com/-Ex1CWAjX_FM/T77TUemwX6I/AAAAAAABMCE/NLHCQBK_g9Y/s400/2012-05-22+at+18-10-56.jpg" width="400" /></a>
+<a href="http://3.bp.blogspot.com/-Ex1CWAjX_FM/T77TUemwX6I/AAAAAAABMCE/NLHCQBK_g9Y/s600/2012-05-22+at+18-10-56.jpg" ><img border="0"  src="http://3.bp.blogspot.com/-Ex1CWAjX_FM/T77TUemwX6I/AAAAAAABMCE/NLHCQBK_g9Y/s400/2012-05-22+at+18-10-56.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-1bFJilSRi6k/T77TWiHLWPI/AAAAAAABMCM/ll9lwP8dea0/s1600/2012-05-22+at+18-25-30.jpg" imageanchor="1"><img border="0" height="266" src="http://1.bp.blogspot.com/-1bFJilSRi6k/T77TWiHLWPI/AAAAAAABMCM/ll9lwP8dea0/s400/2012-05-22+at+18-25-30.jpg" width="400" /></a>
+<a href="http://1.bp.blogspot.com/-1bFJilSRi6k/T77TWiHLWPI/AAAAAAABMCM/ll9lwP8dea0/s600/2012-05-22+at+18-25-30.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-1bFJilSRi6k/T77TWiHLWPI/AAAAAAABMCM/ll9lwP8dea0/s400/2012-05-22+at+18-25-30.jpg"  /></a>
 
 Some tai-chi going on early morning outside
-<a href="http://1.bp.blogspot.com/-NXB2oXDfij8/T77TZMmeTeI/AAAAAAABMCc/2bFelQEIaO0/s1600/2012-05-23+at+08-44-12.jpg" imageanchor="1"><img border="0" height="266" src="http://1.bp.blogspot.com/-NXB2oXDfij8/T77TZMmeTeI/AAAAAAABMCc/2bFelQEIaO0/s400/2012-05-23+at+08-44-12.jpg" width="400" /></a>
+<a href="http://1.bp.blogspot.com/-NXB2oXDfij8/T77TZMmeTeI/AAAAAAABMCc/2bFelQEIaO0/s600/2012-05-23+at+08-44-12.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-NXB2oXDfij8/T77TZMmeTeI/AAAAAAABMCc/2bFelQEIaO0/s400/2012-05-23+at+08-44-12.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-qCT5Lc_SpaQ/T77TcXvAxyI/AAAAAAABMCs/qvn6INQOb-0/s1600/2012-05-23+at+08-59-59.jpg" imageanchor="1"><img border="0" height="266" src="http://1.bp.blogspot.com/-qCT5Lc_SpaQ/T77TcXvAxyI/AAAAAAABMCs/qvn6INQOb-0/s400/2012-05-23+at+08-59-59.jpg" width="400" /></a>
+<a href="http://1.bp.blogspot.com/-qCT5Lc_SpaQ/T77TcXvAxyI/AAAAAAABMCs/qvn6INQOb-0/s600/2012-05-23+at+08-59-59.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-qCT5Lc_SpaQ/T77TcXvAxyI/AAAAAAABMCs/qvn6INQOb-0/s400/2012-05-23+at+08-59-59.jpg"  /></a>
 
 RC Concepcion joining in for the second blind photo critique
-<a href="http://1.bp.blogspot.com/-Ai523FkjjwU/T77TgVU9_mI/AAAAAAABMF0/VpfVfWvxnpQ/s1600/2012-05-23+at+10-24-00.jpg" imageanchor="1"><img border="0" height="266" src="http://1.bp.blogspot.com/-Ai523FkjjwU/T77TgVU9_mI/AAAAAAABMF0/VpfVfWvxnpQ/s400/2012-05-23+at+10-24-00.jpg" width="400" /></a>
+<a href="http://1.bp.blogspot.com/-Ai523FkjjwU/T77TgVU9_mI/AAAAAAABMF0/VpfVfWvxnpQ/s600/2012-05-23+at+10-24-00.jpg" ><img border="0"  src="http://1.bp.blogspot.com/-Ai523FkjjwU/T77TgVU9_mI/AAAAAAABMF0/VpfVfWvxnpQ/s400/2012-05-23+at+10-24-00.jpg"  /></a>

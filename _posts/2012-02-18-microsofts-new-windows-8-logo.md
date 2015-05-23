@@ -26,23 +26,23 @@ I take issue with the criticism of it not making sense. Since when do logos need
 
 Let's look at the history of Microsoft Windows logos:
 
-<a href="http://2.bp.blogspot.com/-BmC11EGm9FY/Tz_zb7mpX0I/AAAAAAAA6QY/vTKHaLa55XE/s1600/windows_old.jpg"><img border="0" src="http://2.bp.blogspot.com/-BmC11EGm9FY/Tz_zb7mpX0I/AAAAAAAA6QY/vTKHaLa55XE/s1600/windows_old.jpg" /></a>
+<a href="http://2.bp.blogspot.com/-BmC11EGm9FY/Tz_zb7mpX0I/AAAAAAAA6QY/vTKHaLa55XE/s600/windows_old.jpg"><img border="0" src="http://2.bp.blogspot.com/-BmC11EGm9FY/Tz_zb7mpX0I/AAAAAAAA6QY/vTKHaLa55XE/s600/windows_old.jpg" /></a>
 
-<a href="http://2.bp.blogspot.com/-RQRDsmjqUNc/Tz_zb6VrpkI/AAAAAAAA6QU/yug8I6K-uJ4/s1600/windows_31.jpg"><img border="0" src="http://2.bp.blogspot.com/-RQRDsmjqUNc/Tz_zb6VrpkI/AAAAAAAA6QU/yug8I6K-uJ4/s1600/windows_31.jpg" /></a>
+<a href="http://2.bp.blogspot.com/-RQRDsmjqUNc/Tz_zb6VrpkI/AAAAAAAA6QU/yug8I6K-uJ4/s600/windows_31.jpg"><img border="0" src="http://2.bp.blogspot.com/-RQRDsmjqUNc/Tz_zb6VrpkI/AAAAAAAA6QU/yug8I6K-uJ4/s600/windows_31.jpg" /></a>
 
-<a href="http://4.bp.blogspot.com/-ppHBW5cqFQA/Tz_zcA9F7_I/AAAAAAAA6Qk/nrnOmZ_JGgM/s1600/windows_xp.jpg"><img border="0" src="http://4.bp.blogspot.com/-ppHBW5cqFQA/Tz_zcA9F7_I/AAAAAAAA6Qk/nrnOmZ_JGgM/s1600/windows_xp.jpg" /></a>
+<a href="http://4.bp.blogspot.com/-ppHBW5cqFQA/Tz_zcA9F7_I/AAAAAAAA6Qk/nrnOmZ_JGgM/s600/windows_xp.jpg"><img border="0" src="http://4.bp.blogspot.com/-ppHBW5cqFQA/Tz_zcA9F7_I/AAAAAAAA6Qk/nrnOmZ_JGgM/s600/windows_xp.jpg" /></a>
 
-<a href="http://3.bp.blogspot.com/-ACVSs04OjjA/Tz_zcA-VwOI/AAAAAAAA6Q0/cKsZz7W6JQU/s1600/windows_vista.jpg"><img border="0" src="http://3.bp.blogspot.com/-ACVSs04OjjA/Tz_zcA-VwOI/AAAAAAAA6Q0/cKsZz7W6JQU/s1600/windows_vista.jpg" /></a>
+<a href="http://3.bp.blogspot.com/-ACVSs04OjjA/Tz_zcA-VwOI/AAAAAAAA6Q0/cKsZz7W6JQU/s600/windows_vista.jpg"><img border="0" src="http://3.bp.blogspot.com/-ACVSs04OjjA/Tz_zcA-VwOI/AAAAAAAA6Q0/cKsZz7W6JQU/s600/windows_vista.jpg" /></a>
 
 Here is the new Windows 8 logo:
 
-<a href="http://1.bp.blogspot.com/-42iEID-IPqw/Tz_6Be0YvfI/AAAAAAAA6RM/4OQuMe4ATqE/s1600/windows_8_logo.jpg"><img border="0" src="http://1.bp.blogspot.com/-42iEID-IPqw/Tz_6Be0YvfI/AAAAAAAA6RM/4OQuMe4ATqE/s1600/windows_8_logo.jpg" /></a>
+<a href="http://1.bp.blogspot.com/-42iEID-IPqw/Tz_6Be0YvfI/AAAAAAAA6RM/4OQuMe4ATqE/s600/windows_8_logo.jpg"><img border="0" src="http://1.bp.blogspot.com/-42iEID-IPqw/Tz_6Be0YvfI/AAAAAAAA6RM/4OQuMe4ATqE/s600/windows_8_logo.jpg" /></a>
 
 I think the new logo is better and more simple, and has influence from Windows Metro design. Yes, it definitely resembles a window. But where else can we see this kind of logo design? Any other product, maybe from Microsoft that has four boxes with colors?
 
 Microsoft Office.
 
-<a href="http://3.bp.blogspot.com/-XV1M-I3ffwM/Tz__XGXbPGI/AAAAAAAA6RU/N8QoCHH_fNQ/s1600/office_logo.jpg"><img border="0" src="http://3.bp.blogspot.com/-XV1M-I3ffwM/Tz__XGXbPGI/AAAAAAAA6RU/N8QoCHH_fNQ/s1600/office_logo.jpg" /></a>
+<a href="http://3.bp.blogspot.com/-XV1M-I3ffwM/Tz__XGXbPGI/AAAAAAAA6RU/N8QoCHH_fNQ/s600/office_logo.jpg"><img border="0" src="http://3.bp.blogspot.com/-XV1M-I3ffwM/Tz__XGXbPGI/AAAAAAAA6RU/N8QoCHH_fNQ/s600/office_logo.jpg" /></a>
 
 Does the Office logo resemble an office? Not really... but <i>I guess with a stretch of the imagination it could look like office cubicles</i>.
 

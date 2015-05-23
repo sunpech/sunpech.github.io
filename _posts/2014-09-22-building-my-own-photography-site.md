@@ -32,4 +32,4 @@ I'm happy to announce that I have launched it in it's current state, which I dee
 
 My renovated photography site: <a href="http://www.sunpechphotography.com/">http://www.sunpechphotography.com</a>
 
-<a href="http://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s1600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png" imageanchor="1"><img border="0" src="http://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s1600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png" height="640" width="608" /></a>
+<a href="http://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png" ><img border="0" src="http://1.bp.blogspot.com/-DcEc78CPGso/VCCr3RR5oxI/AAAAAAABxhw/EhVWFgp_I1A/s600/Screen%2BShot%2B2014-09-22%2Bat%2B4.07.52%2BPM.png" /></a>

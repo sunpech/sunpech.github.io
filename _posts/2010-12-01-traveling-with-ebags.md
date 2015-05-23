@@ -21,11 +21,11 @@ I really like the bags from eBags.  They are wonderfully designed and super dura
 
 See images below of what happened:
 
-<a href="http://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8H0Y0/s1600/IMG_20101005_164504.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8H0Y0/s400/IMG_20101005_164504.jpg" height="301" width="400" /></a>
+<a href="http://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8H0Y0/s1600/IMG_20101005_164504.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8H0Y0/s400/IMG_20101005_164504.jpg" /></a>
 
-<a href="http://2.bp.blogspot.com/_7U5MdumP-no/TPZi4SiJRUI/AAAAAAAAezs/J6U-K8nuvh4/s1600/IMG_20101005_164513.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_7U5MdumP-no/TPZi4SiJRUI/AAAAAAAAezs/J6U-K8nuvh4/s400/IMG_20101005_164513.jpg" height="301" width="400" /></a>
+<a href="http://2.bp.blogspot.com/_7U5MdumP-no/TPZi4SiJRUI/AAAAAAAAezs/J6U-K8nuvh4/s1600/IMG_20101005_164513.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/_7U5MdumP-no/TPZi4SiJRUI/AAAAAAAAezs/J6U-K8nuvh4/s400/IMG_20101005_164513.jpg" /></a>
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/TPZi_QZSRpI/AAAAAAAAezw/j81Kv1yffz0/s1600/IMG_20101005_164527.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_7U5MdumP-no/TPZi_QZSRpI/AAAAAAAAezw/j81Kv1yffz0/s400/IMG_20101005_164527.jpg" height="301" width="400" /></a>
+<a href="http://4.bp.blogspot.com/_7U5MdumP-no/TPZi_QZSRpI/AAAAAAAAezw/j81Kv1yffz0/s1600/IMG_20101005_164527.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/_7U5MdumP-no/TPZi_QZSRpI/AAAAAAAAezw/j81Kv1yffz0/s400/IMG_20101005_164527.jpg" /></a>
 
 I tweeted it out, and the eBags twitter account actual caught sight of my tweet, and tweeted back that I should contact their support center to take care of the issue.  Which I did.  I emailed them with links to the pictures I took above, and they promptly replied back for me to call their warranty center.  Which I did.  I called them up and they pulled up my account.  I was surprised to learn that they had documented my previous email with pictures, so our phone conversation was short. 
 
@@ -33,5 +33,5 @@ They said next time to contact O'hare for the damages, but since all bags made b
 
 A week or so after that, I ended up ordering the larger 29" (orange) for my trip to Thailand.  And here from Bangkok, Thailand, I want to say thank-you to eBags for their great customer support.  As you can see in the picture below, I have a nice set of eBags for my Thailand adventures
 
-<a href="http://3.bp.blogspot.com/_7U5MdumP-no/TPZjHudQV1I/AAAAAAAAez0/mb9JZfTmnYY/s1600/IMG_20101107_090206.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/TPZjHudQV1I/AAAAAAAAez0/mb9JZfTmnYY/s400/IMG_20101107_090206.jpg" height="400" width="301" /></a>
+<a href="http://3.bp.blogspot.com/_7U5MdumP-no/TPZjHudQV1I/AAAAAAAAez0/mb9JZfTmnYY/s1600/IMG_20101107_090206.jpg" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/TPZjHudQV1I/AAAAAAAAez0/mb9JZfTmnYY/s400/IMG_20101107_090206.jpg" /></a>
 
