@@ -12,7 +12,7 @@ tagline:          'A blog about technology, photography, and stuff.'
 description:      'A blog about technology, photography, and stuff.'
 url:              http://sunpech.com
 homeurl:          /
-baseurl:
+baseurl:          ""
 
 author:
   name:           'Steven Suwatanapongched'
