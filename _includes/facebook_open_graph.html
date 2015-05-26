@@ -22,7 +22,11 @@
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 {% if page.image %}
-  <meta content="{{ page.thumbnail }}" property="og:image">
+  {% if page.image contains "http" %}
+    <meta content="{{ page.thumbnail }}" property="og:image">
+  {% else %}
+    <meta content="{{ site.url }}{{ page.thumbnail }}" property="og:image">
+  {% endif %}
 {% else %}
   <meta content="{{ site.url }}/public/favicon.ico" property="og:image">
 {% endif %}
