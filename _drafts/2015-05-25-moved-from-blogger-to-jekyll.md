@@ -7,8 +7,8 @@ tags:
 - Technology
 - Software Development
 modified_time: '2015-05-25T09:00:04.552-05:00'
-thumbnail: {{ site.url }}/public/images/blog/tn_blogger-to-jekyll.jpg
-image: {{ site.url }}/public/images/blog/blogger-to-jekyll.jpg
+thumbnail: /public/images/blog/tn_blogger-to-jekyll.jpg
+image: /public/images/blog/blogger-to-jekyll.jpg
 ---
 
 I recently made the move from [Blogger](http://www.blogger.com) to [Jekyll](http://jekyllrb.com), hosted on [Github Pages](https://pages.github.com). It was a pretty pleasant conversion too, as Jekyll has a good amount of documenation and support.

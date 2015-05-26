@@ -15,10 +15,18 @@
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
 {% if page.image %}
-  <meta name="twitter:image:src" content="{{ page.image }}">
+  {% if page.image contains "http" %}
+    <meta name="twitter:image:src" content="{{ page.image }}">
+  {% else %}
+    <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+  {% endif %}
 {% else %}
   {% if page.thumbnail %}
-    <meta name="twitter:image:src" content="{{ page.thumbnail }}">
+    {% if page.thumbnail contains "http" %}
+      <meta name="twitter:image:src" content="{{ page.thumbnail }}">
+    {% else %}
+      <meta name="twitter:image:src" content="{{ site.url }}{{ page.thumbnail }}">
+    {% endif %}
   {% else %}
     <meta name="twitter:image:src" content="{{ site.url }}/public/favicon.ico">
   {% endif %}
