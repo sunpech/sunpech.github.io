@@ -58,6 +58,6 @@ I should note that I opted to clone because I just had the hard drive replaced a
 
 I recommend the following youTube video: <a href="http://www.youtube.com/watch?v=Xk4mshBB7DQ">Crucial M4 SSD 2010 MacBook Pro Install</a> for detailed instructions. It's what I used as a reference to upgrade my MBP.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/Xk4mshBB7DQ" width="560"></iframe>
+<div class="video-container"><iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/Xk4mshBB7DQ" width="560"></iframe></div>
 
 

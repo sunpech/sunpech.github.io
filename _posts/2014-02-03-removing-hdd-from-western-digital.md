@@ -29,7 +29,7 @@ I put it inside my <a href="http://www.amazon.com/gp/product/B008MH1JRQ/ref=as_l
 
 Here is the video I viewed on how to remove the drive:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7eFkjx9oWfI?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/7eFkjx9oWfI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 
 Hope this helps you repurpose/remove hard drives from your external USB drives. Sometimes these external hard drives are even cheaper than buying the drive of the same size itself!

@@ -19,7 +19,7 @@ First, the area in the Arts district isn't so good. There's little foot traffic 
 
 I guess a third issue, which isn't so much the location, but Los Angeles itself. LA has a haze across the sky most of the time. So unless it rains or drizzles to push the smog down and clear the sky, the haze will be there.
 
-<iframe frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13224.820164932837!2d-118.22861110000002!3d34.0386111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDAyJzE5LjAiTiAxMTjCsDEzJzQzLjAiVw!5e0!3m2!1sen!2sus!4v1393003150078" style="border: 0;" width="600"></iframe>
+<div class="video-container"><iframe frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13224.820164932837!2d-118.22861110000002!3d34.0386111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDAyJzE5LjAiTiAxMTjCsDEzJzQzLjAiVw!5e0!3m2!1sen!2sus!4v1393003150078" style="border: 0;" width="600"></iframe></div>
 
 Below are three pictures taken from relatively the same spot on the bridge. I processed them a little differently using Lightroom, Photoshop, <a href="http://www.hdrsoft.com/">Photomatix Pro</a>, as well as <a href="http://www.ononesoftware.com/products/effects8/">Perfect Effects 8</a>.
 

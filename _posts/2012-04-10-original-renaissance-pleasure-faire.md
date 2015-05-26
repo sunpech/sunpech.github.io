@@ -64,6 +64,6 @@ Mushroom!
 
 This is my first video clip using my <a href="http://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FGYZFI">Canon 5D Mark III</a> with my <a href="http://www.amazon.com/gp/product/B0033PRWSW/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0033PRWSW">Canon 70-200mm f/2.8L II lens</a> attached. I wanted to see how it would perform from about fifty feet away with moving objects.
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/wZC1iT4jOu0" width="560"></iframe>
+<div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/wZC1iT4jOu0" width="560"></iframe></div>
 
 
