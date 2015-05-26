@@ -4,47 +4,60 @@ title: Game of Thrones Epic History
 date: '2015-05-26T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Comics
 - Social Media
-thumbnail: http://4.bp.blogspot.com/-43oWAaB2058/VVP6WIYsGlI/AAAAAAAB5ac/51I-ngg8GOU/s600/Top-5-YouTubes-for-Comic-Geeks.jpg
-image: http://4.bp.blogspot.com/-43oWAaB2058/VVP6WIYsGlI/AAAAAAAB5ac/51I-ngg8GOU/s640/Top-5-YouTubes-for-Comic-Geeks.jpg
+thumbnail: /public/images/blog/tn_comicbookgirl19-GameofThrones.jpg
+image: /public/images/blog/comicbookgirl19-GameofThrones.jpg
 ---
 
-Are you a fan of [Game of Thrones](http://www.imdb.com/title/tt0944947/) like I am? Have you checked out [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)'s youTube videos on this book/show?
+Are you a fan of [Game of Thrones](http://www.imdb.com/title/tt0944947/) like I am? Have you checked out [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)'s (CBG19) youTube videos on this book/show?
 
-Well, you should. 
+Well, you should. Her <i>epic history</i> videos cover all the major houses (Baratheon, Stark, Targaryen, and Lannister). She has other videos too.
 
-Her videos are quite awesome and very well put together. I previously blogged about [Top 5 YouTube Channels for Comic Geeks](2015/05/top-5-youtube-channels-for-comic-geeks/), and she's listed there as being one of my favorites.
+If you haven't read the books like me, her videos helps me appreciate the TV show immensely. I previously blogged about my [Top 5 YouTube Channels for Comic Geeks](/2015/05/top-5-youtube-channels-for-comic-geeks/), and she's listed there as being one of my favorites. I really enjoy these content creators' channels.
 
-If you can't wait and just want to hit play once, here's Comic Book Girl 19's Game of Thrones videos playlist: [Game of Thrones Videos & GOT Epic Histories Playlist](https://www.youtube.com/playlist?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g). Keep in mind the videos are made over a few years. But if you want to just watch some histories of the different houses in Game of Thrones, I posted them individualy below.
+<img src="/public/images/blog/comicbookgirl19-GameofThrones.jpg" alt="Comic Book Girl 19's Game of Thrones Epic History" />
 
-Just a warning that she does cover stuff from the books, but I don't consider them super spoiler-y or anything. Just watching the videos makes me enjoy the show more because I have a deeper understanding of what happened in the past.
+If you just want to hit play once, here's Comic Book Girl 19's Game of Thrones videos playlist: [Game of Thrones Videos &amp; GOT Epic Histories Playlist](https://www.youtube.com/playlist?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g). It will play in the order one after another.
+
+Keep in mind the videos are made over a few years. But if you want to just watch some histories of the different houses in Game of Thrones, I posted them individualy below.
+
+<i>Just a warning that she does cover stuff from the books, but I don't consider them super spoiler-y or anything.</i>
 
 ### Videos
 
 #### EPIC HISTORY: House Baratheon . Game of Thrones .
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcnSNlanjL4?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/AcnSNlanjL4?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe></div>
+
+[Video Link](https://www.youtube.com/watch?v=AcnSNlanjL4)
 
 #### EPIC HISTORY: House Stark . Game of Thrones (2014 updated version)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fIIzuqIRB2g?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/fIIzuqIRB2g?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe></div>
 
-A quick follow-up video about R+L=J can be found [here](https://www.youtube.com/watch?v=kHqzFwodZqQ). Just a popular fan theory.
+[Video Link](https://www.youtube.com/watch?v=fIIzuqIRB2g)
+
+A quick follow-up video about <b>R+L=J</b>, a popular fan theory, can be found [here](https://www.youtube.com/watch?v=kHqzFwodZqQ) by [Alt Shift X](https://www.youtube.com/channel/UCveZqqGewoyPiacooywP5Ig). I like his videos too, but he does dive into a lot of fan theories.
 
 #### EPIC HISTORY: House Targaryen. Game of Thrones
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mnfYj-cHM5c?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/mnfYj-cHM5c?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe></div>
+
+[Video Link](https://www.youtube.com/watch?v=mnfYj-cHM5c)
 
 #### EPIC HISTORY: House Lannister: p1/2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v9q4Ht-W164?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/v9q4Ht-W164?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe></div>
+
+[Video Link](https://www.youtube.com/watch?v=v9q4Ht-W164)
 
 #### EPIC HISTORY: House Lannister: p2/2. Game of Thrones
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OLXmhA0jVOI?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/OLXmhA0jVOI?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g" frameborder="0" allowfullscreen></iframe></div>
 
-### More Info
+[Video Link](https://www.youtube.com/watch?v=OLXmhA0jVOI)
+
+### More Info on Comic Book Girl 19:
 
 * [comicbookgirl19.com](http://www.comicbookgirl19.com/)
 * [@cbgirl19's Twitter](https://twitter.com/cbgirl19)
