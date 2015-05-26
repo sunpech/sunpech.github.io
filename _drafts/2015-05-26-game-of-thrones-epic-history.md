@@ -5,8 +5,8 @@ date: '2015-05-26T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Social Media
-thumbnail: /public/images/blog/tn_comicbookgirl19-GameofThrones.jpg
-image: /public/images/blog/comicbookgirl19-GameofThrones.jpg
+thumbnail: {{ site.url }}/public/images/blog/tn_comicbookgirl19-GameofThrones.jpg
+image: {{ site.url }}/public/images/blog/comicbookgirl19-GameofThrones.jpg
 ---
 
 Are you a fan of [Game of Thrones](http://www.imdb.com/title/tt0944947/) like I am? Have you checked out [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)'s (CBG19) youTube videos on this book/show?
