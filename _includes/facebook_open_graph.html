@@ -23,12 +23,20 @@
 {% endif %}
 {% if page.image %}
   {% if page.image contains "http" %}
-    <meta content="{{ page.thumbnail }}" property="og:image">
+    <meta content="{{ page.image }}" property="og:image">
   {% else %}
-    <meta content="{{ site.url }}{{ page.thumbnail }}" property="og:image">
+    <meta content="{{ site.url }}{{ page.image }}" property="og:image">
   {% endif %}
 {% else %}
-  <meta content="{{ site.url }}/public/favicon.ico" property="og:image">
+  {% if page.thumbnail %}
+    {% if page.thumbnail contains "http" %}
+      <meta content="{{ page.thumbnail }}" property="og:image">
+    {% else %}
+      <meta content="{{ site.url }}{{ page.image }}" property="og:image">
+    {% endif %}
+  {% else %}
+    <meta content="{{ site.url }}/public/favicon.ico" property="og:image">
+  {% endif %}
 {% endif %}
 {% if page.categories %}
   {% for category in page.categories limit:1 %}
