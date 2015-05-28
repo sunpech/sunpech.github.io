@@ -49,7 +49,7 @@ I'm a traveler of awesome places. Every year I try to travel to a city I've neve
 <h2>Support me</h2>
 Disclaimer, I am an <a href="https://affiliate-program.amazon.com/">Amazon Affiliate</a>. Product links on my site often will go to Amazon.
 
-You can also click <a href="www.amazon.com/?&tag=sunpech-20&camp=216797&creative=394545&linkCode=ur1&adid=0ZFPJ55TZ4HA30WVQBCS&&ref-refURL=http%3A%2F%2Fwww.sunpech.com%2F">this Amazon link</a> to do your shopping.
+You can also click <a href="http://www.amazon.com/?&tag=sunpech-20&camp=216797&creative=394545&linkCode=ur1&adid=0ZFPJ55TZ4HA30WVQBCS&&ref-refURL=http%3A%2F%2Fwww.sunpech.com%2F">this Amazon link</a> to do your shopping.
 
 If you want to buy me stuff, I also have wish-lists for <a href="http://www.amazon.com/registry/wishlist/14T7IX6RACNRU/ref=cm_sw_r_tw_ws_UjGvpb1PWADA4">camera gear</a>, <a href="http://www.amazon.com/registry/wishlist/1KCZ0Q93IFYZ2/ref=cm_sw_r_tw_ws_klGvpb0G5CRRK">books</a>, <a href="http://www.amazon.com/gp/registry/wishlist/1UQZNDJCF191Q/ref=topnav_lists_4">toys</a>, and other <a href="http://www.amazon.com/registry/wishlist/L00UXFFE0OIB/ref=cm_sw_r_tw_ws_IlGvpb0RN01CK">miscellaneous items</a>. This list grows longer and longer.
 
