@@ -33,7 +33,7 @@ I have a photography site at <a href="http://sunpechphotography.com/">sunpechpho
 
 I'm also on <a href="https://www.facebook.com/SunpechPhotography">Facebook</a>, <a href="http://500px.com/">500px</a>, <a href="http://www.instagram.com/sunpechphoto">Instagram</a>, <a href="http://www.twenty20.com/sunpech">Twenty20</a>, and <a href="http://www.flickr.com/photos/sunpech/">Flickr</a>.
 
-I enjoy all kinds of photography, but have stronger interests in landscape, HDR, and event/journalistic photographs. I'm beginning to do some headshot/portrait photography. In case you're curious here is a </span><a href="http://www.sunpech.com/p/my-camera-gear.html">list of my camera gear</a>.
+I enjoy all kinds of photography, but have stronger interests in landscape, HDR, and event/journalistic photographs. I'm beginning to do some headshot/portrait photography. In case you're curious here is a </span><a href="/best/camera-gear">list of my camera gear</a>.
 
 <img border="0" height="360" src="http://4.bp.blogspot.com/-2EVzL7RoP7o/Us8C1EVO0WI/AAAAAAABly4/xWQXxmc-EHQ/s1600/2014-01-08+at+21-37-31.jpg" width="640" />
 
