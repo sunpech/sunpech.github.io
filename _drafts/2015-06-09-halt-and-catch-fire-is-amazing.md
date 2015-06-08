@@ -24,4 +24,4 @@ Of these two, I'm really enjoying HACF. Even though I was only a child when the 
 
 The one thing I have to criticize SV on is that they are becoming a little too much like [Big Bang Theory](http://www.imdb.com/title/tt0898266/) (BBT)-- a show that I grew to like, then immediately dislike after a few seasons. The problem is that they're stupid shows about smart people. And that can get old realy quick when characters aren't allowed to change or grow through the seasons. It's unfortunate if a character, especially those in sitcoms, serve only to be a common stereotype show after show.
 
-If you like shows like [Breaking Bad](http://www.imdb.com/title/tt0903747/) or [Game of Thrones](http://www.imdb.com/title/tt0944947/)
+If you like shows like [Breaking Bad](http://www.imdb.com/title/tt0903747/) or [Game of Thrones](http://www.imdb.com/title/tt0944947/), check out Halt and Catch Fire.
