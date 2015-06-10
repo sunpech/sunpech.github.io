@@ -9,7 +9,7 @@ tags:
 modified_time: '2015-06-12T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_ready_player_one_book.jpg
 image: /public/images/blog/ready_player_one_book.jpg
-description: "I review the book, Ready Player One, by Ernest Cline."
+description: "I review the book, Ready Player One, by Ernest Cline. No spoilers."
 ---
 
 I own several copies of the book, [Ready Player One](http://readyplayerone.com/), by [Ernest Cline](http://www.ernestcline.com/). I have it in hardcover, softcover, and digitally on Amazon Kindle. I only do this for a few books-- the ones I really enjoy. Off the top of my head, another is [Jurassic Park](http://www.amazon.com/gp/product/0345538986/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0345538986&linkCode=as2&tag=sunpech-20&linkId=YYJXRGBHDHFWHSC5) by [Michael Crichton](http://www.amazon.com/Michael-Crichton/e/B000APZK46/).
@@ -22,7 +22,7 @@ I own several copies of the book, [Ready Player One](http://readyplayerone.com/)
 
 The book paints a picture of a dystopian future, the year 2044, where people are plugged away in a virtual reality based world, OASIS. Follow along the adventures of the young hero, Wade Watts, as he solves puzzles and makes friends/enemies in hopes to gain an ultimate prize from the creator of OASIS.
 
-If you grew up in the 1980s. If you grew up playing video games. If you watched tv shows, movies, and many of the pop cultures of the 1980s-- <b>read this book.</b> There are so many references made I had to go look some of them up, which was in itself a trip down memory lane. Children of the 80s should enjoy this book.
+If you grew up in the 1980s. If you grew up playing video games. If you watched tv shows, movies, and many of the pop cultures of the 1980s-- <b>read this book.</b> There are so many references made I had to go look some of them up, which was in itself a trip down memory lane. <b>Children of the 80s should enjoy this book.</b>
 
 The chapters are short, so they work well for bed time reading, but they do have cliffhangers, so it may be hard to put down at times. I haven't had this much fun reading a book like this since [Ender's Game](http://www.amazon.com/gp/product/0812550706/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0812550706&linkCode=as2&tag=sunpech-20&linkId=TSZYDUGTZ6FQCOD4) when I was a teenager.
 
