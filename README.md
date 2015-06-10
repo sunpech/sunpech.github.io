@@ -18,9 +18,9 @@ Here are some helpful tips in creating a post, particularly in [front matter](ht
 
 Drafts for future posts can be found in folder: _drafts. When testing locally, just run the following to see what it looks like:
 
-{% highlight bash %}
-	jekyll s --drafts
-{% endhighlight %}
+''' bash
+jekyll s --drafts
+'''
 
 ### Posts
 
