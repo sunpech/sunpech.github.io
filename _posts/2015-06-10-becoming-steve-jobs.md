@@ -23,7 +23,7 @@ After digesting both books, I have a deeper appreciation of Steve Jobs than I di
 
 I'm still fascinated by this man and look forward to the upcoming Aaron Sorkin film, [Steve Jobs](http://www.imdb.com/title/tt2080374/) later this year. Do not watch the Jobs movie with Ashton Kutcher-- it's horrible.
 
-<b>I do recommend both books for those interested in Steve Jobs.</b> In a nutshell Isaacson covers more of Jobs historical life, while Schlender focuses more initimately on the man and his relationships with other business leaders.
+<b>I do recommend both books for those interested in Steve Jobs.</b> In a nutshell Isaacson covers more of Jobs historical life and pretty much sums up all the information we know on Jobs from other sources in one book. Schlender focuses more initimately on the man and his relationships with other business leaders, friends, and colleagues.
 
 ### More Links
 
