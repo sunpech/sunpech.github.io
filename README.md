@@ -9,9 +9,9 @@ The theme is based off of [Pool Hyde](https://github.com/poole/hyde).
 Here are some helpful tips in creating a post, particularly in [front matter](http://jekyllrb.com/docs/frontmatter/) variables such as thumbnail, image, and description. Also see draft example.
 
 * Name post files with YEAR-MM-DD-TITLE.md format.
-* thumbnail width should be 300px. 
-* image width should be 600px or wider. Recommended: 800px.
-* description should be filled out for better Twitter Cards and Facebook Graph posts (optional).
+* `thumbnail` width should be 300px. 
+* `image` width should be 600px or wider. Recommended: 800px.
+* `description` should be filled out for better Twitter Cards and Facebook Graph posts (optional).
 * Use Markdown in new posts, but HTML is acceptable (not encouraged).
 
 ### Drafts
@@ -36,9 +36,9 @@ There is a folder called best/, which contains pages regarding recommendations o
 
 ### Variables
 
-* navigation - set to true or false, as to should be shown as navigation link.
-* permalink - path to page
-* best - set to true or false, to be used as part of index of best pages. Optional, only required if to be displayed.
+* `navigation` - set to true or false, as to should be shown as navigation link.
+* `permalink` - path to page
+* `best` - set to true or false, to be used as part of index of best pages. Optional, only required if to be displayed.
 
 ## TODO:
 
