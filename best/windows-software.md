@@ -10,46 +10,60 @@ I've put together a list of the best software for Windows PCs. These are all fre
 
 I have a pages for <a href="/best/mac-software/">Best Mac Software</a> and <a href="/best/software-development-tools/">Best Software Development Tools</a>.
 
-<h2>Cloud Storage, Sync, and Backup</h2>
-<ul>
-  <li><a href="https://copy.com/?r=1u9vhV">Copy.com</a> - My favorite Cloud storage service</li>
-  <li><a href="https://drive.google.com/">Google Drive</a> -Google's cloud/sync solution. Built into your Google/Gmail account.</li>
-  <li><a href="https://onedrive.live.com/?invref=e8e0c21396a27dc4&amp;invsrc=90">OneDrive </a>- Microsoft's cloud/sync solution. Built into your Microsoft/Hotmail account.</li>
-</ul>
+#### Cloud Storage, Sync, and Backup
 
-<h2>Internet</h2>
-<ul>
-  <li><a href="http://www.google.com/chrome">Chrome</a> - Google's awesomely fast web browser.</li>
-  <li><a href="http://www.mozilla.org/en-US/firefox/new/">Firefox </a>- Another great browser.</li>
-  <li><a href="http://www.utorrent.com/">uTorrent</a> - Bittorrent client.  Fast and the best.</li>
-</ul>
+* [Copy.com](https://copy.com/?r=1u9vhV) - My favorite cloud storage service.
+* [Drobo](http://www.drobo.com/) - Get the software, after the hardware.
+* [Google Drive](https://drive.google.com/) - Google's cloud service tied to your Gmail.
+* [OneDrive](https://onedrive.live.com/?invref=e8e0c21396a27dc4&invsrc=90) - Microsoft's cloud service.
 
-<h2>Miscellaneous and Utilities</h2>
-<ul>
-  <li><a href="http://www.7-zip.org/">7 Zip</a> - Compression software (zip, rar, etc)</li>
-  <li><a href="http://www.classicshell.net/">Classic Shell</a> - If you use Windows 8 and want the Start Menu back.</li>
-  <li><a href="http://stereopsis.com/flux/">F.lux</a> - Automatically adjust your computer screen to match lighting. </li>
-  <li><a href="http://filezilla-project.org/">Filezilla</a> - FTP program</li>
-  <li><a href="http://arainia.com/software/gizmo/overview.php?nID=4">Gizmo Drive</a> - Mount ISOs.</li>
-  <li><a href="http://www.microsoft.com/Security_Essentials/">Microsoft Security Essentials</a> - Probably all you need for antivirus/anti-spyware.  aka MSE. </li>
-  <li><a href="http://www.docu-track.com/">PDF-XChange Viewer</a> - PDF viewer </li>
-  <li><a href="http://technet.microsoft.com/en-us/sysinternals/bb896653">Process Explorer</a> - Task manager replacement.</li>
-  <li><a href="http://www.teamviewer.com/en/index.aspx">Teamviewer</a> - Remote into other computers.</li>
-  <li><a href="http://www.worldcommunitygrid.org/">World Community Grid</a> - Grid computing. Also makes for a great cause and screensaver. </li>
-</ul>
+#### Web Browser Extensions
+
+* [Buffer App](https://buffer.com/extras) - For managing your social media posts.
+* [Ghostery](https://www.ghostery.com/en/) - To protect your privacy.
+* [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
+* [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
+* [uBlock](https://www.ublock.org/) - Block unwanted ads in your browser.
+
+#### Internet
+
+* [Chrome](http://www.google.com/chrome) - Google web browser.
+* [Firefox](http://www.mozilla.org/en-US/firefox/new/) - My second favorite browser.
+* [Tweetdeck](https://about.twitter.com/products/tweetdeck) - Twitter client with columns.
+
+#### Miscellaneous and Utilities
+
+* [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
+* [Android File Transfer](http://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
+* [Classic Shell](http://www.classicshell.net/) - If you use Windows 8 and want the Start Menu back.
+* [Filezilla](http://filezilla-project.org/) - SFTP client.
+* [Gizmo Drive](http://arainia.com/software/gizmo/overview.php?nID=4) - Mount ISOs.
+* [Microsoft Security Essentials](http://www.microsoft.com/Security_Essentials/) - Antivirus/Antispyware security software.
+* [PDF-XChange Viewer](http://www.docu-track.com/) - Open PDFs.
+* [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
+* [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
+* [Tunnel Bear](http://www.tunnelbear.com/) - VPN software.
+* [World Community Grid](http://www.worldcommunitygrid.org/) - Grid computing.
+
+#### Music and Video
+
+* [Handbrake](http://handbrake.fr/) - Edit/convert videos.
+* [Plex Media Server](https://plex.tv/) - Media server for your home videos/photos.
+* [Spotify](http://www.spotify.com/) - Music player.
+* [VLC Media Player](http://www.videolan.org/vlc/) - The best video/media player for any OS.
+
+#### Pictures and Images
+
+* [Gimp](http://www.gimp.org/) - Edit pictures, a Photoshop-like program that's free.
+* [Google Photos](https://photos.google.com/apps) - Google's photo storage.
+* [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.
+* [Picasa](http://picasa.google.com/) - Google's older photo storage service.
+
+#### Productivity
+
+* [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
+* [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
+* [Slack](https://slack.com/) - Collaboration software for teams.
 
 
-<h2>Music and Video</h2>
-<ul>
-  <li><a href="http://www.spotify.com/">Spotify</a> - Social Music.</li>
-  <li><a href="http://www.videolan.org/vlc/">VLC media player</a> - This plays pretty much all video files.</li>
-</ul>
-
-<h2>Pictures and Image editing</h2>
-<ul>
-  <li><a href="http://www.gimp.org/">Gimp</a> - GNU Image Manipulation Program.  Slightly more advanced than Paint.net. </li>
-  <li><a href="http://www.getpaint.net/">Paint .Net</a> - Basic picture/image editing software.</li>
-  <li><a href="http://picasa.google.com/">Picasa</a> - Picture/image organizer.  Quality has gone down since it got incorporated into G+.</li>
-</ul>
-
-<i>Last updated on August 17, 2014.</i>
+<i>Last updated on June 12, 2015.</i>
