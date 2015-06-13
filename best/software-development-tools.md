@@ -12,6 +12,8 @@ I also have pages for <a href="/best/mac-software/">Best Mac Software</a> and <a
 
 Also see [my dotfiles](https://github.com/sunpech/dotfiles).
 
+For an always up to date list, check out my [Best Software List](https://github.com/sunpech/best_software_list) on Github.
+
 #### Coding
 
 * [Android Studio](http://developer.android.com/sdk/installing/studio.html)

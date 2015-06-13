@@ -10,6 +10,8 @@ Mac OS X Mavericks is my main operating system now. I still use Windows and Linu
 
 I also have a pages for the <a href="/best/windows-software/">Best Windows Software</a> and <a href="/best/software-development-tools/">Best Software Development Tools</a>.
 
+For an always up to date list, check out my [Best Software List](https://github.com/sunpech/best_software_list) on Github.
+
 #### Cloud Storage, Sync, and Backup
 
 * [Copy.com](https://copy.com/?r=1u9vhV) - My favorite cloud storage service.

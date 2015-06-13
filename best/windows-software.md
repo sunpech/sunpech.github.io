@@ -10,6 +10,8 @@ I've put together a list of the best software for Windows PCs. These are all fre
 
 I have a pages for <a href="/best/mac-software/">Best Mac Software</a> and <a href="/best/software-development-tools/">Best Software Development Tools</a>.
 
+For an always up to date list, check out my [Best Software List](https://github.com/sunpech/best_software_list) on Github.
+
 #### Cloud Storage, Sync, and Backup
 
 * [Copy.com](https://copy.com/?r=1u9vhV) - My favorite cloud storage service.
