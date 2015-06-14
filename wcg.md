@@ -13,8 +13,8 @@ There are many projects that you can be a part of to help make the world a bette
 
 I'm looking for individuals to join my team and be a part of this.
 
-<h4>If you already are a part of&nbsp;World Community Grid.</h4>
-<a class="btn btn-primary" href="http://www.worldcommunitygrid.org/team/viewTeamInfo.do?teamId=C2KT3DN42R1">Join my team</a><br />
+#### If you already are a part of World Community Grid:
+[Join my team](http://www.worldcommunitygrid.org/team/viewTeamInfo.do?teamId=C2KT3DN42R1)
 
-<h4>Otherwise, you can sign up for World Community Grid.</h4>
-<a class="btn btn-success" href="http://www.worldcommunitygrid.org/reg/viewRegister.do?teamID=C2KT3DN42R1">Sign up</a><br />
+#### Otherwise, you can sign up for World Community Grid:
+[Sign up](http://www.worldcommunitygrid.org/reg/viewRegister.do?teamID=C2KT3DN42R1)
