@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Busininess Books
+title: Business Books
 navigation: false
 best: true
 permalink: business-books/
