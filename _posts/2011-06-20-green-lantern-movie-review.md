@@ -6,6 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Review
 - Movies
+- Comics
 modified_time: '2014-08-07T20:09:44.912-05:00'
 thumbnail: http://2.bp.blogspot.com/-PraOGmGUarU/Tf99e3a7QWI/AAAAAAAApOU/dxpnXotOs6o/s600/Green+Lantern+Poster.jpeg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2543556610536716114
@@ -37,7 +38,7 @@ In terms of villains, <a href="http://en.wikipedia.org/wiki/Parallax_(comics)">P
 
 This is how the movie should have gone: <a href="http://en.wikipedia.org/wiki/Hector_Hammond">Hector Hammond</a> should have been the main and sole villain in the movie. They should have only hinted at what Parallax is, and saved him to be a villain in a second GL movie. Tell the story of what GL is, develop the relationship between Hal and Sinestro/Kilowog-- especially Sinestro. The movie should have spent less time on Earth, and more time exploring what the GL Corps do policing the universe. <b>The setting needed to be an intergalactic adventure, on an alien world.</b> They needed to emphasize the weakness to the color yellow. In the end, Hal is able to overcome Hector and the color yellow, to some degree.
 
-That's it. These things alone would be enough for one movie to introduce Green Lantern. Plenty of story and character to be covered with just that. If you read GL comics, the conversation and stuff that happens on earth is for the most part, boring. The interesting and exciting things about GL is the stuff that happens across the universe. 
+That's it. These things alone would be enough for one movie to introduce Green Lantern. Plenty of story and character to be covered with just that. If you read GL comics, the conversation and stuff that happens on earth is for the most part, boring. The interesting and exciting things about GL is the stuff that happens across the universe.
 
 I mean, just use your imagination! This is the problem with the Aliens vs Predator movies being set on this planet. Earth is boring to tell stories about way cool futuristic weapons, alien races, and cosmic forces! Come on Hollywood!!!
 

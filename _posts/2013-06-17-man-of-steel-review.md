@@ -6,6 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Review
 - Movies
+- Comics
 modified_time: '2014-08-08T16:43:00.805-05:00'
 thumbnail: http://2.bp.blogspot.com/-b7Y5eWJwih0/Ub7XDQr14EI/AAAAAAABeaw/Kbe3Jp2udyY/s600/Screen+Shot+2013-06-17+at+2.29.29+AM.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3309650584819850059
@@ -64,4 +65,3 @@ Superman is the modern-day mythology's hero. He says a lot about us as humans, w
 The movie should have ended differently with a positive theme. Throughout the movie it's Clark in hiding because he's being told that the world isn't ready for him. The theme at the end of the movie is that the world is ready for a superman. He represents the best of all human cultures. We do want a Superman. We even want to be Superman, do the things he does such as act selflessly, etc. The tone should have changed since Superman just saved the entire planet! But what do we get? A scene where Superman destroys a tracking drone out of the sky and telling the commander chasing him not to try, that he grew up in Kansas, that he's practically American. Where is the trust in and appreciation for this guy that just saved everyone? It still ends on a bleak world of distrust.
 
 But maybe that is exactly the mission of the sequel.
-

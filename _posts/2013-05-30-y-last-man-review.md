@@ -6,6 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Review
 - Books
+- Comics
 modified_time: '2014-08-09T19:51:50.157-05:00'
 thumbnail: http://2.bp.blogspot.com/-ovArPrDyoUQ/UafznelRNiI/AAAAAAABc3k/uLnxDACopuk/s600/IMG_20130530_174718.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7285875603607456810
@@ -47,6 +48,6 @@ Here's are links to the full set of books (paperbacks):
 
 They are available in hardcovers too, but I just prefer softcover format because it's lighter to carry around and read, especially in bed.
 
-I can see this graphic novel being adapted into a TV show. Maybe HBO or Starz can pick it up? I can see this kind of story compete against True Blood or even The Walking Dead. The drama is that good. 
+I can see this graphic novel being adapted into a TV show. Maybe HBO or Starz can pick it up? I can see this kind of story compete against True Blood or even The Walking Dead. The drama is that good.
 
 If you enjoy <a href="http://en.wikipedia.org/wiki/Robert_Kirkman">Robert Kirkman</a>'s <a href="http://www.thewalkingdead.com/">The Walking Dead</a> comic series (currently ongoing) and other post-apocalyptic stories, you should give Y: The Last Man a try.
