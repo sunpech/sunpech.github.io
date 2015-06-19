@@ -6,23 +6,23 @@ author: Steven Suwatanapongched
 tags:
 - Technology
 - Guide
-modified_time: '2015-06-19T09:00:04.552-05:00'
+modified_time: '2015-06-19T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_lastpass_logo.jpg
 image: /public/images/blog/lastpass_logo.jpg
-description: Why you should use a password manager such as LastPass.
+description: I cover why you should use a password manager such as LastPass and how to improve the security behind it even further.
 ---
 
 Earlier this week news broke that [LastPass](http://www.lastpass.com) had been hacked. They released a blog post: [LastPass Security Notice](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/).
 
-**I still believe that LastPass is a good service.**
+**I still believe that LastPass is a great service.**
 
-Despite not even getting an email right away from LastPass, I believe in them. I found out about the issue from social media-- basically word-of-mouth. Which to be honest, I'm fine with.
+I don't hold it against them for not getting an email right away. I found out about the issue from social media-- basically word-of-mouth. Which to be honest, I'm fine with. I'm just glad that when there is a problem that Internet people bring it up and share it right away. The only minus is that there can be some misinformation and panic that goes with it.
 
-I do like how LastPass is very forthcoming with any issues they have. This is the way security should be.
+I like how LastPass is very upfront with any issues they have. This is the way security should be.
+
+You should only be worried about your account if the LastPass master password is also the same password you use on another site-- *which you shouldn't be doing in the first place.*
 
 ![LastPass Logo](/public/images/blog/lastpass_logo.jpg)
-
-You should only be concerned if the master password for LastPass is also the same password you use on another site-- *which you shouldn't be doing in the first place.*
 
 ## The Idea Behind a Password Manager
 
@@ -37,6 +37,8 @@ I know too many people that use the same password on all their accounts. This is
 The idea behind a password manager is so that you only really manage a few strong passwords that you can remember. Everything else, for all your other accounts, you have LastPass generate a random, long password for.
 
 Your master password is used to login and make readable the encrypted storage of all your generated passwords/accounts. This is stored on LastPass servers, the cloud, so you can access it from multiple devices (your PC/Mac, tablets, and/or mobile phones).
+
+Having a strong password for your main email address or the one that's linked to LastPass is important, because, if you forget any password, including LastPass's, it all defaults back to this email address. So it's important to have this one secured as well and not be stored on LastPass.
 
 Also see: [How LastPass Works](https://lastpass.com/how-it-works)
 
@@ -66,26 +68,28 @@ The Advanced Settings is easy to miss, it's on the bottom as seen in the scrensh
 
 Scroll down to Password Iterations.
 
-The default password iteration is: 5000. You should increase it to something larger that's 5 digits in length or more. Sure it re-ecrypts your storage again and it can be a bit slow (like ~20 seconds), but this is something you aren't doing again and again.
+The default password iteration is: 5000. You should increase it to something larger that's 5 digits in length or more. Sure it re-ecrypts your storage again and it can be a bit slow (like ~20 seconds), but this is something you aren't doing again and again. Just do it once at the beginning, and you're set.
 
 ![LastPass Screenshot 2](/public/images/blog/lastpass_screenshot_03.jpg)
 
-There is also a setting where you can specify which country LastPass can work from. If you live in the US, then set the US to be the only place that LastPass can be logged in from.
+There is also a setting where you can specify which country LastPass can work from. If you live in the US, then set it so the US is the only place that LastPass can be logged in from.
 
 I also recommend adding [Multifactor Authentication](https://lastpass.com/multifactor-authentication) to make your LastPass account even more secure.
 
 ## Other Password Managers
 
-The important thing is that you use one. Here are the most well known ones.
+The important thing is that you use one. Any one. Here are the most well known ones.
 
 * [OnePassword](https://agilebits.com/onepassword)
 * [KeyPass](http://keepass.info/)
 
-Just do not use your browser's password storage. In fact you should change your browser's settings so that it doesn't remember any login information at all. Everything should go through your password manager.
+Do not use your browser's password storage. In fact you should change your browser's settings so that it doesn't remember any login information at all. Everything should go through your password manager.
 
-I like the subscription model behind LastPass. I prefer that over OnePassword's buy-to-own model. I'd rather pay bit by bit, than pay $50+ outright for something may not be supported long term.
+I like the subscription model behind LastPass. I prefer that over OnePassword's buy-to-own model. I'd rather pay bit by bit, than pay $48+ outright for something that may not be supported. It costs $1 per month to subscribe to [LastPass Premium](https://lastpass.com/go-premium) if you want the mobile options. Otherwise, the desktop browser version is free.
 
-KeePass is nice, but I like the convenience of storing my LastPass on their cloud servers. Again, convenience. It also feels like the argument for KeePass is weak if people choose to store their KeePass data on another cloud service such as Dropbox.
+KeePass is nice, but the encrypted database is stored locally. I like the convenience of storing my LastPass on their cloud servers. Again, **convenience**. The argument for KeePass is weak if users choose to store their KeePass key file on another cloud service such as Dropbox.
+
+Again, I encourage everyone, friends, family, collegues, to all use a password manager.
 
 ## More Links
 
