@@ -48,5 +48,3 @@ Here are some more ways to interact and reach me.
 * [my Boston University site](http://cs-people.bu.edu/spong) - Apparently they disabled old alumni accounts. But I have a [gitub repo](https://github.com/sunpech/boston_university_website) containing what it used to look like.
 
 <a href="http://stackexchange.com/users/4349f7c113214976ac971c2fb0982336"><img alt="profile for sunpech on Stack Exchange, a network of free, community-driven Q&amp;A sites" src="http://stackexchange.com/users/flair/4349f7c113214976ac971c2fb0982336.png" height="58" title="profile for sunpech on Stack Exchange, a network of free, community-driven Q&amp;A sites" width="208" /></a>
-
-<i>Last Updated on June 14, 2015.</i>
