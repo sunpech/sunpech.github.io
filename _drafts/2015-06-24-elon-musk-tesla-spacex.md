@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elon Musk
+title: 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future'
 date: '2015-06-24T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
