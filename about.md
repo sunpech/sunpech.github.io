@@ -7,7 +7,7 @@ permalink: about/
 
 My full name is Sunpech Steven Suwatanapongched. I mostly just go by Steven. I also go by Spong, which comes from a combination of letters from **S** from **S**teven, and **Pong** from Suwatana**pong**ched.
 
-I grew up in Chicago, Illinois. I'm half Thai and half Chinese. I've lived in several cities from Boston, Bangkok, to Los Angeles. I'm currently live in Chicago, IL.
+I grew up in Chicago, Illinois. I'm half Thai and half Chinese. I've lived in several cities from Boston, Bangkok, to Los Angeles. I currently live in Chicago, IL.
 
 I enjoy software development, photography, food, reading, blogging, traveling, and other stuff.
 
