@@ -9,6 +9,7 @@ tags:
 modified_time: '2015-05-25T09:00:04.552-05:00'
 thumbnail: /public/images/blog/tn_blogger-to-jekyll.jpg
 image: /public/images/blog/blogger-to-jekyll.jpg
+description: "I moved my blog from Blogger to Jekyll."
 ---
 
 I recently made the move from [Blogger](http://www.blogger.com) to [Jekyll](http://jekyllrb.com), hosted on [Github Pages](https://pages.github.com). It was a pretty pleasant conversion too, as Jekyll has a good amount of documenation and support.
@@ -44,7 +45,7 @@ First thing you'll need to do is have [ruby](https://www.ruby-lang.org/en/) inst
 	gem install jekyll
 {% endhighlight %}
 
-This should all work fine if you are using OS X or some flavor of Linux-- I'm not sure about Windows OS. 
+This should all work fine if you are using OS X or some flavor of Linux-- I'm not sure about Windows OS.
 
 If you want to host Jekyll for free on [Github Pages](https://pages.github.com), you'll of course need to have a [Github](https://github.com) account. Your <i>username</i> will be what you use. For example: mine is located at [sunpech.github.io](http://sunpech.github.io), which should redirect you to this domain. But the actual repo can be found at [github.com/sunpech/sunpech.github.io](https://github.com/sunpech/sunpech.github.io)-- please excuse the mess.
 
@@ -60,4 +61,3 @@ From there, just drop the converted markdown files into _posts/ in your jekyll p
 
 * [Setting up a custom domain with GitHub Pages](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
 * [Poole Hyde](https://github.com/poole/hyde) - The theme this site is based off of.
-

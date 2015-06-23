@@ -12,6 +12,7 @@ image: http://2.bp.blogspot.com/-c_S9XI4J78A/VOBJ6WOm7UI/AAAAAAAB4Zg/BbcjGq2lOXo
 blogger_id: tag:blogger.com,1999:blog-6841384.post-530934058347219991
 blogger_orig_url: http://www.sunpech.com/2015/02/scott-mccloud-at-chicago-humanities.html
 redirect_from: /2015/02/scott-mccloud-at-chicago-humanities.html
+description: "My thoughts and photos from Scott McCloud's appearance at the Chicago Humanities event at the Chicago Art Institute."
 ---
 
 This past Friday the <a href="http://chicagohumanities.org/">Chicago Humanities Festival</a> had <a href="http://scottmccloud.com/">Scott McCloud</a> at the <a href="http://www.artic.edu/">Art Institute</a>. Not many of my friends and family know that Mr. McCloud was a big influence during my teenage and high school years.
@@ -46,4 +47,3 @@ Lynne Thomas and Scott McCloud sit down for a conversation.
 
 Scott McCloud signed my books!
 <img border="0" src="http://3.bp.blogspot.com/-vs94ecMt_rA/VN7nQxl7RgI/AAAAAAAB4Y4/gdQQz9a-988/s600/2015-02-13%2Bat%2B20-10-32.jpg"   />
-

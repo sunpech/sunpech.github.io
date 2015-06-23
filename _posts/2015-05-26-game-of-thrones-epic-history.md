@@ -8,6 +8,7 @@ tags:
 - TV Shows
 thumbnail: /public/images/blog/tn_comicbookgirl19-GameofThrones.jpg
 image: /public/images/blog/comicbookgirl19-GameofThrones.jpg
+description: "I highly recommend ComicBookGirl19's Game of Thrones Epic History."
 ---
 
 Are you a fan of [Game of Thrones](http://www.imdb.com/title/tt0944947/) like I am? Have you checked out [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)'s (CBG19) youTube videos on this book/show?

@@ -12,6 +12,7 @@ image: http://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6474388924633229595
 blogger_orig_url: http://www.sunpech.com/2015/04/map-your-mouses-back-and-forward.html
 redirect_from: /2015/04/map-your-mouses-back-and-forward.html
+description: "My guide on how to enable your mouse's buttons to your browser's back/forth buttons."
 ---
 
 I've been using OS X as my main OS for almost five years now. But one thing that's bugged me for a while was the lack of support for Logitech and other mice's forward and back buttons. These are mouse shortcut buttons found on many gaming mice. As much as I enjoy Apple's trackpad, I still like to use the mouse for gaming and other things.
@@ -41,4 +42,3 @@ From there, you'll then be able to add the mappings by selecting Normal Mice on 
 And that's it! Now in your web browser you'll have back and forward shortcuts working!
 
 Download at: <a href="http://www.boastr.de/">BetterTouchTool</a>
-
