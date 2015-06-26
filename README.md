@@ -4,7 +4,7 @@ This is my website/blog that is run using [Jekyll](http://jekyllrb.com/) and is 
 
 The website is at: [sunpech.com](http://sunpech.com)
 
-The theme is based off of [Pool Hyde](https://github.com/poole/hyde).
+The theme is based off of [Clean Blog Jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll).
 
 ## Creating a Post
 
