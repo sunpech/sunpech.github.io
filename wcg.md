@@ -3,6 +3,7 @@ layout: page
 title: Team Spong's WCG
 navigation: false
 permalink: wcg/
+header-img: public/images/header_wooden_fence.jpg
 ---
 
 I donate my computer's idle time to help solve complex problems through <a href="http://www.worldcommunitygrid.org/">World Community Grid</a>.
