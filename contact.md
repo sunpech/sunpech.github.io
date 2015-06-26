@@ -3,6 +3,7 @@ layout: page
 title: Contact
 navigation: true
 permalink: contact/
+header-img: public/images/header_san_francisco_fog.jpg
 ---
 
 ![Steven at Al Majis](/public/images/sunpech_almajis.jpg)

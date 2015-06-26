@@ -4,6 +4,7 @@ title: Windows Software
 navigation: false
 best: true
 permalink: windows-software/
+header-img: public/images/header_joshua_tree.jpg
 ---
 
 I've put together a list of the best software for Windows PCs. These are all free, unless otherwise noted.

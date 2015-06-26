@@ -3,6 +3,7 @@ layout: page
 title: Archive
 navigation: true
 permalink: archive/
+header-img: public/images/header_griffith_observatory.jpg
 ---
 
 {% for post in site.posts %}
