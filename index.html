@@ -1,28 +1,26 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-    <span class="post-tag">
-      Tags: 
-      {% for t in post.tags %}<a href="/tag/{{ t | replace: " ", "-" }}">{{ t }}</a>{% if post.tags.last != t %},&nbsp;{% endif %}{% endfor %}
-    </span>
 
+{% for post in paginator.posts %}
+<div class="post">
+  <h2 class="post-title">
+    <a href="{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h2>
+  <span class="meta">Posted by {{ site.author.name }} on {{ post.date | date: "%B %-d, %Y" }}</span>
+  <span class="post-tag">
+    Tags:
+    {% for t in post.tags %}<a href="/tag/{{ t | replace: " ", "-" }}">{{ t }}</a>{% if post.tags.last != t %},&nbsp;{% endif %}{% endfor %}
+  </span>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
+  {{ post.content }}
 </div>
+{% endfor %}
+
 
 <div class="pagination">
   {% if paginator.next_page %}
@@ -41,6 +39,6 @@ title: Home
   {% endif %}
 </div>
 
-<hr />
 
+<hr />
 {% include tag_cloud.html %}
