@@ -14,6 +14,7 @@ Here are some helpful tips in creating a post, particularly in [front matter](ht
 * `thumbnail` width should be 300px.
 * `image` width should be 600px or wider. Recommended: 800px.
 * `description` should be filled out for better Twitter Cards and Facebook Graph posts (optional).
+* `header-img` can be set for custom header image. Should be 1900px wide. Also dim the photo, maybe 1-3 exposure stops.
 * Use Markdown in new posts, but HTML is acceptable (not encouraged).
 
 ### Drafts
@@ -41,6 +42,7 @@ There is a folder called best/, which contains pages regarding recommendations o
 * `navigation` - set to true or false, as to should be shown as navigation link.
 * `permalink` - path to page
 * `best` - set to true or false, to be used as part of index of best pages. Optional, only required if to be displayed.
+* `header-img` can be set for custom header image. Should be 1900px wide. Also dim the photo, maybe 1-3 exposure stops.
 
 ## TODO:
 
