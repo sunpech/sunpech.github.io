@@ -13,6 +13,7 @@ thumbnail: http://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU
 blogger_id: tag:blogger.com,1999:blog-6841384.post-9022593571742244527
 blogger_orig_url: http://www.sunpech.com/2014/07/san-diego-comic-con-2014.html
 redirect_from: /2014/07/san-diego-comic-con-2014.html
+header-img: public/images/header_san_diego_comic_con.jpg
 ---
 
 Last week I as in San Diego for <a href="http://www.comic-con.org/cci">Comic Con</a> (SDCC). This visit marks my fourth visit to San Diego's Comic Con, with <i>next year (2015) marking twenty years since I attended my first comic con in Chicago</i>. I cannot believe it's been that long since I first ventured into a convention
@@ -116,4 +117,3 @@ I'd like to see a Comic Con offer a pay-per-view event livestream in the future.
 <b>A more realistic solution to the massive popularity of Comic Con, is to have more comic conventions and events</b>. SDCC can't be the only game in town to house all the studios and entertainment. There just needs to be more events that serve a niche crowd and interest(s), all throughout the year. For example AX is doing a good job-- their only problem is that they're outgrowing the LA Convention Center.
 
 Even with all the negative reviews of SDCC from myself and others, I still plan to go next year. The next convention I plan to attend this year is <a href="http://comikazeexpo.com/">Comikaze Expo</a>, Oct 31-Nov 2, 2014. This will be their fourth con and they are improving greatly each year.
-

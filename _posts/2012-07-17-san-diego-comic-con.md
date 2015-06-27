@@ -14,6 +14,7 @@ thumbnail: http://4.bp.blogspot.com/-o3QWHkq9UKw/UATSbXIBiII/AAAAAAABQBo/FS8166m
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3677375251137094691
 blogger_orig_url: http://www.sunpech.com/2012/07/san-diego-comic-con.html
 redirect_from: /2012/07/san-diego-comic-con.html
+header-img: public/images/header_san_diego_comic_con.jpg
 ---
 
 Last week I went to the <a href="http://comic-con.org/">San Diego Comic Con</a> (SDCC) and had a blast. The last time I went was back in 2010, which I blogged about <a href="/2010/07/san-diego-comic-con-2010-pictures">here</a>. I took quite a few photos, but only post-processed a fraction of them. I may choose to post-process more of them at a later date. You can view the full album <a href="https://picasaweb.google.com/101693597219413173200/2012SanDiegoComicCon">here</a>.
@@ -227,4 +228,3 @@ As for deals on comic books and TPBs, it's gotten better. What I didn't like abo
 <a href="http://2.bp.blogspot.com/-dJPi5QCeLgM/UATTmklXsfI/AAAAAAABQKA/A9WPlBDSdPQ/s600/2012-07-15+at+12-20-31.jpg" ><img border="0" src="http://2.bp.blogspot.com/-dJPi5QCeLgM/UATTmklXsfI/AAAAAAABQKA/A9WPlBDSdPQ/s600/2012-07-15+at+12-20-31.jpg" /></a>
 
 I only criticize because I love. I want Comic Con to get better and make the attendees happy. I do plan to make this a regular thing every year with my sisters. It really is fun, but I think I'll avoid some of the bigger panels unless they schedule things really well. Until next year!
-

@@ -13,6 +13,7 @@ thumbnail: http://2.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAABg6M/ZHHW9sG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5195090169581985203
 blogger_orig_url: http://www.sunpech.com/2013/07/san-diego-comic-con-2013.html
 redirect_from: /2013/07/san-diego-comic-con-2013.html
+header-img: public/images/header_san_diego_comic_con.jpg
 ---
 
 Last week I was in San Diego for <a href="http://www.comic-con.org/cci">Comic-Con</a>. This was my third time at SDCC and I had a great time as usual. I took pictures as usual, but unlike previous years, I went to more panels than any other year.
@@ -85,4 +86,3 @@ As much as I love taking pictures of cosplayers at Comic-con, I felt this year w
 Just like previous years, Comic-con is becoming less and less about actual comics, and more about big media/industry with their large booths. As I heard, it costs like $200,000 for a certain comic publisher to get space on the floor! That <i>seems very expensive</i> considering very few people, percentage-wise, actually visit publisher booths. The big movie and entertainment booths get the most visitors from what I see.
 
 I do plan on going next year again. I hope to one day get into Hall H and witness a big announcement in person. This event gets bigger every year, but I have to wonder if and when it will get too big where parts or communities will start their own specialized event. In a way, it already has since there are other comic conventions in the Southern California region taking place already-- Wondercon, Comikaze Expo, SoCal Comic Con, Long Beach Comic Con, etc. So in a way, unless it's comic-related, I'd rather it not be at Comic-Con.
-

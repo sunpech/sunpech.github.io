@@ -13,7 +13,7 @@ title: Home
   </h2>
   <span class="meta">Posted by {{ site.author.name }} on {{ post.date | date: "%B %-d, %Y" }}</span>
   <span class="post-tag">
-    Tags:
+    <i class="fa fa-tags"></i>
     {% for t in post.tags %}<a href="/tag/{{ t | replace: " ", "-" }}">{{ t }}</a>{% if post.tags.last != t %},&nbsp;{% endif %}{% endfor %}
   </span>
 

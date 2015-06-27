@@ -13,6 +13,7 @@ thumbnail: http://2.bp.blogspot.com/-aQ1CJve_G_Q/UFasCiz-O-I/AAAAAAABUpk/HdBWXzu
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4748305805232080592
 blogger_orig_url: http://www.sunpech.com/2012/09/comikaze-expo.html
 redirect_from: /2012/09/comikaze-expo.html
+header-img: public/images/header_comikaze_expo.jpg
 ---
 
 Over the weekend I checked out the <a href="http://comikazeexpo.com/">Comikaze Expo</a> at the LA Convention Center (LACC). As far as I know, this was the first "real" comic con taking place in Los Angeles. The previous year's I heard took place in a parking structure or something. But this is a comic con for LA made by fans, for fans. That's their slogan more or less anyway.
@@ -34,7 +35,7 @@ However, everything didn't go smoothly. Here's what I've seen, read, and/or hear
 </ol>
 
 I'd like to share some of my input in regards to some of these.
-For the problems with lines (#1 and #2), things weren't that bad. I went early on Saturday around 9:30am and the lines weren't that bad. Doors supposedly open at 10am. However, those who came in the afternoon had problems as the line went right out the front. I've been to San Diego Comic Con (SDCC) and Anime Expo. The lines and attendane for those were much greater and wait sometimes much much longer than just an hour or two. Some fans should get a grip on the idea that these conventions have a lot of people going in a short period of time and lines are unavoidable. 
+For the problems with lines (#1 and #2), things weren't that bad. I went early on Saturday around 9:30am and the lines weren't that bad. Doors supposedly open at 10am. However, those who came in the afternoon had problems as the line went right out the front. I've been to San Diego Comic Con (SDCC) and Anime Expo. The lines and attendane for those were much greater and wait sometimes much much longer than just an hour or two. Some fans should get a grip on the idea that these conventions have a lot of people going in a short period of time and lines are unavoidable.
 
 That said, the line coordination showed how inexperienced Comikaze organizers really are, or how short in supply of volunteers they have. With proper preparation, they could have avoided a lot of trouble by simply putting masking tape on the floor weaving through a controlled area. Simply relying on disgruntled fans to self organize straight lines is unrealistic. They are going to curve, bend, and morph into something ugly.
 
@@ -157,5 +158,3 @@ Mark Hamil
 <img border="0" src="http://1.bp.blogspot.com/-KtGsnjWZrdw/UFar99lETSI/AAAAAAABUo8/FZH4RydiV5Y/s600/2012-09-16-64.jpg" />
 
 <img border="0" src="http://3.bp.blogspot.com/-8LQthKzzow8/UFar78GJ9_I/AAAAAAABUos/mXg7ugDcpEo/s600/2012-09-16-61.jpg" />
-
-
