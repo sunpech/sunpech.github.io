@@ -11,11 +11,24 @@ The theme is based off of [Clean Blog Jekyll](https://github.com/IronSummitMedia
 Here are some helpful tips in creating a post, particularly in [front matter](http://jekyllrb.com/docs/frontmatter/) variables such as thumbnail, image, and description. Also see draft example.
 
 * Name post files with YEAR-MM-DD-TITLE.md format.
-* `thumbnail` width should be 300px.
-* `image` width should be 600px or wider. Recommended: 800px.
-* `description` should be filled out for better Twitter Cards and Facebook Graph posts (optional).
-* `header-img` can be set for custom header image. Should be 1900px wide. Also dim the photo, maybe 1-3 exposure stops.
 * Use Markdown in new posts, but HTML is acceptable (not encouraged).
+
+### Variables
+* `thumbnail` - width should be 300px.
+* `image` - width should be 600px or wider. Recommended: 800px.
+* `description` - should be filled out for better Twitter Cards and Facebook Graph posts (optional).
+* `header-img` - can be set for custom header image. Should be 1900px wide. Also dim the photo, maybe 1-3 exposure stops.
+
+
+### Embedding a YouTube video
+
+You can embed an iframe into a post, but to get it so it's responsive, use the following div and class around the iframe:
+
+```
+<div class="video-container">
+<iframe... </iframe>
+</div>
+```
 
 ### Drafts
 
