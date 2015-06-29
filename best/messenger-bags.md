@@ -4,7 +4,7 @@ title: Messenger Bags
 navigation: false
 best: true
 permalink: messenger-bags/
-header-img: public/images/header_joshua_tree.jpg
+header-img: /public/images/header_joshua_tree.jpg
 ---
 
 Since I started to use my camera more and more, I tend to not use my messenger bag as much, just because they don't offer as much protection for my DSLR and camera gear. But these are still my favorite if I don't happen to be lugging around my camera.

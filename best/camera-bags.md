@@ -4,7 +4,7 @@ title: Camera Bags
 navigation: false
 best: true
 permalink: camera-bags/
-header-img: public/images/header_joshua_tree.jpg
+header-img: /public/images/header_joshua_tree.jpg
 ---
 
 I own quite a few camera bags. These are my favorite that I feel comfortable recommending because I own them.
