@@ -3,7 +3,7 @@ layout: page
 title: Best Stuff
 navigation: true
 permalink: /
-header-img: public/images/header_joshua_tree.jpg
+header-img: /public/images/header_joshua_tree.jpg
 ---
 
 A list of some of the best stuff I've come across. Enjoy.

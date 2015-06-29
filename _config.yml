@@ -39,7 +39,7 @@ gems:
   - jekyll-sitemap
 
 # StartBootstrap Clean-Blog Settings
-header-img: public/images/header_old_cameras.jpg
+header-img: /public/images/header_old_cameras.jpg
 twitter_username: sunpech
 github_username:  sunpech
 gplus_username: StevenSuwatanapongched
