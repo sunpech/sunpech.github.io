@@ -3,7 +3,7 @@ layout: page
 title: About
 navigation: true
 permalink: about/
-header-img: /public/images/header_chicago_skyline.jpg
+header-img: /public/images/header_bamboo.jpg
 ---
 
 My full name is Sunpech Steven Suwatanapongched. I mostly just go by Steven. I also go by Spong, which comes from a combination of letters from **S** from **S**teven, and **Pong** from Suwatana**pong**ched.
