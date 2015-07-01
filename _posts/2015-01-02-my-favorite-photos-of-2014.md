@@ -13,6 +13,7 @@ image: http://3.bp.blogspot.com/-wgPuwK1I6v4/VKbvlZ5ekfI/AAAAAAAB06Q/Wr2DtMebZcE
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8975235101402898124
 blogger_orig_url: http://www.sunpech.com/2015/01/my-favorite-photos-of-2014.html
 redirect_from: /2015/01/my-favorite-photos-of-2014.html
+description: "I recap my favorite photos I took in 2014."
 ---
 
 Last year, in 2014 was a good year for my photography. I did quite a bit of traveling and pushed myself to try some new things. Now that it's 2015, I hope to take more photographs and try some new things out too!
