@@ -12,6 +12,7 @@ image: http://4.bp.blogspot.com/-qBBZTqYZz-8/VHbtQnX5ziI/AAAAAAAB0nY/sJXuGH_3zSE
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8058210042568552729
 blogger_orig_url: http://www.sunpech.com/2014/11/my-road-trip-from-la-to-chicago.html
 redirect_from: /2014/11/my-road-trip-from-la-to-chicago.html
+description: "I cover my road trip across the United States from Los Angeles to Chicago."
 ---
 
 Last week I drove from Los Angeles back to my hometown of Chicago. I've moved back home for personal reasons. It took my sister and I nine days to get across the US-- mostly just eating, driving, sleeping, and taking pictures.
@@ -75,6 +76,6 @@ Zion National Park's The Great White Throne as well as the rest of the park puts
 
 <b>I had fun and would love to do the drive again</b>. There's one stop I wish we had time for-- <a href="http://navajonationparks.org/htm/antelopecanyon.htm">Antelope Canyon</a>. There were so many delays that I had to just cut this part out of the trip. <a href="http://www.nps.gov/jotr/">Joshua Tree</a> is another place I'd like to revisit and spend a night doing night photography in. As well as <a href="http://www.nps.gov/zion/">Zion National Park</a>.
 
-I got to see first hand that <b>America is a lot of different things</b>. I've spent most of my life living in or near big cities (Chicago, Boston, Los Angeles, etc...). There is a very different part of America that exists betweens these cities where life is a little bit calmer and relaxed. 
+I got to see first hand that <b>America is a lot of different things</b>. I've spent most of my life living in or near big cities (Chicago, Boston, Los Angeles, etc...). There is a very different part of America that exists betweens these cities where life is a little bit calmer and relaxed.
 
 <b>If you ever feel tired of where you are in life and can afford the time to get away, <i>look to the open road</i>. America has plenty of adventures and interesting places to see.</b>
