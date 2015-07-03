@@ -3,27 +3,25 @@ layout: page
 title: Home
 ---
 
+<h2>Recent Posts</h2>
 
 {% for post in paginator.posts %}
-<div class="row">
-  <div class="media">
-    <div class="pull-left">
-      <a href="{{ post.url }}">
-        <img src="{{ post.thumbnail }}" class="media-object" alt="{{ post.title }}" width="200" />
-      </a>
-    </div>
-    <div class="media-body">
-      <h3 class="media-heading"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <span class="meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-      <span class="post-tag">
-        <i class="fa fa-tags"></i>
-        {% for t in post.tags %}<a href="/tag/{{ t | replace: " ", "-" }}">{{ t }}</a>{% if post.tags.last != t %},&nbsp;{% endif %}{% endfor %}
-      </span>
-
-      <p>{{ post.description }}</p>
-
-      <p><a href="{{ post.url}}">Read more...</a></p>
-    </div>
+<div class="media">
+  <div class="pull-right">
+    <a href="{{ post.url }}">
+      <img src="{{ post.thumbnail }}" class="media-object" alt="{{ post.title }}" width="200" />
+    </a>
+  </div>
+  <div class="media-body">
+    <h3 class="media-heading"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <span class="meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+    <span class="post-tag">
+      <i class="fa fa-tags"></i>
+      {% for t in post.tags %}<a href="/tag/{{ t | replace: " ", "-" }}">{{ t }}</a>{% if post.tags.last != t %},&nbsp;{% endif %}{% endfor %}
+    </span>
+    <p>
+    {{ post.description }}
+    <div><a href="{{ post.url}}">Read more...</a></div></p>
   </div>
 </div>
 {% endfor %}
