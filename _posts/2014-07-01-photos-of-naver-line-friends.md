@@ -14,7 +14,7 @@ redirect_from: /2014/07/photos-of-naver-line-friends.html
 
 I was in Chiang Mai, Thailand recently and found some Naver Line toys at the mall. I bought them with the intention of giving them to my sisters since we all use the <a href="http://line.me/en/">Line chat app</a>. But on the way back to the US, I had an eight hour layover at the Incheon International airport in South Korea. I happened to pack the toys in my carry-on so I took them out to have a little photo shoot.
 
-I initially made them for my <a href="http://instagram.com/sunpechphoto">Instagram account</a>, but decided to re-crop them with a different finish for HD wallpapers and prints. Then I expanded to take more pictures with them in other locations once I was back in the United States.
+I initially made them for my <a href="http://instagram.com/sunpech">Instagram account</a>, but decided to re-crop them with a different finish for HD wallpapers and prints. Then I expanded to take more pictures with them in other locations once I was back in the United States.
 
 Here they are, hope you like! I plan to do more and <i>maybe</i> have them in other resolutions for mobile wallpapers.
 

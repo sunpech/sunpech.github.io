@@ -23,7 +23,7 @@ Some goals:
   <li>I recently upgraded my <a href="http://www.slrlounge.com/store-product/lightroom-presets/">SLR Lounge Presets</a> to V6 and look forward to using their system in upcoming projects.</li>
   <li>Now that I'm back in Chicago, I hope to do some more street photos of the great city!</li>
   <li>Travel more.</li>
-  <li>And finally, I'm going to try to be more active on my Instagram: <a href="http://instagram.com/sunpechphoto">@sunpechphoto</a>. </li>
+  <li>And finally, I'm going to try to be more active on my Instagram: <a href="http://instagram.com/sunpech">@sunpech</a>. </li>
 </ol>
 
 <h3>My Favorite Photos</h3>
