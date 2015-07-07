@@ -100,7 +100,7 @@ Apocalypse being put together.
 
 <a href="http://4.bp.blogspot.com/-EiDcTGZKrP8/U9dIiUtcuwI/AAAAAAABvXM/thhu56ydPck/s600/2014-07-25+at+10-44-34.jpg" ><img border="0" src="http://4.bp.blogspot.com/-EiDcTGZKrP8/U9dIiUtcuwI/AAAAAAABvXM/thhu56ydPck/s600/2014-07-25+at+10-44-34.jpg"   /></a>
 
-I am on Instagram at: <a href="http://instagram.com/sunpechphoto">http://instagram.com/sunpechphoto</a>. I tend to post quick edits up there first, so follow me there if you want an almost daily-instant photos I take.
+I am on Instagram at: <a href="http://instagram.com/sunpech">http://instagram.com/sunpech</a>. I tend to post quick edits up there first, so follow me there if you want an almost daily-instant photos I take.
 
 ## Final Thoughts
 

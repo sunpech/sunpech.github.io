@@ -18,7 +18,7 @@ Here are some more ways to interact and reach me.
 * [Facebook/SunpechPhotography](https://www.facebook.com/SunpechPhotography)
 * [500px](http://500px.com/sunpech)
 * [Flickr](http://www.flickr.com/photos/sunpech/sets/)
-* [Instagram](http://instagram.com/sunpechphoto)
+* [Instagram](http://instagram.com/sunpech)
 * [Twenty20](http://twenty20.com/sunpech)
 * [Nuvango](http://nuvango.com/sunpech)
 
