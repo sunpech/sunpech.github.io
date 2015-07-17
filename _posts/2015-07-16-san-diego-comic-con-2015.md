@@ -17,7 +17,7 @@ description: My thoughts and pictures from San Diego Comic Con 2015. TL;DR; Stil
 
 Last week I was in San Diego for [Comic Con](http://www.comic-con.org/cci). This year marks *my fifth time* that I've been to San Diego Comic Con.
 
-![San Diego Comic Con 2015](/public/images/blog/2015_san_diego_comic_con.jpg)
+![San Diego Comic Con 2015](/public/images/blog/san_diego_comic_con_2015.jpg)
 
 This month of July also marks twenty years since I attended my first comic convention in Chicago, when it was then known as Chicago Comic Con (it was bought by [Wizard World](http://www.wizardworld.com/chicago.html) in 1997).
 
