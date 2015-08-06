@@ -28,6 +28,14 @@ ul#social-list{
   color: #fff;
 }
 
+.post-img {
+  max-width: 800px;
+}
+
+.post-img-thumb {
+  max-width: 300px;
+}
+
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
