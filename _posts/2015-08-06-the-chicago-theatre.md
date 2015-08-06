@@ -22,14 +22,14 @@ I decided to abandon any HDR, aperture-priority, and shutter-priority modes/tech
 The advantages of using a cable release and bulb mode are:
 
 * You don't touch the DSLR on the tripod, so your setup is more steady.
-* It's better than time mode.
+* It's better than time mode. You pick when to start/stop instead of a timer.
 * Bulb mode lets you control when you open/close the shutter.
 
-So with bulb mode, it's already going to be a long exposure as we're talking about the 8 to 15 second range for long the shutter stays open. *How did I come up with those numbers?* I start with a low number, say 5 seconds and just start from there and increase it bit by bit after viewing the results on the LCD. I found the sweet spot to be in the 10-15 second range.
+So with bulb mode, it's already going to be a long exposure as we're talking about the 8 to 15 second range for long the shutter stays open. *How did I come up with those numbers?* I start with a low number-- say 5 seconds, and just start from there and increase it bit by bit after viewing the results on the LCD. I found the sweet spot to be in the 10-15 second range for this situation.
 
 Because it's a long exposure, the people walking on the sidewalk and across the street for the most part don't clutter up the image. They are mostly invisible to the camera. The head/tail lights of cars do leave a streak of light-- which is how timing when you start/stop with the remote cable comes into play. For my shots, I prefer not to have too many cars coming across my composition. Either one side of the street or the other is what I think is okay, but not both. I want the main focus to be the building and sign, not how much light streak I can get on the street.
 
-Other settings I set was an ISO of 100, and an aperture of f/22. And these are just personal preferences-- as I like to get as much detail as possible.
+Other settings I set was an ISO of 100, and an aperture of f/22. And these are just personal preferences-- as I like to get as much detail as possible. But in general for these kind of cityscape shots, you want a low ISO number, and a high aperture number (but many will say a small aperture since it corresponds to a smaller opening to allow light in).
 
 So after some editing in [Adobe Lightroom](http://www.amazon.com/gp/product/B00VWCKJVA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00VWCKJVA&linkCode=as2&tag=sunpech-20&linkId=N6FUCC5ZPTDPFYRS), I got the image below.
 
