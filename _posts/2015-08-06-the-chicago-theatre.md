@@ -9,7 +9,7 @@ tags:
 modified_time: '2015-08-06T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_the_chicago_theatre.jpg
 image: /public/images/blog/the_chicago_theatre.jpg
-description: "My first trip to take photos of the iconic Chicago Theatre. I talk about the problems and what I did to take this photo."
+description: My first trip to take photos of the iconic Chicago Theatre. I talk about the problems and what I did to take this photo.
 header-img: /public/images/header_chicago_theatre.jpg
 ---
 
