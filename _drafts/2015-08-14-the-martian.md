@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The Martian
-date: '2015-08-12T09:00:00.000-05:00'
+date: '2015-08-14T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Review
 - Books
-modified_time: '2015-08-12T09:00:00.000-05:00'
+modified_time: '2015-08-14T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_the_martian.jpg
 image: /public/images/blog/the_martian.jpg
 description: My spoiler free book review of Andy Weir's book, and soon to be released movie, The Martian.
