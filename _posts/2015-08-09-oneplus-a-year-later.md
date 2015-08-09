@@ -9,7 +9,7 @@ tags:
 modified_time: '2015-08-09T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_oneplus_a_year_later.jpg
 image: /public/images/blog/oneplus_a_year_later.jpg
-description: My thoughts on the OnePlus, a year later.
+description: My thoughts on the OnePlus and Cyanogen OS.
 ---
 
 I consider the OnePlus One I bought [over a year ago](/2014/08/oneplus-one-vs-nexus-5/) a value phone-- best phone for the buck you spend. For it's time, it was a big phone, with fantastic specs, for a low price. Even now, it's still a good phone and is my main mobile device. The battery is good and CM12S operating system is also decent.
