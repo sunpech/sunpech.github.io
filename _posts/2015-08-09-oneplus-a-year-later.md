@@ -58,3 +58,4 @@ I actually find the [Moto G](https://www.motorola.com/us/motomaker?pid=FLEXR4&ac
 * [Regarding Android L](https://forums.oneplus.net/threads/regarding-android-l.49957/) (OnePlus forum)
 * [Cyanogen's Commitment to our Users](https://cyngn.com/blog/commitment-to-our-users) (Cyanogen blog)
 * [OnePlus released its own version of Android as a replacement for Cyanogen](http://www.theverge.com/2015/4/4/8344931/oneplus-one-oxygenos-rom-download-available) (The Verge)
+* [Does Cyanogen really have more users than Windows Mobile and BlackBerry combined? ](http://www.digitaltrends.com/mobile/does-cyanogen-really-have-more-users-than-windows-mobile-and-blackberry-combined/)
