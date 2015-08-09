@@ -20,7 +20,7 @@ I'm also a bit of a hacker, in that I refuse to wait for any over-the-air (OTA) 
 
 However, it's not all sunshine and rainbows with my OnePlus One (OPO). Outside the actual device hardware, there are things I dislike about the companies and software behind it.
 
-![OnePlus One](/public/images/blog/one_plus_a_year_later.jpg)
+![OnePlus One](/public/images/blog/oneplus_a_year_later.jpg)
 
 ### OnePlus and Cyanogen Problems
 
