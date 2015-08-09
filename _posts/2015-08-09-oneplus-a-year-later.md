@@ -4,7 +4,8 @@ title: OnePlus, A Year Later
 date: '2015-08-09T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Mobile
+- Android
+- Google
 - Review
 modified_time: '2015-08-09T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_oneplus_a_year_later.jpg
