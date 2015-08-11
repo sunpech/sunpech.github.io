@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Chicago Photowalk with Trey Ratcliff
-date: '2015-08-12T09:00:00.000-05:00'
+date: '2015-08-11T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Chicago
 - Photowalk
 - Photography
-modified_time: '2015-08-12T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_trey_ratcliff_chicago_photowalk.jpg
-image: /public/images/blog/trey_ratcliff_chicago_photowalk.jpg
+modified_time: '2015-08-11T09:00:00.000-05:00'
+thumbnail: /public/images/blog/tn_chicago_skyline_buckingham_fountain.jpg
+image: /public/images/blog/chicago_skyline_buckingham_fountain.jpg
 description: My thoughts and photos from Trey Ratcliff's Chicago Photowalk.
 header-img: /public/images/header_chicago_skyline_buckingham_fountain.jpg
 ---
