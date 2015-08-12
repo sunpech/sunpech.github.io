@@ -36,7 +36,7 @@ My photo with Trey Ratcliff.
 
 ![Photo with Trey Ratcliff](/public/images/blog/trey_ratcliff_chicago_photowalk.jpg)
 
-#### Chicago from Buckingham Fountain
+### Chicago from Buckingham Fountain
 
 My favorite photo of the night taken at Buckingham Fountain.
 
