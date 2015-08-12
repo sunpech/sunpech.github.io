@@ -44,5 +44,5 @@ twitter_username: sunpech
 github_username:  sunpech
 gplus_username: StevenSuwatanapongched
 facebook_username:  SunpechPhotography
-instagram_username: sunpechphoto
+instagram_username: sunpech
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
