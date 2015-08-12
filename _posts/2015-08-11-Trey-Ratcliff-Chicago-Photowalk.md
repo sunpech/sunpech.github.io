@@ -54,6 +54,8 @@ You can purchase photo products at the sites below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vi-aPpI0pLU" frameborder="0" allowfullscreen></iframe>
 </div>
 
+You can also watch the video of Trey's introduction talk [here](https://www.youtube.com/watch?v=18QARbrUPbQ).
+
 ### More Links
 
 * [Stuck in Customs](http://www.stuckincustoms.com/)
