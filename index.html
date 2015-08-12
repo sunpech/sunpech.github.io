@@ -15,7 +15,11 @@ title: Home
       <i class="fa fa-tags"></i>
       {% for t in post.tags %}<a href="/tag/{{ t | replace: " ", "-" }}">{{ t }}</a>{% if post.tags.last != t %},&nbsp;{% endif %}{% endfor %}
     </span>
+    {% if post.image %}
+    <div class="post-img-thumb"><img src="{{ post.image }}"  alt="{{ post.title }}" /></div>
+    {% else %}
     <div class="post-img-thumb"><img src="{{ post.thumbnail }}"  alt="{{ post.title }}" /></div>
+    {% endif %}
     <p>
     {{ post.description }}
     &nbsp;&nbsp;&nbsp;<a href="{{ post.url}}">Read more...</a></p>
