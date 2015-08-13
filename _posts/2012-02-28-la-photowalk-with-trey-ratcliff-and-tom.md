@@ -7,6 +7,7 @@ tags:
 - Photography
 - Los Angeles
 - Meetup
+- Photowalk
 modified_time: '2014-08-09T19:55:57.864-05:00'
 thumbnail: http://2.bp.blogspot.com/-Ikb_KJoxdDc/T0tbxm5CYiI/AAAAAAAA6tQ/54DmXWcT1tE/s600/2012-02-26+at+16-18-14.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-63636205120413934
@@ -42,7 +43,7 @@ Trey and mySpace Tom meet and greet quite a few people. I actually shook Trey's 
 
 <a href="http://1.bp.blogspot.com/-2A05DylRplQ/T0tcUcKzfNI/AAAAAAAA6yg/xTW_DCXQNRI/s600/2012-02-26+at+16-51-13.jpg"  style="text-align: center;"><img border="0" src="http://1.bp.blogspot.com/-2A05DylRplQ/T0tcUcKzfNI/AAAAAAAA6yg/xTW_DCXQNRI/s400/2012-02-26+at+16-51-13.jpg"   /></a>
 
-Trey giving tips to doing HDR 
+Trey giving tips to doing HDR
 <a href="http://3.bp.blogspot.com/-ONImxVSE4v4/T0tcgnMiV1I/AAAAAAAA60Q/dV3otpmBztg/s600/2012-02-26+at+17-06-52.jpg"  style="text-align: center;"><img border="0" src="http://3.bp.blogspot.com/-ONImxVSE4v4/T0tcgnMiV1I/AAAAAAAA60Q/dV3otpmBztg/s400/2012-02-26+at+17-06-52.jpg"   /></a>
 
 <a href="http://4.bp.blogspot.com/-_Ftw6WkyODg/T0tclqKTKlI/AAAAAAAA61Q/gRmzJ0iwP6o/s600/2012-02-26+at+17-39-22.jpg"  style="text-align: center;"><img border="0" src="http://4.bp.blogspot.com/-_Ftw6WkyODg/T0tclqKTKlI/AAAAAAAA61Q/gRmzJ0iwP6o/s400/2012-02-26+at+17-39-22.jpg"   /></a>

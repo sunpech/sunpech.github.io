@@ -6,6 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Chicago
 - Photography
+- Photowalk
 modified_time: '2015-08-11T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_chicago_skyline_buckingham_fountain.jpg
 image: /public/images/blog/chicago_skyline_buckingham_fountain.jpg
