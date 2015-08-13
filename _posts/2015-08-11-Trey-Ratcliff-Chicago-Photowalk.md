@@ -5,7 +5,6 @@ date: '2015-08-11T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Chicago
-- Photowalk
 - Photography
 modified_time: '2015-08-11T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_chicago_skyline_buckingham_fountain.jpg
