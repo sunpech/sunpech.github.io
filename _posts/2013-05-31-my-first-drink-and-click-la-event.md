@@ -6,6 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Photography
 - Los Angeles
+- Photowalk
 modified_time: '2013-05-31T20:16:04.500-05:00'
 thumbnail: http://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s600/2013-05-30+at+19-48-35.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4436052358523078717
@@ -41,4 +42,3 @@ Playing with the shutter speed to paint some light.
 
 I liked this stack of newspapers at Canter's Deli.
 <img border="0"  src="http://1.bp.blogspot.com/-azm8jLucaQY/UaipheOQ4vI/AAAAAAABc64/67qdIZFtWHc/s400/2013-05-30+at+23-47-45.jpg"  />
-
