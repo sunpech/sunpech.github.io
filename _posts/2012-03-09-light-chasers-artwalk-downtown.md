@@ -7,6 +7,7 @@ tags:
 - Photography
 - Los Angeles
 - Meetup
+- Photowalk
 modified_time: '2014-08-07T16:21:33.272-05:00'
 thumbnail: http://1.bp.blogspot.com/-S8eTy0FsAwA/T1ns0pEdC8I/AAAAAAAA7qk/VlH4yBH4Fng/s600/2012-03-08+at+19-03-56.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4218937194033384844
@@ -26,7 +27,7 @@ The HDR photos:
 
 <a href="http://4.bp.blogspot.com/-fw0KAAJxjTc/T1ns3VgbykI/AAAAAAAA7q4/6vilfYcXvmM/s600/2012-03-08+at+19-07-07.jpg" ><img border="0"  src="http://4.bp.blogspot.com/-fw0KAAJxjTc/T1ns3VgbykI/AAAAAAAA7q4/6vilfYcXvmM/s400/2012-03-08+at+19-07-07.jpg"  /></a>
 
-<a href="http://2.bp.blogspot.com/-zUG-iK5Oxdk/T1ns6FrF3BI/AAAAAAAA7rM/lmCTyYJif38/s600/2012-03-08+at+19-55-00.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-zUG-iK5Oxdk/T1ns6FrF3BI/AAAAAAAA7rM/lmCTyYJif38/s400/2012-03-08+at+19-55-00.jpg" /></a> 
+<a href="http://2.bp.blogspot.com/-zUG-iK5Oxdk/T1ns6FrF3BI/AAAAAAAA7rM/lmCTyYJif38/s600/2012-03-08+at+19-55-00.jpg" ><img border="0"  src="http://2.bp.blogspot.com/-zUG-iK5Oxdk/T1ns6FrF3BI/AAAAAAAA7rM/lmCTyYJif38/s400/2012-03-08+at+19-55-00.jpg" /></a>
 
 My favorites from the Artwalk:
 
