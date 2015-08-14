@@ -34,7 +34,7 @@ If you choose to watch the trailer, try not to over-analyze things. Or maybe bec
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ue4PCI0NamI" frameborder="0" allowfullscreen></iframe></div>
 
-### Ares 3 teaser
+### Ares 3 Teaser
 
 Check out [Ares 3 live](https://www.youtube.com/channel/UCAHwvVPQZggKTgQlVF88rGw) youTube channel. It seems pretty safe, as they are teasing things from the book that probably won't make it into the movie.
 
