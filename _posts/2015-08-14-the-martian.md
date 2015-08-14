@@ -24,11 +24,11 @@ I'm really looking forward to [the movie](http://www.imdb.com/title/tt3659388/).
 
 As with any book to movie adaptation, things will get changed-- which is what I'm looking forward to. The book is great, but I think Hollywood is going to take the opportunity to not only tell a good human survival story, but make it space travel both beautiful and scary at the same time. At least I hope so.
 
-If you are afraid that the book will spoil the movie, I think it's safe to read and enjoy it before the movie comes out. I don't think they will adapt it scene for scene, or line for line. There's going to be some surprises even for the readers going to watch the movie.
+*If you are afraid that the book will spoil the movie, I think it's safe to read and enjoy it before the movie comes out.* I don't think they will adapt it scene for scene, or line for line. There's going to be some surprises even for the readers going to watch the movie.
 
 ![The Martian Movie](/public/images/blog/the_martian_movie_poster.jpg)
 
-### The trailer
+### The Trailer
 
 If you choose to watch the trailer, try not to over-analyze things. Or maybe because I said not to, that you will.....
 
