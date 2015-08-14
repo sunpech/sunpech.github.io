@@ -20,7 +20,7 @@ It's also a quick read, as you may find yourself flying through the chapters as 
 
 ## The Upcoming Movie
 
-I'm really looking forward to [the movie](http://www.imdb.com/title/tt3659388/). From the trailer, it looks amazing and feel it will visualize scenes better than I imagined it to be. That said, I feel **if you haven't read the book, that you may be better of not watching the trailer.** It's a good trailer, but if you were to sit and analyze it, it may take away from the movie going experience.
+I'm really looking forward to [the movie](http://www.imdb.com/title/tt3659388/). From the trailer, it looks amazing and feel it will visualize scenes better than I imagined it to be. That said, I feel **if you haven't read the book, that you may be better off not watching the trailer.** It's a good trailer, but if you were to sit and analyze it, it may take away from the movie going experience.
 
 As with any book to movie adaptation, things will get changed-- which is what I'm looking forward to. The book is great, but I think Hollywood is going to take the opportunity to not only tell a good human survival story, but make it space travel both beautiful and scary at the same time. At least I hope so.
 
