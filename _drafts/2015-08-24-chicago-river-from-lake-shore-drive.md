@@ -7,9 +7,9 @@ tags:
 - Chicago
 - Photography
 modified_time: '2015-08-24T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_chicago_river_lsd.jpg
-image: /public/images/blog/chicago_river_lsd.jpg
-description:
+thumbnail: /public/images/blog/tn_chicago_river_from_lsd.jpg
+image: /public/images/blog/chicago_river_from_lsd.jpg
+description: My first visit to the Chicago River on Lake Shore Drive. I share my photo taking experience there.
 header-img: /public/images/header_chicago_river_from_lsd.jpg
 ---
 
@@ -19,7 +19,7 @@ This was my favorite shot I took.
 
 ![Chicago River from Lake Shore Drive](/public/images/blog/chicago_river_from_lsd.jpg)
 
-There were some challenges to getting this photo. For one, it was taken on the lower portion of Lake Shore Drive bridge, where most of the time it was shaking from all the rush hour traffic. So having a tripd was nice, but I had to time it for when it shook the least.
+There were some challenges to getting this photo. For one, it was taken on the lower portion of Lake Shore Drive bridge, where most of the time it was shaking from all the rush hour traffic. So having a tripod was nice, but I had to time it for when it shook the least. Of course I used a remote release to help further reduce shake.
 
 I also had to bump up the ISO and lower the aperture to grab faster shots. I also took multiple exposure HDR shot since long exposure was out of the question. I used [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) to merge the three exposures together-- which it did magnificently. I pretty much use just that now or my HDR-- no need for any other HDR software!
 
