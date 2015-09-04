@@ -6,8 +6,8 @@ author: Steven Suwatanapongched
 tags:
 - Software Development
 modified_time: '2015-09-04T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_jetbrains_moving_to_saas.jpg
-image: /public/images/blog/jetbrains_moving_to_saas.jpg
+thumbnail: /public/images/blog/tn_why_jetbrains_toolbox_is_good.jpg
+image: /public/images/blog/why_jetbrains_toolbox_is_good.jpg
 description: I think the software-as-a-service model is good for Jetbrains and their true customers. But it's certainly not for everyone.
 ---
 
@@ -15,7 +15,7 @@ description: I think the software-as-a-service model is good for Jetbrains and t
 
 These are the times we live in now, and I think it's good-- for the most part.
 
-![Jetbrains moving to SaaS](/public/images/blog/jetbrains_moving_to_saas.jpg)
+![Jetbrains moving to SaaS](/public/images/blog/why_jetbrains_toolbox_is_good.jpg)
 
 ### Buy or Subscribe?
 
