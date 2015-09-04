@@ -61,6 +61,6 @@ I use [Rubymine](https://www.jetbrains.com/ruby/), but not often enough to warra
 
 Jetbrains Toolbox works out really well for the company and their loyal supporters/subscribers. However if you're like me and don't use the product daily or even weekly, then there may be a reason not to be their customer anymore. And that's fine for me, hopefuly for others like me too because there are other options.
 
-**I'd like to see Jetbrains offer both purchase and subscription models to their customers.** In some respect, they were already doing that with a yearly renewal based on the purchase date. *The target for their subscription model should really be the users that use multiple products. Single product users may be turned off by a subscription model if they don't like or use it enough.*
+**I'd like to see Jetbrains offer both purchase and subscription models to their customers.** In some respect, they were already doing that with a yearly renewal based on the purchase date. *The target for their subscription model should really be the users that use multiple products. Single product users may be turned off by a subscription model if they don't like or use it enough.* At the very least [they are listening to feedback](http://blog.jetbrains.com/blog/2015/09/04/we-are-listening/).
 
 *This post also reminds me that I'm overdue for my visit to the dentist.*
