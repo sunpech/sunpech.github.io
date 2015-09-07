@@ -15,9 +15,7 @@ description: My photos appear in the Halloween edition of Cosplay Culture magazi
 header-img: /public/images/header_cosplay_culture_halloween.jpg
 ---
 
-Last week, the Halloween edition of [Cosplay Culture magazine](http://www.cosplayculture.com/) came out on newsstands. There is an article on [San Diego Comic Con](http://www.comic-con.org/cci) that features my photos in it. *The article is a ten whopping page spread!*
-
-This all started from a simple comment on an [instagram photo](https://instagram.com/p/4-9toeQR7z/).
+Last week, the Halloween edition of [Cosplay Culture magazine](http://www.cosplayculture.com/) came out on newsstands. There is an article on [San Diego Comic Con](http://www.comic-con.org/cci) that features my photos in it. *The article is a ten whopping page spread!* This all started from a simple comment on an [instagram photo](https://instagram.com/p/4-9toeQR7z/).
 
 You can find this magazine at Barnes and Noble, Target, Walmart, Ralph's, Walgreens, CVS, and other major newsstands and comic shops. I found my copies at B&N.
 
@@ -46,7 +44,7 @@ Here's a little behind-the-scenes of what it looks like when I edited and compil
 
 ### San Diego Comic Con 2015 Albums
 
-Here are my full albums from this past year's San Diego Comic Con (SDCC). All links go to [my photography Facebook page](https://www.facebook.com/SunpechPhotography).
+Here are my full albums from this past year's San Diego Comic Con (SDCC). All links go to [my Facebook photography page](https://www.facebook.com/SunpechPhotography).
 
 * [SDCC 2015 - Day 1](https://www.facebook.com/media/set/?set=a.916699525061739.1073741889.408588035872893&type=3)
 * [SDCC 2015 - Day 2](https://www.facebook.com/media/set/?set=a.916721288392896.1073741890.408588035872893&type=3)
