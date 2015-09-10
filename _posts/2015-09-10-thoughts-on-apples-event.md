@@ -53,6 +53,8 @@ However, I do question the charging mechanism for this pencil. It's got a male c
 
 ![Apple Pencil charging](/public/images/blog/apple_pencil_charging2.jpg)
 
+*Photo screenshot from MKBHD's [video]((https://www.youtube.com/watch?v=HALtebWHpNA)*.
+
 ### iPhone Upgrade Program
 
 I missed seeing this announcement during the keynote, but there's an [iPhone Upgrade Program](http://www.apple.com/shop/iphone/iphone-upgrade-program) that looks amazing. The plans start at $32/month.
