@@ -6,6 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Technology
 - Review
+- Apple
 modified_time: '2014-08-08T16:43:20.770-05:00'
 thumbnail: http://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s600/Screen+Shot+2013-06-13+at+1.26.39+AM.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-80238894314867501
@@ -72,4 +73,3 @@ If you want to have an external hard drive that is compatible with both Mac OS X
 This is just like how geeks wouldn't let their friends/family, or anyone really, buy Monster brand HDMI cables at Best Buy, when they're so much cheaper to buy online. The marketing is misleading and is trying to part more money from you than it should.
 
 So in a nutshell, these Apple compatible external hard drives are over-priced. They're <i>functionally equivalent</i> drives that does the same exact thing that's much cheaper.
-
