@@ -12,6 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-Smax9sRNj1U/TxVmEOdX2vI/AAAAAAAA2pY/Tzn6F2d
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2684204526212972889
 blogger_orig_url: http://www.sunpech.com/2011/11/kindle-fire-review.html
 redirect_from: /2011/11/kindle-fire-review.html
+header-img: /public/images/header_android.jpg
 ---
 
 I pre-ordered my <a href="http://www.amazon.com/gp/product/B0051VVOB2?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=shr&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B0051VVOB2&amp;ref_=amb_link_359054382_4">Kindle Fire</a> in early October. I've wanted an eReader device for a long time, ever since I've been traveling so much. Carrying books around is such a pain.
@@ -39,6 +40,3 @@ If you are looking for tablet with tons of apps, this device probably isn't for 
 <a href="http://1.bp.blogspot.com/-cwo4oE2HmJ8/TxVmDntlcbI/AAAAAAAA2pI/ejBvq7Pcjv8/s600/www-1.jpeg"><img border="0" src="http://1.bp.blogspot.com/-cwo4oE2HmJ8/TxVmDntlcbI/AAAAAAAA2pI/ejBvq7Pcjv8/s320/www-1.jpeg"  width="300" /></a>
 
 <a href="http://1.bp.blogspot.com/-tEucXHdMemg/TxVmDyZ_kzI/AAAAAAAA2pQ/C5ImPwIrfdg/s600/www-2.jpeg"><img border="0" src="http://1.bp.blogspot.com/-tEucXHdMemg/TxVmDyZ_kzI/AAAAAAAA2pQ/C5ImPwIrfdg/s320/www-2.jpeg"  /></a>
-
-
-

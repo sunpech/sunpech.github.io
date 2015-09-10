@@ -12,6 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5169324682668914058
 blogger_orig_url: http://www.sunpech.com/2010/01/my-new-phone-googles-nexus-one.html
 redirect_from: /2010/01/my-new-phone-googles-nexus-one.html
+header-img: /public/images/header_android.jpg
 ---
 
 Yesterday Google gave a presentation on the Google Nexus One.  I watched it on the <a href="http://live.gizmodo.com/">Gizmodo Liveblog</a>.  Ten minutes after reading the blog and looking at the pictures, I was sold.  I knew I was eventually going to get it, but I didn't know until that moment that that was the moment I was going to get it.
@@ -39,4 +40,3 @@ The Nexus One can be purchased here: <a href="http://www.google.com/phone">http:
 <a href="http://3.bp.blogspot.com/-sJv5nliFM7I/S0VlVyHoxTI/AAAAAAAAN9I/-aQ9SnBMHzU/s600/IMG_0128.JPG"><img border="0" src="http://3.bp.blogspot.com/-sJv5nliFM7I/S0VlVyHoxTI/AAAAAAAAN9I/-aQ9SnBMHzU/s600/IMG_0128.JPG"   /></a>
 
 <a href="http://4.bp.blogspot.com/-cN3l_qkvyQo/S0VlWIklHCI/AAAAAAAAN9M/mtjzVHzb1Ds/s600/IMG_0129.JPG"><img border="0" src="http://4.bp.blogspot.com/-cN3l_qkvyQo/S0VlWIklHCI/AAAAAAAAN9M/mtjzVHzb1Ds/s600/IMG_0129.JPG"   /></a>
-

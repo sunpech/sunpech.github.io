@@ -12,6 +12,7 @@ thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihL
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6274634595402651573
 blogger_orig_url: http://www.sunpech.com/2008/11/my-impressions-of-g1-running-android.html
 redirect_from: /2008/11/my-impressions-of-g1-running-android.html
+header-img: /public/images/header_android.jpg
 ---
 
 I've had my <a href="http://www.t-mobileg1.com/">G1</a> for a few weeks now.  My overall impressions are pretty good.  I like the touch screen, I like the free applications available through the market app, and I definitely enjoy the web browsing experience on the 3G network over my old Blackberry Pearl on the EDGE network.
