@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Apple Event
+title: Thoughts on Apple's Event
 date: '2015-09-10T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
