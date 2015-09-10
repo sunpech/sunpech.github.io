@@ -9,7 +9,7 @@ tags:
 modified_time: '2015-09-10T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_thoughts_on_apple_event.jpg
 image: /public/images/blog/thoughts_on_apple_event.jpg
-description: My thoughts on Apple's September 2015 keynote event.
+description: My thoughts on Apple's September 2015 keynote event. The winners were the iPad Pro and the iPhone Upgrade program.
 header-img: /public/images/header_apple_galaxy.jpg
 ---
 
