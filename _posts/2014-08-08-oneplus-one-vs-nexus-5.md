@@ -13,6 +13,7 @@ image: http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5527383971101594263
 blogger_orig_url: http://www.sunpech.com/2014/08/oneplus-one-vs-nexus-5.html
 redirect_from: /2014/08/oneplus-one-vs-nexus-5.html
+header-img: /public/images/header_android.jpg
 ---
 
 Last month in July, I purchased two Android phones: <a href="http://www.google.com/nexus/5/">The Nexus 5</a> (N5) and the <a href="http://www.oneplus.net/">OnePlus One</a> (OPO). I initially ordered the Nexus 5 because I was sick of waiting for an OnePlus invite that I signed up for in April. Up until then, I was using a <a href="http://en.wikipedia.org/wiki/Galaxy_Nexus">Galaxy Nexus</a> for two years and its overall performance was rather sluggish and could no longer hold a charge for half a day.
@@ -59,4 +60,3 @@ What I don't like is that it's a heavier device than the Nexus 5. I can really n
 <b>Between the Nexus 5 and the OPO, I actually prefer the Nexus 5.</b> This is because my needs for disk space isn't very high. 64GB is more than I really need for my on the go device. I don't store my music collection or movies on my phone. The Nexus 5 has <i>zero drawbacks,</i> while the OPO is a bit uncomfortable to use with the build and bugs I experience.
 
 I will of course be keeping my OPO device. I am considering flashing the <a href="https://forums.oneplus.net/threads/rom-official-4-4-4-oneplus-aosp.65482/">Android 4.4.4 stock ROM (official)</a> onto it. It's really awesome that it's even available already. But I think I'll stick it out until the next CM update.
-

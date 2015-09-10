@@ -12,6 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-il8rnMQNWH0/THW4cqvg3KI/AAAAAAAAV_Y/J5s28A1
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8328768637418640277
 blogger_orig_url: http://www.sunpech.com/2010/08/android-photoshoot-with-my-new-camera.html
 redirect_from: /2010/08/android-photoshoot-with-my-new-camera.html
+header-img: /public/images/header_android.jpg
 ---
 
 I got my new lens in the mail yesterday.  It's a <a href="http://www.amazon.com/Canon-50mm-1-8-Camera-Lens/dp/B00007E7JU?ie=UTF8&amp;tag=sunpech-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Canon EF 50mm f/1.8 II Camera Lens</a>.

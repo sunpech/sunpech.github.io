@@ -12,6 +12,7 @@ thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/THt8iBDVVQI/AAAAAAAAWWA/ppE6gy3
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6665102534805821074
 blogger_orig_url: http://www.sunpech.com/2010/08/installing-thai-fonts-onto-android.html
 redirect_from: /2010/08/installing-thai-fonts-onto-android.html
+header-img: /public/images/header_android.jpg
 ---
 
 I've received numerous requests asking for help on how to install Thai fonts onto an Android device after my initial post on <a href="/2010/01/rooting-my-nexus-one-and-installing">Rooting my Nexus One and installing Thai fonts</a>.  Since I do update my Android phone with the <a href="http://www.cyanogenmod.com/">CyanogenMod ROM</a> quite often (which wipes the Thai fonts on each install), I thought I'd share a simple shell script to help get Thai fonts onto Android.
