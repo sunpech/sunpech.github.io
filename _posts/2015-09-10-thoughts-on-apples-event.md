@@ -53,7 +53,7 @@ However, I do question the charging mechanism for this pencil. It's got a male c
 
 ![Apple Pencil charging](/public/images/blog/apple_pencil_charging2.jpg)
 
-*Photo screenshot from MKBHD's [video]((https://www.youtube.com/watch?v=HALtebWHpNA)*.
+*Photo screenshot from MKBHD's [video](https://www.youtube.com/watch?v=HALtebWHpNA)*.
 
 ### iPhone Upgrade Program
 
