@@ -13,6 +13,7 @@ thumbnail: http://1.bp.blogspot.com/-c2trlmdmRC8/TT8b8vGnfwI/AAAAAAAAfQ4/_6MYU9_
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4963692691323917019
 blogger_orig_url: http://www.sunpech.com/2011/02/pictures-from-january-2011-bkk-web.html
 redirect_from: /2011/02/pictures-from-january-2011-bkk-web.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 A recent group I started to attend is <a href="http://www.meetup.com/bkk-web/">BKK Web Meetup</a> (short for Web Design, UX Design and Web Development Meetup Group in Bangkok).
@@ -47,4 +48,4 @@ It's being held at (same as last month's):
 
 <a href="http://www.webcoursesbangkok.com/">Web Courses Bangkok</a><br />
 18th Floor, 253 Asoke Building, <br />
-Sukhumvit 21 Bangkok 
+Sukhumvit 21 Bangkok

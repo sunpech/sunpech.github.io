@@ -10,6 +10,7 @@ thumbnail: http://1.bp.blogspot.com/-vENWaWgHtA0/U1zvgEuumLI/AAAAAAABoJE/bYnxnmE
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7339358075956505310
 blogger_orig_url: http://www.sunpech.com/2014/04/heroku-postgres-maintenance-requires.html
 redirect_from: /2014/04/heroku-postgres-maintenance-requires.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 Earlier this week I got an email from <a href="http://www.heroku.com/">Heroku</a> that one of my postgres databases required maintenance. This is the email:
@@ -49,4 +50,3 @@ This will update <span style="font-family: Courier New, Courier, monospace;">DAT
 I hope this helps others, or even myself in the future!
 
 <i><b>Update 4/29/2014:</b> A Heroku developer contacted me and looked into my problem for me. He stated that normally the DATABASE_URL will also get updated along with any changes. Although they weren't able to find out why the changes didn't propagate for me, they will monitor this kind situation in the future.</i>
-

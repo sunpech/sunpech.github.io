@@ -12,6 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-Hu-zgSKY4QE/TyZ2Zd4z_MI/AAAAAAAA3OM/ZtxUI_r
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3642208207534834119
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-socal-code-camp.html
 redirect_from: /2012/01/pictures-from-socal-code-camp.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 Over the weekend I attended and volunteered at <a href="http://www.socalcodecamp.com/">SoCal Code Camp</a> at <a href="http://www.fullerton.edu/">California State University Fullerton</a>. I had an awesome time, attended quite a few sessions, learned a lot, and met quite a few good people.
@@ -25,7 +26,7 @@ Below are some of the pictures. Full set of pictures can be found <a href="https
 <a href="http://4.bp.blogspot.com/-MRv5RE8buwM/TyZ2eN5bUdI/AAAAAAAA3RA/LONFY3AoD4A/s600/2012-01-28+at+08-48-35.jpg"><img border="0"  src="http://4.bp.blogspot.com/-MRv5RE8buwM/TyZ2eN5bUdI/AAAAAAAA3RA/LONFY3AoD4A/s320/2012-01-28+at+08-48-35.jpg"  /></a>
 
 <a href="http://designsdrive.com/">Mario Harnandez</a> presenting <i>CSS3 for Web Designers- Let's Design a Visually Appealing Website </i>and <i>Grid Systems - Picking the Right CSS Framework for Your Website</i>.
-<a href="http://4.bp.blogspot.com/-TRDlnrIxp28/TyZ2f_Kz2gI/AAAAAAAA3Pk/vfr9U9r7qHI/s600/2012-01-28+at+08-53-37.jpg"><img border="0"  src="http://4.bp.blogspot.com/-TRDlnrIxp28/TyZ2f_Kz2gI/AAAAAAAA3Pk/vfr9U9r7qHI/s320/2012-01-28+at+08-53-37.jpg"  /></a> 
+<a href="http://4.bp.blogspot.com/-TRDlnrIxp28/TyZ2f_Kz2gI/AAAAAAAA3Pk/vfr9U9r7qHI/s600/2012-01-28+at+08-53-37.jpg"><img border="0"  src="http://4.bp.blogspot.com/-TRDlnrIxp28/TyZ2f_Kz2gI/AAAAAAAA3Pk/vfr9U9r7qHI/s320/2012-01-28+at+08-53-37.jpg"  /></a>
 
 <a href="http://1.bp.blogspot.com/-kiILhZLOqzE/TyZ2gufQHDI/AAAAAAAA3cw/h8zsgnKlLF4/s600/2012-01-28+at+08-54-03.jpg"><img border="0"  src="http://1.bp.blogspot.com/-kiILhZLOqzE/TyZ2gufQHDI/AAAAAAAA3cw/h8zsgnKlLF4/s320/2012-01-28+at+08-54-03.jpg"  /></a>
 

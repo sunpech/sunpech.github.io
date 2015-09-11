@@ -13,6 +13,7 @@ thumbnail: http://4.bp.blogspot.com/-94TOg8r0A2w/TbLxe-82AXI/AAAAAAAAmQI/gnzrrMj
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6781926858766975955
 blogger_orig_url: http://www.sunpech.com/2011/04/red-dot-ruby-conf-2011.html
 redirect_from: /2011/04/red-dot-ruby-conf-2011.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 As part of my trip back to the US, I attended <a href="http://reddotrubyconf.com/">Red Dot Ruby Conf 2011</a> on April 22-23, 2011. This event takes place in Singapore, at the <a href="http://www.smu.edu.sg/">Singapore Management University</a> (SMU).
@@ -29,7 +30,7 @@ A more technical day with code examples, MongoDB, etc ending with a coding compe
 
 Here are some of my favorite pictures I took:
 
-<a href="http://4.bp.blogspot.com/-94TOg8r0A2w/TbLxe-82AXI/AAAAAAAAmQI/gnzrrMj8CvE/s600/2011-04-22+at+08-17-45.jpg" ><img border="0" src="http://4.bp.blogspot.com/-94TOg8r0A2w/TbLxe-82AXI/AAAAAAAAmQI/gnzrrMj8CvE/s400/2011-04-22+at+08-17-45.jpg"   /></a> 
+<a href="http://4.bp.blogspot.com/-94TOg8r0A2w/TbLxe-82AXI/AAAAAAAAmQI/gnzrrMj8CvE/s600/2011-04-22+at+08-17-45.jpg" ><img border="0" src="http://4.bp.blogspot.com/-94TOg8r0A2w/TbLxe-82AXI/AAAAAAAAmQI/gnzrrMj8CvE/s400/2011-04-22+at+08-17-45.jpg"   /></a>
 
 The two day schedule:
 <a href="http://2.bp.blogspot.com/-uxcHrAKOoS8/TbLxpq8btUI/AAAAAAAAmRE/H77MyW6Zvzk/s600/2011-04-22+at+08-33-25.jpg" ><img border="0" src="http://2.bp.blogspot.com/-uxcHrAKOoS8/TbLxpq8btUI/AAAAAAAAmRE/H77MyW6Zvzk/s400/2011-04-22+at+08-33-25.jpg"   /></a>
@@ -83,4 +84,3 @@ The after party was at Uluru, sponsored by <a href="http://www.github.com/">Gith
 You can visit the full Picasa album <a href="https://picasaweb.google.com/sunpech/2011RedDotRubyConf?feat=directlink">here</a>. Sorry, I really prefer Picasa over Flickr.
 
 Sponsors of the event: <a href="http://www.hpl.hp.com/singapore/">HP Labs</a>, <a href="http://pivotallabs.com/">Pivotal Labs</a>, <a href="http://github.com/">Github</a>, <a href="http://viki.com/">Viki</a>, and <a href="http://rubify.com/">Rubify</a>.
-

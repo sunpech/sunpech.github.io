@@ -11,6 +11,7 @@ modified_time: '2012-01-11T03:43:33.639-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1941411103129183775
 blogger_orig_url: http://www.sunpech.com/2010/06/june-2010-tech-events-in-chicago.html
 redirect_from: /2010/06/june-2010-tech-events-in-chicago.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 A decent amount of Tech events for the month of June here in Chicago:

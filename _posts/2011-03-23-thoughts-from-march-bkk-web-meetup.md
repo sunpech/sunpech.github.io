@@ -14,6 +14,7 @@ thumbnail: http://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5408126596200107751
 blogger_orig_url: http://www.sunpech.com/2011/03/thoughts-from-march-bkk-web-meetup.html
 redirect_from: /2011/03/thoughts-from-march-bkk-web-meetup.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 The <a href="http://www.meetup.com/bkk-web/">BKK Web Meetup</a> last night was pretty awesome. It was the biggest turnout I've seen yet, and it was also very interactive. Plenty of discussion, questions, and even stories came from the attendees.
@@ -50,7 +51,7 @@ In the community of developers I hang out with in Chicago, there's the <a href="
 
 But the points about the cultural barriers is spot on. As a Thai-American that's been living in Thailand for nearly five months now, I still go through a lot of culture shock that I don't think should be in the professional workplace.
 
-Some that I would like to briefly point out: 
+Some that I would like to briefly point out:
 
 <ul>
   <li>Young people must always respect and listen to older generation. <i>This isn't a bad thing, but the older generation may not be that experienced or even correct, so there is a time to not just listen, but to speak up against the senior.</i></li>
@@ -63,9 +64,9 @@ The picture below sums up how there is a weakness in how the Thai language is ve
 
 <a href="https://lh4.googleusercontent.com/-y_zxCsNvGyg/TYmsckxki-I/AAAAAAAAkP0/ZcOaXLg0vBA/s600/181615_686374807707_48601744_36609693_7906932_n.jpg"><img border="0" src="https://lh4.googleusercontent.com/-y_zxCsNvGyg/TYmsckxki-I/AAAAAAAAkP0/ZcOaXLg0vBA/s400/181615_686374807707_48601744_36609693_7906932_n.jpg"  /></a>
 
-(Credit to my friend Amanda for taking a photo of this. Source is from <a href="http://bk.asia-city.com/">BK Magazine</a>) 
+(Credit to my friend Amanda for taking a photo of this. Source is from <a href="http://bk.asia-city.com/">BK Magazine</a>)
 
-I short, I think a solution to improving this is through community and better communication. Thai culture should get some injection of other ideas and cultures from outside of Thailand. But to keep this post short, I will perhaps blog about that some other time. 
+I short, I think a solution to improving this is through community and better communication. Thai culture should get some injection of other ideas and cultures from outside of Thailand. But to keep this post short, I will perhaps blog about that some other time.
 
 Further readings:
 

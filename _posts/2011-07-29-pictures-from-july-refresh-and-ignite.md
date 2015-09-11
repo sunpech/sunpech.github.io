@@ -12,6 +12,7 @@ thumbnail: http://1.bp.blogspot.com/-3c9eM45Hc24/TjDjycmckJI/AAAAAAAAsrY/goiIaQn
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7885787101186030066
 blogger_orig_url: http://www.sunpech.com/2011/07/pictures-from-july-refresh-and-ignite.html
 redirect_from: /2011/07/pictures-from-july-refresh-and-ignite.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 I didn't go to too many meetups this month, only three. Sorry, the weather's been either really hot or super rainy. Interestingly when I condensed the meetup names in this blog title, they both hint at <i>refreshing</i> and <i>igniting</i> Chicago.
@@ -69,4 +70,3 @@ The following day, I went to <a href="http://www.ignitechi.org/">Ignite Chicago<
 <a href="http://3.bp.blogspot.com/-TsCE6yuPtYo/TjJWFUfHN_I/AAAAAAAAs0Y/FPQgkV6NdGA/s600/2011-07-28+at+20-08-39.jpg" ><img border="0" src="http://3.bp.blogspot.com/-TsCE6yuPtYo/TjJWFUfHN_I/AAAAAAAAs0Y/FPQgkV6NdGA/s400/2011-07-28+at+20-08-39.jpg"   /></a>
 
 <a href="http://1.bp.blogspot.com/-nA8MmjDn0sg/TjJWJPP6kXI/AAAAAAAAs00/WGAaQzlZbBk/s600/2011-07-28+at+20-14-44.jpg" ><img border="0" src="http://1.bp.blogspot.com/-nA8MmjDn0sg/TjJWJPP6kXI/AAAAAAAAs00/WGAaQzlZbBk/s400/2011-07-28+at+20-14-44.jpg"   /></a>
-

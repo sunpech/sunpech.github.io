@@ -11,6 +11,7 @@ modified_time: '2014-08-08T16:58:51.881-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5331333518303753478
 blogger_orig_url: http://www.sunpech.com/2010/01/coders-at-work-and-duct-tape.html
 redirect_from: /2010/01/coders-at-work-and-duct-tape.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 I finished reading <a href="http://www.amazon.com/Coders-at-Work-Peter-Seibel/dp/1430219483?ie=UTF8&amp;tag=sunpech-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Coders at Work</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=1430219483" style="border: none !important; margin: 0px !important; padding: 0px !important;" width="1" />! I really enjoyed the interviews with <a href="http://en.wikipedia.org/wiki/Jamie_Zawinski">Jamie Zawinksi</a>, <a href="http://en.wikipedia.org/wiki/Douglas_Crockford">Douglas Crockford</a>, <a href="http://en.wikipedia.org/wiki/Brendan_Eich">Brendan Eich</a>, and <a href="http://en.wikipedia.org/wiki/Ken_Thompson">Ken Thompson</a>. I wasn't too interested in compilers and the much older systems some of the programmers once developed in. I must admit, I had a short attention span reading over those sections.
@@ -28,7 +29,7 @@ I define software developer grief as the unhappiness a developer gets from inher
 
 Now I'm not aware of what the development conditions were like when those kind of coding projects were in place. But, the code, definitely shouldn't have shipped. In these cases, duct-tape or band-aids were used instead of a functioning wheel to the go-cart; because the go-cart just wasn't doing what it should have been doing.
 
-But after reading <a href="http://blog.objectmentor.com/articles/2009/09/24/the-duct-tape-programmer">Uncle Bob's response</a>, it made more sense what Spolsky was talking about. The spirit of what they're both preaching, is to ship working code, it doesn't have to be pretty or perfect, just make it work! The clean-up can, and should occur later. 
+But after reading <a href="http://blog.objectmentor.com/articles/2009/09/24/the-duct-tape-programmer">Uncle Bob's response</a>, it made more sense what Spolsky was talking about. The spirit of what they're both preaching, is to ship working code, it doesn't have to be pretty or perfect, just make it work! The clean-up can, and should occur later.
 
 That, I agree with.
 

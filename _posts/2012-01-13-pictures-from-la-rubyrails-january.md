@@ -12,6 +12,7 @@ thumbnail: http://1.bp.blogspot.com/-Yy58_MljGs0/Txok9EKT07I/AAAAAAAA24Q/0cJ6sUC
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7109268828872775521
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-la-rubyrails-january.html
 redirect_from: /2012/01/pictures-from-la-rubyrails-january.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 Last night went to the <a href="http://www.meetup.com/laruby/events/40600702/">LA Ruby/Rails Meetup</a> hosted at <a href="http://www.attinteractive.com/">AT&amp;T Interactive</a>. There were two presentations followed by three lightning talks.
@@ -41,4 +42,3 @@ As a reminder: <a href="http://www.larubyconf.com/">LA RubyConf</a> is coming up
 <a href="http://3.bp.blogspot.com/-eDtNjfmCO84/TxolG--_CYI/AAAAAAAA26Y/kToEKE9SxY8/s600/2012-01-12+at+20-49-37.jpg"><img border="0"  src="http://3.bp.blogspot.com/-eDtNjfmCO84/TxolG--_CYI/AAAAAAAA26Y/kToEKE9SxY8/s320/2012-01-12+at+20-49-37.jpg"  /></a>
 
 <a href="http://3.bp.blogspot.com/-ln-yY7hukh0/TxolI1wDcPI/AAAAAAAA264/urUwj2bqBmk/s600/2012-01-12+at+20-59-24.jpg"><img border="0"  src="http://3.bp.blogspot.com/-ln-yY7hukh0/TxolI1wDcPI/AAAAAAAA264/urUwj2bqBmk/s320/2012-01-12+at+20-59-24.jpg"  /></a>
-

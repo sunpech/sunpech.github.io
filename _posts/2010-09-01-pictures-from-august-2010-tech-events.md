@@ -12,6 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-sc46VNkERnw/TFjFkiFetVI/AAAAAAAAUzc/qpO0N8e
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1407528637372318382
 blogger_orig_url: http://www.sunpech.com/2010/09/pictures-from-august-2010-tech-events.html
 redirect_from: /2010/09/pictures-from-august-2010-tech-events.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 I was on a bit of a vacation in July so I forgot to post August events before the month started.
@@ -71,7 +72,7 @@ Presentations (<i>lightning talks</i> as they called it) from the website:
 
 <a href="http://3.bp.blogspot.com/-Rn_PRbND8Ww/TG4bXOSL3OI/AAAAAAAAVOk/nZxyd0PD188/s600/IMG_1944.jpg" ><img border="0"  src="http://3.bp.blogspot.com/-Rn_PRbND8Ww/TG4bXOSL3OI/AAAAAAAAVOk/nZxyd0PD188/s320/IMG_1944.jpg"  /></a>
 
-Full album <a href="http://picasaweb.google.com/sunpech/2010August19SpikedCocoaEvent">here</a>. 
+Full album <a href="http://picasaweb.google.com/sunpech/2010August19SpikedCocoaEvent">here</a>.
 
 ### Software Craftsman that happen to like whiskey on August 31, 2010
 

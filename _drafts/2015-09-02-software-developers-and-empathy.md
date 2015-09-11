@@ -9,7 +9,7 @@ modified_time: '2015-09-02T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_ready_player_one_book.jpg
 image: /public/images/blog/ready_player_one_book.jpg
 description:
-header-img:
+header-img: /public/images/header_software_development.jpg
 ---
 
 I recently read [a blog post](https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours) about how a developer's AWS credentials was compromised through [a bug](https://github.com/github/VisualStudio/pull/64) in the Github extension in Visual Studio 2015.

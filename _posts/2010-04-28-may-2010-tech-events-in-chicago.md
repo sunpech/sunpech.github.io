@@ -11,6 +11,7 @@ modified_time: '2012-01-11T03:43:33.715-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5224472191326322841
 blogger_orig_url: http://www.sunpech.com/2010/04/may-2010-tech-events-in-chicago.html
 redirect_from: /2010/04/may-2010-tech-events-in-chicago.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 The month of May looks to be an exciting month in Chicago for Tech Events!
@@ -43,7 +44,7 @@ Twitter: <a href="http://twitter.com/chicagocodecamp">@chicagocodecamp</a>
 <a href="http://www.meetup.com/Chicago-APM/calendar/13059345/">Chicago Agile Project Management Meetup Group</a> (Meetup.com link)
 
 #### Wednesday, May 12, 2010 from 6:00 PM - 8:30 PM (CT)
-<a href="http://altnetchicago.eventbrite.com/">From Zero to Automated Build in a matter of moments, not days!</a> 
+<a href="http://altnetchicago.eventbrite.com/">From Zero to Automated Build in a matter of moments, not days!</a>
 (Eventbrite link)by <a href="http://chicagoalt.net/">Chicago Alt.net</a>
 
 #### Wednesday, May 12, 2010 from 5:30 PM - 8:00 PM (CT)
