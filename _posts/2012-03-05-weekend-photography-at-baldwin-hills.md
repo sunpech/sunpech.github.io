@@ -11,6 +11,7 @@ thumbnail: http://1.bp.blogspot.com/-yTFbhEK0kGI/T1LmvFjx01I/AAAAAAAA7SY/q416XmL
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4269628222443201168
 blogger_orig_url: http://www.sunpech.com/2012/03/weekend-photography-at-baldwin-hills.html
 redirect_from: /2012/03/weekend-photography-at-baldwin-hills.html
+header-img: /public/images/header_old_cameras.jpg
 ---
 
 Over the weekend I took my camera out to take some photos here in LA.
@@ -31,4 +32,3 @@ Some photos taken at the <a href="http://www.lacma.org/">Los Angeles County Muse
 Do you know what this is? Hint, it's a dog's butt.<a href="http://2.bp.blogspot.com/-RCoQLasBVoc/T1TiPKk5-uI/AAAAAAAA7dY/JXZlCXOuCTc/s600/2012-03-04+at+16-41-07.jpg"><img border="0"  src="http://2.bp.blogspot.com/-RCoQLasBVoc/T1TiPKk5-uI/AAAAAAAA7dY/JXZlCXOuCTc/s400/2012-03-04+at+16-41-07.jpg"  /></a>
 
 <a href="http://3.bp.blogspot.com/-7gn9uoKn_4Y/T1TinYBhbVI/AAAAAAAA7is/j5YVJIF89zg/s600/2012-03-04+at+17-28-36.jpg"><img border="0"  src="http://3.bp.blogspot.com/-7gn9uoKn_4Y/T1TinYBhbVI/AAAAAAAA7is/j5YVJIF89zg/s400/2012-03-04+at+17-28-36.jpg"  /></a>
-

@@ -11,6 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-1mbREOOesug/T2eR0ZoprQI/AAAAAAAA81s/F6ZNs0D
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2250433814193860096
 blogger_orig_url: http://www.sunpech.com/2012/03/weekend-chicago-hdr-photography.html
 redirect_from: /2012/03/weekend-chicago-hdr-photography.html
+header-img: /public/images/header_old_cameras.jpg
 ---
 
 Over the weekend I was in Chicago. I woke up early the morning following St. Patrick's Day to take some photos near the Adler Planetarium and Millennium Park. I got there with my sister just before sunrise around 6:30am.
@@ -44,4 +45,3 @@ The tools I used: <a href="http://www.amazon.com/gp/product/B0040JHVCC/ref=as_li
 <a href="http://3.bp.blogspot.com/-fb33f578iFo/T2eSau8-_6I/AAAAAAAA83o/bQDVkN-2Pow/s600/2012-03-18+at+05-05-49.jpg"><img border="0"  src="http://3.bp.blogspot.com/-fb33f578iFo/T2eSau8-_6I/AAAAAAAA83o/bQDVkN-2Pow/s400/2012-03-18+at+05-05-49.jpg"  /></a>
 
 <a href="http://4.bp.blogspot.com/-Z0oN7Wi2SBc/T2eScgkbp4I/AAAAAAAA83w/C4pbAE5T5BI/s600/2012-03-18+at+05-24-42.jpg"><img border="0"  src="http://4.bp.blogspot.com/-Z0oN7Wi2SBc/T2eScgkbp4I/AAAAAAAA83w/C4pbAE5T5BI/s400/2012-03-18+at+05-24-42.jpg"  /></a>
-

@@ -11,6 +11,7 @@ thumbnail: http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3Ynq
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4062393227721725225
 blogger_orig_url: http://www.sunpech.com/2014/08/san-diego-skyline.html
 redirect_from: /2014/08/san-diego-skyline.html
+header-img: /public/images/header_old_cameras.jpg
 ---
 
 I really like the city of San Diego. It's a very clean city with little to no smog in the air, unlike Los Angeles.
@@ -21,4 +22,3 @@ I was planning to take shots in bulb-mode, but I forgot to bring my shutter rele
 
 Buy Print: <a href="http://500pxart.com/photo/77506553">http://500pxart.com/photo/77506553</a>
 <a href="http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg" ><img border="0" src="http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg"   /></a>
-
