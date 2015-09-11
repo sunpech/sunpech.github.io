@@ -12,6 +12,7 @@ thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/ShGPRxWqbBI/AAAAAAAAIn4/QkHHq1J
 blogger_id: tag:blogger.com,1999:blog-6841384.post-498565704680728382
 blogger_orig_url: http://www.sunpech.com/2009/05/lala-better-alternative-to-itunes.html
 redirect_from: /2009/05/lala-better-alternative-to-itunes.html
+header-img: /public/images/header_technology.jpg
 ---
 
 Several years ago, I tried out <a href="http://www.apple.com/itunes">iTunes</a> and really enjoyed the experience. I came from a <a href="http://www.winamp.com">Winamp</a> background and really liked having a fast loading application. On top of that, I am a computer geek, so I already know where all my files are on the OS filesystem.

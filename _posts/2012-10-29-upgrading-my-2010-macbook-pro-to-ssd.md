@@ -6,11 +6,13 @@ author: Steven Suwatanapongched
 tags:
 - Technology
 - Guide
+- Apple
 modified_time: '2014-08-08T16:45:23.364-05:00'
 thumbnail: http://4.bp.blogspot.com/-FBVfhSHJKIM/UI4eGVAOCtI/AAAAAAABVfU/ZWbZfflKTAQ/s600/2012-10-23+at+15-35-39.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7498147728384436121
 blogger_orig_url: http://www.sunpech.com/2012/10/upgrading-my-2010-macbook-pro-to-ssd.html
 redirect_from: /2012/10/upgrading-my-2010-macbook-pro-to-ssd.html
+header-img: /public/images/header_apple_galaxy.jpg
 ---
 
 I recently upgraded my 15" 2010 Macbook Pro's 500GB HDD to a 512GB SSD. The directions you find in this blog post, you should easily be able to find using a search engine. I just want to document what I did, hoping to help fill the Internet with something useful, maybe.
@@ -59,5 +61,3 @@ I should note that I opted to clone because I just had the hard drive replaced a
 I recommend the following youTube video: <a href="http://www.youtube.com/watch?v=Xk4mshBB7DQ">Crucial M4 SSD 2010 MacBook Pro Install</a> for detailed instructions. It's what I used as a reference to upgrade my MBP.
 
 <div class="video-container"><iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/Xk4mshBB7DQ" width="560"></iframe></div>
-
-

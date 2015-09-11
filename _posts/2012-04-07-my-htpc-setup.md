@@ -10,6 +10,7 @@ modified_time: '2014-08-09T19:54:12.526-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6059562824403135359
 blogger_orig_url: http://www.sunpech.com/2012/04/my-htpc-setup.html
 redirect_from: /2012/04/my-htpc-setup.html
+header-img: /public/images/header_technology.jpg
 ---
 
 A few months ago I <a href="/2012/01/western-digital-wd-tv-live-streaming">blogged</a> about my new purchase of the <a href="http://www.amazon.com/gp/product/B005KOZNBW/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005KOZNBW">WD TV Live Streaming Media Player</a>. I still enjoy it immensely, and a few people have inquired about what is needed.
@@ -31,7 +32,7 @@ I don't recommend attaching more than one external hard drive via a USB hub. It'
 
 Assuming you have a nice and modern TV, you should really be using HDMI to carry the video/audio. Also applicable if you are using a <a href="http://en.wikipedia.org/wiki/AV_receiver">receiver</a>. Do not, I repeat, <i>do not purchase HDMI cables at your local Best Buy</i>-- they are ripping you off! These should cost no more than a few dollars ($4-6) each.
 
-<a href="http://www.amazon.com/gp/product/B000O5N5AI/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000O5N5AI"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=B000O5N5AI&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" /></a> 
+<a href="http://www.amazon.com/gp/product/B000O5N5AI/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000O5N5AI"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=B000O5N5AI&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" /></a>
 
 <a href="http://www.amazon.com/gp/product/B00000J1V5/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00000J1V5">Belkin 7-Foot RJ45 CAT 5e Snagless Molded Patch Cable (Gray)</a>
 There are nice services such as youTube and social network plugins available with the media player, so I highly recommend you attach the device to your home network's router.

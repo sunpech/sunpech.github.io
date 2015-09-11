@@ -10,6 +10,7 @@ modified_time: '2014-08-08T16:51:32.371-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7148476527025362015
 blogger_orig_url: http://www.sunpech.com/2012/01/western-digital-wd-tv-live-streaming.html
 redirect_from: /2012/01/western-digital-wd-tv-live-streaming.html
+header-img: /public/images/header_technology.jpg
 ---
 
 Since I moved to LA, I've been without my old PC that runs <a href="http://xbmc.org/">XBMC</a>. For a Home Theater PC (<a href="http://en.wikipedia.org/wiki/Home_theater_PC">HTPC</a>), the PC is decent, but it's large, loud, and not in California. So I went on Amazon and bought the <a href="http://www.amazon.com/gp/product/B005KOZNBW/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005KOZNBW">Western Digital WD TV Live Streaming Media Player</a> for $90 US. Behold, my new HTPC.

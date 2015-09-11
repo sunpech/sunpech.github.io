@@ -11,6 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-l3pToD2O5l0/UJhCTG6KgvI/AAAAAAABVlQ/jYSsgAd
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4473399837525284424
 blogger_orig_url: http://www.sunpech.com/2012/11/installing-windows-8-pro-on-parallels-8.html
 redirect_from: /2012/11/installing-windows-8-pro-on-parallels-8.html
+header-img: /public/images/header_technology.jpg
 ---
 
 Last week I went to a Microsoft launch event, <a href="http://www.microsoft.com/enterprise/events/theneweraofwork/default.aspx">New Era of Work</a>, and got a <i>free</i> copy of Windows 8 Pro. I had already tried Windows 8 Preview as well as have Windows 7 Ultimate running as a virtual machines (VMs) through <a href="http://www.parallels.com/products/desktop/">Parallels Desktop</a> on my Macbook Pro (MBP). I didn't like the preview edition that much, so I uninstalled it after a few days. But after attending the event, I thought I'd give it another look.

@@ -11,6 +11,7 @@ thumbnail: http://3.bp.blogspot.com/-RtQGUkd8Rfg/U6XaaRYqaGI/AAAAAAABs5Q/mPNDpV1
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3574999474847350356
 blogger_orig_url: http://www.sunpech.com/2014/06/converting-your-vhs-and-betamax-tapes.html
 redirect_from: /2014/06/converting-your-vhs-and-betamax-tapes.html
+header-img: /public/images/header_technology.jpg
 ---
 
 I've started a new initiative to help my parents convert all their VHS and Betamax tapes over into the digital world. These tapes are those precious family home videos. These are mostly tapes from the 1970s, 80s, 90s, and even part of the early 2000s.
@@ -89,4 +90,3 @@ So with Drobo, if you have two or more hard drives attached, one of the drives c
 Yes, you pay a lot for the Drobo enclosure and proprietary software, but the internal disks are getting cheaper and bigger every year. You can easily add more drives to it and it will reconfigure itself automatically-- little to no work on your part!
 
 I hope you found this post useful. As a final note, I'm teaching my parents how to do this-- and it's a bit of a struggle for them since they are computer illiterate. But it should be very doable for you if you born after 1970-- i.e you know how to open a program, copy&amp;paste, rename files, etc... then you should be good to go.
-

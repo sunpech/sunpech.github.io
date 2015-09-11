@@ -9,6 +9,7 @@ modified_time: '2012-01-03T03:54:09.879-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3638353101975564744
 blogger_orig_url: http://www.sunpech.com/2008/11/my-favorite-firefox-add-ons.html
 redirect_from: /2008/11/my-favorite-firefox-add-ons.html
+header-img: /public/images/header_technology.jpg
 ---
 
 <a href="http://www.mozilla.com/firefox">Firefox</a> is my favorite web browser.  In this day and age, I see no need to use Microsoft's Internet Explorer (IE).  Although I do like <a href="http://www.google.com/chrome">Google Chrome</a>, it's still not available for Linux yet.  But this isn't an entry about browsers and the pros and cons of each.  (I do plan on writing about browsers and operating systems in the near future.)
