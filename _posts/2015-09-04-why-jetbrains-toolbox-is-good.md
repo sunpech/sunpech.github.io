@@ -9,6 +9,7 @@ modified_time: '2015-09-04T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_why_jetbrains_toolbox_is_good.jpg
 image: /public/images/blog/why_jetbrains_toolbox_is_good.jpg
 description: I think the software-as-a-service model is good for Jetbrains and their true customers. But it's certainly not for everyone.
+header-img: /public/images/header_software_development.jpg
 ---
 
 [Jetbrains](http://www.jetbrains.com), a software company that creates a wealth of software [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)s for software developers recently announced that they are moving their software over to a [software-as-a-service](https://en.wikipedia.org/wiki/Software_as_a_service) (SaaS) platform called [Jetbrains Toolbox](https://www.jetbrains.com/toolbox/).

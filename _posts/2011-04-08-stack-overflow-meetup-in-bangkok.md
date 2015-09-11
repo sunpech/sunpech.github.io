@@ -13,6 +13,7 @@ thumbnail: http://1.bp.blogspot.com/-rLGnZkN3LLU/TZyzokx6FbI/AAAAAAAAlKU/Jef39GJ
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1378732813473444949
 blogger_orig_url: http://www.sunpech.com/2011/04/stack-overflow-meetup-in-bangkok.html
 redirect_from: /2011/04/stack-overflow-meetup-in-bangkok.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 On the <a href="http://blog.stackoverflow.com/">Stackoverflow blog</a>, it was announced that April 6, 2011 would be <a href="http://blog.stackoverflow.com/2011/03/stack-overflow-meetups-april-6/">Worldwide Stack Overflow Meetup</a>. They created a meetup page at: <a href="http://www.meetup.com/stackoverflow/">Stackoverflow Meetup</a>.
@@ -60,4 +61,3 @@ Here are some pictures, full album <a href="https://picasaweb.google.com/1016935
 <a href="http://2.bp.blogspot.com/-z2VRuwaihrk/TZy1cD8g-dI/AAAAAAAAlKU/lUBnN4icMKs/s600/IMG_5351.JPG"><img border="0"  src="http://2.bp.blogspot.com/-z2VRuwaihrk/TZy1cD8g-dI/AAAAAAAAlKU/lUBnN4icMKs/s320/IMG_5351.JPG"  /></a>
 
 <a href="http://4.bp.blogspot.com/-eXwSDJht1WY/TZy1wOxTUrI/AAAAAAAAlKU/44-v63gin1o/s600/IMG_5355.JPG"><img border="0"  src="http://4.bp.blogspot.com/-eXwSDJht1WY/TZy1wOxTUrI/AAAAAAAAlKU/44-v63gin1o/s320/IMG_5355.JPG"  /></a>
-

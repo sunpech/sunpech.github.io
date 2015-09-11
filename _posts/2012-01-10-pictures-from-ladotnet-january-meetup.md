@@ -12,6 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-wzvm8pH0tBM/TxokjAnVSKI/AAAAAAAA2zU/l-BMG3Z
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2656336799612263033
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-ladotnet-january-meetup.html
 redirect_from: /2012/01/pictures-from-ladotnet-january-meetup.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 Last night I went to the <a href="http://www.ladotnet.org/events/44238462/?eventId=44238462&amp;action=detail">LADOTNET January Meetup</a>. The presentation was: <b>Unit Testing/Architecting Apps for Testing with Paul Sheriff</b>.
@@ -47,4 +48,3 @@ I have a new album where I will dump all pictures I take from Meetups for this u
 <a href="http://4.bp.blogspot.com/-kxzssoYqWI4/Txok44jAo1I/AAAAAAAA23c/YwU-Xuy_EWg/s600/2012-01-09+at+19-28-02.jpg"><img border="0"  src="http://4.bp.blogspot.com/-kxzssoYqWI4/Txok44jAo1I/AAAAAAAA23c/YwU-Xuy_EWg/s320/2012-01-09+at+19-28-02.jpg"  /></a>
 
 <a href="http://2.bp.blogspot.com/-OpoFmfPHa5M/Txok5q-izlI/AAAAAAAA23k/OeZif-SbL7w/s600/2012-01-09+at+19-37-38.jpg"><img border="0"  src="http://2.bp.blogspot.com/-OpoFmfPHa5M/Txok5q-izlI/AAAAAAAA23k/OeZif-SbL7w/s320/2012-01-09+at+19-37-38.jpg"  /></a>
-

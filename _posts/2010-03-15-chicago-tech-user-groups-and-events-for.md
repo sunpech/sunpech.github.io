@@ -10,11 +10,12 @@ modified_time: '2012-01-11T04:06:18.244-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6541693810625676412
 blogger_orig_url: http://www.sunpech.com/2010/03/chicago-tech-user-groups-and-events-for.html
 redirect_from: /2010/03/chicago-tech-user-groups-and-events-for.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 The first two weeks this month I attended several Chicago user group meetings and events.  I wanted to recap my experience with many of them since it was my first time attending several of the events.
 
-### Tuesday March 2, 2010 
+### Tuesday March 2, 2010
 #### <a href="http://www.meetup.com/Chicago-APM/">Chicago Agile Project Management Meetup Group</a>
 
 I've been a member of this meetup group for a while now.  I really made an effort to attend this one since the topic was on <i>estimating projects</i>.  I've read several books and articles on Agile principles, but never have I come across how to estimate the time.
@@ -23,7 +24,7 @@ I was impressed with the professionals that showed up to contribute and discuss 
 
 Free Pizza and Pop: Yes.
 
-### Wednesday March 3, 2010 
+### Wednesday March 3, 2010
 #### <a href="http://chicagosilverlight.eventbrite.com/">The Chicago Silverlight Users Group</a>
 
 I honestly didn't know about this event until I checked <a href="http://davebost.com/blog/2010/03/04/resources-from-silverlight-4-presentation/">Dave Bost's blog post</a> that very morning on Google Reader.  I RSVP'd right away.  I'm glad I did too, as by the time I got to work it was a sold out event (it was free, but the seat count was at capacity already).
@@ -36,7 +37,7 @@ Dave presented on <a href="http://silverlight.net/">Silverlight 4</a>. The audie
 
 Free Pizza and Pop: Yes.
 
-### Thursday March 4, 2010 
+### Thursday March 4, 2010
 #### <a href="http://blogs.msdn.com/angelab/archive/2010/02/23/brian-harry-speaking-at-clarity-consulting-in-chicago-in-march.aspx">Visual Studio 2010 and Team Foundation Server 2010 - Presented by Microsoft Fellow, Brian Harry</a>
 
 I was able to leave work early to attend this event.  Besides learning about features in the upcoming VS 2010 and TFS, Brian talked about this days when he helped developVisual SourceSafe back in 1994.
@@ -46,7 +47,7 @@ I was able to leave work early to attend this event.  Besides learning about fea
 </ul>
 Free Pizza and Pop: Yes.
 
-### Friday March 5, 2010 
+### Friday March 5, 2010
 #### <a href="http://www.cloudcamp.org/chicago">Chicago Cloud Camp</a>
 
 I was only able to attend the Executive Panel event since there was an event conflict for Saturday's event.  Overall impressed with the networking event prior to the panel discussion.  In a nutshell, the panelists were all agreeing with Oracle CEO, Larry Ellison's rant on how cloud computing is nothing new and is a buzzword.
@@ -79,7 +80,7 @@ This event was possible thanks to <a href="http://www.techinthemiddle.com/">Tech
 
 Free Pizza and Pop: No.  But breakfast and lunch were served (included as part of admission).
 
-### Wednesday March 10, 2010 
+### Wednesday March 10, 2010
 #### <a href="http://chicagoalt.net/">Chicago Alt.net</a>
 <a href="http://www.just3ws.com/">Mike Hall</a> gave the presentation: <a href="http://chicagoalt.net/event/March-2010-Meeting-Introduction-to-Rake-with-Albacore-NET">Introduction to Rake with Albacore.NET</a>. Although it's not something my current company could use, it's always a pleasure to see/hear what other developers/companies are doing to get their work done.
 

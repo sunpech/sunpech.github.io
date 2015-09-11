@@ -11,6 +11,7 @@ thumbnail: http://1.bp.blogspot.com/-zmyacljuX2g/UKN_RJcTrtI/AAAAAAABVvU/68s9Szl
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7557647617734760650
 blogger_orig_url: http://www.sunpech.com/2012/11/running-windows-phone-8-emulator-on.html
 redirect_from: /2012/11/running-windows-phone-8-emulator-on.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 Not long ago I blogged about <a href="/2012/11/installing-windows-8-pro-on-parallels-8">Installing Windows 8 Pro on Parallels Desktop 8</a>. That of course worked for me, but when it came time to having Visual Studio 2012 (VS2012) and running an emulator for Windows Phone 8, it simply doesn't work. I searched the Internet as to why, and came up with the following links:
@@ -21,15 +22,15 @@ Not long ago I blogged about <a href="/2012/11/installing-windows-8-pro-on-paral
   <li><a href="http://blog.catenalogic.com/post/2012/10/31/Running-the-Windows-Phone-8-emulator-in-a-virtual-machine.aspx">Running the Windows Phone 8 emulator in a virtual machine</a> (I followed this guide)</li>
 </ul>
 
-As a lot of people <a href="http://forum.parallels.com/showthread.php?p=646448#post646448">pointed out</a>, it's not really possible in <a href="http://www.parallels.com/products/desktop/">Parallels Desktop 8</a> (PD8), but is possible through <a href="http://www.vmware.com/products/fusion/overview.html">VMware Fusion 5</a> (VMF5) with a small workaround. 
+As a lot of people <a href="http://forum.parallels.com/showthread.php?p=646448#post646448">pointed out</a>, it's not really possible in <a href="http://www.parallels.com/products/desktop/">Parallels Desktop 8</a> (PD8), but is possible through <a href="http://www.vmware.com/products/fusion/overview.html">VMware Fusion 5</a> (VMF5) with a small workaround.
 
 <img border="0" src="http://1.bp.blogspot.com/-zmyacljuX2g/UKN_RJcTrtI/AAAAAAABVvU/68s9SzlJNw0/s320/VMF5_WinPhone8.jpg" />
 
-I recommend following <a href="http://blog.catenalogic.com/post/2012/10/31/Running-the-Windows-Phone-8-emulator-in-a-virtual-machine.aspx">this guide</a>, but will supplement some more information as it pertains to VMF5, as it's not exactly the same as <a href="http://www.vmware.com/products/workstation/overview.html">VMware Workstation 9</a>. 
+I recommend following <a href="http://blog.catenalogic.com/post/2012/10/31/Running-the-Windows-Phone-8-emulator-in-a-virtual-machine.aspx">this guide</a>, but will supplement some more information as it pertains to VMF5, as it's not exactly the same as <a href="http://www.vmware.com/products/workstation/overview.html">VMware Workstation 9</a>.
 
-First off, I recommend installing from scratch. I tried to import my existing virtual machine created through PD8, and failed many, many, many times. I ended up with a blue screen screen and countless reboots that try to fix something that didn't get fixed. Save yourself time and just do a clean install of Windows 8 on VMF5. 
+First off, I recommend installing from scratch. I tried to import my existing virtual machine created through PD8, and failed many, many, many times. I ended up with a blue screen screen and countless reboots that try to fix something that didn't get fixed. Save yourself time and just do a clean install of Windows 8 on VMF5.
 
-Even if you have or haven't installed VS2012 with <a href="http://dev.windowsphone.com/en-us/downloadsdk">Windows Phone 8 SDK</a>, you should uninstall Hyper-V. 
+Even if you have or haven't installed VS2012 with <a href="http://dev.windowsphone.com/en-us/downloadsdk">Windows Phone 8 SDK</a>, you should uninstall Hyper-V.
 
 You can get to this in Windows 8 through Control Panel and search for "windows features". Then click on "Turn Windows features on or off".
 <img border="0" src="http://1.bp.blogspot.com/-C7zU-pHW7Jw/UKN37F-5vDI/AAAAAAABVuw/nzMZOJBcOdo/s600/WindowsFeaturesOnOff.jpg" />

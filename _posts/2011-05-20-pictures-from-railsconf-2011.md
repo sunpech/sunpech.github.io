@@ -11,6 +11,7 @@ thumbnail: http://3.bp.blogspot.com/-BP1lylbW4YA/TdH7PV3ZKnI/AAAAAAAAoE0/k9CP913
 blogger_id: tag:blogger.com,1999:blog-6841384.post-205359111132026361
 blogger_orig_url: http://www.sunpech.com/2011/05/pictures-from-railsconf-2011.html
 redirect_from: /2011/05/pictures-from-railsconf-2011.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 I had a great time at <a href="http://www.railsconf.com/">RailsConf</a> 2011, which took place in Baltimore, Maryland this year. Got the chance to meet and talk with a lot of Rails developers and passionate people. Always a good thing. I admit that I'm a Ruby Nuby, and quite a few of the talks were a little over my head, but in general there was a talk for everyone, no matter what skill level in Ruby/Rails. Also, a good thing. I noticed that Javascript was the common theme across the talks. In fact I didn't do any Ruby programming/playing at all, just Javascript + HTML5.
@@ -25,7 +26,7 @@ These are the sessions I attended (or peaked into) plus some of my favorite pict
   <li><b>Ruby on Rails Tutorial (AKA Intro to Rails - Part 2)</b> by&nbsp;<a href="https://twitter.com/#!/mhartl">Michael Hartl</a> (Rails Tutorial)</li>
 </ul>
 
-<a href="http://3.bp.blogspot.com/-BP1lylbW4YA/TdH7PV3ZKnI/AAAAAAAAoE0/k9CP913T07g/s600/2011-05-16+at+14-29-18.jpg" ><img border="0" src="http://3.bp.blogspot.com/-BP1lylbW4YA/TdH7PV3ZKnI/AAAAAAAAoE0/k9CP913T07g/s400/2011-05-16+at+14-29-18.jpg"   /></a> 
+<a href="http://3.bp.blogspot.com/-BP1lylbW4YA/TdH7PV3ZKnI/AAAAAAAAoE0/k9CP913T07g/s600/2011-05-16+at+14-29-18.jpg" ><img border="0" src="http://3.bp.blogspot.com/-BP1lylbW4YA/TdH7PV3ZKnI/AAAAAAAAoE0/k9CP913T07g/s400/2011-05-16+at+14-29-18.jpg"   /></a>
 
 <a href="http://3.bp.blogspot.com/-bAI22pePh9s/TdH6bQeU_RI/AAAAAAAAoBU/zepyTN-qAQY/s600/2011-05-16+at+07-48-01.jpg" ><img border="0" src="http://3.bp.blogspot.com/-bAI22pePh9s/TdH6bQeU_RI/AAAAAAAAoBU/zepyTN-qAQY/s400/2011-05-16+at+07-48-01.jpg"   /></a>
 
@@ -51,7 +52,7 @@ Sugar and caffeine break
 
 <a href="http://1.bp.blogspot.com/-cQzpzBbzvg0/TdLxL0-u0nI/AAAAAAAAoM0/tyMGG6nYbZk/s600/2011-05-17+at+08-00-21.jpg" ><img border="0" src="http://1.bp.blogspot.com/-cQzpzBbzvg0/TdLxL0-u0nI/AAAAAAAAoM0/tyMGG6nYbZk/s400/2011-05-17+at+08-00-21.jpg"   /></a>
 
-<a href="http://4.bp.blogspot.com/-j_trBmfjdEM/TdLxSEPl6uI/AAAAAAAAoNQ/wHjsthoSAcw/s600/2011-05-17+at+08-07-28.jpg" ><img border="0" src="http://4.bp.blogspot.com/-j_trBmfjdEM/TdLxSEPl6uI/AAAAAAAAoNQ/wHjsthoSAcw/s400/2011-05-17+at+08-07-28.jpg"   /></a> 
+<a href="http://4.bp.blogspot.com/-j_trBmfjdEM/TdLxSEPl6uI/AAAAAAAAoNQ/wHjsthoSAcw/s600/2011-05-17+at+08-07-28.jpg" ><img border="0" src="http://4.bp.blogspot.com/-j_trBmfjdEM/TdLxSEPl6uI/AAAAAAAAoNQ/wHjsthoSAcw/s400/2011-05-17+at+08-07-28.jpg"   /></a>
 
 DHH opening keynote
 <a href="http://2.bp.blogspot.com/-guodXmDqNXo/TdLxaOddiBI/AAAAAAAAoOA/ToEem3skkWI/s600/2011-05-17+at+08-19-34.jpg" ><img border="0" src="http://2.bp.blogspot.com/-guodXmDqNXo/TdLxaOddiBI/AAAAAAAAoOA/ToEem3skkWI/s400/2011-05-17+at+08-19-34.jpg"   /></a>
@@ -124,7 +125,7 @@ Free Schwag given away
 
 <a href="http://1.bp.blogspot.com/-ysxEs9LhIys/TdX6zC8g39I/AAAAAAAAoio/zV76D0nIYK0/s600/2011-05-19+at+15-15-56.jpg" ><img border="0" src="http://1.bp.blogspot.com/-ysxEs9LhIys/TdX6zC8g39I/AAAAAAAAoio/zV76D0nIYK0/s400/2011-05-19+at+15-15-56.jpg"   /></a>
 
-<a href="http://4.bp.blogspot.com/-0CAUmoK4Trc/TdX6zjOf32I/AAAAAAAAoi0/pbO4U-NGRTo/s600/2011-05-19+at+15-16-07.jpg" ><img border="0" src="http://4.bp.blogspot.com/-0CAUmoK4Trc/TdX6zjOf32I/AAAAAAAAoi0/pbO4U-NGRTo/s400/2011-05-19+at+15-16-07.jpg"   /></a> 
+<a href="http://4.bp.blogspot.com/-0CAUmoK4Trc/TdX6zjOf32I/AAAAAAAAoi0/pbO4U-NGRTo/s600/2011-05-19+at+15-16-07.jpg" ><img border="0" src="http://4.bp.blogspot.com/-0CAUmoK4Trc/TdX6zjOf32I/AAAAAAAAoi0/pbO4U-NGRTo/s400/2011-05-19+at+15-16-07.jpg"   /></a>
 
 <a href="http://1.bp.blogspot.com/-F30wRf1mc2M/TdX6t7yXPgI/AAAAAAAAogs/IPJsDd04GBs/s600/2011-05-19+at+14-09-08.jpg" ><img border="0" src="http://1.bp.blogspot.com/-F30wRf1mc2M/TdX6t7yXPgI/AAAAAAAAogs/IPJsDd04GBs/s400/2011-05-19+at+14-09-08.jpg"   /></a>
 

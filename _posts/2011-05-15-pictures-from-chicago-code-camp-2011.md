@@ -12,6 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-rmrocbUzGGI/Tc9CXwGtkvI/AAAAAAAAnxQ/FCmoXpN
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6638138167294273546
 blogger_orig_url: http://www.sunpech.com/2011/05/pictures-from-chicago-code-camp-2011.html
 redirect_from: /2011/05/pictures-from-chicago-code-camp-2011.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 Chicago Code Camp 2011 (CCC3) has wrapped up! I had a great time going to various sessions, learning new things, and meeting/talking with great people. I wish more of these events would take place in the Chicagoland area. I think about 300 people attended, which I think is pretty good considering the event wasn't even in Chicago! This year, CCC3 took place at <a href="http://www.clcillinois.edu/">College of Lake County</a>, in Grayslake, which is located about 50 miles from Chicago (approximately 1 hour drive).
@@ -48,5 +49,4 @@ Everyone waiting in the JLC for the raffle prizes
 <a href="http://2.bp.blogspot.com/-v7cxrNsePEc/Tc9Cexci5PI/AAAAAAAAnzw/ZGk606VeT8o/s600/2011-05-14+at+16-15-31.jpg" ><img border="0" src="http://2.bp.blogspot.com/-v7cxrNsePEc/Tc9Cexci5PI/AAAAAAAAnzw/ZGk606VeT8o/s400/2011-05-14+at+16-15-31.jpg"   /></a>
 
 The nice prizes for the raffle
-<a href="http://3.bp.blogspot.com/-yQQdSlYPT3g/Tc9ChVq1mmI/AAAAAAAAn00/Ue3bjxKK8GI/s600/2011-05-14+at+16-33-45.jpg" ><img border="0" src="http://3.bp.blogspot.com/-yQQdSlYPT3g/Tc9ChVq1mmI/AAAAAAAAn00/Ue3bjxKK8GI/s400/2011-05-14+at+16-33-45.jpg"   /></a> 
-
+<a href="http://3.bp.blogspot.com/-yQQdSlYPT3g/Tc9ChVq1mmI/AAAAAAAAn00/Ue3bjxKK8GI/s600/2011-05-14+at+16-33-45.jpg" ><img border="0" src="http://3.bp.blogspot.com/-yQQdSlYPT3g/Tc9ChVq1mmI/AAAAAAAAn00/Ue3bjxKK8GI/s400/2011-05-14+at+16-33-45.jpg"   /></a>

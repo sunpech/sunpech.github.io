@@ -5,7 +5,6 @@ date: '2008-07-25T06:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Chicago
-- Software Development
 - Google
 modified_time: '2014-08-07T20:07:07.698-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6382347764570249093

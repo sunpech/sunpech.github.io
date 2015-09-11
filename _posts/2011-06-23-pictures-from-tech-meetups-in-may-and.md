@@ -12,6 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-ZTq8a5zkdh8/TgL6yQ66bZI/AAAAAAAApPc/v386yfy
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4892633009397276148
 blogger_orig_url: http://www.sunpech.com/2011/06/pictures-from-tech-meetups-in-may-and.html
 redirect_from: /2011/06/pictures-from-tech-meetups-in-may-and.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 In May I came across a new group: <a href="http://www.meetup.com/Refresh-Chicago/">Refresh Chicago</a> (<a href="https://twitter.com/#!/refreshchi">@refreshchi</a>). So far, their meetups have been pretty good. From their twitter, the group is described as: <i>Monthly meetup for the advancement of Chicago’s designers and developers</i>. Pretty cool.
@@ -45,4 +46,3 @@ Ryan Singer presenting at Refresh Chicago (June 22, 2011)
 <a href="http://3.bp.blogspot.com/-SrmZAeYWCwY/TgL8_zB4OxI/AAAAAAAApZ4/sJNxFJVoP4A/s600/IMG_0027.jpg" ><img border="0" src="http://3.bp.blogspot.com/-SrmZAeYWCwY/TgL8_zB4OxI/AAAAAAAApZ4/sJNxFJVoP4A/s400/IMG_0027.jpg"   /></a>
 
 <a href="http://3.bp.blogspot.com/-3IlEcBDeemg/TgL9AYHxwCI/AAAAAAAApaA/D2MouSxtIxQ/s600/IMG_0029.jpg" ><img border="0" src="http://3.bp.blogspot.com/-3IlEcBDeemg/TgL9AYHxwCI/AAAAAAAApaA/D2MouSxtIxQ/s400/IMG_0029.jpg"   /></a>
-
