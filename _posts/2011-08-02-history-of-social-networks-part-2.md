@@ -11,6 +11,7 @@ thumbnail: http://2.bp.blogspot.com/--Q7AUWyN2UM/TjV_vAVfb6I/AAAAAAAAs10/Ycroxbp
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3875187871042311152
 blogger_orig_url: http://www.sunpech.com/2011/08/history-of-social-networks-part-2.html
 redirect_from: /2011/08/history-of-social-networks-part-2.html
+header-img: /public/images/header_technology.jpgw
 ---
 
 In <a href="/2011/07/history-of-social-networks-part-1">The History of Social Networks Part 1</a>, I covered the <i>legacy</i> social networks that I was once a part of. I use the term <i>legacy</i> to mean out-dated, unpopular, and in some cases discontinued.

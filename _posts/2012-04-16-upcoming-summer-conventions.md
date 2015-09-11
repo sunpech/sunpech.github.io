@@ -16,6 +16,7 @@ thumbnail: http://2.bp.blogspot.com/-3ixYxkBE-y4/T4zIO8wS0QI/AAAAAAABEik/P5hTKN4
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1548202190422393924
 blogger_orig_url: http://www.sunpech.com/2012/04/upcoming-summer-conventions.html
 redirect_from: /2012/04/upcoming-summer-conventions.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 There are some conferences and conventions coming up soon that I'm pretty excited about. So far I'm definitely going to <a href="http://www.anime-expo.org/">Anime Expo</a> and <a href="http://www.comic-con.org/cci/">Comic-Con</a>, as I purchased tickets for those already. Recently announced is the <a href="http://gpluspc.com/">G+ Photographers Conference</a>, which includes a Photowalk on Monday, May 21st. I will most likely make my way up there for that-- about eighty-percent sure I'll go.
@@ -34,7 +35,7 @@ Los Angeles Convention Center in Los Angeles, CA
 
 <img border="0" src="http://4.bp.blogspot.com/-5-YMp8mosdU/T4zIOyH86aI/AAAAAAABEio/Y5UyRnAxv4E/s600/anime_expo.jpg" />
 
-<a href="http://www.comic-con.org/cci/">San Diego Comic Con International</a> 
+<a href="http://www.comic-con.org/cci/">San Diego Comic Con International</a>
 July 11 - 15, 2012<br/>
 San Diego Convention Center in San Diego, CA
 

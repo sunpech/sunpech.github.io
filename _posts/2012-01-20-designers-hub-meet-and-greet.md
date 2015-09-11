@@ -12,6 +12,7 @@ thumbnail: http://1.bp.blogspot.com/-Kcp9ikdCPh0/TxlS9ycaiCI/AAAAAAAA2sA/HHwSnU_
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2012633697097354269
 blogger_orig_url: http://www.sunpech.com/2012/01/designers-hub-meet-and-greet.html
 redirect_from: /2012/01/designers-hub-meet-and-greet.html
+header-img: /public/images/header_technology.jpg
 ---
 
 Last night I went to LA's <a href="http://www.meetup.com/Designers-Hub/events/48232482/">Designer's Hub Meet and Greet event</a>
@@ -59,4 +60,3 @@ A picture dump of all pictures I take at meetups this year can be found <a href=
 <a href="http://1.bp.blogspot.com/-oVwG8AZYlIY/TxlTMZCtPFI/AAAAAAAA2uw/_J9rjt_Y4bw/s600/2012-01-19+at+21-10-16.jpg"><img border="0"  src="http://1.bp.blogspot.com/-oVwG8AZYlIY/TxlTMZCtPFI/AAAAAAAA2uw/_J9rjt_Y4bw/s320/2012-01-19+at+21-10-16.jpg"  /></a>
 
 <a href="http://4.bp.blogspot.com/-py0JANEIoKI/TxlTMwDSUjI/AAAAAAAA2u4/Hg8RDhxWaHo/s600/2012-01-19+at+21-10-36.jpg"><img border="0"  src="http://4.bp.blogspot.com/-py0JANEIoKI/TxlTMwDSUjI/AAAAAAAA2u4/Hg8RDhxWaHo/s320/2012-01-19+at+21-10-36.jpg"  /></a>
-

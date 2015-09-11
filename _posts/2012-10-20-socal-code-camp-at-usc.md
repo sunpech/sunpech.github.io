@@ -12,6 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-c0HUzw7CqWw/UIIIhnLmWBI/AAAAAAABVOc/J2Fu10y
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4089127591301387426
 blogger_orig_url: http://www.sunpech.com/2012/10/socal-code-camp-at-usc.html
 redirect_from: /2012/10/socal-code-camp-at-usc.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 Last weekend I attended <a href="http://www.socalcodecamp.com/">SoCal Code Camp</a> held at <a href="http://www.usc.edu/">University of Southern California</a> (USC). Had a good time learning about new stuff as usual. The prizes here are pretty spectacular, but once again I won absolutely nothing. Nothing!
@@ -44,4 +45,3 @@ Jon Flanders presenting Native iOS programming for .Net developers
 
 Lee Salazar on From Codemonkey to CEO.
 <img border="0" src="http://3.bp.blogspot.com/-GYkfN6Jibvk/UIIIvnRrF8I/AAAAAAABVQE/QtZ8guEYNpo/s400/2012-10-14+at+14-56-39.jpg" />
-

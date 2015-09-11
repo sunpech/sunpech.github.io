@@ -10,6 +10,7 @@ thumbnail: http://1.bp.blogspot.com/-Cj7bH46Csqg/UYGjcgSyDUI/AAAAAAABbz0/k62j6FJ
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3382023085726522873
 blogger_orig_url: http://www.sunpech.com/2013/05/whats-in-my-messenger-bag.html
 redirect_from: /2013/05/whats-in-my-messenger-bag.html
+header-img: /public/images/header_technology.jpg
 ---
 
 Not long ago I posted <a href="/2013/04/whats-in-my-camera-bag">what's in my camera bag</a>. I thought I would follow up on what I carry in my other bag-- especially when I travel. Here's what I <i>typically</i> have in my messenger bag.

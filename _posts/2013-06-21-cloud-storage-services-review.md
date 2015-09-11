@@ -11,6 +11,7 @@ thumbnail: http://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2824231464794545018
 blogger_orig_url: http://www.sunpech.com/2013/06/cloud-storage-services-review.html
 redirect_from: /2013/06/cloud-storage-services-review.html
+header-img: /public/images/header_technology.jpg
 ---
 
 There are so many cloud storage services out there now vying for our attention and data. I thought I'd share my thoughts on the popular choices out there. I'm only looking at the <i>personal</i> or <i>free plans</i>. I'm leaving out anything for businesses or enterprises-- those are just a different beast with very different needs altogether.
@@ -109,4 +110,3 @@ Google Drive is really great for Google docs, but their folder structure can be 
 So straight up, Copy is a clear winner that stands above the rest for cloud storage. But to be honest, other than Dropbox and Amazon Cloud Drive, I still use the other storage services. If they offer a substantial amount of free storage, I tend to use it for <i>something</i>.
 
 Your needs are different from my needs. My pick and opinion may not the same as yours, so go forth and try these services out yourself if you don't like or trust my pick.
-

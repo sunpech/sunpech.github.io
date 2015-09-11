@@ -12,6 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-NipS80fmeFk/UIIM1UjScTI/AAAAAAABVRs/O-DGSID
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4147924816490106107
 blogger_orig_url: http://www.sunpech.com/2012/10/mobile-camp-la.html
 redirect_from: /2012/10/mobile-camp-la.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 I picked up a free ticket to <a href="http://mobilecampla.com/">Mobile Camp LA</a> earlier this week and decided to attend. Overall I wasn't too impressed with the event. It may have very well been the first of it's kind aimed at developers, designers, and business folk. Anyway, I thought the venue was a bit of a mess as many things went wrong.
@@ -23,7 +24,7 @@ I picked up a free ticket to <a href="http://mobilecampla.com/">Mobile Camp LA</
   <li>Cancelations and running behind time (somewhat normal, but there seemed to be quite a few).</li>
 </ol>
 
-Anyway, it was still enjoyable and I shouldn't complain since it was free for me. 
+Anyway, it was still enjoyable and I shouldn't complain since it was free for me.
 One more complaint in general, here was one session I ended up not enjoying where the speaker was more interested in promoting his own product than talking about technology or problem solving. I just do not like sitting through some kind of product advertisement for an hour.
 
 The interesting thing I walked away with was how many new products/services Adobe was coming out with for not just designers, but also developers. Check out <a href="http://html.adobe.com/">html.adobe.com</a> to see all these brand new stuff. They are definitely pushing the <a href="http://www.adobe.com/products/creativecloud.html">Creative Cloud</a>. Something I'll have to keep my eye on since I use Photoshop and Lightroom pretty heavily these days.
@@ -53,4 +54,3 @@ Backbone with mobile backend by Sid Maestre
 
 Fund Your Start-up by Glang Biscan
 <img border="0" src="http://1.bp.blogspot.com/-8F7q6IIxFbA/UIIM-XGj2xI/AAAAAAABVS0/qEPgKFZhkG8/s400/2012-10-18+at+14-28-32.jpg" />
-
