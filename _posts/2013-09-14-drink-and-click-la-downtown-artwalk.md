@@ -11,6 +11,7 @@ modified_time: '2013-09-13T09:00:00.000-05:00'
 thumbnail: http://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s600/2013-09-12%2Bat%2B20-32-38.jpg
 image: http://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s800/2013-09-12%2Bat%2B20-32-38.jpg
 description: Photos from my Drink and Click LA Photowalk in downtown Artwalk.
+header-img: /public/images/header_old_cameras.jpg
 ---
 
 Last night I went to my second Drink and Click LA meetup in [downtown Artwalk](http://downtownartwalk.org/). Specifically we checked out [The Last Bookstore](http://lastbookstorela.com/), which is an amazing place to walk around and take photos if you are into books and little trinkets. Generally they ask you to check your bag at what I think is their main entrance, but the other entrance they do not in case you want to bring your camera bag in, which is what we all did.

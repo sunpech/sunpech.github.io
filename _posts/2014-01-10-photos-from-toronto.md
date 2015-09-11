@@ -10,6 +10,7 @@ thumbnail: http://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2286525837830791660
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-toronto.html
 redirect_from: /2014/01/photos-from-toronto.html
+header-img: /public/images/header_old_cameras.jpg
 ---
 
 Last year I did some traveling in October and November. In late October, I went to Toronto for the first time. The city is beautiful there. I've probably been in Los Angeles too long, but I noticed how clear the skies were and was astonished to look at buildings with no haze in front. It really showcases how LA is such a polluted and dirty city.
@@ -36,4 +37,3 @@ Buy prints: <a href="http://500pxart.com/photo/51458094">http://500pxart.com/pho
 Buy prints: <a href="http://500pxart.com/photo/51267068">http://500pxart.com/photo/51267068</a><img border="0" src="http://4.bp.blogspot.com/-M27DT8UQ2HY/UnJeWRBHw1I/AAAAAAABi24/hJWHMbL2Cuo/s600/2013-10-28+at+23-21-18.jpg"   />
 
 I hope to return in the near future to take some more photos there. Toronto reminds me so much of Chicago-- clean, big, metropolitan, yet also suburban-like, with some of the most friendliest people around. My biggest praise for the city is that it has some delicious Chinese food there-- way better than Chicago's! I could almost live there if it weren't for all the <i>funny money</i> they use up there-- just kidding, I love Toronto.
-

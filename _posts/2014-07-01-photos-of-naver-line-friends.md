@@ -10,6 +10,7 @@ thumbnail: http://1.bp.blogspot.com/-wvPKw4iOnD0/U7JW1630loI/AAAAAAABs_M/JYHSWFn
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1509456618147452250
 blogger_orig_url: http://www.sunpech.com/2014/07/photos-of-naver-line-friends.html
 redirect_from: /2014/07/photos-of-naver-line-friends.html
+header-img: /public/images/header_old_cameras.jpg
 ---
 
 I was in Chiang Mai, Thailand recently and found some Naver Line toys at the mall. I bought them with the intention of giving them to my sisters since we all use the <a href="http://line.me/en/">Line chat app</a>. But on the way back to the US, I had an eight hour layover at the Incheon International airport in South Korea. I happened to pack the toys in my carry-on so I took them out to have a little photo shoot.
@@ -49,5 +50,3 @@ Buy on 500px: <a href="http://500pxart.com/photo/73918603">http://500pxart.com/p
 
 #### Not Part of the Wedding Party
 Buy on 500px: <a href="http://500pxart.com/photo/74207347">http://500pxart.com/photo/74207347</a><a href="http://2.bp.blogspot.com/-twwe97j4qpY/U7JW59-_zuI/AAAAAAABtAA/tRh-Qpiw2Fg/s600/08-Not-Part-of-the-Wedding-Party_600px.jpg" ><img border="0" src="http://2.bp.blogspot.com/-twwe97j4qpY/U7JW59-_zuI/AAAAAAABtAA/tRh-Qpiw2Fg/s600/08-Not-Part-of-the-Wedding-Party_600px.jpg"   /></a>
-
-

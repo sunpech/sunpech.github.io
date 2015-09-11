@@ -11,6 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7715400429929590653
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-adler-planetarium.html
 redirect_from: /2014/01/photos-from-chicagos-adler-planetarium.html
+header-img: /public/images/header_chicago_skyline.jpg
 ---
 
 This is my last of three posts covering the three landmarks I visited in Chicago during this past winter. My first was of <a href="/2014/01/photos-from-chicagos-john-hancock">Chicago's John Hancock Observatory</a> and the other was of <a href="/2014/01/photos-from-chicagos-bean">Chicago's Bean</a>.
@@ -32,4 +33,3 @@ Buy print: <a href="http://500pxart.com/photo/57661802">http://500pxart.com/phot
 #### Chicago Skyline - Peace
 Buy print: <a href="http://500pxart.com/photo/57866660">http://500pxart.com/photo/57866660</a>
 <img border="0" src="http://4.bp.blogspot.com/-K5Nalnzt9RY/UteDLDaN2gI/AAAAAAABl4s/zx_wfMLoXyU/s600/2014-01-12+at+18-13-20.jpg"   />
-

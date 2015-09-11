@@ -11,6 +11,7 @@ modified_time: '2014-08-07T20:07:07.698-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6382347764570249093
 blogger_orig_url: http://www.sunpech.com/2008/07/thoughts-on-digg-meetup-chicago.html
 redirect_from: /2008/07/thoughts-on-digg-meetup-chicago.html
+header-img: /public/images/header_google_chicago.jpg
 ---
 
 First off, let me say that I enjoy reading some of the articles posted on <a href="http://www.digg.com/">Digg</a>... well, I want to emphasize some.  It's a voting system, so there's a lot of crap stories, and just a few winners here and there.  But sometimes those stories are worth it.  Sometimes...

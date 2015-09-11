@@ -12,6 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-1gQgmuWo4JM/T4LS5Hg1EYI/AAAAAAABCYY/mfy1mqq
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5183690229538167366
 blogger_orig_url: http://www.sunpech.com/2012/04/original-renaissance-pleasure-faire.html
 redirect_from: /2012/04/original-renaissance-pleasure-faire.html
+header-img: /public/images/header_old_cameras.jpg
 ---
 
 This past weekend I attended <a href="http://www.renfair.com/socal/index.asp">The Original Renaissance Pleasure Faire</a> in Irwindale, California. It's been over almost fifteen years since I attended a Renaissance Fair, the last being the <a href="http://www.renfair.com/bristol/">Bristol Renaissance Fair</a> in the Midwest. I was a teenager then and really loved the tasty mushrooms! I also got my older sister to buy me a broad sword!
@@ -65,5 +66,3 @@ Mushroom!
 This is my first video clip using my <a href="http://www.amazon.com/gp/product/B007FGYZFI/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007FGYZFI">Canon 5D Mark III</a> with my <a href="http://www.amazon.com/gp/product/B0033PRWSW/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0033PRWSW">Canon 70-200mm f/2.8L II lens</a> attached. I wanted to see how it would perform from about fifty feet away with moving objects.
 
 <div class="video-container"><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/wZC1iT4jOu0" width="560"></iframe></div>
-
-
