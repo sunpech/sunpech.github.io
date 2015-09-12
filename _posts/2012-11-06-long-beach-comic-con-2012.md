@@ -12,6 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-3ArVU-G9lYU/UJjpm9yQ5fI/AAAAAAABVmM/axhhXKn
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6008116428342228532
 blogger_orig_url: http://www.sunpech.com/2012/11/long-beach-comic-con-2012.html
 redirect_from: /2012/11/long-beach-comic-con-2012.html
+header-img: /public/images/header_long_beach_comic_con.jpg
 ---
 
 Over the weekend I attended <a href="http://www.longbeachcomiccon.com/">Long Beach Comic Con</a> held at the <a href="http://www.longbeachcc.com/">Long Beach Convention Center</a>. It's not as big as <a href="http://www.comic-con.org/cci/">San Diego Comic Con</a> nor <a href="http://comikazeexpo.com/">Comikaze Expo</a>, but it definitely had a more collector's paradise feel to it.
@@ -65,4 +66,3 @@ Killer Klowns from Outer Space?! (Movie <a href="http://www.imdb.com/title/tt009
 <img border="0" src="http://3.bp.blogspot.com/-VZfzbe9UUOM/UJjqO0v-HOI/AAAAAAABVqc/IZW6oP7uyi8/s600/2012-11-04+at+15-47-39.jpg"   />
 
 <img border="0" src="http://1.bp.blogspot.com/-MW-2wd5-aQo/UJjqQPBCM6I/AAAAAAABVqk/SIBi9mXohhI/s600/2012-11-04+at+15-50-37.jpg"   />
-
