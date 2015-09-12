@@ -11,6 +11,7 @@ thumbnail: https://lh5.googleusercontent.com/-kYujSGtsMMw/TPZjHudQV1I/AAAAAAAAez
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3844967058403975696
 blogger_orig_url: http://www.sunpech.com/2011/03/my-story-from-2010-part-2-of-2.html
 redirect_from: /2011/03/my-story-from-2010-part-2-of-2.html
+header-img: /public/images/header_joshua_tree.jpg
 ---
 
 This is part 2 of 2 of my story from 2010. You can view part 1 at: <a href="/2011/03/my-story-from-2010-part-1-of-2">My Story from 2010 (Part 1 of 2)</a>
@@ -27,7 +28,7 @@ Below I have pictures I took in Bangkok in November and December 2010. Many nigh
 
 <embed flashvars="host=picasaweb.google.com&amp;captions=1&amp;noautoplay=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fsunpech%2Falbumid%2F5584295449887641905%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="267" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" type="application/x-shockwave-flash" width="400"></embed>
 
-Some pictures in Chiang Mai with my family. We had <i>tum-boon</i> (merit-making) ceremony at my grandmother's house. It was a nice gathering of my mom's family. 
+Some pictures in Chiang Mai with my family. We had <i>tum-boon</i> (merit-making) ceremony at my grandmother's house. It was a nice gathering of my mom's family.
 
 <embed flashvars="host=picasaweb.google.com&amp;captions=1&amp;noautoplay=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fsunpech%2Falbumid%2F5584334624278417025%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCPD63cup34GG8gE%26hl%3Den_US" height="267" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" type="application/x-shockwave-flash" width="400"></embed>
 
