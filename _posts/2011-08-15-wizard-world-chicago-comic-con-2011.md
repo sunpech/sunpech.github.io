@@ -12,6 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-DpM_DZxtaiw/TkdDIQLUtuI/AAAAAAAAtRM/dO48OHy
 blogger_id: tag:blogger.com,1999:blog-6841384.post-337811324264202981
 blogger_orig_url: http://www.sunpech.com/2011/08/wizard-world-chicago-comic-con-2011.html
 redirect_from: /2011/08/wizard-world-chicago-comic-con-2011.html
+header-img: /public/images/header_c2e2_floor.jpg
 ---
 
 I'm suffering from San Diego Comic Con 2010 withdrawal still. This year I wasn't able to go as a good friend was getting married and I was his best man-- which turned out to be the best wedding I've ever been to. But anyway, you can see my post and pictures from that <a href="/2010/07/san-diego-comic-con-2010-pictures">here</a>.
@@ -73,4 +74,3 @@ Here are some of my favorite photos. Full set of pictures I took, <a href="https
 <a href="http://3.bp.blogspot.com/-Uvh90UejUZk/TkdD-YxQ9eI/AAAAAAAAtWE/L7DaMKhiUM0/s600/2011-08-13+at+16-42-59.jpg"><img alt="" border="0"  src="http://3.bp.blogspot.com/-Uvh90UejUZk/TkdD-YxQ9eI/AAAAAAAAtWE/L7DaMKhiUM0/s400/2011-08-13+at+16-42-59.jpg"  /></a>
 
 <a href="http://3.bp.blogspot.com/-FxifbfGSDxQ/TkdEE3zJCGI/AAAAAAAAtWw/_cHzoEhKd7g/s600/2011-08-13+at+17-21-34.jpg"><img alt="" border="0"  src="http://3.bp.blogspot.com/-FxifbfGSDxQ/TkdEE3zJCGI/AAAAAAAAtWw/_cHzoEhKd7g/s400/2011-08-13+at+17-21-34.jpg"  /></a>
-
