@@ -11,6 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-WF8jU2_jjQg/TxVmCDQyByI/AAAAAAAA2oc/8Y87Up7
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6588025767771779402
 blogger_orig_url: http://www.sunpech.com/2011/08/some-thoughts-on-traveling.html
 redirect_from: /2011/08/some-thoughts-on-traveling.html
+header-img: /public/images/header_joshua_tree.jpg
 ---
 
 In July of 2010, I quit my full time job as a software developer. I wanted to break away from the nine-to-five, travel a bit, have fun, and teach myself new things in the process. I was able to visit San Diego, Los Angeles, San Francisco, Boston, New York City, Denver, Bangkok, Chiang Mai, and Pattaya.
@@ -19,7 +20,7 @@ In July of 2010, I quit my full time job as a software developer. I wanted to br
 
 In 2011, I kept traveling, I visited Hua Hin, Phuket, Phang Nga, Singapore, Las Vegas, and Baltimore, before returning to Chicago for a time period greater than one week. Chicago is where I am right now. It's been such a rush getting on and off a plane, knowing that there's a different upcoming destination, just hours away. I've actually grown to like being in airports.  
 
-<a href="http://1.bp.blogspot.com/-hiWVdXqLmSY/TxVmCLpCLRI/AAAAAAAA2pg/TqPhLFZimMM/s600/IMG_2976.jpeg" ><img border="0"  src="http://1.bp.blogspot.com/-hiWVdXqLmSY/TxVmCLpCLRI/AAAAAAAA2pg/TqPhLFZimMM/s400/IMG_2976.jpeg"  /></a> 
+<a href="http://1.bp.blogspot.com/-hiWVdXqLmSY/TxVmCLpCLRI/AAAAAAAA2pg/TqPhLFZimMM/s600/IMG_2976.jpeg" ><img border="0"  src="http://1.bp.blogspot.com/-hiWVdXqLmSY/TxVmCLpCLRI/AAAAAAAA2pg/TqPhLFZimMM/s400/IMG_2976.jpeg"  /></a>
 
 I am reminded of a blog post I read before I left for Thailand, back in October of 2010: <a href="http://www.fourhourworkweek.com/blog/2010/10/30/20-things-ive-learned-from-traveling-around-the-world-for-three-years/">20 Things I've Learned From Traveling Around the World for Three Years</a> by <a href="http://en.wikipedia.org/wiki/Timothy_Ferriss">Tim Ferriss</a>. I think it very much holds true.  
 
