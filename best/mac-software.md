@@ -4,7 +4,7 @@ title: Mac Software
 navigation: false
 best: true
 permalink: mac-software/
-header-img: /public/images/header_joshua_tree.jpg
+header-img: /public/images/header_technology.jpg
 ---
 
 Mac OS X Mavericks is my main operating system now. I still use Windows and Linux a bit, but by far this is where I do most of my work.
