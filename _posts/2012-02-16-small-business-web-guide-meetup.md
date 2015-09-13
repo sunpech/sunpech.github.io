@@ -12,6 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-IZagZyoKMww/TzzPjsaPG9I/AAAAAAAA6NU/SwIIgLG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-655988805539086421
 blogger_orig_url: http://www.sunpech.com/2012/02/small-business-web-guide-meetup.html
 redirect_from: /2012/02/small-business-web-guide-meetup.html
+header-img: /public/images/header_los_angeles.jpg
 ---
 
 Last night I went to a <a href="http://www.meetup.com/Designers-Hub/events/52239392/">Designer's Hub meetup</a> at <a href="http://kleverdogcoworking.com/">Kleverdog</a>. The topic was&nbsp;<b>Kicking Web Butt: Small Business Web Guide</b>. The presenter was Ed Wu (<a href="https://twitter.com/#!/edwu">@edwu</a>) from <a href="http://www.thinkademic.com/">THINKademic</a>.
@@ -36,7 +37,7 @@ Here are some of the pictures I took. As usual, you can find the album where I d
 
 <a href="http://2.bp.blogspot.com/-6dd_w80WgVs/TzzQCOL-TUI/AAAAAAAA6OU/-jDAB6Yq704/s600/2012-02-15+at+19-49-19.jpg"><img border="0"  src="http://2.bp.blogspot.com/-6dd_w80WgVs/TzzQCOL-TUI/AAAAAAAA6OU/-jDAB6Yq704/s320/2012-02-15+at+19-49-19.jpg"  /></a>
 
-<a href="http://1.bp.blogspot.com/-sAoTgyjLjC8/TzzQDIj1iHI/AAAAAAAA6OY/j26fNu-Tvp0/s600/2012-02-15+at+19-49-43.jpg"><img border="0"  src="http://1.bp.blogspot.com/-sAoTgyjLjC8/TzzQDIj1iHI/AAAAAAAA6OY/j26fNu-Tvp0/s320/2012-02-15+at+19-49-43.jpg"  /></a> 
+<a href="http://1.bp.blogspot.com/-sAoTgyjLjC8/TzzQDIj1iHI/AAAAAAAA6OY/j26fNu-Tvp0/s600/2012-02-15+at+19-49-43.jpg"><img border="0"  src="http://1.bp.blogspot.com/-sAoTgyjLjC8/TzzQDIj1iHI/AAAAAAAA6OY/j26fNu-Tvp0/s320/2012-02-15+at+19-49-43.jpg"  /></a>
 
 <a href="http://1.bp.blogspot.com/-wvWyybc95Uc/TzzQGpZSArI/AAAAAAAA6Oo/Iyn-8z-Qr8k/s600/2012-02-15+at+19-51-44.jpg"><img border="0"  src="http://1.bp.blogspot.com/-wvWyybc95Uc/TzzQGpZSArI/AAAAAAAA6Oo/Iyn-8z-Qr8k/s320/2012-02-15+at+19-51-44.jpg"  /></a>
 

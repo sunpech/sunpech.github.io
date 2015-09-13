@@ -11,6 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-BtnMgir62Xg/UMWpmjz_dQI/AAAAAAABWcg/DzdG4Z-
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4540726878038656700
 blogger_orig_url: http://www.sunpech.com/2012/12/dark-knight-legend-exhibit-at-la-live.html
 redirect_from: /2012/12/dark-knight-legend-exhibit-at-la-live.html
+header-img: /public/images/header_los_angeles.jpg
 ---
 
 Over the weekend on Sunday, I went to check out the Dark Knight Legend Exhibit at LA Live. It's a free exhibit there, located on the top of the parking structure just north of LA Live. The exhibit runs until December 14, 2012.

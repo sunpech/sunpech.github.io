@@ -14,6 +14,7 @@ thumbnail: http://1.bp.blogspot.com/--DhAbdzwuqA/U4ovzD7Dx_I/AAAAAAABsIA/rk_aFy9
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7797759634072294797
 blogger_orig_url: http://www.sunpech.com/2014/06/my-brief-appearance-on-heroes-of-cosplay.html
 redirect_from: /2014/06/my-brief-appearance-on-heroes-of-cosplay.html
+header-img: /public/images/header_comikaze_expo.jpg
 ---
 
 In a last week's episode of <a href="http://www.imdb.com/title/tt2923816/">Heroes of Cosplay</a>, I had a brief appearance in <a href="http://www.imdb.com/title/tt3673118/?ref_=ttep_ep7">Season 1 - Episode 7</a>!
@@ -71,4 +72,3 @@ Here are the general albums by day:
 Here are the <a href="https://www.facebook.com/media/set/?set=a.597002530364775.1073741852.408588035872893&amp;type=3">Cosplay Contest photos</a>.
 
 <a href="http://2.bp.blogspot.com/-DzMDJJ7KwQo/U4pACAgHx9I/AAAAAAABsIw/LJNdDBq6fyY/s600/2013+Comikaze+Expo+-+Cosplay+Contest.jpg" ><img border="0" src="http://2.bp.blogspot.com/-DzMDJJ7KwQo/U4pACAgHx9I/AAAAAAABsIw/LJNdDBq6fyY/s600/2013+Comikaze+Expo+-+Cosplay+Contest.jpg"   /></a>
-

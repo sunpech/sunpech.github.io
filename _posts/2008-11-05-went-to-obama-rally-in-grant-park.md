@@ -11,9 +11,10 @@ thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SRFHPFAvCZI/AAAAAAAAIS0/2bJc_vv
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1098775083325003979
 blogger_orig_url: http://www.sunpech.com/2008/11/went-to-obama-rally-in-grant-park.html
 redirect_from: /2008/11/went-to-obama-rally-in-grant-park.html
+header-img: /public/images/header_chicago_skyline.jpg
 ---
 
-I witnessed history in the making last night by attendeding Barack Obama's Election Night in Grant Park.
+I witnessed history in the making last night by attending Barack Obama's Election Night in Grant Park.
 
 <b>How I got the ticket: Sheer Luck</b>
 
