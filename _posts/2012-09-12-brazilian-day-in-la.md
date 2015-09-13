@@ -10,6 +10,7 @@ thumbnail: http://3.bp.blogspot.com/-6l8X5Wzm_Ho/UE7klloXqPI/AAAAAAABT6I/hnD7OFg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1300319648008138363
 blogger_orig_url: http://www.sunpech.com/2012/09/brazilian-day-in-la.html
 redirect_from: /2012/09/brazilian-day-in-la.html
+header-img: /public/images/header_los_angeles.jpg
 ---
 
 Yesterday I posted about my visit to Greekfest LA. The following day, Saturday I checked out <a href="http://www.braziliandayla.org/home/">Brazilian Day LA</a>, which was during the super sunny and hot day. What I loved was that the costumes and culture were so colorful and lively. Pretty much everyone was enjoying themselves watching or dancing along to a nice big neighborhood party.

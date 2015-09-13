@@ -12,6 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-zUQNDO1gzbo/TzNzoB-Tq2I/AAAAAAAA6EA/4C_IOqD
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8675918015450725598
 blogger_orig_url: http://www.sunpech.com/2012/02/jiro-dreams-of-sushi.html
 redirect_from: /2012/02/jiro-dreams-of-sushi.html
+header-img: /public/images/header_los_angeles.jpg
 ---
 
 Just got back from watching a special advanced screening of <a href="http://www.sushimovie.com/">Jiro Dreams of Sushi</a> at the Landmark. Special thanks to <a href="https://twitter.com/#!/tisaisha">Aisha</a> and <a href="http://www.foodspotting.com/">Foodspotting</a> for putting me on the list!
@@ -30,4 +31,3 @@ The movie will be out in the US on <b>March 9, 2012</b>. I recommend everyone ch
 
 
 Please check out my food blog: <a href="http://www.foodishappiness.com/">Foodishappiness.com</a>. I also tweet at <a href="http://www.twitter.com/foodishappiness">@foodishappiness</a>.
-
