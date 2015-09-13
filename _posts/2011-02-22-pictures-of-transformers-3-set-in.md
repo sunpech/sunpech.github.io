@@ -11,6 +11,7 @@ thumbnail: http://3.bp.blogspot.com/-uYsvUKhyzLg/TWOHIoUIjvI/AAAAAAAAg3A/acnXcX2
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7364441000246686184
 blogger_orig_url: http://www.sunpech.com/2011/02/pictures-of-transformers-3-set-in.html
 redirect_from: /2011/02/pictures-of-transformers-3-set-in.html
+header-img: /public/images/header_chicago_skyline.jpg
 ---
 
 I just realized I never formally made a blog post on all the pictures I took of the Transformers 3 set in Chicago of Summer of 2010. Many of the photos I took weren't that far from the office I was working at.
@@ -64,4 +65,3 @@ Here you go, enjoy the albums:
 <a href="http://4.bp.blogspot.com/-uuwuwSgJKOY/TG4lHb0YIaI/AAAAAAAAVR8/MR48KlSOC08/s1600/IMG_1926.jpg"><img border="0" src="http://4.bp.blogspot.com/-uuwuwSgJKOY/TG4lHb0YIaI/AAAAAAAAVR8/MR48KlSOC08/s320/IMG_1926.jpg" /></a>
 
 <a href="http://4.bp.blogspot.com/-XNaK1BoAXzM/TG4lMNELNqI/AAAAAAAAVR8/Pb7CfIQY1t8/s1600/IMG_1927.jpg"><img border="0" src="http://4.bp.blogspot.com/-XNaK1BoAXzM/TG4lMNELNqI/AAAAAAAAVR8/Pb7CfIQY1t8/s320/IMG_1927.jpg" /></a>
-

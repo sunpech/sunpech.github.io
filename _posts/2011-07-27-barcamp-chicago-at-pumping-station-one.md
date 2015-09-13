@@ -11,6 +11,7 @@ thumbnail: http://3.bp.blogspot.com/-JQi0iKrv5Js/ThpxKmxHdJI/AAAAAAAAscU/Ki9EZUF
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4805360256206371602
 blogger_orig_url: http://www.sunpech.com/2011/07/barcamp-chicago-at-pumping-station-one.html
 redirect_from: /2011/07/barcamp-chicago-at-pumping-station-one.html
+header-img: /public/images/header_chicago_skyline.jpg
 ---
 
 I went to check out <a href="http://barcampchicago.org/">Barcamp Chicago</a> earlier this month, on July 9, 2011. It was held at <a href="http://pumpingstationone.org/">Pumping Station One</a>, a <a href="http://en.wikipedia.org/wiki/Hackerspace">hackerspace</a> here in Chicago. I didn't stay too long, as it was a really nice day out.  

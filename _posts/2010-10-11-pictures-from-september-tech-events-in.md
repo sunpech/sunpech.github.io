@@ -12,6 +12,7 @@ thumbnail: http://1.bp.blogspot.com/-rWqazTtf9iA/TH8rs73uKrI/AAAAAAAAWgw/4K_p-sF
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3580206941784703410
 blogger_orig_url: http://www.sunpech.com/2010/10/pictures-from-september-tech-events-in.html
 redirect_from: /2010/10/pictures-from-september-tech-events-in.html
+header-img: /public/images/header_software_development.jpg
 ---
 
 There were only two events I attended last month:
@@ -42,7 +43,7 @@ The Nerd Dinner was at Rock Bottom and was arranged by <a href="http://twitter.c
 
 <a href="http://3.bp.blogspot.com/-mC3kIEuz0WM/TH8zT0n-rKI/AAAAAAAAWjw/dFG30GWjlBA/s600/IMG_2287.jpg" ><img border="0"  src="http://3.bp.blogspot.com/-mC3kIEuz0WM/TH8zT0n-rKI/AAAAAAAAWjw/dFG30GWjlBA/s320/IMG_2287.jpg"  /></a>
 
-Full album for Nerd Dinner<a href="http://picasaweb.google.com/sunpech/2010September1NerdDinner">here</a>. 
+Full album for Nerd Dinner<a href="http://picasaweb.google.com/sunpech/2010September1NerdDinner">here</a>.
 
 The Selenium presentation was by<a href="http://twitter.com/#!/bwilken">Brad Wilkening</a>. Entertaining and informative. Also a great turnout.
 
