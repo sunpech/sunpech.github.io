@@ -18,7 +18,7 @@ WCG takes part in [grid computing](https://en.wikipedia.org/wiki/Grid_computing)
 
 There are many projects that you can be a part of to help make the world a better place. *You could be a part of the research to help find the cure for AIDs or cancer* by simply installing the program and running it on your computer as a screensaver when you aren't using it, you would be a part of a huge network of individuals all over the world on this initiative to help accelerate research in humanitarian causes, scientific development, and technological breakthroughs.
 
-![WCG screensaver screenshot](/public/images/wcg.png)
+![WCG screensaver screenshot](/public/images/wcg.jpg)
 
 #### Custom Settings
 
