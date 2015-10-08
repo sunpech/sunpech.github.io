@@ -74,7 +74,7 @@ A great resource on daily news of all things geek. I don't always catch every bi
 
 <ul>
   <li><a href="https://www.youtube.com/user/Nerdist">YouTube</a></li>
-  <li><a href="http://www.twitter.com/nerdistdotcom">@nerdistdotcom</a></li>
+  <li><a href="http://www.twitter.com/nerdist">@nerdist</a></li>
 </ul>
 
 Go check out their channels and give them a thumbs up if you like their stuff. Also, of course subscribe if youTube is your thing!
