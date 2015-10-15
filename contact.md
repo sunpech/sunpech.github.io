@@ -10,6 +10,8 @@ header-img: /public/images/header_wooden_bolt_fence.jpg
 
 The best way to contact me is via email. You can email me at: <a href="mailto:&#115;&#116;&#101;&#118;&#101;&#110;&#064;&#115;&#117;&#110;&#112;&#101;&#099;&#104;&#046;&#099;&#111;&#109;">&#115;&#116;&#101;&#118;&#101;&#110;&#064;&#115;&#117;&#110;&#112;&#101;&#099;&#104;&#046;&#099;&#111;&#109;</a>
 
+Here is my [public key](https://pgp.mit.edu/pks/lookup?op=get&search=0x9F45490B0472FEA6).
+
 Here are some more ways to interact and reach me.
 
 ### Photography
