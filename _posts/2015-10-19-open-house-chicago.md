@@ -8,10 +8,10 @@ tags:
 - Photography
 - Photowalk
 modified_time: '2015-10-19T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_open_house_chicago.jpg
-image: /public/images/blog/open_house_chicago.jpg
+thumbnail: /public/images/blog/tn_open_house_chicago_2015.jpg
+image: /public/images/blog/open_house_chicago_2015.jpg
 description: Pictures taken at Open House Chicago on Sunday, October 18, 2015.
-header-img: /public/images/blog/header_chicago_aon_center.jpg
+header-img: /public/images/header_chicago_aon_center.jpg
 ---
 
 On Sunday I went to checkout [Open House Chicago](http://openhousechicago.org) and did a little photowalk of my own. I actually had no plan to go until my sister gave me her priority pass the morning of. But I'm glad I did as it was not only had some good photops, but was a nice steps in too since I use [FitBit](https://www.fitbit.com/).
