@@ -24,7 +24,7 @@ The places I visited:
 * [Continental Illinois Bank Building](https://en.wikipedia.org/wiki/Continental_Illinois)
 * [The Rookery](http://therookerybuilding.com/)
 
-My favorite spot was the Aon Center. I went up to the 71st floor and had a 360 degree view of Chicago from the third tallest building in Chicago.
+My favorite spot was the Aon Center. I went up to the 71st floor and had a 360 degree view of Chicago from the third tallest building in the city.
 
 ### Chicago from the Aon Center
 
