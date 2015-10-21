@@ -32,7 +32,7 @@ You can embed an iframe into a post, but to get it so it's responsive, use the f
 
 ### Drafts
 
-Drafts for future posts can be found in folder: _drafts. When testing locally, just run the following to see what it looks like:
+Drafts for future posts can be found in folder: `_drafts`. When testing locally, just run the following to see what it looks like:
 
 ```bash
 jekyll s --drafts --watch
@@ -40,15 +40,15 @@ jekyll s --drafts --watch
 
 ### Posts
 
-Posts that are used to generate the site are found in folder: _posts. After a draft is made, just move it to this folder and git push to origin.
+Posts that are used to generate the site are found in folder: `_posts`. After a draft is made, just move it to this folder and git push to origin.
 
 ### Tags
 
-For any new tag that doesn't already exist, create a folder of that name in the folder tag. Then copy index.md from another tag folder into this newly created tag folder.
+For any new tag that doesn't already exist, create a folder of that name in the folder tag. Then copy `index.md` from another tag folder into the created folder.
 
 ## Creating a Page
 
-There is a folder called best/, which contains pages regarding recommendations of best products etc. Other pages can be created at the root folder.
+There is a folder called `best`, which contains pages regarding recommendations of best products etc. Other pages can be created at the root folder.
 
 ### Variables
 
@@ -61,3 +61,4 @@ There is a folder called best/, which contains pages regarding recommendations o
 
 * Move all images to be local, instead of hosted on blogspot.
 * Add Search feature
+* Prepare for Jekyll 3.0. See: [ 3.0 RELEASE GAMEPLAN #3324 ](https://github.com/jekyll/jekyll/issues/3324)
