@@ -4,11 +4,11 @@ title: My Brief Appearance on Heroes of Cosplay
 date: '2014-06-02T10:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Comikaze Expo
-- Photography
-- Los Angeles
-- Cosplay
 - Comic Con
+- Comikaze Expo
+- Cosplay
+- Los Angeles
+- Photography
 modified_time: '2015-01-19T16:09:40.498-06:00'
 thumbnail: http://1.bp.blogspot.com/--DhAbdzwuqA/U4ovzD7Dx_I/AAAAAAABsIA/rk_aFy9AB9M/s600/Heroes_of_Cosplay-Steven_01.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7797759634072294797

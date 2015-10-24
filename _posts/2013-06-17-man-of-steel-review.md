@@ -4,9 +4,9 @@ title: Man of Steel Review
 date: '2013-06-17T11:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Review
-- Movies
 - Comics
+- Movies
+- Review
 modified_time: '2014-08-08T16:43:00.805-05:00'
 thumbnail: http://2.bp.blogspot.com/-b7Y5eWJwih0/Ub7XDQr14EI/AAAAAAABeaw/Kbe3Jp2udyY/s600/Screen+Shot+2013-06-17+at+2.29.29+AM.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3309650584819850059

@@ -4,8 +4,8 @@ title: Adams/Wabash CTA Station
 date: '2015-09-25T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Photography
 - Chicago
+- Photography
 modified_time: '2015-09-25T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_adams-wabash-cta-station.jpg
 image: /public/images/blog/adams-wabash-cta-station.jpg

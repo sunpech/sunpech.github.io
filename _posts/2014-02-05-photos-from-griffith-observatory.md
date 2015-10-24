@@ -4,8 +4,8 @@ title: Photos from Griffith Observatory
 date: '2014-02-05T11:00:00.000-06:00'
 author: Steven Suwatanapongched
 tags:
-- Photography
 - Los Angeles
+- Photography
 modified_time: '2014-11-09T14:44:53.978-06:00'
 thumbnail: http://2.bp.blogspot.com/-NkvvpZOgOgE/UvCCLn6JzVI/AAAAAAABmNA/4fjFbzC6Smc/s600/2014-02-03+at+06-15-00.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6505214424446094885

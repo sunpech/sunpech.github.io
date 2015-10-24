@@ -4,8 +4,8 @@ title: Moved from Blogger to Jekyll
 date: '2015-05-25T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Technology
 - Software Development
+- Technology
 modified_time: '2015-05-25T09:00:04.552-05:00'
 thumbnail: /public/images/blog/tn_blogger-to-jekyll.jpg
 image: /public/images/blog/blogger-to-jekyll.jpg

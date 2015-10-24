@@ -4,9 +4,9 @@ title: Apple Compatible External Hard Drives Are Over-Priced
 date: '2013-06-13T11:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Technology
-- Review
 - Apple
+- Review
+- Technology
 modified_time: '2014-08-08T16:43:20.770-05:00'
 thumbnail: http://1.bp.blogspot.com/-pKnUFgf6ZXQ/UbmJ2_zAV-I/AAAAAAABdOw/TLQWK9kkczk/s600/Screen+Shot+2013-06-13+at+1.26.39+AM.png
 blogger_id: tag:blogger.com,1999:blog-6841384.post-80238894314867501

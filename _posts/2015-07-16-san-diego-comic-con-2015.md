@@ -4,10 +4,10 @@ title: San Diego Comic Con 2015
 date: '2015-07-16T00:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- San Diego Comic Con
-- Cosplay
 - Comic Con
+- Cosplay
 - San Diego
+- San Diego Comic Con
 modified_time: '2015-07-16T00:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_san_diego_comic_con_2015.jpg
 image: /public/images/blog/san_diego_comic_con_2015.jpg

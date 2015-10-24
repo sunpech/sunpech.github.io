@@ -4,9 +4,9 @@ title: Long Beach Comic Con 2014
 date: '2014-09-29T11:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Long Beach Comic Con
-- Cosplay
 - Comic Con
+- Cosplay
+- Long Beach Comic Con
 modified_time: '2014-09-29T17:25:56.468-05:00'
 thumbnail: http://3.bp.blogspot.com/-AGuoADBTcug/VCf9IO-eH-I/AAAAAAABxug/Cs8flcjwxIo/s600/2014-09-27%2Bat%2B10-13-16.jpg
 image: http://3.bp.blogspot.com/-AGuoADBTcug/VCf9IO-eH-I/AAAAAAABxug/Cs8flcjwxIo/s600/2014-09-27%2Bat%2B10-13-16.jpg

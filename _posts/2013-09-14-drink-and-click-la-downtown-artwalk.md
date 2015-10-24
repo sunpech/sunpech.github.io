@@ -5,8 +5,8 @@ date: '2013-09-13T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Photography
-- Los Angeles
 - Photowalk
+- Los Angeles
 modified_time: '2013-09-13T09:00:00.000-05:00'
 thumbnail: http://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s600/2013-09-12%2Bat%2B20-32-38.jpg
 image: http://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s800/2013-09-12%2Bat%2B20-32-38.jpg

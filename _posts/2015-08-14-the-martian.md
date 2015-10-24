@@ -4,8 +4,8 @@ title: The Martian
 date: '2015-08-14T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Review
 - Books
+- Review
 modified_time: '2015-08-14T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_the_martian.jpg
 image: /public/images/blog/the_martian.jpg

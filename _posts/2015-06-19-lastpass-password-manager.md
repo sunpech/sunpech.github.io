@@ -4,8 +4,8 @@ title: LastPass Password Manager
 date: '2015-06-19T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Technology
 - Guide
+- Technology
 modified_time: '2015-06-19T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_lastpass_logo.jpg
 image: /public/images/blog/lastpass_logo.jpg

@@ -4,10 +4,10 @@ title: San Diego Comic Con 2013
 date: '2013-07-25T11:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- San Diego Comic Con
-- Cosplay
 - Comic Con
+- Cosplay
 - San Diego
+- San Diego Comic Con
 modified_time: '2014-09-29T17:25:24.446-05:00'
 thumbnail: http://2.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAABg6M/ZHHW9sGZQDM/s600/2013-07-18+at+17-23-17.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5195090169581985203
