@@ -4,10 +4,10 @@ title: Becoming Steve Jobs
 date: '2015-06-10T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
+- Apple
 - Books
 - Review
 - Technology
-- Apple
 modified_time: '2015-06-10T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_becoming-steve-jobs.jpg
 image: /public/images/blog/becoming-steve-jobs.jpg

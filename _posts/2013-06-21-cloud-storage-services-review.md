@@ -4,8 +4,8 @@ title: Cloud Storage Services Review
 date: '2013-06-21T09:58:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Technology
 - Review
+- Technology
 modified_time: '2014-08-07T20:12:47.462-05:00'
 thumbnail: http://2.bp.blogspot.com/-1IZrvn-y-Ws/UZ3Y6MXIIkI/AAAAAAABcy0/x7NuMZG4hMo/s600/Cloud_Storage_Apps.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2824231464794545018

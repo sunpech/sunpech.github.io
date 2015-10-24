@@ -4,8 +4,8 @@ title: Photos from 6th St Bridge
 date: '2014-02-21T11:54:00.004-06:00'
 author: Steven Suwatanapongched
 tags:
-- Photography
 - Los Angeles
+- Photography
 modified_time: '2014-11-09T14:44:06.586-06:00'
 thumbnail: http://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2960241080145268119

@@ -4,8 +4,8 @@ title: Removing a HDD from a Western Digital Elements USB Drive
 date: '2014-02-03T11:00:00.000-06:00'
 author: Steven Suwatanapongched
 tags:
-- Technology
 - Guide
+- Technology
 modified_time: '2014-08-07T15:55:46.614-05:00'
 thumbnail: http://4.bp.blogspot.com/-naqk30TbIqI/Uu9flsWw4bI/AAAAAAABmLk/4yDNxg8VWTI/s600/2014-02-03+at+01-13-03.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-411709171229829793

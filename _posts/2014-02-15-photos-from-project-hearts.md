@@ -4,8 +4,8 @@ title: Photos from Project Hearts
 date: '2014-02-15T11:00:00.000-06:00'
 author: Steven Suwatanapongched
 tags:
-- Photography
 - Los Angeles
+- Photography
 modified_time: '2014-11-09T14:44:20.504-06:00'
 thumbnail: http://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s600/2014-02-13+at+20-13-11.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2365920135743694376

@@ -4,8 +4,8 @@ title: Photos from San Francisco
 date: '2014-01-13T12:00:00.000-06:00'
 author: Steven Suwatanapongched
 tags:
-- San Francisco
 - Photography
+- San Francisco
 modified_time: '2014-11-09T14:46:51.136-06:00'
 thumbnail: http://4.bp.blogspot.com/-QAlcGfJnzzc/UqDAM7t7FBI/AAAAAAABlNw/IA-90HenTwA/s600/2013-11-30+at+19-37-15.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-9054948656372759016

@@ -4,9 +4,9 @@ title: Today's Tech TV Shows
 date: '2015-06-08T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- TV Shows
 - Review
 - Technology
+- TV Shows
 modified_time: '2015-06-08T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_silicon-valley_halt-and-catch-fire.jpg
 image: /public/images/blog/silicon-valley_halt-and-catch-fire.jpg

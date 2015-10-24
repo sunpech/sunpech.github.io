@@ -4,9 +4,9 @@ title: Oakland Museum of California's SDCC Exhibit
 date: '2014-11-14T12:00:00.000-06:00'
 author: Steven Suwatanapongched
 tags:
-- San Francisco
 - Photography
 - San Diego Comic Con
+- San Francisco
 modified_time: '2014-11-14T12:00:04.529-06:00'
 thumbnail: http://4.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAAB0Ag/Q2GTo5K5VUg/s600/2013-07-18%2Bat%2B17-23-17.jpg
 image: http://4.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAAB0Ag/Q2GTo5K5VUg/s600/2013-07-18%2Bat%2B17-23-17.jpg

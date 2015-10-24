@@ -4,8 +4,8 @@ title: Instagram, the Better Twitter?
 date: '2014-08-06T11:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Technology
 - Social Media
+- Technology
 modified_time: '2014-08-06T11:00:00.628-05:00'
 thumbnail: http://2.bp.blogspot.com/-BYQ46aWVEJ4/U-DxKnCEGDI/AAAAAAABv6I/qq2oO4rI48M/s600/InstagramTwitter.jpg
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3956333293285211554

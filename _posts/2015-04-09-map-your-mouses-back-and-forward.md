@@ -4,8 +4,8 @@ title: Map Your Mouse's Back and Forward Buttons on a Mac
 date: '2015-04-09T10:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Technology
 - Guide
+- Technology
 modified_time: '2015-04-09T10:00:00.953-05:00'
 thumbnail: http://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s600/IMG_20150408_153732.jpg
 image: http://2.bp.blogspot.com/-dpn72wPZcxs/VSWVi7M-1NI/AAAAAAAB5F8/5zsjQZdaOn4/s600/IMG_20150408_153732.jpg

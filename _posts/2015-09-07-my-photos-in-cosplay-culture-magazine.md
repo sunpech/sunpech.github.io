@@ -4,10 +4,10 @@ title: My Photos in Cosplay Culture Magazine
 date: '2015-09-07T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Cosplay
 - Comic Con
-- San Diego Comic Con
+- Cosplay
 - Photography
+- San Diego Comic Con
 modified_time: '2015-09-07T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_cosplay_culture_magazine.jpg
 image: /public/images/blog/cosplay_culture_magazine.jpg
