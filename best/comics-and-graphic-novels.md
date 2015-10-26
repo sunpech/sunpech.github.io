@@ -52,8 +52,10 @@ I'm a fan of <a href="http://en.wikipedia.org/wiki/Robert_Kirkman">Robert Kirkma
 * [Saga Vol. 2](http://www.amazon.com/gp/product/1607066920/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1607066920&linkCode=as2&tag=sunpech-20&linkId=GFYKLWUBA6Z437VT)
 * [Saga Vol. 3](http://www.amazon.com/gp/product/1607069318/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1607069318&linkCode=as2&tag=sunpech-20&linkId=A5ONREX4OU4VHWEC)
 * [Saga Vol. 4](http://www.amazon.com/gp/product/1632150778/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1632150778&linkCode=as2&tag=sunpech-20&linkId=DLY47VH5WODV57M4)
+* [Saga Vol. 5](http://www.amazon.com/gp/product/1632154382/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1632154382&linkCode=as2&tag=sunpech-20&linkId=DOGRF3S6KAUEHHQU)
 * [The Walking Dead: Compendium 1](http://www.amazon.com/gp/product/1607060760/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1607060760)
 * [The Walking Dead: Compendium 2](http://www.amazon.com/gp/product/1607065967/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1607065967&amp;linkCode=as2&amp;tag=sunpech-20)
+* [The Walking Dead: Compendium 3](http://www.amazon.com/gp/product/1632154560/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1632154560&linkCode=as2&tag=sunpech-20&linkId=DX6KLUM44IHDTGGI)
 
 ### Valiant
 
