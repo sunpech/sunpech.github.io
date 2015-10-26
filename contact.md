@@ -28,6 +28,7 @@ Here are some more ways to interact and reach me.
 
 * [Github](http://github.com/sunpech)
 * [Bitbucket](http://bitbucket.org/sunpech)
+* [GitLab](https://gitlab.com/u/sunpech)
 * [CoderWall](https://coderwall.com/sunpech)
 * [Careers 2.0](http://careers.stackoverflow.com/sunpech)
 * [LinkedIn](http://www.linkedin.com/in/sunpech)
@@ -43,7 +44,7 @@ Here are some more ways to interact and reach me.
 * [Pinterest](http://pinterest.com/sunpech/)
 * [App.net](https://alpha.app.net/sunpech)
 
-### Other sites
+### Other Sites
 
 * [Foodishappiness.com](http://www.foodishappiness.com/)
 * [spong.org](http://spong.org/) - Blog content merged into sunpech.com now
