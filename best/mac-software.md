@@ -3,7 +3,7 @@ layout: page
 title: Mac Software
 navigation: false
 best: true
-permalink: mac-software/
+permalink: best/mac-software/
 header-img: /public/images/header_apple_galaxy.jpg
 ---
 

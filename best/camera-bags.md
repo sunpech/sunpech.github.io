@@ -3,7 +3,7 @@ layout: page
 title: Camera Bags
 navigation: false
 best: true
-permalink: camera-bags/
+permalink: best/camera-bags/
 header-img: /public/images/header_old_cameras.jpg
 ---
 

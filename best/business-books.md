@@ -3,7 +3,7 @@ layout: page
 title: Business Books
 navigation: false
 best: true
-permalink: business-books/
+permalink: best/business-books/
 header-img: /public/images/header_best_business_books.jpg
 ---
 

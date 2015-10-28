@@ -3,7 +3,7 @@ layout: page
 title: Software Development Tools
 navigation: false
 best: true
-permalink: software-development-tools/
+permalink: best/software-development-tools/
 header-img: /public/images/header_software_development.jpg
 ---
 

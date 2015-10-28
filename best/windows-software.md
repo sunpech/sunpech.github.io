@@ -3,7 +3,7 @@ layout: page
 title: Windows Software
 navigation: false
 best: true
-permalink: windows-software/
+permalink: best/windows-software/
 header-img: /public/images/header_software_development.jpg
 ---
 

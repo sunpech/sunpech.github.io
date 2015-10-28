@@ -3,7 +3,7 @@ layout: page
 title: Messenger Bags
 navigation: false
 best: true
-permalink: messenger-bags/
+permalink: best/messenger-bags/
 header-img: /public/images/header_joshua_tree.jpg
 ---
 

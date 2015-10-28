@@ -2,7 +2,7 @@
 layout: page
 title: Best Stuff
 navigation: true
-permalink: /
+permalink: best/
 header-img: /public/images/header_joshua_tree.jpg
 ---
 

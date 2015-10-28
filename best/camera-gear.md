@@ -3,7 +3,7 @@ layout: page
 title: Camera Gear
 navigation: false
 best: true
-permalink: camera-gear/
+permalink: best/camera-gear/
 header-img: /public/images/header_old_cameras.jpg
 ---
 

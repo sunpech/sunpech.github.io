@@ -3,7 +3,7 @@ layout: page
 title: Photography Books
 navigation: false
 best: true
-permalink: photography-books/
+permalink: best/photography-books/
 header-img: /public/images/header_old_cameras.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Comics and Graphic Novels
 navigation: false
 best: true
-permalink: comics-and-graphic-novels/
+permalink: best/comics-and-graphic-novels/
 header-img: /public/images/header_best_graphic_novels.jpg
 ---
 
