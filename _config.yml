@@ -4,7 +4,9 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        /:year/:month/:title
-relative_permalinks: true
+
+# Not supported in Jekyll 3.0
+# relative_permalinks: true
 
 # Setup
 title:            sunpech.blog
@@ -33,11 +35,6 @@ sitemap:
     change_frequency_name: "change_frequency"
     priority_name: "priority"
 
-gems:
-  - jekyll-redirect-from
-  - jekyll-auto-image
-  - jekyll-sitemap
-
 # StartBootstrap Clean-Blog Settings
 header-img: /public/images/header_LA_home_office.jpg
 twitter_username: sunpech
@@ -46,3 +43,8 @@ gplus_username: StevenSuwatanapongched
 facebook_username:  SunpechPhotography
 instagram_username: sunpech
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-sitemap
