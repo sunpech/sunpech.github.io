@@ -6,21 +6,21 @@ permalink: affiliates/
 header-img: /public/images/header_wooden_fence.jpg
 ---
 
-I am an affiliate at several places. Clicking on any these links to join or purchase anything will help support me and this site.
+I am an affiliate at the following sites. Clicking on any these links to join or purchase anything will help support me and this site.
 
-### Amazon
+## Amazon
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=sunpech-20&o=1&p=26&l=ur1&category=books&banner=07A5YDZW1YN7CT62EMR2&f=ifr&linkID=KBWCIBZRYKDS76JJ" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
-### Digital Ocean
+## Digital Ocean
 
 <a href="https://www.digitalocean.com/?refcode=337d926651f1"><img src="/public/images/affiliates/ssd-virtual-servers-banner-468x60.jpg" alt="Digital Ocean" border="0" width="468" height="60" /></a>
 
-### Namecheap
+## Namecheap
 
 <a href="https://www.namecheap.com&#x2F;?aff=63676"><img src="http:&#x2F;&#x2F;files.namecheap.com/graphics/linkus/468x60-4.gif" width="468" height="60" border="0" alt="Namecheap.com"></a>
 
-### Other referral links
+## Other referral links
 
 * [Copy](https://copy.com/?r=1u9vhV)
 * [Dropbox](https://db.tt/pHCTifn)
