@@ -50,8 +50,15 @@ I'm a traveler of awesome places. Every year I try to travel to a city I've neve
 
 ## Support me
 
-Disclaimer, I am an [Amazon Affiliate](https://affiliate-program.amazon.com/). Product links on my site often will go to Amazon.
+Disclaimer: I am an [Amazon Affiliate](https://affiliate-program.amazon.com/). Product links on my site often will go to Amazon.
 
 You can also click [this Amazon link](http://www.amazon.com/?&tag=sunpech-20&camp=216797&creative=394545&linkCode=ur1&adid=0ZFPJ55TZ4HA30WVQBCS&&ref-refURL=http%3A%2F%2Fwww.sunpech.com%2F) to do your shopping.
 
-If you want to buy me stuff, I also have wish-lists for [camera gear](http://www.amazon.com/registry/wishlist/14T7IX6RACNRU/ref=cm_sw_r_tw_ws_UjGvpb1PWADA4), [books](http://www.amazon.com/registry/wishlist/1KCZ0Q93IFYZ2/ref=cm_sw_r_tw_ws_klGvpb0G5CRRK), [toys](http://www.amazon.com/gp/registry/wishlist/1UQZNDJCF191Q/ref=topnav_lists_4), and other [miscellaneous items](http://www.amazon.com/registry/wishlist/L00UXFFE0OIB/ref=cm_sw_r_tw_ws_IlGvpb0RN01CK). This list grows longer and longer.
+If you want to buy me stuff, I also have wish-lists for:
+
+* [General stuff](http://amzn.com/w/L00UXFFE0OIB)
+* [Books](http://amzn.com/w/1KCZ0Q93IFYZ2)
+* [Camera Gear](http://amzn.com/w/14T7IX6RACNRU)
+* [Toys](http://amzn.com/w/IT34RTWGZEQM)
+
+You can also check out [my Affiliates page](/affiliates) to see what other sites gives referral credits.

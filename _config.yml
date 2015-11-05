@@ -35,7 +35,6 @@ sitemap:
 
 gems:
   - jekyll-redirect-from
-  - jekyll-auto-image
   - jekyll-sitemap
 
 # StartBootstrap Clean-Blog Settings
