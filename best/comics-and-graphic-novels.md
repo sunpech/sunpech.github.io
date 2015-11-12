@@ -25,6 +25,7 @@ Since I was little I've been a fan of both Superman and Batman. When I started t
 * [Kingdom Come](http://www.amazon.com/gp/product/1401220347/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1401220347)
 * [The Sandman Omnibus Vol. 1](http://www.amazon.com/gp/product/1401241883/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1401241883&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=SRCROWPSC5S7KO5T)
 * [The Sandman Omnibus Vol. 2](http://www.amazon.com/gp/product/1401243142/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1401243142&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=736VMBDZVZB7B7FV)
+* [The Sandman: Overture Deluxe Edition](http://www.amazon.com/gp/product/1401248969/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401248969&linkCode=as2&tag=sunpech-20&linkId=UTHJHOCJHFN32P3W)
 
 ### Marvel
 
