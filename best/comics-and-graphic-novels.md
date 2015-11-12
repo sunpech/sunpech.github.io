@@ -79,4 +79,4 @@ A lot of the hidden gems of story-telling comics are in the independent comics.
 * [Understanding Comics: The Invisible Art](http://www.amazon.com/gp/product/006097625X/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=006097625X)
 
 
-<i>Last Updated June 13, 2015.</i>
+<i>Last Updated November 12, 2015.</i>
