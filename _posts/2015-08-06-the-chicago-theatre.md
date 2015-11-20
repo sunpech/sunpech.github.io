@@ -52,4 +52,3 @@ I have the photo available at:
 
 * [500px](https://500px.com/photo/117276725/the-chicago-theatre-by-steven-suwatanapongched)
 * [Twenty20](https://www.twenty20.com/photos/93be5d58-dd47-4935-88df-4fad5f70e5ad)
-* [Nuvango](http://nuvango.com/sunpech/the-chicago-theatre)

@@ -28,4 +28,3 @@ I hope to revisit this location when it's darker out when there are more lights 
 ### Purchase this Photo
 * [500px](https://500px.com/photo/119287141/chicago-river-from-lake-shore-drive-by-steven-suwatanapongched?ctx_page=1&from=user&user_id=747967)
 * [Twenty20](https://www.twenty20.com/photos/ecb831ce-49a8-4575-a8c2-55c03be6d726)
-* [Nuvango](http://nuvango.com/sunpech/chicago-river-from-lake-shore-drive)

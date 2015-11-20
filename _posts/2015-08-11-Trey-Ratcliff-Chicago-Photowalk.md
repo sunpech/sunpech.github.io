@@ -46,7 +46,6 @@ You can purchase photo products at the sites below:
 
 * [500px](https://500px.com/photo/117928169/chicago-from-buckingham-fountain-by-steven-suwatanapongched?ctx_page=1&from=user&user_id=747967)
 * [Twenty20](https://www.twenty20.com/photos/3b56fb5b-b2e5-4eca-8dd8-41b090b17b10)
-* [Nuvango](http://nuvango.com/sunpech/chicago-from-buckingham-fountain)
 
 ### Chicago Highlight Reel! "Trey's Photo Walk Across the USA"
 
