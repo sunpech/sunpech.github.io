@@ -22,7 +22,6 @@ Here are some more ways to interact and reach me.
 * [Flickr](http://www.flickr.com/photos/sunpech/sets/)
 * [Instagram](http://instagram.com/sunpech)
 * [Twenty20](http://twenty20.com/sunpech)
-* [Nuvango](http://nuvango.com/sunpech)
 
 ### Software Development
 
