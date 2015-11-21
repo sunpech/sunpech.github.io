@@ -11,7 +11,7 @@ thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1958409847113378938
 blogger_orig_url: http://www.sunpech.com/2008/08/software-development-comic.html
 redirect_from: /2008/08/software-development-comic.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 <a href="http://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s600-h/software_development.jpg"><img alt="" border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s400/software_development.jpg" id="BLOGGER_PHOTO_ID_5235919981203486242" /></a>

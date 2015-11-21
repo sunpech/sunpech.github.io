@@ -12,7 +12,7 @@ thumbnail: http://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWo
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4436052358523078717
 blogger_orig_url: http://www.sunpech.com/2013/05/my-first-drink-and-click-la-event.html
 redirect_from: /2013/05/my-first-drink-and-click-la-event.html
-header-img: /public/images/header_old_cameras.jpg
+header-img: /public/images/headers/header_old_cameras.jpg
 ---
 
 Yesterday I attended my first <a href="https://plus.google.com/100658561128477270166/posts">Drink and Click LA</a> event. I've been a member of the group for a while, but just never got around to attending one of their get-togethers. I really had fun talking shop with other photography enthusiasts from beginner to professionals levels. There was time to do some street photos, a little drinking, some eating, and lots of talking.

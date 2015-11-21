@@ -9,7 +9,7 @@ modified_time: '2012-01-03T00:58:24.801-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8964390135110530049
 blogger_orig_url: http://www.sunpech.com/2010/01/my-favorite-tech-and-programming-news.html
 redirect_from: /2010/01/my-favorite-tech-and-programming-news.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 I previously posted on <a href="2009/12/hooked-on-tech-podcasts">my favorite tech podcasts</a>, so I wanted to post a little snippet of my favorite tech RSS feeds from <a href="http://reader.google.com/">Google Reader</a>.  I read a lot more than I list here, but these are my absolute favorites.

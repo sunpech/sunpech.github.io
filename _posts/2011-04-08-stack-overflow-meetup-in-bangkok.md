@@ -13,7 +13,7 @@ thumbnail: http://1.bp.blogspot.com/-rLGnZkN3LLU/TZyzokx6FbI/AAAAAAAAlKU/Jef39GJ
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1378732813473444949
 blogger_orig_url: http://www.sunpech.com/2011/04/stack-overflow-meetup-in-bangkok.html
 redirect_from: /2011/04/stack-overflow-meetup-in-bangkok.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 On the <a href="http://blog.stackoverflow.com/">Stackoverflow blog</a>, it was announced that April 6, 2011 would be <a href="http://blog.stackoverflow.com/2011/03/stack-overflow-meetups-april-6/">Worldwide Stack Overflow Meetup</a>. They created a meetup page at: <a href="http://www.meetup.com/stackoverflow/">Stackoverflow Meetup</a>.

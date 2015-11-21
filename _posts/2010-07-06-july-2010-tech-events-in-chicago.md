@@ -11,7 +11,7 @@ modified_time: '2012-01-11T03:43:33.627-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-166231571625593307
 blogger_orig_url: http://www.sunpech.com/2010/07/july-2010-tech-events-in-chicago.html
 redirect_from: /2010/07/july-2010-tech-events-in-chicago.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 Plenty of events to attend for the month of July!  This will be the first time I'm attending a Ruby event, so I'm pretty excited.  Sadly, things may be a bit over my head since I just started doing Ruby.

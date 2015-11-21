@@ -11,7 +11,7 @@ thumbnail: http://1.bp.blogspot.com/-FztS5ufnB38/T5KQ2fym5fI/AAAAAAABFhA/d6U1dnx
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5793771890500663374
 blogger_orig_url: http://www.sunpech.com/2012/04/coworking-at-nextspace-la.html
 redirect_from: /2012/04/coworking-at-nextspace-la.html
-header-img: /public/images/header_los_angeles.jpg
+header-img: /public/images/headers/header_los_angeles.jpg
 ---
 
 <a href="http://www.meetup.com/jellyla/">Jelly LA</a> held a free coworking day at <a href="http://nextspace.us/">NextSpace</a> in Culver City this <a href="http://www.meetup.com/jellyla/events/60148002/">past Friday</a>. I got a little tour of the place and was very impressed. I've been to a few coworking offices in LA already (<a href="http://www.coloft.com/">CoLoft</a>, <a href="http://www.blankspaces.com/">BlankSpaces</a>, and <a href="http://www.kleverdogcoworking.com/">Kleverdog</a>), and I can honestly say that this is my favorite to cowork in. One, it's conveniently located in Culver City, where I currently live in. Two, it's got a great amount of space, offices, and little nooks to work in. And third, there are a ton of people that cowork here. It just feels like a great place to be at, very comfortable.

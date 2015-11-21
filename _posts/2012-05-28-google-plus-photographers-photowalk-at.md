@@ -14,7 +14,7 @@ thumbnail: http://1.bp.blogspot.com/-r_t2-7m_nZE/T77KYkVOvsI/AAAAAAABL5I/wqLW_xz
 blogger_id: tag:blogger.com,1999:blog-6841384.post-117218431665859305
 blogger_orig_url: http://www.sunpech.com/2012/05/google-plus-photographers-photowalk-at.html
 redirect_from: /2012/05/google-plus-photographers-photowalk-at.html
-header-img: /public/images/header_old_cameras.jpg
+header-img: /public/images/headers/header_old_cameras.jpg
 ---
 
 Last week I was up in San Francisco May 21-23 for the <a href="http://gpluspc.com/">Google+ Photographer's Conference</a>. On Monday, there was an optional photowalk at about ten locations. I attended the one led by <a href="http://scottkelby.com/">Scott Kelby</a> at <a href="http://www.golden-gate-park.com/">Golden Gate Park</a>.

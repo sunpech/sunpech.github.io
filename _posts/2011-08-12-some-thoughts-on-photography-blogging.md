@@ -11,7 +11,7 @@ thumbnail: http://1.bp.blogspot.com/-WuLnoARIQSA/TxVm8julanI/AAAAAAAA2qw/QJGYhDm
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8512560648169804312
 blogger_orig_url: http://www.sunpech.com/2011/08/some-thoughts-on-photography-blogging.html
 redirect_from: /2011/08/some-thoughts-on-photography-blogging.html
-header-img: /public/images/header_old_cameras.jpg
+header-img: /public/images/headers/header_old_cameras.jpg
 ---
 
 It was the summer of 2010 that I decided I wanted to dust off the DSLR I bought in 2006 and put it to good use more often. So throughout that summer, I made an effort to bring my camera with me everywhere I went. I brought it to work, to my various meetups I attended, and even when I walked around Chicago. I just kept taking photos of whatever I thought was interesting.

@@ -10,7 +10,7 @@ thumbnail: http://1.bp.blogspot.com/-WjZ3XJWGLf4/T1FvjdqGx4I/AAAAAAAA7QQ/mj03W3O
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8259180177650790418
 blogger_orig_url: http://www.sunpech.com/2012/03/canon-5d-mark-3-announced.html
 redirect_from: /2012/03/canon-5d-mark-3-announced.html
-header-img: /public/images/header_old_cameras.jpg
+header-img: /public/images/headers/header_old_cameras.jpg
 ---
 
 The <a href="http://www.engadget.com/2012/03/02/canon-announces-eos-5d-mark-iii-22-3mp-full-frame-sensor-6-fps/">Canon 5D Mark 3 was announced</a> yesterday.

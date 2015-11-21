@@ -12,7 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-Hu-zgSKY4QE/TyZ2Zd4z_MI/AAAAAAAA3OM/ZtxUI_r
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3642208207534834119
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-socal-code-camp.html
 redirect_from: /2012/01/pictures-from-socal-code-camp.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 Over the weekend I attended and volunteered at <a href="http://www.socalcodecamp.com/">SoCal Code Camp</a> at <a href="http://www.fullerton.edu/">California State University Fullerton</a>. I had an awesome time, attended quite a few sessions, learned a lot, and met quite a few good people.

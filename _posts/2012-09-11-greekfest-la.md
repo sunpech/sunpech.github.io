@@ -10,7 +10,7 @@ thumbnail: http://4.bp.blogspot.com/-II83ENaAySk/UE5z2Zw1AVI/AAAAAAABTzQ/JBqFaiT
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2572569809487277069
 blogger_orig_url: http://www.sunpech.com/2012/09/greekfest-la.html
 redirect_from: /2012/09/greekfest-la.html
-header-img: /public/images/header_los_angeles.jpg
+header-img: /public/images/headers/header_los_angeles.jpg
 ---
 
 One of the things I love about living in Los Angeles is all the ethnic fairs that go on. Over the weekend I attended two different fairs no so far from where I live.

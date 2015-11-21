@@ -12,7 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-N_2PXu0zwmE/TkM-aoAp9nI/AAAAAAAAtNI/yorZqGn
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3541971829617268380
 blogger_orig_url: http://www.sunpech.com/2011/08/pictures-from-chicago-altnet.html
 redirect_from: /2011/08/pictures-from-chicago-altnet.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 Here are the pictures I took from tonight's <a href="http://chicagoalt.net/">Chicago Alt.net</a> August 2011 meetup on <a href="http://jashkenas.github.com/coffee-script/">Coffeescript</a>, presented by <a href="http://twitter.com/#!/fawad">Fawad Halim</a>.

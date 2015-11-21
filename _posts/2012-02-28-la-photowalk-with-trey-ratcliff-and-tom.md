@@ -13,7 +13,7 @@ thumbnail: http://2.bp.blogspot.com/-Ikb_KJoxdDc/T0tbxm5CYiI/AAAAAAAA6tQ/54DmXWc
 blogger_id: tag:blogger.com,1999:blog-6841384.post-63636205120413934
 blogger_orig_url: http://www.sunpech.com/2012/02/la-photowalk-with-trey-ratcliff-and-tom.html
 redirect_from: /2012/02/la-photowalk-with-trey-ratcliff-and-tom.html
-header-img: /public/images/header_old_cameras.jpg
+header-img: /public/images/headers/header_old_cameras.jpg
 ---
 
 Over this past weekend, on Sunday, the evening of the NBA All-Star game and Academy Awards, I went to check out a <a href="https://plus.google.com/105237212888595777019/posts/ioZin6Dh4t5">Google+  LA Photowalk</a> in Santa Monica hosted by <a href="https://plus.google.com/105237212888595777019/posts">Trey Ratcliff</a> and <a href="https://plus.google.com/112063946124358686266/posts">Tom Anderson</a> (aka mySpace Tom).

@@ -11,7 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-kWmgKh2VP3c/UteDJfhJZ0I/AAAAAAABl4c/KLz7N_h
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7715400429929590653
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-adler-planetarium.html
 redirect_from: /2014/01/photos-from-chicagos-adler-planetarium.html
-header-img: /public/images/header_chicago_skyline.jpg
+header-img: /public/images/headers/header_chicago_skyline.jpg
 ---
 
 This is my last of three posts covering the three landmarks I visited in Chicago during this past winter. My first was of <a href="/2014/01/photos-from-chicagos-john-hancock">Chicago's John Hancock Observatory</a> and the other was of <a href="/2014/01/photos-from-chicagos-bean">Chicago's Bean</a>.

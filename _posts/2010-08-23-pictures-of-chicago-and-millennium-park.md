@@ -11,7 +11,7 @@ thumbnail: http://2.bp.blogspot.com/-UiNG3-k_BY0/TG4QoafrZsI/AAAAAAAAVJw/W3ld86A
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4515913570956106026
 blogger_orig_url: http://www.sunpech.com/2010/08/pictures-of-chicago-and-millennium-park.html
 redirect_from: /2010/08/pictures-of-chicago-and-millennium-park.html
-header-img: /public/images/header_chicago_skyline.jpg
+header-img: /public/images/headers/header_chicago_skyline.jpg
 ---
 
 I was at an event last week at the rooftop of 63 E. Lake Street and I was able to take some photos of the Millennium Park Bean and parts of Chicago.

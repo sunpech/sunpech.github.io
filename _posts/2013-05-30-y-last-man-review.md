@@ -12,7 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-ovArPrDyoUQ/UafznelRNiI/AAAAAAABc3k/uLnxDAC
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7285875603607456810
 blogger_orig_url: http://www.sunpech.com/2013/05/y-last-man-review.html
 redirect_from: /2013/05/y-last-man-review.html
-header-img: /public/images/header_best_graphic_novels.jpg
+header-img: /public/images/headers/header_best_graphic_novels.jpg
 ---
 
 For the past seven months I've jumped back into reading comics and graphic novels. I used to read them a lot when I was a teenager, but just lost interest by the mid/late 1990s. I find myself struggling to enjoy reading monthly issues and going to the comic book shop every week-- or even getting them online via <a href="http://www.comixology.com/">Comixology</a>.

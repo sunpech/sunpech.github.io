@@ -11,7 +11,7 @@ modified_time: '2014-08-07T20:14:24.539-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-8953641822401276593
 blogger_orig_url: http://www.sunpech.com/2010/01/rooting-my-nexus-one-and-installing.html
 redirect_from: /2010/01/rooting-my-nexus-one-and-installing.html
-header-img: /public/images/header_android.jpg
+header-img: /public/images/headers/header_android.jpg
 ---
 
 I just finished rooting my Nexus One and installed Thai fonts onto it.  I had to use several websites to complete this task, but I wanted to collect them all into once nice place for any stumblers.  The purpose of installing Thai fonts onto my Nexus One was to have the ability to read Thai on my Facebook app as well as some Thai websites.

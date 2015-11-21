@@ -11,7 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-WF8jU2_jjQg/TxVmCDQyByI/AAAAAAAA2oc/8Y87Up7
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6588025767771779402
 blogger_orig_url: http://www.sunpech.com/2011/08/some-thoughts-on-traveling.html
 redirect_from: /2011/08/some-thoughts-on-traveling.html
-header-img: /public/images/header_joshua_tree.jpg
+header-img: /public/images/headers/header_joshua_tree.jpg
 ---
 
 In July of 2010, I quit my full time job as a software developer. I wanted to break away from the nine-to-five, travel a bit, have fun, and teach myself new things in the process. I was able to visit San Diego, Los Angeles, San Francisco, Boston, New York City, Denver, Bangkok, Chiang Mai, and Pattaya.

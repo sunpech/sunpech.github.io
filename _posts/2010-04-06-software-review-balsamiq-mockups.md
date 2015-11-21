@@ -11,7 +11,7 @@ modified_time: '2014-08-08T16:58:29.297-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5389051952885032314
 blogger_orig_url: http://www.sunpech.com/2010/04/software-review-balsamiq-mockups.html
 redirect_from: /2010/04/software-review-balsamiq-mockups.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 I first read about <a href="http://www.balsamiq.com/products/mockups">Balsamiq Mockups</a> a few weeks ago on <a href="http://www.stackoverflow.com/">StackOverflow</a>.

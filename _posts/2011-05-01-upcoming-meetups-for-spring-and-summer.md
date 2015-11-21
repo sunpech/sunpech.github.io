@@ -11,7 +11,7 @@ modified_time: '2012-01-11T03:43:33.692-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4464253791843666424
 blogger_orig_url: http://www.sunpech.com/2011/05/upcoming-meetups-for-spring-and-summer.html
 redirect_from: /2011/05/upcoming-meetups-for-spring-and-summer.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 I'm back in Chicago for now! Just got off the plane a few days ago. Anyway, I'm almost ready to get back into going to some tech meetups in the US now. A lot of great events coming up!

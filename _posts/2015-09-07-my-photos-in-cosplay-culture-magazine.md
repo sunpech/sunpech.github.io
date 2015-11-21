@@ -12,7 +12,7 @@ modified_time: '2015-09-07T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_cosplay_culture_magazine.jpg
 image: /public/images/blog/cosplay_culture_magazine.jpg
 description: My photos appear in the Halloween edition of Cosplay Culture magazine. The article covers San Diego Comic Con 2015.
-header-img: /public/images/header_cosplay_culture_halloween.jpg
+header-img: /public/images/headers/header_cosplay_culture_halloween.jpg
 ---
 
 Last week, the Halloween edition of [Cosplay Culture magazine](http://www.cosplayculture.com/) came out on newsstands. There is an article on [San Diego Comic Con](http://www.comic-con.org/cci) that features my photos in it. *The article is a ten whopping page spread!* This all started from a simple comment on an [instagram photo](https://instagram.com/p/4-9toeQR7z/).

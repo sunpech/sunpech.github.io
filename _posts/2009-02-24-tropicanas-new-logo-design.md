@@ -11,7 +11,7 @@ thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SaSLDZvUuEI/AAAAAAAAIlg/etnJYNX
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6004280238372069101
 blogger_orig_url: http://www.sunpech.com/2009/02/tropicanas-new-logo-design.html
 redirect_from: /2009/02/tropicanas-new-logo-design.html
-header-img: /public/images/header_technology.jpg
+header-img: /public/images/headers/header_technology.jpg
 ---
 
 This morning I had a peanut butter and jelly sandwich, toasted.  It was delicious.  Along with it I had some orange juice (OJ), but not just any OJ, Minute Maid OJ.

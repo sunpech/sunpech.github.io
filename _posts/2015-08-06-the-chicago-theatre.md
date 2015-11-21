@@ -10,7 +10,7 @@ modified_time: '2015-08-06T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_the_chicago_theatre.jpg
 image: /public/images/blog/the_chicago_theatre.jpg
 description: My first trip to take photos of the iconic Chicago Theatre. I talk about the problems and what I did to take this photo.
-header-img: /public/images/header_chicago_theatre.jpg
+header-img: /public/images/headers/header_chicago_theatre.jpg
 ---
 
 A couple nights ago I was in downtown Chicago for a meetup at [Chicago Ruby](http://www.chicagoruby.org/). Since I found cheap parking via [Parking Panda](https://www.parkingpanda.com/invite/sunpech), I figured afterwards I would spend a little time taking some photos of the famous [Chicago Theatre](http://www.thechicagotheatre.com/).
