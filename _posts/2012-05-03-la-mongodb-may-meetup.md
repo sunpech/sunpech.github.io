@@ -12,7 +12,7 @@ thumbnail: http://1.bp.blogspot.com/-aCmnzVo3uiw/T6JzVtgHskI/AAAAAAABH7c/zsaOYWt
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5691057246844918189
 blogger_orig_url: http://www.sunpech.com/2012/05/la-mongodb-may-meetup.html
 redirect_from: /2012/05/la-mongodb-may-meetup.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 Last evening I attended the <a href="http://www.meetup.com/Los-Angeles-MongoDB-User-Group/events/58856492/">LA MongDB May Meetup</a> hosted at <a href="http://www.factual.com/">Factual</a>. Presentations by <a href="http://www.linkedin.com/in/tonytam">Tony Tam</a> (<a href="http://twitter.com/fehguy">@fehguy</a>), CTO of <a href="http://www.wordnik.com/">Wordnik</a> and <a href="http://www.linkedin.com/profile/view?id=17938166">Andrew Hall</a>, Principal Engineer of <a href="http://www.usamp.com/">uSamp</a>. I had a great time hearing about how <a href="http://www.mongodb.org/">mongoDB</a> is being used by two different companies.

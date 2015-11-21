@@ -10,7 +10,7 @@ thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/R69A6AhSFhI/AAAAAAAAAds/Jl8Jn6m
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5090524995992239173
 blogger_orig_url: http://www.sunpech.com/2008/02/belkins-pre-n-router-laggy-on-ps3.html
 redirect_from: /2008/02/belkins-pre-n-router-laggy-on-ps3.html
-header-img: /public/images/header_technology.jpg
+header-img: /public/images/headers/header_technology.jpg
 ---
 
 I've spent the better part of this cold weekend indoors trying to configure my PS3 to work on the Playstation Network.  My problem was that I would get lag when playing Puzzle Fighter 3 Turbo HD Remix.  I've been using the <b>Belkin Pre-N Router</b> for the past few months for everything but gaming and have been content with it.  But frankly, it doesn't play well with my PS3!  I went to <a href="http://www.portforward.com/">portforward.com</a> and forwarded all the ports to my PS3, and I still got lag!  The only time I wouldn't get that much lag would be to hook the system straight to my cable modem.  I tried everything from giving a static IP address, wireless setup, to even a wired connection to the router, all of which did nothing to remove the lag.

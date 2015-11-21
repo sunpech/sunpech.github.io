@@ -10,7 +10,7 @@ thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPP
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7690951789641924578
 blogger_orig_url: http://www.sunpech.com/2008/02/yellow-dog-linux-on-my-ps3.html
 redirect_from: /2008/02/yellow-dog-linux-on-my-ps3.html
-header-img: /public/images/header_technology.jpg
+header-img: /public/images/headers/header_technology.jpg
 ---
 
 Over the weekend, mostly on Saturday I spent doing 2 main things:

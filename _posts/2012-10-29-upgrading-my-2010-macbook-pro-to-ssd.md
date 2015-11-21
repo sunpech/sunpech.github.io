@@ -12,7 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-FBVfhSHJKIM/UI4eGVAOCtI/AAAAAAABVfU/ZWbZffl
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7498147728384436121
 blogger_orig_url: http://www.sunpech.com/2012/10/upgrading-my-2010-macbook-pro-to-ssd.html
 redirect_from: /2012/10/upgrading-my-2010-macbook-pro-to-ssd.html
-header-img: /public/images/header_apple_galaxy.jpg
+header-img: /public/images/headers/header_apple_galaxy.jpg
 ---
 
 I recently upgraded my 15" 2010 Macbook Pro's 500GB HDD to a 512GB SSD. The directions you find in this blog post, you should easily be able to find using a search engine. I just want to document what I did, hoping to help fill the Internet with something useful, maybe.

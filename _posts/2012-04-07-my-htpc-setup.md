@@ -10,7 +10,7 @@ modified_time: '2014-08-09T19:54:12.526-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6059562824403135359
 blogger_orig_url: http://www.sunpech.com/2012/04/my-htpc-setup.html
 redirect_from: /2012/04/my-htpc-setup.html
-header-img: /public/images/header_technology.jpg
+header-img: /public/images/headers/header_technology.jpg
 ---
 
 A few months ago I <a href="/2012/01/western-digital-wd-tv-live-streaming">blogged</a> about my new purchase of the <a href="http://www.amazon.com/gp/product/B005KOZNBW/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005KOZNBW">WD TV Live Streaming Media Player</a>. I still enjoy it immensely, and a few people have inquired about what is needed.

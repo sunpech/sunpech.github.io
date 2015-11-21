@@ -10,7 +10,7 @@ modified_time: '2014-08-08T17:02:47.593-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-9024324542445385635
 blogger_orig_url: http://www.sunpech.com/2008/08/best-free-software-recommendations-for.html
 redirect_from: /2008/08/best-free-software-recommendations-for.html
-header-img: /public/images/header_technology.jpg
+header-img: /public/images/headers/header_technology.jpg
 ---
 
 For almost ten years now, I still find myself fixing computers for friends.  It's not so much hardware these days as it is cleaning out viruses and installing software to handle a certain task.  I don't mind so much, but I just hope my friends learn something from what I do and explain rather than to just rely on me to fix everything for them each and every time.

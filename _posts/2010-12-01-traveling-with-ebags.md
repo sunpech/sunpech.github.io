@@ -11,7 +11,7 @@ thumbnail: http://2.bp.blogspot.com/_7U5MdumP-no/TPZiwLFT7yI/AAAAAAAAezo/5Rj8fo8
 blogger_id: tag:blogger.com,1999:blog-6841384.post-988457410436302548
 blogger_orig_url: http://www.sunpech.com/2010/12/traveling-with-ebags.html
 redirect_from: /2010/12/traveling-with-ebags.html
-header-img: /public/images/header_joshua_tree.jpg
+header-img: /public/images/headers/header_joshua_tree.jpg
 ---
 
 As many of you may or may not know, I've been traveling a lot lately.  From July's trip to the San Diego Comic-Con, to September's All-You-Can-Jet pass, to even now, Thailand!  It's been awesome, but there's a special shout-out I need to give recognition to: <a href="http://www.ebags.com/">eBags.com</a>

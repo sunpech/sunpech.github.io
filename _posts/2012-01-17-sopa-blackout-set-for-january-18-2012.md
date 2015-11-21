@@ -9,7 +9,7 @@ modified_time: '2012-01-17T20:15:26.398-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6486066378930805561
 blogger_orig_url: http://www.sunpech.com/2012/01/sopa-blackout-set-for-january-18-2012.html
 redirect_from: /2012/01/sopa-blackout-set-for-january-18-2012.html
-header-img: /public/images/header_technology.jpg
+header-img: /public/images/headers/header_technology.jpg
 ---
 
 Tomorrow, Wednesday January 18, 2012, I plan to block this website out in support of <a href="http://sopablackout.org/">SOPA Blackout</a>. Technically it won't be completed blocked out, as the javascript is only a black message overlay on top of the website. Users will still be able to click through once the popup comes up.

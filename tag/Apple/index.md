@@ -1,6 +1,6 @@
 ---
 layout: page
-header-img: /public/images/header_apple_galaxy.jpg
+header-img: /public/images/headers/header_apple_galaxy.jpg
 ---
 
 {% include tag_page.html %}

@@ -1,6 +1,6 @@
 ---
 layout: page
-header-img: /public/images/header_blizzcon.jpg
+header-img: /public/images/headers/header_blizzcon.jpg
 ---
 
 {% include tag_page.html %}

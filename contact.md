@@ -3,7 +3,7 @@ layout: page
 title: Contact
 navigation: true
 permalink: contact/
-header-img: /public/images/header_wooden_bolt_fence.jpg
+header-img: /public/images/headers/header_wooden_bolt_fence.jpg
 ---
 
 <img src="/public/images/sunpech_almajis.jpg" class="img-responsive img-circle" width="180" alt="Steven" />

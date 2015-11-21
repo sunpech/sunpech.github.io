@@ -11,7 +11,7 @@ thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SaAN3S0UM7I/AAAAAAAAIlY/N6u2xBc
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2783695198555469621
 blogger_orig_url: http://www.sunpech.com/2009/02/my-favorite-web-app-google-reader.html
 redirect_from: /2009/02/my-favorite-web-app-google-reader.html
-header-img: /public/images/header_google_chicago.jpg
+header-img: /public/images/headers/header_google_chicago.jpg
 ---
 
 <a href="http://reader.google.com">Google Reader</a> is by far my favorite web application.  I reorganized many of the labels as well as added/deleted some feeds.  But I truly consider this app as my gateway to the Internet.  I have it set as a tab that always opens up in any of my browsers.

@@ -12,7 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-IZagZyoKMww/TzzPjsaPG9I/AAAAAAAA6NU/SwIIgLG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-655988805539086421
 blogger_orig_url: http://www.sunpech.com/2012/02/small-business-web-guide-meetup.html
 redirect_from: /2012/02/small-business-web-guide-meetup.html
-header-img: /public/images/header_los_angeles.jpg
+header-img: /public/images/headers/header_los_angeles.jpg
 ---
 
 Last night I went to a <a href="http://www.meetup.com/Designers-Hub/events/52239392/">Designer's Hub meetup</a> at <a href="http://kleverdogcoworking.com/">Kleverdog</a>. The topic was&nbsp;<b>Kicking Web Butt: Small Business Web Guide</b>. The presenter was Ed Wu (<a href="https://twitter.com/#!/edwu">@edwu</a>) from <a href="http://www.thinkademic.com/">THINKademic</a>.

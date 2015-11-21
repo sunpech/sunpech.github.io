@@ -9,7 +9,7 @@ modified_time: '2012-01-03T03:42:10.637-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-769434790249242250
 blogger_orig_url: http://www.sunpech.com/2008/05/where-is-blogger-community.html
 redirect_from: /2008/05/where-is-blogger-community.html
-header-img: /public/images/header_technology.jpg
+header-img: /public/images/headers/header_technology.jpg
 ---
 
 I recently started a new blog over at <a href="http://www.vox.com">Vox.com</a> after my older sister recommended me the site after a friend of hers recommended it to her.  It's a social blogging website that emphasizes on the concept of a neighborhood; essentially socializing with other people with common interests, etc.

@@ -11,7 +11,7 @@ thumbnail: http://1.bp.blogspot.com/--h90gI86ngk/UQujbs79HbI/AAAAAAABYjk/uTbcvf8
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6373609989912297370
 blogger_orig_url: http://www.sunpech.com/2013/02/pictures-from-uncubed-la.html
 redirect_from: /2013/02/pictures-from-uncubed-la.html
-header-img: /public/images/header_los_angeles.jpg
+header-img: /public/images/headers/header_los_angeles.jpg
 ---
 
 I went to the <a href="http://getuncubed.com/employers/?filter=la">The UnCubed event</a> here in Los Angeles this past Thursday. I wanted to check out what startups are here in LA and see the panels. It was good event that was extremely relaxed for a job fair. It was right by the beach-- LA style no doubt.

@@ -11,7 +11,7 @@ thumbnail: http://2.bp.blogspot.com/-9E3ZzvtHbTk/UQHd5KVuODI/AAAAAAABYZU/oAVNDhW
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7136513350174465116
 blogger_orig_url: http://www.sunpech.com/2013/01/the-stanley-kubrick-exhibit-at-lacma.html
 redirect_from: /2013/01/the-stanley-kubrick-exhibit-at-lacma.html
-header-img: /public/images/header_los_angeles.jpg
+header-img: /public/images/headers/header_los_angeles.jpg
 ---
 
 Today I checked out the <a href="http://www.lacma.org/art/exhibition/stanley-kubrick">Stanley Kubrick Exhibit</a> at the <a href="http://www.lacma.org/">Los Angeles County Museum of Art (LACMA)</a>. To be honest, I'm not all too familiar with <a href="http://en.wikipedia.org/wiki/Stanley_Kubrick">Stanley Kubrick's</a> work. There are only two of his movies that I can say I watched entirely: <a href="http://www.imdb.com/title/tt0120663/">Eyes Wide Shut</a> and <a href="http://www.imdb.com/title/tt0212720/">A.I. Artificial Intelligence</a>. The latter being more Spielberg than Kubrick anyway.

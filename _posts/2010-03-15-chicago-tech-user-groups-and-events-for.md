@@ -10,7 +10,7 @@ modified_time: '2012-01-11T04:06:18.244-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6541693810625676412
 blogger_orig_url: http://www.sunpech.com/2010/03/chicago-tech-user-groups-and-events-for.html
 redirect_from: /2010/03/chicago-tech-user-groups-and-events-for.html
-header-img: /public/images/header_software_development.jpg
+header-img: /public/images/headers/header_software_development.jpg
 ---
 
 The first two weeks this month I attended several Chicago user group meetings and events.  I wanted to recap my experience with many of them since it was my first time attending several of the events.

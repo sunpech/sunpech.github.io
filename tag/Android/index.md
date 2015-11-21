@@ -1,6 +1,6 @@
 ---
 layout: page
-header-img: /public/images/header_android.jpg
+header-img: /public/images/headers/header_android.jpg
 ---
 
 {% include tag_page.html %}

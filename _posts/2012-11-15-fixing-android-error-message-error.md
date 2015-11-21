@@ -12,7 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-DbUPW35q1z8/UKQaM0IRF2I/AAAAAAABVvg/ZrAWFQt
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1451340704159923701
 blogger_orig_url: http://www.sunpech.com/2012/11/fixing-android-error-message-error.html
 redirect_from: /2012/11/fixing-android-error-message-error.html
-header-img: /public/images/header_android.jpg
+header-img: /public/images/headers/header_android.jpg
 ---
 
 I have a <a href="http://en.wikipedia.org/wiki/Galaxy_Nexus">Galaxy Nexus</a> that recently got an over the air (OTA) update to Android 4.2 (Jelly Bean). Coming from 4.1.2 I was thrilled to see the new changes, particularly with their new <a href="http://bgr.com/2012/11/02/android-4-2-ported-galaxy-nexus-photo-sphere/">panorama feature</a>. But after the update I had issues with updating apps on the <a href="https://play.google.com/store">Google Play Store</a>.

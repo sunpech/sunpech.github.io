@@ -3,7 +3,7 @@ layout: page
 title: Affiliates
 navigation: false
 permalink: affiliates/
-header-img: /public/images/header_LA_home_office.jpg
+header-img: /public/images/headers/header_LA_home_office.jpg
 ---
 
 I am an affiliate at the following sites. Clicking on any these links to join or purchase anything will help support me and this site.
