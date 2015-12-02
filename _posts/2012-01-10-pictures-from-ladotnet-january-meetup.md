@@ -12,7 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-wzvm8pH0tBM/TxokjAnVSKI/AAAAAAAA2zU/l-BMG3Z
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2656336799612263033
 blogger_orig_url: http://www.sunpech.com/2012/01/pictures-from-ladotnet-january-meetup.html
 redirect_from: /2012/01/pictures-from-ladotnet-january-meetup.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 Last night I went to the <a href="http://www.ladotnet.org/events/44238462/?eventId=44238462&amp;action=detail">LADOTNET January Meetup</a>. The presentation was: <b>Unit Testing/Architecting Apps for Testing with Paul Sheriff</b>.

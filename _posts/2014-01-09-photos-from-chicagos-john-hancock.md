@@ -11,7 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-2EVzL7RoP7o/Us8C1EVO0WI/AAAAAAABly4/xWQXxmc
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2219549512899701117
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-chicagos-john-hancock.html
 redirect_from: /2014/01/photos-from-chicagos-john-hancock.html
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 Last night I went to visit the <a href="http://360chicago.com/">John Hancock Observatory</a> with my sister. The last time I was there was in 2006 I think, somewhat a long time ago. I recall the views from JH being far superior to those from the Sears tower-- now called <a href="http://www.willistower.com/">Willis tower</a>. Plus I've seen some pictures on <a href="http://500px.com/">500px</a> taken from JH and wanted to try my hand at those views.

@@ -11,7 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-qOzeWRvkWp4/Ut7zFjZJN8I/AAAAAAABl_g/lMz5WbG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2154108763861035678
 blogger_orig_url: http://www.sunpech.com/2014/01/photos-from-downtown-los-angeles.html
 redirect_from: /2014/01/photos-from-downtown-los-angeles.html
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 I'm back in Los Angeles now from traveling to cities like Toronto, San Francisco, and Chicago the past few months. I've been using <a href="http://500px.com/">500px</a> to research nice locations for these photos and it's really paid off-- I'm very happy.

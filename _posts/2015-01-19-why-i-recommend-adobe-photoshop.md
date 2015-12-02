@@ -12,7 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-1564464479286947721
 blogger_orig_url: http://www.sunpech.com/2015/01/why-i-recommend-adobe-photoshop.html
 redirect_from: /2015/01/why-i-recommend-adobe-photoshop.html
 description: "I cover why I love and recommend Adobe Photoshop Lightroom Creative Cloud."
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 Over the past few years, friends have been asked me photography questions in terms of camera gear and software. Perhaps I'll write a post in the future on physical camera gear, but for this post I wanted to cover <i>why I love using <a href="http://www.adobe.com/products/photoshop-lightroom.html">Adobe Photoshop Lightroom</a> </i>and <i>why you should consider it for your photo needs</i>.

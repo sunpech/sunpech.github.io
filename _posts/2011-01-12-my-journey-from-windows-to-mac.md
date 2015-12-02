@@ -12,7 +12,7 @@ thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/TS1a-9DgV7I/AAAAAAAAfLg/B20G9Rl
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6992695741678749971
 blogger_orig_url: http://www.sunpech.com/2011/01/my-journey-from-windows-to-mac.html
 redirect_from: /2011/01/my-journey-from-windows-to-mac.html
-header-img: /public/images/headers/header_apple_galaxy.jpg
+header-img: /public/images/headers/apple_galaxy.jpg
 ---
 
 So back in May of 2010, I bought myself a Macbook Pro.  I bought it for several reasons:

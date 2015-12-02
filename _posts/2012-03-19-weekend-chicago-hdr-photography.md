@@ -11,7 +11,7 @@ thumbnail: http://4.bp.blogspot.com/-1mbREOOesug/T2eR0ZoprQI/AAAAAAAA81s/F6ZNs0D
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2250433814193860096
 blogger_orig_url: http://www.sunpech.com/2012/03/weekend-chicago-hdr-photography.html
 redirect_from: /2012/03/weekend-chicago-hdr-photography.html
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 Over the weekend I was in Chicago. I woke up early the morning following St. Patrick's Day to take some photos near the Adler Planetarium and Millennium Park. I got there with my sister just before sunrise around 6:30am.

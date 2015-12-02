@@ -12,7 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-1gQgmuWo4JM/T4LS5Hg1EYI/AAAAAAABCYY/mfy1mqq
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5183690229538167366
 blogger_orig_url: http://www.sunpech.com/2012/04/original-renaissance-pleasure-faire.html
 redirect_from: /2012/04/original-renaissance-pleasure-faire.html
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 This past weekend I attended <a href="http://www.renfair.com/socal/index.asp">The Original Renaissance Pleasure Faire</a> in Irwindale, California. It's been over almost fifteen years since I attended a Renaissance Fair, the last being the <a href="http://www.renfair.com/bristol/">Bristol Renaissance Fair</a> in the Midwest. I was a teenager then and really loved the tasty mushrooms! I also got my older sister to buy me a broad sword!

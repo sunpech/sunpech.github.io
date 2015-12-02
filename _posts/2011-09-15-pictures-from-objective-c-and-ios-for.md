@@ -12,7 +12,7 @@ thumbnail: http://1.bp.blogspot.com/-mQ_mE8LWKKM/TnGB6qLKqnI/AAAAAAAAucU/7ElGf42
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3752641313520283111
 blogger_orig_url: http://www.sunpech.com/2011/09/pictures-from-objective-c-and-ios-for.html
 redirect_from: /2011/09/pictures-from-objective-c-and-ios-for.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 Last night I went to my favorite local user group, <a href="http://chicagoalt.net/">Chicago Alt.net</a> (<a href="https://twitter.com/#!/chicagoaltnet">@ChicagoAltNet</a>).

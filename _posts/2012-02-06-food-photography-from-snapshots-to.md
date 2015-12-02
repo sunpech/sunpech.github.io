@@ -11,7 +11,7 @@ modified_time: '2014-08-09T19:56:35.141-05:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2108045336801953071
 blogger_orig_url: http://www.sunpech.com/2012/02/food-photography-from-snapshots-to.html
 redirect_from: /2012/02/food-photography-from-snapshots-to.html
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 As a foodie and photography enthusiast, I found <a href="http://www.amazon.com/gp/product/0321784111/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321784111">Food Photography: From Snapshots to Great Shots</a> to be a good read, mostly. Although, I did find myself skimming the later chapters as they deal with post-processing using <a href="http://www.amazon.com/gp/product/B003B32B2I/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003B32B2I">Adobe Photoshop</a>.

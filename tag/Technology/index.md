@@ -1,6 +1,6 @@
 ---
 layout: page
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 {% include tag_page.html %}

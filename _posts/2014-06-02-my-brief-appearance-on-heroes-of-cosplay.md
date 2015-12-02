@@ -14,7 +14,7 @@ thumbnail: http://1.bp.blogspot.com/--DhAbdzwuqA/U4ovzD7Dx_I/AAAAAAABsIA/rk_aFy9
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7797759634072294797
 blogger_orig_url: http://www.sunpech.com/2014/06/my-brief-appearance-on-heroes-of-cosplay.html
 redirect_from: /2014/06/my-brief-appearance-on-heroes-of-cosplay.html
-header-img: /public/images/headers/header_comikaze_expo.jpg
+header-img: /public/images/headers/comikaze_expo.jpg
 ---
 
 In a last week's episode of <a href="http://www.imdb.com/title/tt2923816/">Heroes of Cosplay</a>, I had a brief appearance in <a href="http://www.imdb.com/title/tt3673118/?ref_=ttep_ep7">Season 1 - Episode 7</a>!

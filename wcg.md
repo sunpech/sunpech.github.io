@@ -3,7 +3,7 @@ layout: page
 title: Team Spong's WCG
 navigation: false
 permalink: wcg/
-header-img: /public/images/headers/header_wooden_fence.jpg
+header-img: /public/images/headers/wooden_fence.jpg
 ---
 
 Welcome to Team Spong's World Community Grid page!

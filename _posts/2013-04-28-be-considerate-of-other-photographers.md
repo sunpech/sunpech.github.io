@@ -11,7 +11,7 @@ thumbnail: http://3.bp.blogspot.com/-dSsewRaCBs4/UXw5SGYDdsI/AAAAAAABbvw/F96m8A4
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2346172574471384095
 blogger_orig_url: http://www.sunpech.com/2013/04/be-considerate-of-other-photographers.html
 redirect_from: /2013/04/be-considerate-of-other-photographers.html
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 Last week I was in the Bahamas for a friend's wedding. The people, the scenery, and weather was beautiful up and through the wedding. The day after... not so much. We had a bit of a tropical storm, but it didn't last too long. Thank goodness the wedding day had clear skies.

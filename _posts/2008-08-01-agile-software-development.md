@@ -9,7 +9,7 @@ modified_time: '2012-01-01T23:01:34.744-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7451604367544747123
 blogger_orig_url: http://www.sunpech.com/2008/08/agile-software-development.html
 redirect_from: /2008/08/agile-software-development.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 Up to this point in my consulting career, too often I've seen consultants (myself included) spend time writing documents describing what will be and won't be included in the project.  And pretty much every time, whatever the client committed to on paper, isn't what the client wanted in the end.  Requirements change between the start and end of a project.  This is software development as it truly is.

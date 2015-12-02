@@ -10,7 +10,7 @@ modified_time: '2012-01-11T03:54:09.576-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6068246519995194049
 blogger_orig_url: http://www.sunpech.com/2009/02/upcoming-tech-events-in-chicago-for.html
 redirect_from: /2009/02/upcoming-tech-events-in-chicago-for.html
-header-img: /public/images/headers/header_chicago_skyline.jpg
+header-img: /public/images/headers/chicago_skyline.jpg
 ---
 
 <img alt="" border="0" src="http://images.eventbrite.com/logos/274022609.png" style="height: 200px; width: 358px;" />

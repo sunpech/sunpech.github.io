@@ -9,7 +9,7 @@ modified_time: '2012-01-01T23:03:53.750-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1087262992477565695
 blogger_orig_url: http://www.sunpech.com/2008/09/c-code-solution-for-fizzbuzz.html
 redirect_from: /2008/09/c-code-solution-for-fizzbuzz.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 I read a <a href="http://it.slashdot.org/article.pl?sid=08/09/15/0210235">slashdot article</a> earlier today which lead me to a Coding Horror article: <a href="http://www.codinghorror.com/blog/archives/000781.html">Why Can't Programmers.. Program?</a>.  This lead me to the FizBuzz problem, which prompted me to write my own quickie solution in C# (as a console application).

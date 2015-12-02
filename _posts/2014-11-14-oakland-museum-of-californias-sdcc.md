@@ -14,7 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-3583724565157620915
 blogger_orig_url: http://www.sunpech.com/2014/11/oakland-museum-of-californias-sdcc.html
 redirect_from: /2014/11/oakland-museum-of-californias-sdcc.html
 description: "I visit the Oakland Museum of California to check out my photo on display in the San Diego Comic Con Exhibit."
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 The <a href="http://www.museumca.org/">Oakland Museum of California</a> has one of my photos from San Diego Comic Con on display in their exhibit: <a href="http://www.museumca.org/exhibit/sunshine-and-superheroes-san-diego-comic-con">Sunshine and Superheroes: San Diego Comic-Con</a>. A few days ago I had the opportunity to visit and took some photos.

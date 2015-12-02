@@ -13,7 +13,7 @@ image: http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5527383971101594263
 blogger_orig_url: http://www.sunpech.com/2014/08/oneplus-one-vs-nexus-5.html
 redirect_from: /2014/08/oneplus-one-vs-nexus-5.html
-header-img: /public/images/headers/header_android.jpg
+header-img: /public/images/headers/android.jpg
 ---
 
 Last month in July, I purchased two Android phones: <a href="http://www.google.com/nexus/5/">The Nexus 5</a> (N5) and the <a href="http://www.oneplus.net/">OnePlus One</a> (OPO). I initially ordered the Nexus 5 because I was sick of waiting for an OnePlus invite that I signed up for in April. Up until then, I was using a <a href="http://en.wikipedia.org/wiki/Galaxy_Nexus">Galaxy Nexus</a> for two years and its overall performance was rather sluggish and could no longer hold a charge for half a day.

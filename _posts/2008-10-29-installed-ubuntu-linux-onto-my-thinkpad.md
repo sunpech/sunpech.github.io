@@ -10,7 +10,7 @@ thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/SQknkFkDphI/AAAAAAAAIQw/9D8L3k8
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1420566522271267597
 blogger_orig_url: http://www.sunpech.com/2008/10/installed-ubuntu-linux-onto-my-thinkpad.html
 redirect_from: /2008/10/installed-ubuntu-linux-onto-my-thinkpad.html
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 Last weekend I installed <a href="http://www.ubuntu.com/">Ubuntu Linux</a> onto my Lenovo Thinkpad T60 laptop.  I wanted to keep Windos XP Professional installed, so I chose to dual-boot it using <a href="http://www.gnu.org/software/grub/">GRUB</a>.  I also upgraded the 40 GB hard drive to a 250 GB hard drive using a laptop hard drive upgrade kit.  I copied the files over to the new drive, and then installed Ubuntu 8.04 (Hardy Heron) in another partition.  It was amazingly simple.

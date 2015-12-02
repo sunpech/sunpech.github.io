@@ -11,7 +11,7 @@ tags:
 modified_time: '2015-07-16T00:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_san_diego_comic_con_2015.jpg
 image: /public/images/blog/san_diego_comic_con_2015.jpg
-header-img: /public/images/headers/header_san_diego_comic_con.jpg
+header-img: /public/images/headers/san_diego_comic_con.jpg
 description: My thoughts and pictures from San Diego Comic Con 2015. TL;DR; Still a great con, not as busy as previous years, more family-friendly than ever.
 ---
 

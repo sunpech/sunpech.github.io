@@ -12,7 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-6D5Og5RH0Ig/TxVmC40SSpI/AAAAAAAA2os/kWZWK6G
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7699881149625372247
 blogger_orig_url: http://www.sunpech.com/2011/08/purchased-herman-miller-aeron-chair.html
 redirect_from: /2011/08/purchased-herman-miller-aeron-chair.html
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 A few weeks ago I purchased a <a href="http://hermanmiller.com/Products/Aeron-Chairs">Herman Miller Aeron chair</a> from <a href="http://www.homeofficesolutions.com/">Home and Office Solutions</a> up in Northbrook, Illinois. I've wanted an Aeron for the longest time, but just never felt comfortable spending a thousand dollars on an office chair. My seven-year old Ikea chair was falling apart and wasn't comfortable anymore. To be honest, it started to fall apart after two years. I really needed to get a new chair.

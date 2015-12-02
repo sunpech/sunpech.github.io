@@ -13,7 +13,7 @@ thumbnail: http://3.bp.blogspot.com/-7MB6rrGMwsI/TwI19FKW7gI/AAAAAAAA2E8/ZFF4p7A
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4848298429337855045
 blogger_orig_url: http://www.sunpech.com/2012/01/steve-jobs-biography.html
 redirect_from: /2012/01/steve-jobs-biography.html
-header-img: /public/images/headers/header_apple_galaxy.jpg
+header-img: /public/images/headers/apple_galaxy.jpg
 ---
 
 I really enjoyed reading the <a href="http://www.amazon.com/gp/product/1451648537?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=shr&amp;camp=213733&amp;creative=393185&amp;creativeASIN=1451648537&amp;ref_=sr_1_1&amp;qid=1325418866&amp;sr=8-1">Steve Jobs</a> biography by <a href="http://www.amazon.com/Walter-Isaacson/e/B000APFLB8/ref=ntt_athr_dp_pel_1">Walter Isaacson</a>. I bought both the hardcover and the Kindle book version. Isaacson's writing is superb and flows very well. However, if you read articles or even watched some Steve Jobs documentaries, it covers a lot of similar ground. I am reminded of the TV movie, <a href="http://www.imdb.com/title/tt0168122/">Pirates of Silicon Valley</a>. If you haven't watched it, I highly recommend it.

@@ -11,7 +11,7 @@ modified_time: '2015-12-01T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_exfat.jpg
 image: /public/images/blog/exfat.jpg
 description: If you are getting a new backup hard drive and want it to be compatible between Windows, OS X, and Linux, this guide will show you how to format it and save you money. I cover the benefits of using exFAT as well as when it's not a good choice.
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 With [Black Friday](https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29) and [Cyber Monday](https://en.wikipedia.org/wiki/Cyber_Monday) behind us and the upcoming holidays upon us, some of you may be getting a new external hard drive(s) for your Mac or Windows system(s). I wanted to write up a guide on how to format your drive into [exFAT](https://en.wikipedia.org/wiki/ExFAT), the format that is well supported and ideal for many cases.

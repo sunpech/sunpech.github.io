@@ -15,7 +15,7 @@ thumbnail: http://3.bp.blogspot.com/_7U5MdumP-no/TTLBFEe0h1I/AAAAAAAAfNc/7bkqHey
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6553785517673157729
 blogger_orig_url: http://www.sunpech.com/2011/01/tech-communities-in-bangkok.html
 redirect_from: /2011/01/tech-communities-in-bangkok.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 I've been in Thailand now for a little over two months now.  Although I miss the US a lot, I've been learning a lot of new things, and meeting a lot of wonderful people here in Bangkok.  In other words, I'm having a blast out here.

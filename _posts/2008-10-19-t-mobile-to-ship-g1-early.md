@@ -11,7 +11,7 @@ thumbnail: http://1.bp.blogspot.com/_7U5MdumP-no/SPvKJ1MI4gI/AAAAAAAAIJE/LamGf5K
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3940009128169467042
 blogger_orig_url: http://www.sunpech.com/2008/10/t-mobile-to-ship-g1-early.html
 redirect_from: /2008/10/t-mobile-to-ship-g1-early.html
-header-img: /public/images/headers/header_android.jpg
+header-img: /public/images/headers/android.jpg
 ---
 
 As my friend Ben pointed out, it's possible that our pre-ordered G1 phones will arrive earlier than expected.  Tomorrow, Monday, October 20, 2008 to be exact.  Upon checking my order status on <a href="http://www.ups.com">UPS.com</a>, I found the following:

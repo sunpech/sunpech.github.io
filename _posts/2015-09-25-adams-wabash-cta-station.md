@@ -10,7 +10,7 @@ modified_time: '2015-09-25T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_adams-wabash-cta-station.jpg
 image: /public/images/blog/adams-wabash-cta-station.jpg
 description: My photos take at and around the Adamas/Wabash CTA Station in Chicago.
-header-img: /public/images/headers/header_adams-wabash-cta-station.jpg
+header-img: /public/images/headers/adams-wabash-cta-station.jpg
 ---
 
 Yesterday I was in Chicago with hopes of getting some nice photos of *Chicago henge*-- basically the fall equinox where the sunset lines up straight with the East-West street grid. But there were some clouds in the sky which prevented any starburst from happening. However, I went early enough to do some exploring around downtown for other fun shots.

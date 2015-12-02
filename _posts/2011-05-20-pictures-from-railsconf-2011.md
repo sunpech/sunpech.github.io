@@ -11,7 +11,7 @@ thumbnail: http://3.bp.blogspot.com/-BP1lylbW4YA/TdH7PV3ZKnI/AAAAAAAAoE0/k9CP913
 blogger_id: tag:blogger.com,1999:blog-6841384.post-205359111132026361
 blogger_orig_url: http://www.sunpech.com/2011/05/pictures-from-railsconf-2011.html
 redirect_from: /2011/05/pictures-from-railsconf-2011.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 I had a great time at <a href="http://www.railsconf.com/">RailsConf</a> 2011, which took place in Baltimore, Maryland this year. Got the chance to meet and talk with a lot of Rails developers and passionate people. Always a good thing. I admit that I'm a Ruby Nuby, and quite a few of the talks were a little over my head, but in general there was a talk for everyone, no matter what skill level in Ruby/Rails. Also, a good thing. I noticed that Javascript was the common theme across the talks. In fact I didn't do any Ruby programming/playing at all, just Javascript + HTML5.

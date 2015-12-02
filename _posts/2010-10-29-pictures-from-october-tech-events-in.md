@@ -12,7 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-O0lbvGCN9P0/TLZpPDAMokI/AAAAAAAAa1Y/p3lDcp2
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6908950202589082197
 blogger_orig_url: http://www.sunpech.com/2010/10/pictures-from-october-tech-events-in.html
 redirect_from: /2010/10/pictures-from-october-tech-events-in.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 ### Chicago Alt.net on October 13, 2010

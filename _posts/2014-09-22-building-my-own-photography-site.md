@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-8373625049182046772
 blogger_orig_url: http://www.sunpech.com/2014/09/building-my-own-photography-site.html
 redirect_from: /2014/09/building-my-own-photography-site.html
 description: "I stopped using SmugMug and other paid hosting solutions and built my own photography website for Sunpech Photography."
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 A few weeks ago my <a href="http://www.smugmug.com/">SmugMug</a> account expired and I didn't bother to renew it. This is where my photography website, <b>Sunpech Photography</b>, used to be hosted. I wasn't fully utilizing it to make sales nor was I pushing it very much to friends, family, and even clients. So I couldn't justify spending any money on it when I'd rather make sales on <a href="http://www.500px.com/">500px</a> and <a href="http://www.500pxart.com/">500px Art</a>.

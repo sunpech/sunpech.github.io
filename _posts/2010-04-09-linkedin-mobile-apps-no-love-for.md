@@ -11,7 +11,7 @@ thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPi
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4303756699493903794
 blogger_orig_url: http://www.sunpech.com/2010/04/linkedin-mobile-apps-no-love-for.html
 redirect_from: /2010/04/linkedin-mobile-apps-no-love-for.html
-header-img: /public/images/headers/header_android.jpg
+header-img: /public/images/headers/android.jpg
 ---
 
 Got this in my inbox from <a href="http://www.linkedin.com/">LinkedIn</a>.  iPhone: check.  Blackberry: check.  Palm: check....

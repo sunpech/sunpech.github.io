@@ -10,7 +10,7 @@ thumbnail: http://2.bp.blogspot.com/-BmC11EGm9FY/Tz_zb7mpX0I/AAAAAAAA6QY/vTKHaLa
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7678158939557026174
 blogger_orig_url: http://www.sunpech.com/2012/02/microsofts-new-windows-8-logo.html
 redirect_from: /2012/02/microsofts-new-windows-8-logo.html
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 Microsoft has a new logo design for their operating system (OS), Windows. I've been reading a few tech bloggers/writers reactions to it lately, and I felt I just had to add my two bits in.

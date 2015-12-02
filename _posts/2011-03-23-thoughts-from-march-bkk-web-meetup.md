@@ -14,7 +14,7 @@ thumbnail: http://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5408126596200107751
 blogger_orig_url: http://www.sunpech.com/2011/03/thoughts-from-march-bkk-web-meetup.html
 redirect_from: /2011/03/thoughts-from-march-bkk-web-meetup.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 The <a href="http://www.meetup.com/bkk-web/">BKK Web Meetup</a> last night was pretty awesome. It was the biggest turnout I've seen yet, and it was also very interactive. Plenty of discussion, questions, and even stories came from the attendees.
