@@ -8,8 +8,8 @@ tags:
 - Guide
 - Technology
 modified_time: '2015-12-01T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_exFAT.jpg
-image: /public/images/blog/exFAT.jpg
+thumbnail: /public/images/blog/tn_exfat.jpg
+image: /public/images/blog/exfat.jpg
 description: If you are getting a new backup hard drive and want it to be compatible between Windows, OS X, and Linux, this guide will show you how to format it and save you money. I cover the benefits of using exFAT as well as when it's not a good choice.
 header-img: /public/images/headers/header_technology.jpg
 ---
