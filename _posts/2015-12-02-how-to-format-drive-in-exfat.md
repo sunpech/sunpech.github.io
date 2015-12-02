@@ -1,13 +1,13 @@
 ---
 layout: post
 title: How to Format your Hard Drive into exFAT
-date: '2015-12-02T09:00:00.000-05:00'
+date: '2015-12-01T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Apple
 - Guide
 - Technology
-modified_time: '2015-12-02T09:00:00.000-05:00'
+modified_time: '2015-12-01T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_exFAT.jpg
 image: /public/images/blog/exFAT.jpg
 description: If you are getting a new backup hard drive and want it to be compatible between Windows, OS X, and Linux, this guide will show you how to format it and save you money. I cover the benefits of using exFAT as well as when it's not a good choice.
