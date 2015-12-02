@@ -11,7 +11,7 @@ thumbnail: http://2.bp.blogspot.com/-NkvvpZOgOgE/UvCCLn6JzVI/AAAAAAABmNA/4fjFbzC
 blogger_id: tag:blogger.com,1999:blog-6841384.post-6505214424446094885
 blogger_orig_url: http://www.sunpech.com/2014/02/photos-from-griffith-observatory.html
 redirect_from: /2014/02/photos-from-griffith-observatory.html
-header-img: /public/images/headers/header_griffith_observatory.jpg
+header-img: /public/images/headers/griffith_observatory.jpg
 ---
 
 I use <a href="http://500px.com/">500px</a> to do research on where I want to go take pictures and what kind of shots to do. <a href="http://500px.com/photo/44626440">One in particular </a>compelled me to go to Griffith Park to get a shot of the <a href="http://www.griffithobs.org/">Griffith Observatory</a> as well as LA's skyline.

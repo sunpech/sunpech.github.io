@@ -11,7 +11,7 @@ thumbnail: http://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2960241080145268119
 blogger_orig_url: http://www.sunpech.com/2014/02/photos-from-6th-st-bridge.html
 redirect_from: /2014/02/photos-from-6th-st-bridge.html
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 The 6th St. bridge has a magnificent view of the Los Angeles skyline. There's only a two problems about getting the photo at this location.

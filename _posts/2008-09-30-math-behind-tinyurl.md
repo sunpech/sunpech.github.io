@@ -9,7 +9,7 @@ modified_time: '2012-01-03T03:40:21.142-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3702960488134665177
 blogger_orig_url: http://www.sunpech.com/2008/09/math-behind-tinyurl.html
 redirect_from: /2008/09/math-behind-tinyurl.html
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 <a href="http://www.tinyurl.com" target="_self">TinyURL</a>is a website that condenses a submitted URL, usually a long one, into a short readable URL on tinyurl's website. In turn, this shorter URL then redirects to the original url.  This is quite handy.

@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-8058210042568552729
 blogger_orig_url: http://www.sunpech.com/2014/11/my-road-trip-from-la-to-chicago.html
 redirect_from: /2014/11/my-road-trip-from-la-to-chicago.html
 description: "I cover my road trip across the United States from Los Angeles to Chicago."
-header-img: /public/images/headers/header_joshua_tree.jpg
+header-img: /public/images/headers/joshua_tree.jpg
 ---
 
 Last week I drove from Los Angeles back to my hometown of Chicago. I've moved back home for personal reasons. It took my sister and I nine days to get across the US-- mostly just eating, driving, sleeping, and taking pictures.

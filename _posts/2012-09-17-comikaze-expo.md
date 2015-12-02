@@ -13,7 +13,7 @@ thumbnail: http://2.bp.blogspot.com/-aQ1CJve_G_Q/UFasCiz-O-I/AAAAAAABUpk/HdBWXzu
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4748305805232080592
 blogger_orig_url: http://www.sunpech.com/2012/09/comikaze-expo.html
 redirect_from: /2012/09/comikaze-expo.html
-header-img: /public/images/headers/header_comikaze_expo.jpg
+header-img: /public/images/headers/comikaze_expo.jpg
 ---
 
 Over the weekend I checked out the <a href="http://comikazeexpo.com/">Comikaze Expo</a> at the LA Convention Center (LACC). As far as I know, this was the first "real" comic con taking place in Los Angeles. The previous year's I heard took place in a parking structure or something. But this is a comic con for LA made by fans, for fans. That's their slogan more or less anyway.

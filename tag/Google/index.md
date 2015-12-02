@@ -1,6 +1,6 @@
 ---
 layout: page
-header-img: /public/images/headers/header_google_chicago.jpg
+header-img: /public/images/headers/google_chicago.jpg
 ---
 
 {% include tag_page.html %}

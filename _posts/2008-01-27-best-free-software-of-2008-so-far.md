@@ -9,7 +9,7 @@ modified_time: '2012-01-03T03:43:02.293-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3358468108721289778
 blogger_orig_url: http://www.sunpech.com/2008/01/best-free-software-of-2008-so-far.html
 redirect_from: /2008/01/best-free-software-of-2008-so-far.html
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 I find myself reinstalling software on another friend's laptop yet again.  What was the problem?  Computer virii, trojan horses, adware, and spyware made the system unstable.  How did it get this way?  Overall, it's because of not having a good understanding of computers, but in particular, peer-to-peer(P2P) programs such as BearShare.

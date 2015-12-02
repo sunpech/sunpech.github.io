@@ -11,7 +11,7 @@ thumbnail: http://3.bp.blogspot.com/-7HCppjKGTCY/TiE5fFqGMqI/AAAAAAAAsj4/Aa2FsIb
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7628044174949162487
 blogger_orig_url: http://www.sunpech.com/2011/07/history-of-social-networks-part-1.html
 redirect_from: /2011/07/history-of-social-networks-part-1.html
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 <a href="http://www.thinkoutsidein.com/">Paul Adams</a> has an insightful presentation: <a href="http://www.slideshare.net/padday/the-real-life-social-network-v2">The Real Life Social Network</a>. It's a great read, but it is a little long (224 slides)! Basically, he points out that the social network isn't a fad, that it's here to stay, and he goes through to talk about how relationships are, online/offline, behaviors, etcetera. Check it out if you have some time.

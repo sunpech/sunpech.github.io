@@ -10,7 +10,7 @@ modified_time: '2015-09-10T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_thoughts_on_apple_event.jpg
 image: /public/images/blog/thoughts_on_apple_event.jpg
 description: My thoughts on Apple's September 2015 keynote event. The winners were the iPad Pro and the iPhone Upgrade program.
-header-img: /public/images/headers/header_apple_galaxy.jpg
+header-img: /public/images/headers/apple_galaxy.jpg
 ---
 
 Yesterday, [Apple](http://www.apple.com) had their livestream event ([September 9, 2015](http://www.apple.com/apple-events/september-2015/)) announcing a bunch of new things. As usual, I live [tweeted](https://twitter.com/sunpech) some of my thoughts during the keynote. For the most part, my tweets are meant to poke fun at everything and shouldn't be taken in the most serious context. I say this because some contacts I have take great *personal* insult whenever I poke fun of big successful companies like Apple-- that are named Apple.

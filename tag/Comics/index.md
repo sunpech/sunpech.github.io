@@ -1,6 +1,6 @@
 ---
 layout: page
-header-img: /public/images/headers/header_best_graphic_novels.jpg
+header-img: /public/images/headers/best_graphic_novels.jpg
 ---
 
 {% include tag_page.html %}

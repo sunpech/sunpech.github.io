@@ -12,7 +12,7 @@ thumbnail: http://1.bp.blogspot.com/-n_AlCTGRQ78/TmxS8JqYPvI/AAAAAAAAuV0/A1cQMkb
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2762427504609341889
 blogger_orig_url: http://www.sunpech.com/2011/09/pictures-from-los-angeles-rubyrails.html
 redirect_from: /2011/09/pictures-from-los-angeles-rubyrails.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 Last week I used my <a href="http://www.jetblue.com/bluepass">JetBlue BluePass</a> to head out to Los Angeles to attend the <a href="http://www.meetup.com/laruby/">LA Ruby Meetup</a> (<a href="https://twitter.com/#!/laruby">@laruby</a>) hosted at <a href="http://www.coloft.com/">CoLoft</a>. I was impressed with the turnout, the speakers and presentation, and the audience participation. The format of the meetup was pretty long though. I'm used to maybe thirty minutes to one hour of a presentation. They had <strong>four presentations</strong> lasting about two hours! All very good of course, but I have to admit that it was a bit tiring. I found out that the group tends to move the meetups all over Los Angeles to attract new members.

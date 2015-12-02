@@ -11,7 +11,7 @@ modified_time: '2012-01-11T03:43:33.715-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5224472191326322841
 blogger_orig_url: http://www.sunpech.com/2010/04/may-2010-tech-events-in-chicago.html
 redirect_from: /2010/04/may-2010-tech-events-in-chicago.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 The month of May looks to be an exciting month in Chicago for Tech Events!

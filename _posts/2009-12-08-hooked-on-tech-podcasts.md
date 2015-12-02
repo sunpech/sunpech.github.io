@@ -9,7 +9,7 @@ modified_time: '2012-01-01T23:01:12.355-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7909201100113196830
 blogger_orig_url: http://www.sunpech.com/2009/12/hooked-on-tech-podcasts.html
 redirect_from: /2009/12/hooked-on-tech-podcasts.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 Lately I’ve been immersed in code at work as well as at home for a side project.&#160; But I don’t like to code in silence all the time, so I got myself re-hooked on to listening to podcasts, while I develop.

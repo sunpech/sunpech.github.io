@@ -11,7 +11,7 @@ modified_time: '2015-08-11T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_chicago_skyline_buckingham_fountain.jpg
 image: /public/images/blog/chicago_skyline_buckingham_fountain.jpg
 description: My thoughts and photos from Trey Ratcliff's Chicago Photowalk.
-header-img: /public/images/headers/header_chicago_skyline_buckingham_fountain.jpg
+header-img: /public/images/headers/chicago_skyline_buckingham_fountain.jpg
 ---
 
 Yesterday I went to [Trey Ratcliff's Chicago Photowalk](https://www.facebook.com/events/1040179939340078/). I had fun walking from the Adler Planetarium toward the Bean. As usual on my many photowalks, I tend to stray from the large groups and do my own thing. I just find it difficult to get shots I want around dozens or in this case hundreds of other photographers.

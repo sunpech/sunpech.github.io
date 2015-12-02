@@ -11,7 +11,7 @@ thumbnail: https://lh6.googleusercontent.com/-OsvAPJsKT2s/TX9b3Hs2swI/AAAAAAAAhy
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5593991005457404478
 blogger_orig_url: http://www.sunpech.com/2011/03/my-story-from-2010-part-1-of-2.html
 redirect_from: /2011/03/my-story-from-2010-part-1-of-2.html
-header-img: /public/images/headers/header_joshua_tree.jpg
+header-img: /public/images/headers/joshua_tree.jpg
 ---
 
 Just want to give a quick overview of my life since mid 2010 to present, early 2011. This is part 1 of 2.

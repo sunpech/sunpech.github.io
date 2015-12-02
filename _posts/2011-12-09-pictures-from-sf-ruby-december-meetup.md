@@ -12,7 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-BKXOiiJjuhM/TuHUhCE8KkI/AAAAAAAAxwk/Ec4lm6e
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1584345273666042663
 blogger_orig_url: http://www.sunpech.com/2011/12/pictures-from-sf-ruby-december-meetup.html
 redirect_from: /2011/12/pictures-from-sf-ruby-december-meetup.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 I drove up to San Francisco from LA to check out the <a href="http://www.sfruby.info/">SF Ruby group</a>. The drive was long, but worth it as I got to meet some interesting people. The meetup was hosted at <a href="http://www.zendesk.com/">ZenDesk</a>. Being from Chicago and now living in LA, I never before heard so much talk about venture capital (VCs) coming from developers. I think there really is a culture difference in SF compared to other cities. Just an observation.

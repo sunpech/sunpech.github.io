@@ -11,7 +11,7 @@ thumbnail: http://4.bp.blogspot.com/_7U5MdumP-no/SVMeq-RLbEI/AAAAAAAAIZk/b33sMkW
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7628154985244238079
 blogger_orig_url: http://www.sunpech.com/2008/12/setting-up-wrt54g-as-wireless-bridge.html
 redirect_from: /2008/12/setting-up-wrt54g-as-wireless-bridge.html
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 My parents have a <a href="http://www.thaitv.tv/">Thai TV</a> ethernet box of some kind so they can tune in to their Thai stations, shows, and even radio on their HDTV.  However, I had to run a 50 foot CAT5 cable from the upstairs to the first floor great room, which is quite messy.  So for Christmas this year, I bought them a <a href="http://www.amazon.com/gp/product/B000BTL0OA?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000BTL0OA">Linksys-Cisco WRT54GL Wireless-G Broadband Router</a>.

@@ -12,7 +12,7 @@ thumbnail: http://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xC
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3579823567876115864
 blogger_orig_url: http://www.sunpech.com/2011/05/trip-to-singapore.html
 redirect_from: /2011/05/trip-to-singapore.html
-header-img: /public/images/headers/header_joshua_tree.jpg
+header-img: /public/images/headers/joshua_tree.jpg
 ---
 
 I went to Singapore over the weekend (April 21-25) for <a href="http://reddotrubyconf.com/">Red Dot Ruby Conf</a>. It was my first time to Singapore. I didn't travel around too much, as I was in a conference for two full days (Friday and Saturday).

@@ -10,7 +10,7 @@ thumbnail: http://1.bp.blogspot.com/-vENWaWgHtA0/U1zvgEuumLI/AAAAAAABoJE/bYnxnmE
 blogger_id: tag:blogger.com,1999:blog-6841384.post-7339358075956505310
 blogger_orig_url: http://www.sunpech.com/2014/04/heroku-postgres-maintenance-requires.html
 redirect_from: /2014/04/heroku-postgres-maintenance-requires.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 Earlier this week I got an email from <a href="http://www.heroku.com/">Heroku</a> that one of my postgres databases required maintenance. This is the email:

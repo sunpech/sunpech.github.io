@@ -13,7 +13,7 @@ thumbnail: http://2.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAABg6M/ZHHW9sG
 blogger_id: tag:blogger.com,1999:blog-6841384.post-5195090169581985203
 blogger_orig_url: http://www.sunpech.com/2013/07/san-diego-comic-con-2013.html
 redirect_from: /2013/07/san-diego-comic-con-2013.html
-header-img: /public/images/headers/header_san_diego_comic_con.jpg
+header-img: /public/images/headers/san_diego_comic_con.jpg
 ---
 
 Last week I was in San Diego for <a href="http://www.comic-con.org/cci">Comic-Con</a>. This was my third time at SDCC and I had a great time as usual. I took pictures as usual, but unlike previous years, I went to more panels than any other year.

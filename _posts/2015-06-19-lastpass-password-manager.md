@@ -10,7 +10,7 @@ modified_time: '2015-06-19T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_lastpass_logo.jpg
 image: /public/images/blog/lastpass_logo.jpg
 description: I cover why you should use a password manager such as LastPass and how to improve the security behind it even further.
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 Earlier this week news broke that [LastPass](http://www.lastpass.com) had been hacked. They released a blog post: [LastPass Security Notice](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/).

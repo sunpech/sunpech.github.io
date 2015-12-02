@@ -11,7 +11,7 @@ modified_time: '2015-06-08T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_silicon-valley_halt-and-catch-fire.jpg
 image: /public/images/blog/silicon-valley_halt-and-catch-fire.jpg
 description: "There are two tech TV shows that I'm enjoying right now: Silicon Valley and Halt and Catch Fire."
-header-img: /public/images/headers/header_technology.jpg
+header-img: /public/images/headers/technology.jpg
 ---
 
 There are two tech TV shows that I'm enjoying right now: [Silicon Valley](http://www.imdb.com/title/tt2575988/) and [Halt and Catch Fire](http://www.imdb.com/title/tt2543312/).

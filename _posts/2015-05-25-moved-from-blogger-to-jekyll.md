@@ -10,7 +10,7 @@ modified_time: '2015-05-25T09:00:04.552-05:00'
 thumbnail: /public/images/blog/tn_blogger-to-jekyll.jpg
 image: /public/images/blog/blogger-to-jekyll.jpg
 description: "I moved my blog from Blogger to Jekyll."
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 I recently made the move from [Blogger](http://www.blogger.com) to [Jekyll](http://jekyllrb.com), hosted on [Github Pages](https://pages.github.com). It was a pretty pleasant conversion too, as Jekyll has a good amount of documenation and support.

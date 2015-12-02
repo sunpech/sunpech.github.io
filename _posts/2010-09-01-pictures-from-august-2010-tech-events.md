@@ -12,7 +12,7 @@ thumbnail: http://4.bp.blogspot.com/-sc46VNkERnw/TFjFkiFetVI/AAAAAAAAUzc/qpO0N8e
 blogger_id: tag:blogger.com,1999:blog-6841384.post-1407528637372318382
 blogger_orig_url: http://www.sunpech.com/2010/09/pictures-from-august-2010-tech-events.html
 redirect_from: /2010/09/pictures-from-august-2010-tech-events.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 I was on a bit of a vacation in July so I forgot to post August events before the month started.

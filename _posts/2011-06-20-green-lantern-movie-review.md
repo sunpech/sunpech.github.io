@@ -12,7 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-PraOGmGUarU/Tf99e3a7QWI/AAAAAAAApOU/dxpnXot
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2543556610536716114
 blogger_orig_url: http://www.sunpech.com/2011/06/green-lantern-movie-review.html
 redirect_from: /2011/06/green-lantern-movie-review.html
-header-img: /public/images/headers/header_best_graphic_novels.jpg
+header-img: /public/images/headers/best_graphic_novels.jpg
 ---
 
 <a href="http://www.imdb.com/title/tt1133985/">Green Lantern</a> was the movie I was looking forward to the most this summer. I watched it last night and wanted to share my thoughts on the movie with other fans and others that may have watched the movie already. I still recommend people to go watch the movie though, to read the comics, and/or then come talk to me.

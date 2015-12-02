@@ -11,7 +11,7 @@ thumbnail: http://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskR
 blogger_id: tag:blogger.com,1999:blog-6841384.post-2365920135743694376
 blogger_orig_url: http://www.sunpech.com/2014/02/photos-from-project-hearts.html
 redirect_from: /2014/02/photos-from-project-hearts.html
-header-img: /public/images/headers/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 One evening I took my DSLR and a <a href="http://www.amazon.com/gp/product/B004PV8N1I/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004PV8N1I&amp;linkCode=as2&amp;tag=sunpech-20">bokeh kit</a> with a heart-shaped cut out and took a walk down Miracle Mile. I started at LACMA and just walked east on Wilshire and snapped away at all the lights and traffic. I didn't care so much about ISO as I needed to take fast shots of varying lighting situations that came up on the street-- so I just stayed in auto-ISO.

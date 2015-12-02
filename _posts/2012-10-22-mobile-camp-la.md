@@ -12,7 +12,7 @@ thumbnail: http://2.bp.blogspot.com/-NipS80fmeFk/UIIM1UjScTI/AAAAAAABVRs/O-DGSID
 blogger_id: tag:blogger.com,1999:blog-6841384.post-4147924816490106107
 blogger_orig_url: http://www.sunpech.com/2012/10/mobile-camp-la.html
 redirect_from: /2012/10/mobile-camp-la.html
-header-img: /public/images/headers/header_software_development.jpg
+header-img: /public/images/headers/software_development.jpg
 ---
 
 I picked up a free ticket to <a href="http://mobilecampla.com/">Mobile Camp LA</a> earlier this week and decided to attend. Overall I wasn't too impressed with the event. It may have very well been the first of it's kind aimed at developers, designers, and business folk. Anyway, I thought the venue was a bit of a mess as many things went wrong.

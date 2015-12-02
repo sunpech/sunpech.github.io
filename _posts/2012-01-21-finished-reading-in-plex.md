@@ -11,7 +11,7 @@ modified_time: '2012-01-23T12:18:09.061-06:00'
 blogger_id: tag:blogger.com,1999:blog-6841384.post-3834902040245106310
 blogger_orig_url: http://www.sunpech.com/2012/01/finished-reading-in-plex.html
 redirect_from: /2012/01/finished-reading-in-plex.html
-header-img: /public/images/headers/header_google_chicago.jpg
+header-img: /public/images/headers/google_chicago.jpg
 ---
 
 I just finished reading <a href="http://www.amazon.com/gp/product/B0054U53WG/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0054U53WG">In The Plex: How Google Thinks, Works, and Shapes Our Lives</a> on my Kindle Fire.

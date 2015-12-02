@@ -10,7 +10,7 @@ modified_time: '2015-08-24T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_chicago_river_from_lsd.jpg
 image: /public/images/blog/chicago_river_from_lsd.jpg
 description: My first visit to the Chicago River on Lake Shore Drive. I share my photo taking experience there.
-header-img: /public/images/headers/header_chicago_river_from_lsd.jpg
+header-img: /public/images/headers/chicago_river_from_lsd.jpg
 ---
 
 I had some spare time before dinner near Navy Pier to take some pictures of the Chicago River off Lake Shore Drive. I've always wanted to take photos at this location, but never was in the area during the right time. I had about a forty minutes during sunset to grab some shots and then run off to dinner.

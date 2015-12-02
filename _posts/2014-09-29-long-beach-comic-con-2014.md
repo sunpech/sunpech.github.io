@@ -14,7 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-6841384.post-2172027407015331839
 blogger_orig_url: http://www.sunpech.com/2014/09/long-beach-comic-con-2014.html
 redirect_from: /2014/09/long-beach-comic-con-2014.html
 description: "I visit Long Beach Comic Con, a very hassle-free convention that's family friendly."
-header-img: /public/images/headers/header_long_beach_comic_con.jpg
+header-img: /public/images/headers/long_beach_comic_con.jpg
 ---
 
 Over the weekend I attended <a href="http://www.longbeachcomiccon.com/">Long Beach Comic Con</a> (LBCC) with <i>my first press pass</i>. It's <a href="/2012/11/long-beach-comic-con-2012">been a while</a> since I've attended LBCC, two years to be exact. Back then I only went on a Sunday, but this year I attended on a Saturday to get a more full experience.
