@@ -21,9 +21,9 @@ Last week I was in San Diego for <a href="http://www.comic-con.org/cci">Comic-Co
 Here are my albums on G+ (and Facebook-- FB):
 
 <ul>
-  <li><a href="https://plus.google.com/photos/101693597219413173200/albums/5903336396651207137">SDCC 2013 - Valiant Panel</a> (<a href="https://www.facebook.com/media/set/?set=a.545467452184950.1073741833.408588035872893&amp;type=1">FB link</a>)</li>
-  <li><a href="https://plus.google.com/photos/101693597219413173200/albums/5904089325238405057">SDCC 2013 - Panels</a> (<a href="https://www.facebook.com/media/set/?set=a.545461102185585.1073741832.408588035872893&amp;type=1">FB link</a>)</li>
-  <li><a href="https://plus.google.com/photos/101693597219413173200/albums/5904092553233457201">SDCC 2013 - General</a> (<a href="https://www.facebook.com/media/set/?set=a.545453385519690.1073741831.408588035872893&amp;type=1">FB link</a>)</li>
+  <li><a href="https://www.facebook.com/media/set/?set=a.545467452184950.1073741833.408588035872893&amp;type=1">SDCC 2013 - Valiant Panel</a></li>
+  <li><a href="https://www.facebook.com/media/set/?set=a.545461102185585.1073741832.408588035872893&amp;type=1">SDCC 2013 - Panels</a></li>
+  <li><a href="https://www.facebook.com/media/set/?set=a.545453385519690.1073741831.408588035872893&amp;type=1">SDCC 2013 - General</a></li>
 </ul>
 
 ### Pictures
