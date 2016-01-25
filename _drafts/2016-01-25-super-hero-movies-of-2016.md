@@ -89,4 +89,4 @@ My concern is that DC is making the mistakes that Marvel made years ago by dilut
 
 But maybe DC needs to make those mistakes in order for them to correct it and make things right. Not that Marvel has everything great now either-- just look at how Fantastic Four, X-Men, Deadpool, etc. all within the disastrous grips of 20th Century Fox. Only recently did Marvel strike a deal with Sony to get some creative control of Spiderman back into the MCU.
 
-This all being said, I'm still very grateful that all these comics are being turned into movies. The big screen is such an amazing place for story-telling and it's what I consider a better medium than comics themselves.
+This all being said, I'm still very grateful that all these comics are being turned into movies. The big screen is such an amazing place for story-telling and it's what I consider a better medium than comics themselves. If comics is considered sequential art, so then are movies, but with sound.
