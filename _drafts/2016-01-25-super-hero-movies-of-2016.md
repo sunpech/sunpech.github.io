@@ -81,7 +81,7 @@ Here's a calendar with the movies marked on it. I really like how the movies are
 
 ![2016 Calendar Release Dates](/public/images/blog/2016_superhero_calendar.jpg)
 
-## Conclusion
+## Final Thoughts
 
 I'm very much looking forward to viewing most super hero movies this year. Marvel has done an amazing job building out their cinematic universe and DC is attempting to catch up by throwing together a Justice League team in a very short time. I think what Marvel has been doing for years is paying off because they've been telling great cinematic stories for years now.
 
