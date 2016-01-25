@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Super Hero Movies of 2016
-date: '2016-11-25T09:00:00.000-05:00'
+date: '2016-01-25T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Comics
 - Movies
-modified_time: '2016-11-25T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_2016_superhero_movies_posters.jpg.jpg
-image: /public/images/blog/2016_superhero_movies_posters.jpg.jpg
+modified_time: '2016-01-25T09:00:00.000-05:00'
+thumbnail: /public/images/blog/tn_2016_superhero_movies_posters.jpg
+image: /public/images/blog/2016_superhero_movies_posters.jpg
 description: The Super Hero movies I'm looking forward to the most in 2016.
-header-img:
+header-img: /public/images/headers/superhero_movies_2016.jpg
 ---
 
 This year (2016), is looking to be an amazing year for comic book and superhero fans. There are so many movies coming out from both Marvel and DC that it's a stark reminder how great it is to be a fan.
@@ -81,6 +81,6 @@ Here's a calendar with the movies marked on it. I really like how the movies are
 
 I'm very much looking forward to viewing most super hero movies this year. Marvel has done an amazing job building out their cinematic universe and DC is attempting to catch up by throwing together a Justice League team in a very short time. I think what Marvel has been doing for years is paying off because they've been telling great cinematic stories for years now.
 
-My concern is that DC is making the mistakes that Marvel made years ago by diluting their properties between movies and TV without an obvious plan other than maybe a multi-verse view of things. But maybe DC needs to make those mistakes in order for them to correct it and make things right.
+My concern is that DC is making the mistakes that Marvel made years ago by diluting their properties between movies and TV without an obvious plan other than maybe a multi-verse view of things. But maybe DC needs to make those mistakes in order for them to correct it and make things right. Not that Marvel has everything great now either-- just look at how Fantastic Four, X-Men, Deadpool, etc. all within the disastrous grips of 20th Century Fox. Only recently did Marvel strike a deal with Sony to get some creative control of Spiderman back into the MCU.
 
-Not that Marvel has everything great now either-- just look at how Fantastic Four, X-Men, Deadpool, etc. all within the disastrous grips of 20th Century Fox. Only recently did Marvel strike a deal with Sony to get some creative control of Spiderman back into the MCU.
+This all being said, I'm still very grateful that all these comics are being turned into movies. The big screen is such an amazing place for story-telling and it's what I consider a better medium than comics themselves.

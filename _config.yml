@@ -35,6 +35,7 @@ sitemap:
 
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
   - jekyll-sitemap
 
 # StartBootstrap Clean-Blog Settings
