@@ -16,9 +16,9 @@ If you're running an ad-blocker, [click here](http://www.amazon.com/b/ref=as_sl_
 
 ## Digital Ocean
 
-<a href="https://www.digitalocean.com/?refcode=337d926651f1"><img src="/public/images/affiliates/ssd-virtual-servers-banner-468x60.jpg" alt="Digital Ocean" border="0" width="468" height="60" /></a>
+<a href="https://m.do.co/c/cbdbc78d2cc8"><img src="/public/images/affiliates/ssd-virtual-servers-banner-468x60.jpg" alt="Digital Ocean" border="0" width="468" height="60" /></a>
 
-If you're  running an ad-blocker, [click here](https://www.digitalocean.com/?refcode=337d926651f1).
+If you're  running an ad-blocker, [click here](https://m.do.co/c/cbdbc78d2cc8).
 
 ## Namecheap
 
@@ -32,7 +32,7 @@ If you're  running an ad-blocker, [click here](https://www.namecheap.com&#x2F;?a
 * [Copy](https://copy.com/?r=1u9vhV)
 * [Dropbox](https://db.tt/pHCTifn)
 * [Google Apps for Work](https://goo.gl/PsqXKA)
-* [Groupon](https://www.groupon.com/visitor_referral/h/22d54631-7618-4fd4-9e89-23073a35d97b)
+* [Groupon](https://www.groupon.com/visitor_referral/h/7c9de08b-6efc-45e7-a115-a1e4ab1d1eef)
 * [LastPass](https://lastpass.com/f?3306226)
 * [Nitrous.io](https://www.nitrous.io/join/eS1vRwA3uVY?utm_source=nitrous.io&utm_medium=copypaste&utm_campaign=referral)
 * [Parking Panda](https://www.parkingpanda.com/invite/sunpech)
