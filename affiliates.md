@@ -16,9 +16,9 @@ If you're running an ad-blocker, [click here](http://www.amazon.com/b/ref=as_sl_
 
 ## Digital Ocean
 
-<a href="https://www.digitalocean.com/?refcode=337d926651f1"><img src="/public/images/affiliates/ssd-virtual-servers-banner-468x60.jpg" alt="Digital Ocean" border="0" width="468" height="60" /></a>
+<a href="https://m.do.co/c/cbdbc78d2cc8"><img src="/public/images/affiliates/ssd-virtual-servers-banner-468x60.jpg" alt="Digital Ocean" border="0" width="468" height="60" /></a>
 
-If you're  running an ad-blocker, [click here](https://www.digitalocean.com/?refcode=337d926651f1).
+If you're  running an ad-blocker, [click here](https://m.do.co/c/cbdbc78d2cc8).
 
 ## Namecheap
 
