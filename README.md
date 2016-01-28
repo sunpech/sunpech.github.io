@@ -62,3 +62,4 @@ There is a folder called `best`, which contains pages regarding recommendations 
 * Move all images to be local, instead of hosted on blogspot.
 * Add Search feature
 * Prepare for Jekyll 3.0. See: [ 3.0 RELEASE GAMEPLAN #3324 ](https://github.com/jekyll/jekyll/issues/3324)
+* Consider Heroku. See: [How to deploy jekyll site to heroku](http://blog.bigbinary.com/2014/04/27/deploy-jekyll-to-heroku.html)
