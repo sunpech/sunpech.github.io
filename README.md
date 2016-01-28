@@ -19,7 +19,6 @@ Here are some helpful tips in creating a post, particularly in [front matter](ht
 * `description` - should be filled out for better Twitter Cards and Facebook Graph posts (optional).
 * `header-img` - can be set for custom header image. Should be 1900px wide. Also dim the photo, maybe 1-3 exposure stops.
 
-
 ### Embedding a YouTube video
 
 You can embed an iframe into a post, but to get it so it's responsive, use the following div and class around the iframe:
