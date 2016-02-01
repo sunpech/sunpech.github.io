@@ -3,8 +3,8 @@ layout: page
 title: Windows Software
 navigation: false
 best: true
-permalink: windows-software/
-header-img: /public/images/headers/software_development.jpg
+permalink: best/windows-software/
+header-img: /public/images/header_software_development.jpg
 ---
 
 I've put together a list of the best software for Windows PCs. These are all free, unless otherwise noted.

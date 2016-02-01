@@ -2,8 +2,8 @@
 layout: page
 title: Best Stuff
 navigation: true
-permalink: /
-header-img: /public/images/headers/joshua_tree.jpg
+permalink: best/
+header-img: /public/images/header_joshua_tree.jpg
 ---
 
 A list of some of the best stuff I've come across. Enjoy.

@@ -3,8 +3,8 @@ layout: page
 title: Mac Software
 navigation: false
 best: true
-permalink: mac-software/
-header-img: /public/images/headers/apple_galaxy.jpg
+permalink: best/mac-software/
+header-img: /public/images/header_apple_galaxy.jpg
 ---
 
 Mac OS X Mavericks is my main operating system now. I still use Windows and Linux a bit, but by far this is where I do most of my work.

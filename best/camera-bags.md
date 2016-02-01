@@ -3,8 +3,8 @@ layout: page
 title: Camera Bags
 navigation: false
 best: true
-permalink: camera-bags/
-header-img: /public/images/headers/old_cameras.jpg
+permalink: best/camera-bags/
+header-img: /public/images/header_old_cameras.jpg
 ---
 
 I own quite a few camera bags. These are my favorite that I feel comfortable recommending because I own them.

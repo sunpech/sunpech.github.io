@@ -3,8 +3,8 @@ layout: page
 title: Business Books
 navigation: false
 best: true
-permalink: business-books/
-header-img: /public/images/headers/best_business_books.jpg
+permalink: best/business-books/
+header-img: /public/images/header_best_business_books.jpg
 ---
 
 This may be bit more of a weird page. As some of these books aren't exactly business or economics exactly-- or rather purely, but they're books I enjoyed.
