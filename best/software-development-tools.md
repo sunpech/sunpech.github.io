@@ -3,8 +3,8 @@ layout: page
 title: Software Development Tools
 navigation: false
 best: true
-permalink: software-development-tools/
-header-img: /public/images/headers/software_development.jpg
+permalink: best/software-development-tools/
+header-img: /public/images/header_software_development.jpg
 ---
 
 I love using great tools to help me get my stuff done. These are my favorite tools I must install on my Mac or Windows for software development.
