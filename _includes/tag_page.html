@@ -1,4 +1,4 @@
-{% assign pt = page.url | remove: "/tag/" | remove: "/index.html" | replace: "-", " " %}
+{% assign pt = page.url | remove: "/tag/" | remove: "/index.html" | replace: "-", " " | remove: "/" %}
 
 <h2>Posts Tagged: {{ pt }}</h2>
 
