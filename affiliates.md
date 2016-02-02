@@ -29,7 +29,6 @@ If you're  running an ad-blocker, [click here](https://www.namecheap.com&#x2F;?a
 ## Other referral links
 
 * [Amazon Prime](http://www.amazon.com/dp/B00DBYBNEE?_encoding=UTF8&ref=mrp_10002_shr_cpbd_rf_d&refcust=AZGEHQ225EO67OKL5ORKHN6IYE)
-* [Copy](https://copy.com/?r=1u9vhV)
 * [Dropbox](https://db.tt/pHCTifn)
 * [Google Apps for Work](https://goo.gl/PsqXKA)
 * [Groupon](https://www.groupon.com/visitor_referral/h/7c9de08b-6efc-45e7-a115-a1e4ab1d1eef)
