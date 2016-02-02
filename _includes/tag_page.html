@@ -1,6 +1,6 @@
 {% assign pt = page.url | remove: "/tag/" | remove: "/index.html" | replace: "-", " " | remove: "/" %}
 
-<h2>Posts Tagged: {{ pt }}</h2>
+<h2>{{ pt }} tags</h2>
 
 <div>
   {% if site.tags[pt] %}
