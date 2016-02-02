@@ -15,7 +15,6 @@ For an always up to date list, check out my [Best Software List](https://github.
 
 #### Cloud Storage, Sync, and Backup
 
-* [Copy.com](https://copy.com/?r=1u9vhV) - My favorite cloud storage service.
 * [Drobo](http://www.drobo.com/) - Get the software, after the hardware.
 * [Google Drive](https://drive.google.com/) - Google's cloud service tied to your Gmail.
 * [OneDrive](https://onedrive.live.com/?invref=e8e0c21396a27dc4&invsrc=90) - Microsoft's cloud service.
@@ -73,7 +72,7 @@ For an always up to date list, check out my [Best Software List](https://github.
 
 #### Best Applications to Buy
 
-* [Adobe Createive Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
+* [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
 * [Airmail 2](https://itunes.apple.com/us/app/airmail-2.1/id918858936?mt=12) - Mail client that's better than default.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
 * [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement.
@@ -82,5 +81,3 @@ For an always up to date list, check out my [Best Software List](https://github.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
 * [Stock+ Pro](https://itunes.apple.com/us/app/stock-+-pro/id534067900?mt=12) - Monitor stocks.
 * [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Resize your windows without having to click on corners.
-
-<i>Last updated on June 12, 2015.</i>

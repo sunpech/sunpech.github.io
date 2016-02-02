@@ -15,7 +15,6 @@ For an always up to date list, check out my [Best Software List](https://github.
 
 #### Cloud Storage, Sync, and Backup
 
-* [Copy.com](https://copy.com/?r=1u9vhV) - My favorite cloud storage service.
 * [Drobo](http://www.drobo.com/) - Get the software, after the hardware.
 * [Google Drive](https://drive.google.com/) - Google's cloud service tied to your Gmail.
 * [OneDrive](https://onedrive.live.com/?invref=e8e0c21396a27dc4&invsrc=90) - Microsoft's cloud service.
@@ -67,6 +66,3 @@ For an always up to date list, check out my [Best Software List](https://github.
 * [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 * [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
 * [Slack](https://slack.com/) - Collaboration software for teams.
-
-
-<i>Last updated on June 12, 2015.</i>
