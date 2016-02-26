@@ -4,7 +4,7 @@ title: Camera Gear
 navigation: false
 best: true
 permalink: best/camera-gear/
-header-img: /public/images/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 *"The Best Camera Is The One That’s With You"* - Chase Jarvis
