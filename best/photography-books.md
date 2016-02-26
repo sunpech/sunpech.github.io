@@ -4,7 +4,7 @@ title: Photography Books
 navigation: false
 best: true
 permalink: best/photography-books/
-header-img: /public/images/header_old_cameras.jpg
+header-img: /public/images/headers/old_cameras.jpg
 ---
 
 I fell in love with photography a bit in high school during my junior/senior year. Throughout college I pretty much ignored my artistic side in favore of learning about computers and computer science. In 2010 I started to use my DSLR to once again enjoy the art of photography and story telling.
