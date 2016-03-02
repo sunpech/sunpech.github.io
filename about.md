@@ -22,7 +22,7 @@ I enjoy solving problems, and coding is one of the ways I go about creating solu
 
 I have [Github](http://github.com/sunpech) and [Bitbucket](http://bitbucket.org/sunpech) accounts where I host some of my projects-- most of which are private.
 
-I like to contribute my idle CPU cycles to help crunch some numbers for a good cause. See [Team Spong World Community Grid](/wcg/)
+I like to contribute my idle CPU cycles to help crunch some numbers for a good cause. See [Team Spong World Community Grid](http://wcg.spong.org/)
 
 I'm also a casual blogger. I've been blogging since 1999. I've written my own blog software using various tools back then. From Perl, PHP, MySQL, ASP, ASP.net, C#, and MSSQL. I've also used several blogging platforms from Wordpress, Posterous, Blogger, and finally to [Github pages](https://pages.github.com/) using [Jekyll](http://jekyllrb.com). My old blog is at: [spong.org](http://spong.org/).
 
