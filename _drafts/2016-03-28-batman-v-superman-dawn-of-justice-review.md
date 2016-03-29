@@ -20,7 +20,7 @@ You've been warned....
 
 ![Batman vs Superman](/public/images/blog/batman-v-superman.jpg)
 
-I [reviewed Man of Steel](/2013/06/man-of-steel-review) several years ago and gave it a generally positive review for *sci-fi Superman* reimagining.
+I [reviewed Man of Steel](/2013/06/man-of-steel-review) several years ago and gave it a generally positive review for a *sci-fi Superman* reimagining. I compared its grittiness to [Injustice: Gods Among Us](https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us), and Batman V Superman followed the same tone. And it's not suprising, given the the director was [Zack Snyder](http://www.imdb.com/name/nm0811583/). He was the producer and/or director for a number of films with a dark tone such as [300](http://www.imdb.com/title/tt0416449/), [Watchmen](http://www.imdb.com/title/tt0409459/), and [Sucker Punch](http://www.imdb.com/title/tt0978764/). It's as if DC executives liked [Christopher Nolan](http://www.imdb.com/name/nm0634240/)'s Batman films so much that they decided to make the entire DC cinematic universe in a similar fashion.
 
 #### Zack Snyder
 
@@ -28,13 +28,22 @@ I [reviewed Man of Steel](/2013/06/man-of-steel-review) several years ago and ga
 
 #### Batman
 
+[Ben Affleck](http://www.imdb.com/name/nm0000255/)'s Batman was one of the best parts of the film. It's as if they lifted the Dark Knight straight out of [Frank Miller](http://www.imdb.com/name/nm0588340/)'s work. The action sequences, Batman's voice changer device, and costume design exceeded my expectations. The interaction between Affleck and [Jeremy Irons](http://www.imdb.com/name/nm0000460/) as Alfred may be the most accurate depiction of the relationship on the big screen to date. Nearly a third of the film focused on scenes with Alfred and Batman, though, which slowed the tempo of the film somewhat and it felt odd for the film to focus so much on the Batman origin story. Some editing might have been helpful.
+
+This movie really shows how Batman is the general of the Justice League. He may not be the strongest or the fastest, but he knows the tactics of winning and is able to take on opponents more powerful than he is.
+
 ![Ben Affleck](/public/images/blog/ben-affleck.jpg)
 
 #### Wonder Woman
+
+My second favorite part of the whole film was Wonder Woman, because I wanted to see how they would depict her. [Gal Gadot](http://www.imdb.com/name/nm2933757/) did a marvelous job considering that she didn't have many lines or much screen time. I look forward to her [Wonder Woman](http://www.imdb.com/title/tt0451279/) film in 2017.
+
 ![Wonder Woman](/public/images/blog/wonder-woman-gal-gadot.jpg)
 
 #### Lex Luthor
 
-I wasn't a fan of Jesse Eisenberg's Lex Luthor, as I saw more quirky Eisenberg than Luthor. But at least they didnt make him all about real estate/property like all the previous movie incarnations. Perhaps this modern take appeals to today's millennials and tech business startups.
+I wasn't a fan of Jesse Eisenberg's Lex Luthor, as I saw more quirky [Jesse Eisenberg](http://www.imdb.com/name/nm0251986/) than Luthor. Many of his scenes took me out of the movie instead of convincing me that he is a brilliant businessman/politician who knows how to manipulate everyone around him. But at least they didn't make him all about real estate like the previous movie incarnations.
+
+Perhaps this modern take will appeal to today's millennials as we redefine what is a successful business mogul. It's not who has the most land anymore, it's about 
 
 ![Lex Luthor](/public/images/blog/lex-luthor-jesse-eisenberg.jpg)
