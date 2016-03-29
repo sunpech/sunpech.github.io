@@ -44,8 +44,19 @@ Perhaps this modern take will appeal to today's millennials as we redefine what 
 
 ![Lex Luthor](/public/images/blog/lex-luthor-jesse-eisenberg.jpg)
 
+[Doomsday](https://en.wikipedia.org/wiki/Doomsday_(comics) in this movie, is a creation of Lex Luthor using his own DNA and Kryptonian technology. I'm actually okay with this usage of the character in the third act resulting in the death of Superman. First, Doomsday is a brute (and gimmick from the comics during the early 1990s) that cannot be a main villain on his own. He cannot talk and his sole purpose is to destroy everything, and ultimately kill Superman. So his usage is fitting. Second, Superman also had to "die" for there to be calling for the creation of a Justice League. And there is no one better to do so than Batman.
+
 ### Final Thoughts
 
-Based off his past work, Snyder can put together visually stunning movies, but the script and story-telling is weak. That's basically the problem with BvS. The characters leaping in the air, standing or walking in a field, and jumping into a fight all looks great in his films, but it's being over-used.
+Based off his past work, Snyder can put together visually stunning movies, but the script and story-telling is weak. That's basically the problem with BvS. The characters leaping in the air, standing or walking in a field, and jumping into a fight all looks great in his films, but it's being over-used. The movie is two and a half hours long, with a lot of slow moments that could put you to sleep. The scenes with no dialogue were used for some visual appeal, but didn't really enhance the story, and should really be cut or replaced.
 
-The term, *meta-humsns*, is used to describe Wonder Woman, Cyborg, The Flash, and Aquaman in a an Lex Luthor's encrypted files. So are they lumping together all those with extraordinary abilities? There's a [DC Unified Origin Theory](https://www.youtube.com/watch?v=l_IlBq7j7oQ), which implies that both Wonder Woman and Aquaman are Kryptonians from long ago-- basically aliens. There's a part of me that's uncomfortable with this *Sci-Fi* origin to everything. It didnt work well for Star Wars with [midi-chlorians](http://starwars.wikia.com/wiki/Midi-chlorian), and it's not going to work here.
+The term, *meta-humans*, is used to describe Wonder Woman, Cyborg, The Flash, and Aquaman in a an Lex Luthor's encrypted files. So are they lumping together all those with extraordinary abilities? There's a [DC Unified Origin Theory](https://www.youtube.com/watch?v=l_IlBq7j7oQ), which implies that both Wonder Woman and Aquaman are Kryptonians from long ago-- basically aliens. There's a part of me that's uncomfortable with this *Sci-Fi* origin to everything. It didnt work well for Star Wars with [midi-chlorians](http://starwars.wikia.com/wiki/Midi-chlorian), and it's not going to work here. There's nothing wrong with asking the audience to suspend disbelief for fantasy, mythology, and certainly comics.
+
+DC is playing catch up with Marvel big time. They are rushing to push out a movie universe without first building up characters and stories. As much as I enjoyed Wonder Woman having a small part in this movie, I actually would have preferred her having an even smaller part, and more of the film being a conflict between Batman and Superman.
+
+#### Further Reading
+
+* [Batman: The Dark Knight Returns](http://amzn.to/1UYSXV1)
+* [Superman: The Death and Return of Superman Omnibus](http://amzn.to/22WirFj)
+* [Injustice: Gods Among Us Year One: The Complete Collection](http://amzn.to/1Tfzkbw)
+* [Flashpoint](http://amzn.to/22Wizog)
