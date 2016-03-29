@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Batman v Superman Dawn of Justice Review
-date: '2016-3-28T09:00:00.000-05:00'
+date: '2016-3-29T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Comics
 - Movies
 - Review
-modified_time: '2016-03-28T09:00:00.000-05:00'
+modified_time: '2016-03-29T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_batman-v-superman.jpg
 image: /public/images/blog/batman-v-superman.jpg
 description: "My review of the Batman vs Superman: Dawn of Justice movie. With spoilers."
@@ -48,4 +48,4 @@ Perhaps this modern take will appeal to today's millennials as we redefine what 
 
 Based off his past work, Snyder can put together visually stunning movies, but the script and story-telling is weak. That's basically the problem with BvS. The characters leaping in the air, standing or walking in a field, and jumping into a fight all looks great in his films, but it's being over-used.
 
-The term, *meta-humsns*, is used to describe Wonder Woman, Cyborg, The Flash, and Aquaman in a an Lex Luthor's encrypted files. There's a [DC Unified Origin Theory](https://www.youtube.com/watch?v=l_IlBq7j7oQ), 
+The term, *meta-humsns*, is used to describe Wonder Woman, Cyborg, The Flash, and Aquaman in a an Lex Luthor's encrypted files. So are they lumping together all those with extraordinary abilities? There's a [DC Unified Origin Theory](https://www.youtube.com/watch?v=l_IlBq7j7oQ), which implies that both Wonder Woman and Aquaman are Kryptonians from long ago-- basically aliens. There's a part of me that's uncomfortable with this *Sci-Fi* origin to everything. It didnt work well for Star Wars with [midi-chlorians](http://starwars.wikia.com/wiki/Midi-chlorian), and it's not going to work here.
