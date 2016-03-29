@@ -28,7 +28,7 @@ There was also an excessive amount of trailers for this movie that gave away so 
 
 [Ben Affleck](http://www.imdb.com/name/nm0000255/)'s Batman was one of the best parts of the film. It's as if they lifted the Dark Knight straight out of [Frank Miller](http://www.imdb.com/name/nm0588340/)'s work. The action sequences, Batman's altered voice and detective skills, and the costume designs all exceeded my expectations. The interactions between Affleck and [Jeremy Irons](http://www.imdb.com/name/nm0000460/) may be the most accurate depiction of the Batman/Alfred relationship on the big screen to date. It seems as though too much of the film focused on Batman's origin, which slowed the tempo of the film. Some editing might have been helpful as there was so much imagery that didn't really push the story of both Batman and Superman being orphans.
 
-This movie really shows how Batman is the captain of the upcoming Justice League movie. He may not be the strongest or the fastest, but he's the smartest and knows the tactics of winning and is able to take on opponents more powerful than he is.
+This movie really shows how Batman is the captain of the upcoming Justice League movie. He may not be the strongest or the fastest, but he's the smartest and knows the tactics of winning and is able to take on opponents more powerful than he is. And I'm fine with a Batman that uses guns or kills his enemies.
 
 ![Ben Affleck](/public/images/blog/ben-affleck.jpg)
 
@@ -44,7 +44,9 @@ Perhaps this modern take will appeal to today's millennials as we redefine what 
 
 ![Lex Luthor](/public/images/blog/lex-luthor-jesse-eisenberg.jpg)
 
-[Doomsday](https://en.wikipedia.org/wiki/Doomsday_(comics) in this movie, is a creation of Lex Luthor using his own DNA and Kryptonian technology. I'm actually okay with this usage of the character in the third act resulting in the death of Superman. First, Doomsday is a brute (and gimmick from the comics during the early 1990s) that cannot be a main villain on his own. He cannot talk and his sole purpose is to destroy everything, and ultimately kill Superman. So his usage is fitting. Second, Superman also had to "die" for there to be calling for the creation of a Justice League. And there is no one better to do so than Batman.
+[Doomsday](https://en.wikipedia.org/wiki/Doomsday_(comics) in this movie, is a creation of Lex Luthor using his own DNA and Kryptonian technology. I'm actually okay with this usage of the character in the third act resulting in the death of Superman. Doomsday is a brute that cannot be a movie villain on his own, not to mention a gimmick from the comics during the early 1990s. He cannot talk and his sole purpose is to destroy everything, and ultimately kill Superman. Looking at past *brutes* used in films, [Nuclear Man](http://superman.wikia.com/wiki/Nuclear_Man) and [Non](http://superman.wikia.com/wiki/Non) or examples, we see that none of them really talk or is very bright, and are simply there as a prop of the main villain-- [Zod](https://en.wikipedia.org/wiki/General_Zod) and Luthor in these cases.
+
+![Superman brutes](/public/images/blog/superman-brute-villains.jpg)
 
 ### Final Thoughts
 
@@ -52,7 +54,11 @@ Based off his past work, Snyder can put together visually stunning movies, but t
 
 The term, *meta-humans*, is used to describe Wonder Woman, Cyborg, The Flash, and Aquaman in a an Lex Luthor's encrypted files. So are they lumping together all those with extraordinary abilities? There's a [DC Unified Origin Theory](https://www.youtube.com/watch?v=l_IlBq7j7oQ), which implies that both Wonder Woman and Aquaman are Kryptonians from long ago-- basically aliens. There's a part of me that's uncomfortable with this *Sci-Fi* origin to everything. It didnt work well for Star Wars with [midi-chlorians](http://starwars.wikia.com/wiki/Midi-chlorian), and it's not going to work here. There's nothing wrong with asking the audience to suspend disbelief for fantasy, mythology, and certainly comics.
 
-DC is playing catch up with Marvel big time. They are rushing to push out a movie universe without first building up characters and stories. As much as I enjoyed Wonder Woman having a small part in this movie, I actually would have preferred her having an even smaller part, and more of the film being a conflict between Batman and Superman.
+DC is playing catch up with Marvel big time. They are rushing to push out a movie universe without first building up characters and stories. As much as I enjoyed Wonder Woman having a small part in this movie, I actually would have preferred her having an even smaller part, and more of the film being a conflict between Batman and Superman. The *versus* in Batman v Superman, is rather misleading as it's Lex Luthor that pushes them to fight. I was hoping that Luthor would be just manipulate them into fighting each other behind the scenes than outright kidnap Martha Kent.
+
+The ending with Superman's death is a rather necessity. Although grim and sad, it helps push Batman's cause to form a Justice League to combat his premonitions. I have hopes that things will get worse, but also better as the title, **Dawn of Justice**, implies that the light is coming.
+
+The movie isn't terrible, but it's definitely not great either. It's a movie that doesn't have great replay value, because there's nothing upbeat or cheery. I do hope this changes and not all of DC's films follow such a bleak tone.
 
 #### Further Reading
 
