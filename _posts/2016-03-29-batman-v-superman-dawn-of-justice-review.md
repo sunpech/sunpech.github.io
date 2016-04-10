@@ -38,6 +38,10 @@ I look forward to her [Wonder Woman](http://www.imdb.com/title/tt0451279/) film 
 
 ![Wonder Woman](/public/images/blog/wonder-woman-gal-gadot.jpg)
 
+[Henry Cavill](http://www.imdb.com/name/nm0147147/) is a great looking Superman, the best on screen we've seen thus far. I don't consider [Amy Adams](http://www.imdb.com/name/nm0010736/) as Lois Lane to be anything notable. It's not even her fault even, as the story doesn't leave much room for her and Superman's love story with all the fighting. I'm just not convinced that she's *his world*.
+
+![Superman and Lois](/public/images/blog/bvs_superman_lois_lane.jpg)
+
 I wasn't a fan of [Jesse Eisenberg](http://www.imdb.com/name/nm0251986/)'s Lex Luthor, as I saw more quirky Eisenberg than Luthor. Many of his scenes took me out of the movie instead of convincing me that he is a brilliant businessman/politician who knows how to manipulate everyone around him. For instance, the scene where Luthor had to give a speech at his own party in his own house should have been captivating-- instead it was just awkward.
 
 Perhaps this modern take will appeal to today's millennials as we redefine what is a successful business mogul. It's not who is the most rich, but who is most conniving, manipulative, and intelligent that seeks out and obtains power. The WB released a deleted scene, [Communion](https://www.youtube.com/watch?v=s-MUzvASr8s), which hints that Luthor knows more about whats to come than anyone. I'm open to where they are going with this new age Lex Luthor. The *real estate businessman* of the past films have been done to death.
@@ -51,6 +55,8 @@ Perhaps this modern take will appeal to today's millennials as we redefine what 
 ### Final Thoughts
 
 Based off his past work, Snyder can put together visually stunning movies, but the script and story-telling is weak. That's basically the problem with BvS. The characters leaping in the air, standing or walking in a field, and jumping into a fight all looks great in his films, but it's being over-used. The movie is two and a half hours long, with a lot of slow moments that could put you to sleep. The scenes with no dialogue were used for some visual appeal, but didn't really enhance the story, and should really be cut or replaced.
+
+The movie also suffers from trying to be too many things. Snyder seems to have pulled from too many source material and jamming it all into one movie, instead of trying to tell a simple story.
 
 The term, *meta-humans*, is used to describe Wonder Woman, Cyborg, The Flash, and Aquaman in a an Lex Luthor's encrypted files. So are they lumping together all those with extraordinary abilities? There's a [DC Unified Origin Theory](https://www.youtube.com/watch?v=l_IlBq7j7oQ), which implies that both Wonder Woman and Aquaman are Kryptonians from long ago-- basically aliens. There's a part of me that's uncomfortable with this *Sci-Fi* origin to everything. It didnt work well for Star Wars with [midi-chlorians](http://starwars.wikia.com/wiki/Midi-chlorian), and it's not going to work here. There's nothing wrong with asking the audience to suspend disbelief for fantasy, mythology, and certainly comics.
 
