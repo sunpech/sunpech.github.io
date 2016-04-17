@@ -21,4 +21,4 @@ header-img: /public/images/headers/console_wars.jpg
 
 * [Console Wars on Amazon](http://amzn.to/1RWN3PZ)
 * [The Gaming Historian's website](http://thegaminghistorian.com/)
-* [The Gaming Historian on YouTube](https://www.youtube.com/user/mcfrosticles)
+* [The Gaming Historian on YouTube](https://www.youtube.com/gaminghistorian)
