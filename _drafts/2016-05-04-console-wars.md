@@ -21,6 +21,7 @@ I first heard of the book through a recommended YouTube channel: [Gaming Histori
 
 Here are a few of my favorites:
 
+* [The Video Game Crash of 1983](https://www.youtube.com/watch?v=kv7DJrLAZus)
 * [Nintendo vs. Video Game Rentals](https://www.youtube.com/watch?v=J3xuy5YALl0)
 * [The Power Glove](https://www.youtube.com/watch?v=3g8JiGjRQNE)
 * [The Story of Super Mario Bros. 2](https://www.youtube.com/watch?v=2EUYSN5aFcE)
@@ -59,7 +60,7 @@ There were really two companies at Sega: Sega of Japan (SoJ) and Sega of America
 
 The [Sony Playstation](https://en.wikipedia.org/wiki/PlayStation_(console) platforms is the console system that I enjoyed for the long term. I have versions 1-3, I skipped out on the [PS4](https://en.wikipedia.org/wiki/PlayStation_4) because I just don't game much anymore. But the [PS2](https://en.wikipedia.org/wiki/PlayStation_2) is by far the best selling console ever, as for it's time in 2000, it also doubled as a DVD player-- much like the [PS3 ](https://en.wikipedia.org/wiki/PlayStation_3) also doubled as a Blu-ray player. Overall I just loved Sony's strategy was the one console you could have in your living room for all your entertainment needs.
 
-Nintendo was the cause for Sony to venture out to create a gaming system because they reportedly dropped an *agreed partnership* with them in favor of Phillips. Sega also seemingly showed how a company could compete against the giant that was Nintendo. Sony really benefited from the successes and mistakes made-- they truly were the third console system that had staying power in the 1990s. In case you forgot, there used to be [3DO](https://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer), [Atari Jaguar](https://en.wikipedia.org/wiki/Atari_Jaguar), and [NEC's Turbo-Grapfx](https://en.wikipedia.org/wiki/TurboGrafx-16) to name the more *popular* ones.
+Nintendo was the cause for Sony to venture out to create a gaming system because they reportedly dropped an *agreed partnership* with them in favor of Phillips. Sega also seemingly showed how a company could compete against the giant that was Nintendo. Sony really benefited from the successes and mistakes made by their predecessors-- they truly were the third console system that had staying power in the 1990s. In case you don't remember, there used to be [3DO](https://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer), [Atari Jaguar](https://en.wikipedia.org/wiki/Atari_Jaguar), and [NEC's Turbo-Grapfx](https://en.wikipedia.org/wiki/TurboGrafx-16) to name the more *popular* ones.
 
 ### Final Thoughts
 
@@ -67,9 +68,7 @@ I really like this book and recommend to anyone who grew up playing video games 
 
 Although the book is titled, *Console Wars: Sega, Nintendo, and the Battle that Defined a Generation*, it really contains material, roughly 90%, about Sega. There's not much content on Nintendo or Sony, which is unfortunate because it would given a more balanced view of the battle.
 
-In some way, this book feels like a volume one of a series of books that could come out. I can see a volume two being about the rise of Sony and how Nintendo made the mistake of sticking with cartridges for the [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64), and of course include material about the [Microsoft Xbox](https://en.wikipedia.org/wiki/Xbox) for the new generation of gamers.
-
-Volume 3 could be about [Twitch TV](https://www.twitch.tv/) and [YouTube Gamers](https://gaming.youtube.com/) and other streamers. But perhaps this would be 10-15 years in the future as video game streamers is happening right now.
+In some way, this book feels like a volume one of a series of books that could come out. I can see a volume two being about the rise of Sony and how Nintendo made the mistake of sticking with cartridges for the [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64), and of course include material about the [Microsoft Xbox](https://en.wikipedia.org/wiki/Xbox) for the new generation of gamers. Volume three could be about [Twitch TV](https://www.twitch.tv/) and [YouTube Gamers](https://gaming.youtube.com/) and other streamers. But perhaps this would be 10-15 years in the future as video game streamers and [eSports](https://en.wikipedia.org/wiki/ESports) is happening right now.
 
 If you crave stories that was left out, check out [Gaming Historian's](https://www.youtube.com/gaminghistorian) YouTube channel where you can learn about the [Game Genie](https://www.youtube.com/watch?v=PCvIZ80RIhE), [Nintendo 64DD](https://www.youtube.com/watch?v=_VYYsRAAvGU), or [Virtual Boy](https://www.youtube.com/watch?v=Jjz4bls_gPs). Or if you want to watch videos in a set, he's got a [playlist page](https://www.youtube.com/user/mcfrosticles/playlists) too.
 
