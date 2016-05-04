@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Reflecting on Console Wars
-date: '2016-05-03T09:00:00.000-05:00'
+date: '2016-05-04T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Books
 - Review
-modified_time: '2016-05-03T09:00:00.000-05:00'
+modified_time: '2016-05-04T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_console_wars.jpg
 image: /public/images/blog/console_wars.jpg
-description: My reflection on my gaming history after reading Blake J. Harris' book, Console Wars: Sega, Nintendo, and the Battle that Defined a Generation.
+description: "My reflection on my gaming history after reading Blake J. Harris's book, Console Wars: Sega, Nintendo, and the Battle that Defined a Generation."
 header-img: /public/images/headers/console-wars.jpg
 ---
 
