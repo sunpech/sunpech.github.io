@@ -52,6 +52,8 @@ The [GameBoy](https://en.wikipedia.org/wiki/Game_Boy) was my first big purchase 
 
 The [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis) was the console that all my friends wanted when we were in sixth grade. The marketing and games available were geared to kids that grew up on the NES, but wanted something more, especially for sports games. [Altered Beast](https://en.wikipedia.org/wiki/Altered_Beast) was a game that looked great and came bundled with the system. I remember playing this game on the demo system at [Kohl's](http://www.kohls.com/) while my mom shopped. The commercials and lines, *Welcome to the Next Level!* or [Sega scream](https://www.youtube.com/watch?v=xx-8QBX8qgc) were really well done, as I still remember it today.
 
+![Genesis Does Ad](/public/images/blog/genesis-ad.jpg)
+
 I personally never owned a Sega gaming console, but my sisters did with a [Sega Saturn](https://en.wikipedia.org/wiki/Sega_Saturn) and [Dreamcast](https://en.wikipedia.org/wiki/Dreamcast), both failures in terms of market penetration and lack of software/games. The release of both console systems was just poor, as I was more interested in the [Sony Playstation](https://en.wikipedia.org/wiki/PlayStation_(console), based on price alone. The [Game Gear](https://en.wikipedia.org/wiki/Game_Gear) was sought after device that only a few friends had-- most of us as kids already had GameBoys.
 
 There were really two companies at Sega: Sega of Japan (SoJ) and Sega of America (SoA). The conflicts within the company and poor decisions in how they priced their systems once Sony entered the playing field is the story of the rise and fall that was Sega. Their rise was in how they really were a better company for game developers/companies to work with than the iron clad grip that Nintendo enforced to partner with them and their ecosystem.
@@ -59,6 +61,8 @@ There were really two companies at Sega: Sega of Japan (SoJ) and Sega of America
 ### Sony
 
 The [Sony Playstation](https://en.wikipedia.org/wiki/PlayStation_(console) platforms is the console system that I enjoyed for the long term. I have versions 1-3, I skipped out on the [PS4](https://en.wikipedia.org/wiki/PlayStation_4) because I just don't game much anymore. But the [PS2](https://en.wikipedia.org/wiki/PlayStation_2) is by far the best selling console ever, as for it's time in 2000, it also doubled as a DVD player-- much like the [PS3 ](https://en.wikipedia.org/wiki/PlayStation_3) also doubled as a Blu-ray player. Overall I just loved Sony's strategy was the one console you could have in your living room for all your entertainment needs.
+
+![Playstation 1](/public/images/blog/playstation-one.jpg)
 
 Nintendo was the cause for Sony to venture out to create a gaming system because they reportedly dropped an *agreed partnership* with them in favor of Phillips. Sega also seemingly showed how a company could compete against the giant that was Nintendo. Sony really benefited from the successes and mistakes made by their predecessors-- they truly were the third console system that had staying power in the 1990s. In case you don't remember, there used to be [3DO](https://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer), [Atari Jaguar](https://en.wikipedia.org/wiki/Atari_Jaguar), and [NEC's Turbo-Grapfx](https://en.wikipedia.org/wiki/TurboGrafx-16) to name the more *popular* ones.
 
