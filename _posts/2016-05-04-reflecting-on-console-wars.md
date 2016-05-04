@@ -35,7 +35,7 @@ My first experience of the NES was my cousin's 8-bit Famicom console in Thailand
 
 Of course my mom did buy us a NES in 1988. It was the Nintendo Power Set with the power pads. In 1989, the [GameBoy](https://en.wikipedia.org/wiki/Game_Boy) was my first big purchase as a kid. I saved up $100 from mowing the lawn and various chores and snuck into [Auchan](https://en.wikipedia.org/wiki/Auchan) to buy the coveted device. My mom was surprised and furious that I did that behind her back. Looking back now, it was actually a good buy since none of the other mobile consoles did as well on price, marketing, or even hardware in terms of battery life.
 
-Back in the late 1980s, there was no Internet as we now know it. So we had a [Nintendo Power](https://en.wikipedia.org/wiki/Nintendo_Power) magazine subscription to not only keep us up to date on news, but to help us get through various NES games. By 1991, it was without question that we were going to upgrade to the 16-bit [Super Nintendo](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) since everyone-- that is my mom, sisters, and I enjoyed Nintendo family-oriented gaming system.
+Back in the late 1980s, there was no Internet as we now know it. So we had a [Nintendo Power](https://en.wikipedia.org/wiki/Nintendo_Power) magazine subscription to not only keep us up to date on news, but to help us get through various NES games. By 1991, it was without question that we were going to upgrade to the 16-bit [Super Nintendo](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) since everyone-- that is my mom, sisters, and I-- enjoyed Nintendo family-oriented gaming system.
 
 ![Nintendo Power magazines](/public/images/blog/nintendo-power-magazines.jpg)
 
