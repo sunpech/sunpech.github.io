@@ -7,8 +7,8 @@ tags:
 - Guide
 - Software Development
 modified_time: '2016-04-20T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_rails.jpg
-image: /public/images/blog/rails.jpg
+thumbnail: /public/images/blog/tn_ruby-on-rails.jpg
+image: /public/images/blog/ruby-on-rails.jpg
 description: How to remove sensitive information such as passwords and secrets from a Ruby on Rails git repository history.
 header-img: /public/images/headers/software_development.jpg
 ---
