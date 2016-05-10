@@ -30,9 +30,11 @@ Within the movie and MCU, I'm not convinced that Tony Stark and other Avengers w
 
 [Robert Downey Jr.](http://www.imdb.com/name/nm0000375/) has made Iron Man a much more interesting a character than the comics ever did. In 2008, the [first Iron Man movie](http://www.imdb.com/title/tt0371746/) started us all down a path towards the formation of the Avengers and the Marvel cinematic universe we all love. After the end credits, Nick Fury greets Tony and tells him he's part of a bigger universe, but just didn't know it yet.
 
-In [Iron Man 2](http://www.imdb.com/title/tt1228705/), the US government wants the Iron Man suit, weapons, and technologies. At the end of the senate hearing, Tony brazenly says no.
+In [Iron Man 2](http://www.imdb.com/title/tt1228705/), the US government wants the Iron Man suit, weapons, and technologies. At the end and throughout the senate hearing, Tony brazenly says no, they can't have it.
 
 ![Iron Man 2 Senate hearing](/public/images/blog/iron-man-2-senate.jpg)
+
+
 
 ### Captain America
 
@@ -53,4 +55,5 @@ In [Iron Man 2](http://www.imdb.com/title/tt1228705/), the US government wants t
 * [Kingdom Come](http://amzn.to/1T8ffSE) on Amazon
 * [Captain America: Civil War | Spoiler-Free Review](https://www.youtube.com/watch?v=w_UpkPIzZlc) by [Alachia Queen](https://www.youtube.com/user/queenalachia)
 * [Captain America Civil War Review | Spoilers on](https://www.youtube.com/watch?v=B5SeGu3Udn8) by [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)
+* [Captain America: Civil War Review - Fat Man on Batman 045](https://www.youtube.com/watch?v=LDAlnewl1A4) by [Kevin Smith](https://www.youtube.com/user/KevinSmith37)
 * [Civil War - The Complete Story](https://www.youtube.com/watch?v=Ed8UZprDgkw) read by [Comicstorian](https://www.youtube.com/user/comicstorian)

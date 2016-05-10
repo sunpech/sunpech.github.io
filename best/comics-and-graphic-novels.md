@@ -15,6 +15,7 @@ I've put together a list of my all time favorite comics and graphic novels. I ho
 
 Since I was little I've been a fan of both Superman and Batman. When I started to read comics as a teenager, I read more of the <a href="http://www.vertigocomics.com/">Vertigo</a> line of comics which had <a href="http://www.neilgaiman.com/">Neil Gaiman</a>'s Sandman and Books of Magic, both amazing pieces of fantasy.
 
+* [All Star Superman](http://amzn.to/1T47FpU)
 * [Batman: The Long Halloween](http://www.amazon.com/gp/product/1401232590/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1401232590&amp;linkCode=as2&amp;tag=sunpech-20)
 * [Batman: The Dark Knight Returns](http://www.amazon.com/gp/product/1563893428/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1563893428)
 * [Batman: Hush](http://www.amazon.com/gp/product/1401223176/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401223176&linkCode=as2&tag=sunpech-20&linkId=AWOJT7W2Y6WZTLYL)
@@ -58,25 +59,20 @@ I'm a fan of <a href="http://en.wikipedia.org/wiki/Robert_Kirkman">Robert Kirkma
 * [The Walking Dead: Compendium 2](http://www.amazon.com/gp/product/1607065967/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1607065967&amp;linkCode=as2&amp;tag=sunpech-20)
 * [The Walking Dead: Compendium 3](http://www.amazon.com/gp/product/1632154560/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1632154560&linkCode=as2&tag=sunpech-20&linkId=DX6KLUM44IHDTGGI)
 
-### Valiant
-
-[Valiant Entertainment](http://valiantuniverse.com/) has always has a special place in my set of comics. They're the only publisher where it was possible for a new comer of comics to sit down and read just about everything in their known universe without breaking the bank.
-
-* [Harbinger: Children of the Eighth Day]( http://www.amazon.com/gp/product/B000O2MIBS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000O2MIBS&amp;linkCode=as2&amp;tag=sunpech-20)
-* [Unity Saga: Volumes 1-4](http://www.amazon.com/gp/product/B001EH3YLA/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001EH3YLA&amp;linkCode=as2&amp;tag=sunpech-20)
-* [X-O Manowar: Retribution](http://www.amazon.com/gp/product/B000SHWAEO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000SHWAEO&amp;linkCode=as2&amp;tag=sunpech-20)
-
 ### Independent
 
-A lot of the hidden gems of story-telling comics are in the independent comics.
+A lot of the hidden gems of story-telling comics are in the independent comics. [Valiant Entertainment](http://valiantuniverse.com/) has always has a special place in my set of comics. They're the only publisher where it was possible for a new comer of comics to sit down and read just about everything in their known universe without breaking the bank.
 
 * [Big Damn Sin City (omnibus)](http://www.amazon.com/gp/product/1616552379/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1616552379&amp;linkCode=as2&amp;tag=sunpech-20&amp;linkId=BHLSLW5HI6LRWBX2)
 * [Bone: The Complete Cartoon Epic in One Volume](http://www.amazon.com/gp/product/188896314X/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=188896314X)
 * [The Complete Calvin and Hobbes](http://www.amazon.com/gp/product/1449433251/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1449433251&amp;linkCode=as2&amp;tag=sunpech-20)
+* [Harbinger: Children of the Eighth Day]( http://www.amazon.com/gp/product/B000O2MIBS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000O2MIBS&amp;linkCode=as2&amp;tag=sunpech-20)
 * [Locke and Key](http://www.amazon.com/gp/product/1631401394/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1631401394&linkCode=as2&tag=sunpech-20&linkId=CZUBJSJVHIHKCXH4)
 * [Making Comics: Storytelling Secrets of Comics, Manga and Graphic Novels](http://www.amazon.com/gp/product/0060780940/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0060780940&amp;linkCode=as2&amp;tag=sunpech-20)
 * [Reinventing Comics: How Imagination and Technology Are Revolutionizing an Art Form](http://www.amazon.com/gp/product/0060953500/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0060953500&amp;linkCode=as2&amp;tag=sunpech-20)
 * [Understanding Comics: The Invisible Art](http://www.amazon.com/gp/product/006097625X/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=006097625X)
+* [Unity Saga: Volumes 1-4](http://www.amazon.com/gp/product/B001EH3YLA/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001EH3YLA&amp;linkCode=as2&amp;tag=sunpech-20)
+* [X-O Manowar: Retribution](http://www.amazon.com/gp/product/B000SHWAEO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000SHWAEO&amp;linkCode=as2&amp;tag=sunpech-20)
 
 
-<i>Last Updated November 12, 2015.</i>
+*Last Updated May 10, 2016.*
