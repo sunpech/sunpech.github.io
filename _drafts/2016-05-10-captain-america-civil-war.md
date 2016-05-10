@@ -57,3 +57,4 @@ In [Iron Man 2](http://www.imdb.com/title/tt1228705/), the US government wants t
 * [Captain America Civil War Review | Spoilers on](https://www.youtube.com/watch?v=B5SeGu3Udn8) by [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)
 * [Captain America: Civil War Review - Fat Man on Batman 045](https://www.youtube.com/watch?v=LDAlnewl1A4) by [Kevin Smith](https://www.youtube.com/user/KevinSmith37)
 * [Civil War - The Complete Story](https://www.youtube.com/watch?v=Ed8UZprDgkw) read by [Comicstorian](https://www.youtube.com/user/comicstorian)
+* [The Avengers should agree to be placed under UN supervision](http://www.economist.com/news/diversions/21698458-avengers-should-agree-be-placed-under-un-supervision) via The Economist
