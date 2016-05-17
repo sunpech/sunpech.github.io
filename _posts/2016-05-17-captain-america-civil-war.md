@@ -10,7 +10,7 @@ tags:
 modified_time: '2016-05-17T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_captain-america-civil-war.jpg
 image: /public/images/blog/captain-america-civil-war.jpg
-description: "My review of Captain America: Civil War movie along with predictions for Phase 3 of the MCU. Spoilers will be everywhere. Oh, I also talk about Disney's The Incredibles."
+description: "My review of Captain America: Civil War movie along with predictions for Phase 3 of the MCU. I also talk about Disney's The Incredibles. Spoilers will be everywhere. "
 header-img: /public/images/headers/captain-america-civil-war.jpg
 ---
 
