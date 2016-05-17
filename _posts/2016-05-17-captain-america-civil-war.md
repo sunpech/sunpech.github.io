@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Captain America: Civil War"
-date: '2016-05-09T09:00:00.000-05:00'
+date: '2016-05-17T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Comics
 - Movies
 - Review
-modified_time: '2016-05-09T09:00:00.000-05:00'
+modified_time: '2016-05-17T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_captain-america-civil-war.jpg
 image: /public/images/blog/captain-america-civil-war.jpg
-description: "My review of Captain America: Civil War movie. Spoilers will be everywhere."
+description: "My review of Captain America: Civil War movie along with predictions for Phase 3 of the MCU. Spoilers will be everywhere. Oh, I also talk about Disney's The Incredibles."
 header-img: /public/images/headers/captain-america-civil-war.jpg
 ---
 
@@ -150,7 +150,7 @@ The Avengers' initiative was formed because the planet would need Earth's mighti
 
 I'm hoping there will be an scene, possibly an post credits scene in [Thor: Ragnarok](http://www.imdb.com/title/tt3501632/) where [The Watcher](https://en.wikipedia.org/wiki/Watcher_(comics)) appears on the moon, looking upon Earth.
 
-The beginning of Phase Three has the tone of [Star Wars: The Empire Strikes Back](http://www.imdb.com/title/tt0080684/). They've come a long way to come together as a team, but have lost their footing and are separated. We don't know how they are going to get back up and come together  before the ultimate confrontation.
+Captain America: Civil War has the tone of [Star Wars: The Empire Strikes Back](http://www.imdb.com/title/tt0080684/). They've come a long way to come together as a team, but have lost their footing and are separated. We don't know how they are going to get back up and come together  before the ultimate confrontation. We're only at the beginning of Phase 3, there's so much more to come!
 
 ![Marvel Phase 3](/public/images/blog/marvel-phase-3.jpg)
 
