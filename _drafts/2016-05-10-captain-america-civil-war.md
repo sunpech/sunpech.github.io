@@ -50,7 +50,7 @@ The issues present in Civil War is found in [Disney's The Incredibles](http://ww
 
 The office scene with Gilbert Huph (Mr. Incredible) and his boss Bob, there are two sets of dialogue that shows just what can happen when a business or institution has their own agenda against helping people.
 
-##### How Customers Beat the Insurance System:
+#### How Customers Beat the Insurance System:
 
 >**Bob:** Did I do something illegal?
 
@@ -64,7 +64,7 @@ The office scene with Gilbert Huph (Mr. Incredible) and his boss Bob, there are 
 
 >**Gilbert Huph:** We're supposed to help *our* people! Starting with our stockholders, Bob! Who's helping them out, Huh?
 
-##### A Man Getting Mugged:
+#### A Man Getting Mugged:
 
 >**Gilbert Huph:** Look at me when I'm talking to you, Parr!
 
