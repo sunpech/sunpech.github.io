@@ -18,7 +18,7 @@ This is my [Captain America: Civil War](http://www.imdb.com/title/tt3498820/) re
 
 I've watched the movie *twice* now and I really like it. I even enjoyed it more the second time. Not only does it complete a trilogy of the Captain America movies, it also sets up Phase 3 of the MCU.
 
-The [Russo brothers](https://en.wikipedia.org/wiki/Russo_brothers) did an excellent job directing some of the best comic book based movies of all time and I can't wait for them to start with the Avengers Infinity War series. I'm amazed with how they handled action movies considering they are known for doing episodes of [Arrested Development](http://www.imdb.com/title/tt0367279/) and [Community](http://www.imdb.com/title/tt1439629/).
+The [Russo brothers](https://en.wikipedia.org/wiki/Russo_brothers) did an excellent job directing some of the best comic book based movies of all time and I can't wait for them to start with the Avengers Infinity War series. I'm amazed with how they handled action movies, considering that they are known for doing episodes of [Arrested Development](http://www.imdb.com/title/tt0367279/) and [Community](http://www.imdb.com/title/tt1439629/).
 
 ![Captain America Civil War](/public/images/blog/captain-america-civil-war.jpg)
 
@@ -36,7 +36,7 @@ I agree with Steve Rogers, *the safest hands are always your own.*
 
 ![MCU Hydra](/public/images/blog/mcu-hydra.jpg)
 
- During the Battle of New York, the WSC's decision was to nuke the city to save the world. In [Captain America: The Winter Soldier](http://www.imdb.com/title/tt1843866/), the helicarriers was taken over by Hydra and were repurposed into global massive killing flying battleships. Both were terrible ideas that Iron Man and Captain America each had to fix.
+ During the Battle of New York, the WSC's decision was to nuke the city to save the world. In [Captain America: The Winter Soldier](http://www.imdb.com/title/tt1843866/), the helicarriers were taken over by Hydra and were repurposed into global massive killing flying battleships. Both were terrible ideas that Iron Man and Captain America each had to fix.
 
 In [Captain America: The First Avenger](http://www.imdb.com/title/tt0458339/), Steve Rogers disobeys Colonel Chester Phillips and goes off to rescue Bucky and a hundred other captured US soldiers from the Hydra Nazis. This shows that Rogers not only has a strong friendship with Barnes but is also willing to do what he felt was right rather than be beholden to an authority.
 
