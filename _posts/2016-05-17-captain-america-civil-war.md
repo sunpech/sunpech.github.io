@@ -94,13 +94,13 @@ The [Civil War series](https://en.wikipedia.org/wiki/Civil_War_(comics)) makes a
 
 In the literature, the X-Men, Fantastic Four, Avengers, and other lesser known teams all co-exist in one universe. The MCU is much smaller as we know it. If anything, the MCU is one universe in multiple universes if you want to count Fox, Sony, and Universal as separate studio universes-- although you can say that Sony and MCU have merged with Spider-Man.
 
-What makes the comics situation more compelling is that there are more catastrophic incidents with more heroes, villains, and victims at play. The New Warriors were running a reality TV show and took on more than they could, didn't have sufficient training, and their action was worse than if they didn't act at all. Their goal was to look good for TV and celebrity status, not save people.
+What makes the comics situation more compelling is that there are more catastrophic incidents with more heroes, villains, and victims at play. The New Warriors were running a reality TV show and took on more than they could handle, didn't have sufficient training, and their action only made things worse. Their goal was to look good for TV and celebrity status, not save people.
 
 ![Marvel Civil War Comic](/public/images/blog/marvel-civl-war-comic.jpg)
 
 ### Iron Man
 
-In 2008, the [first Iron Man movie](http://www.imdb.com/title/tt0371746/) started us all down a path towards the formation of the Avengers and the Marvel cinematic universe we all love. In [Iron Man 2](http://www.imdb.com/title/tt1228705/), the US government wants the Iron Man suit, weapons, and technologies. Tony flat out tells them, "You want my property, you can't have it!" At the end of the movie, S.H.I.E.L.D.'s assessment approved Iron Man for the Avengers Initiative, but not Tony Stark because he had compulsive behavior, self-destructive tendencies, and textbook narcissism.
+In 2008, the [first Iron Man movie](http://www.imdb.com/title/tt0371746/) started us all down a path towards the formation of the Avengers and the MCU we all love. In [Iron Man 2](http://www.imdb.com/title/tt1228705/), the US government wants the Iron Man suit, weapons, and technologies. Tony flat out tells them, "You want my property, you can't have it!" At the end of the movie, S.H.I.E.L.D.'s assessment approved Iron Man for the Avengers Initiative, but not Tony Stark because he had compulsive behavior, self-destructive tendencies, and textbook narcissism.
 
 ![Iron Man 2 Senate hearing](/public/images/blog/iron-man-2-senate-hearing-2.jpg)
 
