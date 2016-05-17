@@ -163,7 +163,7 @@ Captain America: Civil War has the tone of [Star Wars: The Empire Strikes Back](
 
 #### More Civil War Reviews
 
-* [Captain America: Civil War | Spoiler Review](https://www.youtube.com/watch?v=xynTpvaRdKA) by [Alachia Queen](https://www.youtube.com/user/queenalachia)
-* [Captain America Civil War Review | Spoilers on](https://www.youtube.com/watch?v=B5SeGu3Udn8) by [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)
+* [Captain America: Civil War  Spoiler Review](https://www.youtube.com/watch?v=xynTpvaRdKA) by [Alachia Queen](https://www.youtube.com/user/queenalachia)
+* [Captain America Civil War Review  Spoilers on](https://www.youtube.com/watch?v=B5SeGu3Udn8) by [Comic Book Girl 19](https://www.youtube.com/user/comicbookgirl19)
 * [Captain America: Civil War Review - Fat Man on Batman 045](https://www.youtube.com/watch?v=LDAlnewl1A4) by [Kevin Smith](https://www.youtube.com/user/KevinSmith37)
 * [Captain America Civil War SPOILERS Movie Review](https://www.youtube.com/watch?v=NZ2284zr5uw) by [Beyond The Trailer](https://www.youtube.com/user/BeyondTheTrailer)
