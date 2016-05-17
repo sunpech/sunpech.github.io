@@ -140,7 +140,7 @@ Tony Stark had a vision of the fallen Avengers in space in Age of Ultron. The sc
 
 ![Iron Man's vision in Age of Ultron](/public/images/blog/iron-man-captain-america-age-of-ultron.jpg)
 
-I predict that Spider-Man is going to switch to Team Cap by the end of his own movie. Tony Stark irresponsibly brought in a teenage Peter Parker, that had no formal training into the airport battle. Imagine if he had hurt someone or was seriously hurt himself? He was told everything by an agenda-driven Tony Stark. *Go for Cap's legs. He's wrong.* Peter Parker was just fed this without a chance to think about it himself.
+I predict that Spider-Man is going to switch to Team Cap by the end of his own movie. Tony Stark irresponsibly brought in a teenage Peter Parker, who had no formal training into the airport battle. Imagine if he had hurt someone or was seriously hurt himself? He was told everything by an agenda-driven Tony Stark. *Go for Cap's legs. He's wrong.* Peter Parker was just fed this without a chance to think about it himself.
 
 The idea for regulation of enhanced beings by the UN isn't outright wrong. The concerning part is that it requires registration, and any non-complying participant is deemed an enemy to the world governments, punishable by being locked up in an underground ocean prison.
 
