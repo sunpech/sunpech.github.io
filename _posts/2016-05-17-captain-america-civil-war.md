@@ -160,6 +160,8 @@ Captain America: Civil War has the tone of [Star Wars: The Empire Strikes Back](
 * [Kingdom Come](http://amzn.to/1T8ffSE) - DC's futuristic world where heroes have gotten out of control.
 * [Civil War - The Complete Story](https://www.youtube.com/watch?v=Ed8UZprDgkw) read by [Comicstorian](https://www.youtube.com/user/comicstorian)
 * [The Avengers should agree to be placed under UN supervision](http://www.economist.com/news/diversions/21698458-avengers-should-agree-be-placed-under-un-supervision) via The Economist (Yes, it's a bit silly)
+* [The un-American Captain America](http://www.vox.com/2016/5/18/11692644/unamerican-captain-america-civil-war) by [Ezra Klein](http://www.vox.com/authors/ezra-klein)
+* [Captain America: Civil War: in defense of Captain America](http://www.vox.com/2016/5/19/11700560/captain-america-civil-war-defense-captain-america) by [Alex Abad-Santos](http://www.vox.com/authors/alex-abad-santos)
 
 #### More Civil War Reviews
 
