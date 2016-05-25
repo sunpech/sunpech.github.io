@@ -31,7 +31,7 @@ If you're  running an ad-blocker, [click here](https://www.namecheap.com&#x2F;?a
 * [Amazon Prime](http://www.amazon.com/dp/B00DBYBNEE?_encoding=UTF8&ref=mrp_10002_shr_cpbd_rf_d&refcust=AZGEHQ225EO67OKL5ORKHN6IYE)
 * [Dropbox](https://db.tt/pHCTifn)
 * [Google Apps for Work](https://goo.gl/PsqXKA)
-* [Groupon](https://www.groupon.com/visitor_referral/h/7c9de08b-6efc-45e7-a115-a1e4ab1d1eef)
+* [Groupon](https://www.groupon.com/visitor_referral/h/6f92ebed-203f-48bb-a581-2ae84791f038)
 * [LastPass](https://lastpass.com/f?3306226)
 * [Lenstag](https://www.lenstag.com/invite/7gb07)
 * [Nitrous.io](https://www.nitrous.io/join/eS1vRwA3uVY?utm_source=nitrous.io&utm_medium=copypaste&utm_campaign=referral)
