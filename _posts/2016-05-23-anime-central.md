@@ -28,9 +28,9 @@ I was surprised by the number of people after the formal con hours. It seems as 
 
 I was impressed with the quality of cosplay at ACen. I didn't think I would find such great subjects to photograph. I say this because I'm used to attending AX where the bar for cosplay is set pretty high.
 
-However, many of the great cosplayers I saw didn't hang out in the main lobby. A few of them were in the hotel lobby or outside near the gatherings and meetups. I walked back and forth all day long-- to put it in context, I walked more on Friday at ACen than on any day at [San Diego Comic Con](http://www.comic-con.org/cci) last year. For future reference, I walked just under 12 miles.
+However, many of the great cosplayers I saw didn't hang out in the main lobby. A few of them were in the hotel lobby or outside near the gatherings and meetups. I walked back and forth all day long-- to put it in context, I walked more on Friday at ACen than on any day at [San Diego Comic Con](http://www.comic-con.org/cci) last year.
 
-One things I love about cosplay at anime conventions is that it encompasses everything from comics, anime, manga, movies, TV shows, Disney, zombies, cartoons, to video games. The community is very open and inclusive to all forms of fandom.
+One of the things I love about cosplay at anime conventions is how it encompasses everything from comics, anime, and manga to movies, TV shows, Disney, and cartoons, and even includes zombies and video games. The community is very open and inclusive to all forms of fandom.
 
 ### Cosplay Day 1 Favorites
 
@@ -65,7 +65,7 @@ My favorite cons to go to are San Diego Comic Con and Anime Expo, but they're bo
 There are a few things that I think they could do to improve the overall con experience:
 
 1. **Security** - I never saw a weapons check booth. Plus many security guards were very lax on where people could enter/exit.
-2. **Traffic** - At the con there seemed to be enough traffic guards, but the intersections just 1-2 blocks North on River Road didn't have sufficient guidance for cars and people. *This may be out of the hands of ACen staff though.*
+2. **Traffic** - At the con there seemed to be enough traffic guards, but the intersections just 1-2 blocks north on River Road didn't have sufficient guidance for cars and people. *This may be out of the hands of ACen staff though.*
 3. **Cosplay** - There are a lot of cosplayers just hanging out everywhere, there should be sections with backdrops with the ACen logos for photo ops. This should be in the main lobby where everyone hangs out anyway.
 
 Anime Central is a great convention. I'd like to see it grow and offer anime, comic, and entertainment fans even more great panels, guests, and shows. I am reminded every time I attend a convention that I'm getting old. My first comic convention was in 1995, more than twenty years ago! Back then, it was just a comic convention for mostly guys that didn't cater to girls or families. The only girls you saw back in the 90s were booth babes. ACen and other conventions today are bridging the gender gap and being more family-friendly. Being a geek today has never been so good, and it keeps getting better.
