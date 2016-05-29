@@ -95,6 +95,16 @@ If you want to understand and appreciate the history of the X-Men more, check ou
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NjGUE8XaUn4?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
+## X-Men TV Show
+
+**A television show would be a better medium than movies for the X-Men.**
+
+I remember when the [Heroes TV series](http://www.imdb.com/title/tt0813715/) came out and was really excited. It was a show about individuals with special powers and how they deal with it spread across an entire season. It was a huge hit until season 2, when the writing quality just went downhill.
+
+![Heroes TV Series](/public/images/blog/heroes-tv-series.jpg)
+
+I can imagine an X-Men show being about mutants discovering their ability and being recruited to the Xavier School for Gifted Youngsters. There they are taught how to use their powers to find others, solve problems, and common things that you can parallel between those in real life that feel discriminated against or left out. Stories don't have to be about the end of the world every time! I'd love to see a show about heroes with powers done right!
+
 ## Final Thoughts
 
 **I'd like the X-Men franchise to reboot**, minus what we've seen in Deadpool. Get Bryan Singer out and bring in a new director with a better vision. There's a lot of continuity problems, yet he wants to [reunite the old cast in a future movie](http://movieweb.com/x-men-original-cast-reunite-future-movie-bryan-singer/). There are other mutants besides Wolverine, Cyclops, Jean Grey, Storm, Professor X, and Magneto. That's what made First Class great, it broke away from the same core movie X-Men. Singer also really likes blowing up mansions and destroying bridges. The imagery and CG is over used and has become a joke now.
