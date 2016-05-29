@@ -97,13 +97,17 @@ If you want to understand and appreciate the history of the X-Men more, check ou
 
 ## X-Men TV Show
 
-**A television show would be a better medium than movies for the X-Men.**
+**An X-Men television show would be a better medium than movies.**
 
 I remember when the [Heroes TV series](http://www.imdb.com/title/tt0813715/) came out and was really excited. It was a show about individuals with special powers and how they deal with it spread across an entire season. It was a huge hit until season 2, when the writing quality just went downhill.
 
 ![Heroes TV Series](/public/images/blog/heroes-tv-series.jpg)
 
-I can imagine an X-Men show being about mutants discovering their ability and being recruited to the Xavier School for Gifted Youngsters. There they are taught how to use their powers to find others, solve problems, and common things that you can parallel between those in real life that feel discriminated against or left out. Stories don't have to be about the end of the world every time! I'd love to see a show about heroes with powers done right!
+I can imagine an X-Men show being about mutants discovering their ability and being recruited to the Xavier School for Gifted Youngsters. There they are taught how to use their powers to find others, solve problems, and common things that you can parallel between those in real life that feel discriminated against or left out. Stories don't have to be about the end of the world every time!
+
+The problem with movie medium is that it always seems to have to be about a big catastrophic event. The best storytelling and character building should be around everyday things. Plus I don't see a reason why they can't do both, movie and TV. The X-Men universe is big enough that they could.
+
+I'd love to see a show about heroes with powers done right!
 
 ## Final Thoughts
 
