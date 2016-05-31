@@ -83,7 +83,9 @@ There have been nine X-Men movies thus far, *and I'm being generous and counting
 
 ## Epic History X-Men
 
-If you want to understand and appreciate the history of the X-Men more, check out the video documentary series by [Comicbookgirl 19](https://vimeo.com/comicbookgirl19). Volume 3 should be out very soon by the time this blog post is published.
+If you want to understand and appreciate the history of the X-Men more, check out the video documentary series by [Comicbookgirl 19](https://vimeo.com/comicbookgirl19). ~~Volume 3 should be out very soon by the time this blog post is published.~~
+
+**Update**: Volume 3 is available for purchase here: [Epic History X-Men, Volume 3: The Dark Phoenix Saga](https://vimeo.com/ondemand/epichistoryxmen/168612048)
 
 ### Volume 1: The 60s Era
 <div class="video-container">
@@ -94,6 +96,8 @@ If you want to understand and appreciate the history of the X-Men more, check ou
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NjGUE8XaUn4?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
 
 ## X-Men TV Show
 
