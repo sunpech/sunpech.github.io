@@ -81,7 +81,7 @@ In some way, this book feels like the first volume of a series of books that cou
 
 I do hope more books like this comes out that cover the different gaming eras. But for now, if you want more you can check out the many retro gaming content that is on YouTube and the rest of the Internet.
 
-#### The Gaming Historian
+### The Gaming Historian
 
 I first heard of the book through a recommended YouTube channel: [Gaming Historian](https://www.youtube.com/gaminghistorian), a retro-gaming documentary series by [Norman Caruso](http://www.imdb.com/name/nm4752197/). He has a ton of great high quality and well researched videos, definitely check out his channel if you are into classic gaming.
 
@@ -96,7 +96,7 @@ A few relevant videos to the book:
 
 ![Gaming Historian](/public/images/blog/gaming_historian.jpg)
 
-#### Links
+### Links
 
 * [Console Wars, by Blake J. Harris on Amazon](http://amzn.to/1RWN3PZ)
 * [Gaming Historian's website](http://thegaminghistorian.com/)
