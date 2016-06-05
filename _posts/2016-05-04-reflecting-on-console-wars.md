@@ -93,6 +93,7 @@ A few relevant videos to the book:
 * [Tengen: Atari Games vs. Nintendo](https://www.youtube.com/watch?v=fLA_d9q6ySs)
 * [Nintendo's 3 Biggest Mistakes](https://www.youtube.com/watch?v=iW_MEKWTguA)
 * [Sega Dreamcast](https://www.youtube.com/watch?v=6xdBVHSrdzg)
+* [CrashCourse Games Playlist](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
 
 ![Gaming Historian](/public/images/blog/gaming_historian.jpg)
 
