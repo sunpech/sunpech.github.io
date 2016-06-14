@@ -24,7 +24,7 @@ If you're  running an ad-blocker, [click here](https://www.digitalocean.com/?ref
 
 <a href="https://www.namecheap.com/?aff=63676"><img src="http://files.namecheap.com/graphics/linkus/468x60-4.gif" width="468" height="60" border="0" alt="Namecheap.com"></a>
 
-If you're  running an ad-blocker, [click here](https://www.namecheap.com&#x2F;?aff=63676).
+If you're  running an ad-blocker, [click here](https://www.namecheap.com/aff=63676).
 
 ## Other referral links
 
@@ -34,7 +34,6 @@ If you're  running an ad-blocker, [click here](https://www.namecheap.com&#x2F;?a
 * [Groupon](https://www.groupon.com/visitor_referral/h/6f92ebed-203f-48bb-a581-2ae84791f038)
 * [LastPass](https://lastpass.com/f?3306226)
 * [Lenstag](https://www.lenstag.com/invite/7gb07)
-* [Nitrous.io](https://www.nitrous.io/join/eS1vRwA3uVY?utm_source=nitrous.io&utm_medium=copypaste&utm_campaign=referral)
 * [Parking Panda](https://www.parkingpanda.com/invite/sunpech)
 * [StatusCake](https://www.statuscake.com/?aff=22752)
 * [Trello](https://trello.com/sunpech/recommend)

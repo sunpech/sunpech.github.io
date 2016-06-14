@@ -37,24 +37,24 @@ My favorite spot was the Aon Center. I went up to the 71st floor and had a 360 d
 
 ### Other Shots
 
-Like [before](/2015/09/adams-wabash-cta-station/), I processed them to be black and white. You can see more photos in my [Facebook Chicago album](https://www.facebook.com/media/set/?set=a.951834838214874.1073741896.408588035872893&type=3).
+Like [before](/2015/09/adams-wabash-cta-station), I processed them to be black and white. You can see more photos in my [Facebook Chicago album](https://www.facebook.com/media/set/?set=a.951834838214874.1073741896.408588035872893&type=3).
 
 #### The Oriental Theatre
 
-![](/public/images/blog/open_house_chicago_2015_01.jpg)
+![Open House Chicago 1](/public/images/blog/open_house_chicago_2015_01.jpg)
 
 #### South view of Chicago from the Aon Center
 
-![](/public/images/blog/open_house_chicago_2015_02.jpg)
+![Open House Chicago 2](/public/images/blog/open_house_chicago_2015_02.jpg)
 
 #### A view of the Chicago Bean (Cloud Gate) from the Aon Center
 
-![](/public/images/blog/open_house_chicago_2015_03.jpg)
+![Open House Chicago 3](/public/images/blog/open_house_chicago_2015_03.jpg)
 
 #### The staircase at the Rookery
 
-![](/public/images/blog/open_house_chicago_2015_04.jpg)
+![Open House Chicago 4](/public/images/blog/open_house_chicago_2015_04.jpg)
 
 #### Chicago Board of Trade
 
-![](/public/images/blog/open_house_chicago_2015_05.jpg)
+![Open House Chicago 5](/public/images/blog/open_house_chicago_2015_05.jpg)
