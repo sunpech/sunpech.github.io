@@ -14,7 +14,7 @@ redirect_from: /2008/07/finished-reading-groundswell.html
 header-img: /public/images/headers/technology.jpg
 ---
 
-I just finished reading <a href="http://www.amazon.com/gp/product/1422125009?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1422125009">Groundswell: Winning in a World Transformed by Social Technologies</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=as2&amp;o=1&amp;a=1422125009" style="border: none !important; margin: 0px !important;" width="1" />.  Probably one of the best books I've read this year thus far.
+I just finished reading <a href="http://www.amazon.com/gp/product/1422125009?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1422125009">Groundswell: Winning in a World Transformed by Social Technologies</a><img  border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=as2&amp;o=1&amp;a=1422125009" style="border: none !important; margin: 0px !important;" width="1" />.  Probably one of the best books I've read this year thus far.
 
 <blockquote>
 <i>What Is Groundswell? It's a book by two Forrester analysts with practical, data-based strategies for companies that want to harness the power of social technologies like blogs, social networks, and YouTube. (source: <a href="http://www.forrester.com/Groundswell">Forrester</a>)</i></blockquote>
@@ -23,4 +23,4 @@ I absolutely love reading case studies in these IT Business books.  I finished m
 
 My plan isn't about using any of these technologies/methodologies for the sake of using something cool, but rather from a problem/solution point-of-view.  What is the problem?  What is a potential solution?
 
-<a href="http://www.amazon.com/gp/product/1422161986/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1422161986"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=1422161986&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" /></a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=as2&amp;o=1&amp;a=1422161986" style="border: none !important; margin: 0px !important;" width="1" />
+<a href="http://www.amazon.com/gp/product/1422161986/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1422161986"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=1422161986&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" /></a><img  border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=as2&amp;o=1&amp;a=1422161986" style="border: none !important; margin: 0px !important;" width="1" />

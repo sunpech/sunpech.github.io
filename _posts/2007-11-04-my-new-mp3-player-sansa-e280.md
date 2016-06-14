@@ -19,4 +19,4 @@ I got myself a new mp3 player, the <a type="amzn" asin="B000HZ9CCA">Sansa e280</
 
 What I love about my new toy is that I don't need any bloated program to copy music, videos, pictures, or other data formats onto my device.  I just drag and drop files in.  It's also inexpensive compared with the iPod and it's got a built in FM tuner!  Plus, on top of all that, as a technocrat, I'm starting to get sick of hearing about Steve Jobs and Apple.  Let's just say that I consider them over-rated.
 
-<img border="0" src="http://1.bp.blogspot.com/_7U5MdumP-no/Ry30XI_pzwI/AAAAAAAAAMk/AbpH5ogrTNk/s320/sansa_e280.jpg" alt="" id="BLOGGER_PHOTO_ID_5129024229033496322" border="0" />
+<img border="0" src="http://1.bp.blogspot.com/_7U5MdumP-no/Ry30XI_pzwI/AAAAAAAAAMk/AbpH5ogrTNk/s320/sansa_e280.jpg"  id="BLOGGER_PHOTO_ID_5129024229033496322" border="0" />

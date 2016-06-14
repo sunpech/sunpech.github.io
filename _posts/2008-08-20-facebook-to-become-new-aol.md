@@ -16,11 +16,11 @@ header-img: /public/images/headers/technology.jpg
 
 I used to use <a href="http://en.wikipedia.org/wiki/Prodigy_(ISP)">Prodigy</a> as my Internet Service Provider (ISP) back in the 1990s.  It was fun to post to bulletin boards and participate in various discussions.  I then jumped over to use <a href="http://en.wikipedia.org/wiki/AOL">America Online</a> (AOL) because of it's nicer interface, live chat rooms, email, instant messaging, buddy lists, and overall better features.  To be honest, back then I used the Internet for two things: to talk about wrestling and find Dragonball Z pictures.
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5236433643358961346" src="http://1.bp.blogspot.com/_7U5MdumP-no/SKuMp6JQvsI/AAAAAAAAAmQ/4waYOTE3SV8/s400/prodigy.png" /> <img alt="" border="0" id="BLOGGER_PHOTO_ID_5236437350941486274" src="http://4.bp.blogspot.com/_7U5MdumP-no/SKuQBt90bMI/AAAAAAAAAmY/epwXjxyzpfM/s400/aol.gif" />
+<img  border="0" id="BLOGGER_PHOTO_ID_5236433643358961346" src="http://1.bp.blogspot.com/_7U5MdumP-no/SKuMp6JQvsI/AAAAAAAAAmQ/4waYOTE3SV8/s400/prodigy.png" /> <img  border="0" id="BLOGGER_PHOTO_ID_5236437350941486274" src="http://4.bp.blogspot.com/_7U5MdumP-no/SKuQBt90bMI/AAAAAAAAAmY/epwXjxyzpfM/s400/aol.gif" />
 
 Today, I find myself hooked on <a href="http://www.facebook.com/">Facebook</a>.  I'm just fascinated with reading up on friends' profiles, what they're doing, events, birthdays, pictures, etc.  In many ways, it's everything that I used to use AOL for, and more.  If <a href="http://en.wikipedia.org/wiki/Web_2.0">Web 2.0</a> is the current version of the web, then Facebook is basically AOL 2.0.  Of course I don't mean this literally, because then we'd be going back quite a few versions.
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5236438326286978082" src="http://2.bp.blogspot.com/_7U5MdumP-no/SKuQ6faTjCI/AAAAAAAAAmg/qGMNbhX_cMA/s400/facebook.png" />
+<img  border="0" id="BLOGGER_PHOTO_ID_5236438326286978082" src="http://2.bp.blogspot.com/_7U5MdumP-no/SKuQ6faTjCI/AAAAAAAAAmg/qGMNbhX_cMA/s400/facebook.png" />
 
 With Facebook, I can:
 

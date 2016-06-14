@@ -16,11 +16,11 @@ header-img: /public/images/headers/technology.jpg
 
 My parents have a <a href="http://www.thaitv.tv/">Thai TV</a> ethernet box of some kind so they can tune in to their Thai stations, shows, and even radio on their HDTV.  However, I had to run a 50 foot CAT5 cable from the upstairs to the first floor great room, which is quite messy.  So for Christmas this year, I bought them a <a href="http://www.amazon.com/gp/product/B000BTL0OA?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000BTL0OA">Linksys-Cisco WRT54GL Wireless-G Broadband Router</a>.
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5283600511454112834" src="http://4.bp.blogspot.com/_7U5MdumP-no/SVMeq-RLbEI/AAAAAAAAIZk/b33sMkW_w9o/s400/linksys_wrt54g.jpg" />
+<img  border="0" id="BLOGGER_PHOTO_ID_5283600511454112834" src="http://4.bp.blogspot.com/_7U5MdumP-no/SVMeq-RLbEI/AAAAAAAAIZk/b33sMkW_w9o/s400/linksys_wrt54g.jpg" />
 
 The setup I wanted was to have the Thai TV box, which uses an ethernet port for all data, connect to the wireless router, and have the wireless router connect to the wireless router upstairs.  This setup required a wireless bridge, which the router did not come configured with.  So after some googling, I found the proper links to set it all up with:
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5283760857843106034" src="http://1.bp.blogspot.com/_7U5MdumP-no/SVOwgXHaAPI/AAAAAAAAIZs/CVLq9lAx7To/s400/WIFIBRDG.GIF" />
+<img  border="0" id="BLOGGER_PHOTO_ID_5283760857843106034" src="http://1.bp.blogspot.com/_7U5MdumP-no/SVOwgXHaAPI/AAAAAAAAIZs/CVLq9lAx7To/s400/WIFIBRDG.GIF" />
 
 First thing to do, is to figure out what to do with your particular router: <a href="http://www.dd-wrt.com/wiki/index.php/Linksys_WRT54G/GL/GS/GX">Linksys WRT54G/GL/GS/GX</a>.  For me, I had to <a href="http://www.dd-wrt.com/wiki/index.php/How_To_Flash_the_WRT54Gv8">Flash the WRT54Gv8</a>.
 

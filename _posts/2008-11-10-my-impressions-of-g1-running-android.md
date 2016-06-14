@@ -17,7 +17,7 @@ header-img: /public/images/headers/android.jpg
 
 I've had my <a href="http://www.t-mobileg1.com/">G1</a> for a few weeks now.  My overall impressions are pretty good.  I like the touch screen, I like the free applications available through the market app, and I definitely enjoy the web browsing experience on the 3G network over my old Blackberry Pearl on the EDGE network.
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5267257220442964562" src="http://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s400/g1officialnewnew.jpg" />
+<img  border="0" id="BLOGGER_PHOTO_ID_5267257220442964562" src="http://1.bp.blogspot.com/_7U5MdumP-no/SRkOiO0dQlI/AAAAAAAAIWA/FOxhihLlYQA/s400/g1officialnewnew.jpg" />
 
 But I do have a few complaints:
 

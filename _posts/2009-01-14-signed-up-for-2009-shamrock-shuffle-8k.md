@@ -18,11 +18,11 @@ After hearing that several friends will be doing the <a href="http://www.shamroc
 
 I look at this as a way to start out 2009 and hopefully, the rest of my life:  As a fresh start to making a better me.
 
-<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s600-h/shamrock_shuffle_2009_8k_map.png"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5291369033444476818" src="http://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s400/shamrock_shuffle_2009_8k_map.png" /></a>
+<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s600-h/shamrock_shuffle_2009_8k_map.png"><img  border="0" id="BLOGGER_PHOTO_ID_5291369033444476818" src="http://3.bp.blogspot.com/_7U5MdumP-no/SW64Gd31x5I/AAAAAAAAIcU/injLYQ1IL0o/s400/shamrock_shuffle_2009_8k_map.png" /></a>
 
 A pic of me from 2007 finishing the race:
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SW67RFgrHSI/AAAAAAAAIcc/OG5WyaFkeUA/s600-h/Shamrock+Shuffle+2007+finish.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5291372514418302242" src="http://4.bp.blogspot.com/_7U5MdumP-no/SW67RFgrHSI/AAAAAAAAIcc/OG5WyaFkeUA/s400/Shamrock+Shuffle+2007+finish.jpg" /></a>
+<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SW67RFgrHSI/AAAAAAAAIcc/OG5WyaFkeUA/s600-h/Shamrock+Shuffle+2007+finish.jpg"><img  border="0" id="BLOGGER_PHOTO_ID_5291372514418302242" src="http://4.bp.blogspot.com/_7U5MdumP-no/SW67RFgrHSI/AAAAAAAAIcc/OG5WyaFkeUA/s400/Shamrock+Shuffle+2007+finish.jpg" /></a>
 
 Link:
 <ul>

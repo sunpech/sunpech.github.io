@@ -33,7 +33,7 @@ Here are the main highlights/advantages for using LaLa:
 
 I have yet to try this, but supposedly if you already have a song on your computer, you can get it on your LaLa playlist for free.
 
-<img style="cursor:pointer; cursor:hand;width: 400px; height: 353px;" src="http://1.bp.blogspot.com/_7U5MdumP-no/ShGPRxWqbBI/AAAAAAAAIn4/QkHHq1JcEFo/s400/screenshot_LALA.png" border="0" alt="" id="BLOGGER_PHOTO_ID_5337204568879688722" />
+<img style="cursor:pointer; cursor:hand;width: 400px; height: 353px;" src="http://1.bp.blogspot.com/_7U5MdumP-no/ShGPRxWqbBI/AAAAAAAAIn4/QkHHq1JcEFo/s400/screenshot_LALA.png" border="0"  id="BLOGGER_PHOTO_ID_5337204568879688722" />
 
 <a href="http://www.lala.com/signup?inviteToken=Y3JlZGl0cz01OmZyb209LTkyMjMxMDQ3ODY4MDk2ODgzMzY6dG89bm9vcEBsYWxhLmNvbTo*-awzCH_3NBLNpK_7ogRfSyQ**">Try out LaLa</a>
 

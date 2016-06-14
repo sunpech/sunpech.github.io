@@ -18,7 +18,7 @@ The point I wanted to make, is that Black Friday is stupid and represents some o
 
 <a href="http://gizmodo.com/5098946/10-reasons-were-doomed-black-friday-edition">10 Reasons We're Doomed: Black Friday Edition</a>
 
-<img alt="" border="0" id="BLOGGER_PHOTO_ID_5273773543386695618" src="http://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s400/shopping_lines.jpg" />
+<img  border="0" id="BLOGGER_PHOTO_ID_5273773543386695618" src="http://1.bp.blogspot.com/_7U5MdumP-no/STA1GJdqx8I/AAAAAAAAIXg/GqO1waJAekQ/s400/shopping_lines.jpg" />
 
 What's stupid about it is how so many people camp outside the stores, lining up in the cold weather, to buy crap they don't really need.  Like yesterday, I heard on the radio that some people have been camping outside Best Buy (BB) for 5 days.  When a man was asked by the reporter what he was planning to buy, the fool replied that he did not know.
 

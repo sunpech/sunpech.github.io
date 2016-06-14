@@ -14,9 +14,9 @@ redirect_from: /2009/02/i-got-roomba-for-christmas.html
 header-img: /public/images/headers/technology.jpg
 ---
 
-For Christmas 2008, I got a <a href="http://www.amazon.com/gp/product/B000UUBCNO?ie=UTF8&tag=sunpech-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000UUBCNO">iRobot 560 Roomba Vacuuming Robot, Black and Silver</a><img src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&l=as2&o=1&a=B000UUBCNO" width="1" height="1" border="0" alt="" /> as a combined gift from my sisters and their boyfriends.  I must say, that this is the best Xmas gift I've ever received other than the <a href="http://en.wikipedia.org/wiki/Nintendo_Entertainment_System">Nintendo Entertainment System</a> (NES), around 1988-1989.  Which was 20 years ago... wow.
+For Christmas 2008, I got a <a href="http://www.amazon.com/gp/product/B000UUBCNO?ie=UTF8&tag=sunpech-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000UUBCNO">iRobot 560 Roomba Vacuuming Robot, Black and Silver</a><img src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&l=as2&o=1&a=B000UUBCNO" width="1" height="1" border="0"  /> as a combined gift from my sisters and their boyfriends.  I must say, that this is the best Xmas gift I've ever received other than the <a href="http://en.wikipedia.org/wiki/Nintendo_Entertainment_System">Nintendo Entertainment System</a> (NES), around 1988-1989.  Which was 20 years ago... wow.
 
-<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SY-8UnHUnsI/AAAAAAAAIhs/iXyFIUA2EJ0/s600-h/nintendo_power_set.png"><img src="http://4.bp.blogspot.com/_7U5MdumP-no/SY-8UnHUnsI/AAAAAAAAIhs/iXyFIUA2EJ0/s400/nintendo_power_set.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5300662348721462978" /></a>
+<a href="http://4.bp.blogspot.com/_7U5MdumP-no/SY-8UnHUnsI/AAAAAAAAIhs/iXyFIUA2EJ0/s600-h/nintendo_power_set.png"><img src="http://4.bp.blogspot.com/_7U5MdumP-no/SY-8UnHUnsI/AAAAAAAAIhs/iXyFIUA2EJ0/s400/nintendo_power_set.png" border="0" id="BLOGGER_PHOTO_ID_5300662348721462978" /></a>
 
 The Roomba actually does a pretty decent job of cleaning my apartment.  My apartment is about 620 sq ft and mostly carpet.  It cleans the top layer of dirt pretty well and it removes most visible pieces of dirt.  Here are the other things I've noticed with it:
 
@@ -28,4 +28,4 @@ The Roomba actually does a pretty decent job of cleaning my apartment.  My apart
 
 Otherwise I'm pretty happy with it.  I got rid of my Dirt Devil vacuum as I will no longer vacuum my place by had ever again.  Hrm, I just noticed that vacuum is both a noun and verb.
 
-<a href="http://1.bp.blogspot.com/_7U5MdumP-no/SY-6EA4jhgI/AAAAAAAAIhk/7oUVVK1COKg/s600-h/1234155883757.jpg"><img src="http://1.bp.blogspot.com/_7U5MdumP-no/SY-6EA4jhgI/AAAAAAAAIhk/7oUVVK1COKg/s400/1234155883757.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5300659864557815298" /></a>
+<a href="http://1.bp.blogspot.com/_7U5MdumP-no/SY-6EA4jhgI/AAAAAAAAIhk/7oUVVK1COKg/s600-h/1234155883757.jpg"><img src="http://1.bp.blogspot.com/_7U5MdumP-no/SY-6EA4jhgI/AAAAAAAAIhk/7oUVVK1COKg/s400/1234155883757.jpg" border="0" id="BLOGGER_PHOTO_ID_5300659864557815298" /></a>

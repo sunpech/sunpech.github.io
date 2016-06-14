@@ -13,7 +13,7 @@ redirect_from: /2008/01/ps3-and-bluray-is-way-to-go-for-now.html
 header-img: /public/images/headers/technology.jpg
 ---
 
-<img style="float:right; margin:0 0 10px 10px;" src="http://2.bp.blogspot.com/_7U5MdumP-no/R6E-JOQ-KLI/AAAAAAAAAcA/_w8mLZ-fudk/s200/bluray.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5161474976112322738" />I'm a PS3 owner, but mostly for the opposite reasons according to a co-worker.  Most people own a PS3 for the games and then the blu-ray movies is a big plus.  I like it for the blu-ray movie playing ability, and then the games are a plus.  And with the recent announcement that Warner is going to be blu-ray exclusive too, it pretty much seals the fate of the HDDVD.  
+<img style="float:right; margin:0 0 10px 10px;" src="http://2.bp.blogspot.com/_7U5MdumP-no/R6E-JOQ-KLI/AAAAAAAAAcA/_w8mLZ-fudk/s200/bluray.jpg" border="0" id="BLOGGER_PHOTO_ID_5161474976112322738" />I'm a PS3 owner, but mostly for the opposite reasons according to a co-worker.  Most people own a PS3 for the games and then the blu-ray movies is a big plus.  I like it for the blu-ray movie playing ability, and then the games are a plus.  And with the recent announcement that Warner is going to be blu-ray exclusive too, it pretty much seals the fate of the HDDVD.  
 
 The HD format war may be closing as to what the next-gen disc format, but the real future is not in these physical disc-- it's in digital downloads.  But we are still years away from this.  We don't yet have the bandwidth to download HD content on the fly, in a reasonable amount of time.  Nor do we have a system that brings it all together.
 

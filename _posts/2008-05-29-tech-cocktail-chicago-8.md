@@ -16,7 +16,7 @@ header-img: /public/images/headers/chicago_skyline.jpg
 
 I'm pretty excited about going to the Tech Cocktail Chicago 8 event this evening.  I'm just so curious as to what kind of exciting tech people/companies are here in Chicago!
 
-<a href="http://www.techcocktail.com"><img src="http://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s400/112682035.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5205798744897293426" /></a>
+<a href="http://www.techcocktail.com"><img src="http://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s400/112682035.jpg" border="0"  id="BLOGGER_PHOTO_ID_5205798744897293426" /></a>
 
 John Barleycorn Wrigleyville<br />
 3524 N Clark St<br />
