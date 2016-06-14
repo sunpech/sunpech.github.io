@@ -25,7 +25,6 @@ For an always up to date list, check out my [Best Software List](https://github.
 * [Ghostery](https://www.ghostery.com/en/) - To protect your privacy.
 * [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
 * [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
-* [uBlock](https://www.ublock.org/) - Block unwanted ads in your browser.
 
 #### Internet
 

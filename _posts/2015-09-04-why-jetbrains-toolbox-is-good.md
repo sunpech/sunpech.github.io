@@ -22,7 +22,7 @@ These are the times we live in now, and I think it's good-- for the most part.
 
 Traditionally, people buy a software version and own it. For many, they don't buy an upgrade when it's available and may only upgrade when money is available or if they feel the new features are worth it.
 
-I once wrote a blog post about [Why I recommend Adobe Lightroom](/2015/01/why-i-recommend-adobe-photoshop/). In it I do a quick breakdown of the buy or subscribe payment model. In short, it's worth the subscription if as a user wants the following:
+I once wrote a blog post about [Why I recommend Adobe Lightroom](/2015/01/why-i-recommend-adobe-photoshop). In it I do a quick breakdown of the buy or subscribe payment model. In short, it's worth the subscription if as a user wants the following:
 
 * Use both Lightroom and Photoshop.
 * Really like and use Lightroom a lot.

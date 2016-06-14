@@ -14,7 +14,7 @@ description: My thoughts on OnePlus and Cyanogen OS after one year of using the 
 header-img: /public/images/headers/android.jpg
 ---
 
-I consider the OnePlus One I bought [over a year ago](/2014/08/oneplus-one-vs-nexus-5/) a value phone-- best phone for the buck you spend. For it's time, it was a big phone, with fantastic specs, for a low price. Even now, it's still a good phone and is my main mobile device. The battery is good and CM12S operating system is also decent.
+I consider the OnePlus One I bought [over a year ago](/2014/08/oneplus-one-vs-nexus-5) a value phone-- best phone for the buck you spend. For it's time, it was a big phone, with fantastic specs, for a low price. Even now, it's still a good phone and is my main mobile device. The battery is good and CM12S operating system is also decent.
 
 When I initially had CM11S running on my phone, the battery life was 2 days of regular usage. When I put Lollipop on it, it dropped to about 1.5 days. Still not bad. Even today, I can get through 1-1.5 days of regular usage before I need to recharge. For me, as a non power-user, it's great.
 

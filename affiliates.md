@@ -22,7 +22,7 @@ If you're  running an ad-blocker, [click here](https://www.digitalocean.com/?ref
 
 ## Namecheap
 
-<a href="https://www.namecheap.com&#x2F;?aff=63676"><img src="http://files.namecheap.com/graphics/linkus/468x60-4.gif" width="468" height="60" border="0" alt="Namecheap.com"></a>
+<a href="https://www.namecheap.com/?aff=63676"><img src="http://files.namecheap.com/graphics/linkus/468x60-4.gif" width="468" height="60" border="0" alt="Namecheap.com"></a>
 
 If you're  running an ad-blocker, [click here](https://www.namecheap.com&#x2F;?aff=63676).
 
