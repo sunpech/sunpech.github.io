@@ -64,97 +64,97 @@ Anyway, sorry for the long rant. I just wanted to share my thoughts on my past c
 
 Here are some of the pictures I took. Full album can be found <a href="https://picasaweb.google.com/101693597219413173200/2012Comikaze">here</a>.
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-aQ1CJve_G_Q/UFasCiz-O-I/AAAAAAABUpk/HdBWXzud--4/s600/2012-09-16-79.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-aQ1CJve_G_Q/UFasCiz-O-I/AAAAAAABUpk/HdBWXzud--4/s600/2012-09-16-79.jpg" alt="" />
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-QD7mA82cSuI/UFaqXNdAQyI/AAAAAAABUcM/tJz5KouzHJI/s600/2012-09-15-490.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-QD7mA82cSuI/UFaqXNdAQyI/AAAAAAABUcM/tJz5KouzHJI/s600/2012-09-15-490.jpg" alt="" />
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-K0ayqwZMAvU/UFapXckBs1I/AAAAAAABUUM/md5vW4_GKGU/s600/2012-09-15-28.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-K0ayqwZMAvU/UFapXckBs1I/AAAAAAABUUM/md5vW4_GKGU/s600/2012-09-15-28.jpg" alt="" />
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-mobHIpShlpY/UFapa0Nh3eI/AAAAAAABUUk/7I1o5jIeH6k/s600/2012-09-15-32.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-mobHIpShlpY/UFapa0Nh3eI/AAAAAAABUUk/7I1o5jIeH6k/s600/2012-09-15-32.jpg" alt="" />
 
 Todd McFarlane signing
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-Af8qTU4ITh0/UFapckvlmcI/AAAAAAABUU0/CLwpV9CpJGg/s600/2012-09-15-48.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-Af8qTU4ITh0/UFapckvlmcI/AAAAAAABUU0/CLwpV9CpJGg/s600/2012-09-15-48.jpg" alt="" />
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-TZm-cR4reGE/UFapitKClSI/AAAAAAABUVk/0lUkwWaDWxU/s600/2012-09-15-72.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-TZm-cR4reGE/UFapitKClSI/AAAAAAABUVk/0lUkwWaDWxU/s600/2012-09-15-72.jpg" alt="" />
 
 <a href="http://www.batgirlspoiled.com/">BatGirl Spoiled</a>
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-P18Jz7CT2yI/UFapqrViY7I/AAAAAAABUWc/FRz8HcGCq0M/s600/2012-09-15-125.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-P18Jz7CT2yI/UFapqrViY7I/AAAAAAABUWc/FRz8HcGCq0M/s600/2012-09-15-125.jpg" alt="" />
 
 Adam West
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-MKS1mVjKxhs/UFapsl-PrzI/AAAAAAABUWs/aAVhdjm7ugQ/s600/2012-09-15-134.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-MKS1mVjKxhs/UFapsl-PrzI/AAAAAAABUWs/aAVhdjm7ugQ/s600/2012-09-15-134.jpg" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/Julie_Newmar">Julie Newmar</a> aka Catwoman
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-tse8ijZIqgc/UFapthzWdRI/AAAAAAABUW0/cgncHQCKcxw/s600/2012-09-15-139.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-tse8ijZIqgc/UFapthzWdRI/AAAAAAABUW0/cgncHQCKcxw/s600/2012-09-15-139.jpg" alt="" />
 
 <a href="http://www.leeannavamp.com/">LeeAnna Vamp</a>
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-uw2TSLC3Bdo/UFapxpdP5GI/AAAAAAABUXU/nKGhIbfIIWE/s600/2012-09-15-155.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-uw2TSLC3Bdo/UFapxpdP5GI/AAAAAAABUXU/nKGhIbfIIWE/s600/2012-09-15-155.jpg" alt="" />
 
 Wall-E
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-9TNbSHNVK9Y/UFap4HIMoTI/AAAAAAABUYE/g_4jD72tc94/s600/2012-09-15-167.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-9TNbSHNVK9Y/UFap4HIMoTI/AAAAAAABUYE/g_4jD72tc94/s600/2012-09-15-167.jpg" alt="" />
 
 They Live style Hooters girl
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-_eIQMdEGNCg/UFap5RF1DxI/AAAAAAABUYM/_fHbovjBBvs/s600/2012-09-15-169.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-_eIQMdEGNCg/UFap5RF1DxI/AAAAAAABUYM/_fHbovjBBvs/s600/2012-09-15-169.jpg" alt="" />
 
 Adrianne Curry
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-lQhqcT0W1qs/UFap8AAeh1I/AAAAAAABUYk/UBBUjDNd0rI/s600/2012-09-15-185.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-lQhqcT0W1qs/UFap8AAeh1I/AAAAAAABUYk/UBBUjDNd0rI/s600/2012-09-15-185.jpg" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/Noah_Hathaway">Noah Hathaway</a> - played <a href="http://en.wikipedia.org/wiki/Characters_of_The_Neverending_Story#Atreyu">Atreyu</a> in the Neverending Story
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-kbwcqnnXUIw/UFaqBp5gy-I/AAAAAAABUZU/6NkNc1uZ820/s600/2012-09-15-210.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-kbwcqnnXUIw/UFaqBp5gy-I/AAAAAAABUZU/6NkNc1uZ820/s600/2012-09-15-210.jpg" alt="" />
 
 McFarlane and Stan Lee on stage!
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-uaKeEv7zcMA/UFaqGpr6d6I/AAAAAAABUZ8/kJ8ZddrkqPU/s600/2012-09-15-265.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-uaKeEv7zcMA/UFaqGpr6d6I/AAAAAAABUZ8/kJ8ZddrkqPU/s600/2012-09-15-265.jpg" alt="" />
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-0sn6qoEbWWk/UFaqF6s5KoI/AAAAAAABUZ0/SLrrPS5oFMY/s600/2012-09-15-257.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-0sn6qoEbWWk/UFaqF6s5KoI/AAAAAAABUZ0/SLrrPS5oFMY/s600/2012-09-15-257.jpg" alt="" />
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-84HaDqJHmjw/UFaqHtuRlWI/AAAAAAABUaE/e4SCtveyDU4/s600/2012-09-15-269.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-84HaDqJHmjw/UFaqHtuRlWI/AAAAAAABUaE/e4SCtveyDU4/s600/2012-09-15-269.jpg" alt="" />
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-2xg_lqHdMx0/UFaqV9QrTZI/AAAAAAABUcE/XUnwUU1GHaw/s600/2012-09-15-489.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-2xg_lqHdMx0/UFaqV9QrTZI/AAAAAAABUcE/XUnwUU1GHaw/s600/2012-09-15-489.jpg" alt="" />
 
 A contest was announced to win a signed Hulk #181- first appearance of Wolverine.
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-AweGpXcwp6c/UFaqex9CuqI/AAAAAAABUdM/tnI0-kcI1ow/s600/2012-09-15-512.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-AweGpXcwp6c/UFaqex9CuqI/AAAAAAABUdM/tnI0-kcI1ow/s600/2012-09-15-512.jpg" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/Kevin_Smith">Kevin Smith</a> does <a href="http://smodcast.com/channels/fatman-on-batman/">Fatman on Batman</a> with Adam West
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-2dgBv7V_gGk/UFaqhciBmeI/AAAAAAABUdk/V_z5Mq_PeRw/s600/2012-09-15-547.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-2dgBv7V_gGk/UFaqhciBmeI/AAAAAAABUdk/V_z5Mq_PeRw/s600/2012-09-15-547.jpg" alt="" />
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-nhXLC88z_84/UFaqvxrqUtI/AAAAAAABUfw/7HADd_Lf0Dg/s600/2012-09-15-723.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-nhXLC88z_84/UFaqvxrqUtI/AAAAAAABUfw/7HADd_Lf0Dg/s600/2012-09-15-723.jpg" alt="" />
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-NPEBYHi-sbY/UFaqk1EzyZI/AAAAAAABUeE/fC7eXq77w3o/s600/2012-09-15-600.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-NPEBYHi-sbY/UFaqk1EzyZI/AAAAAAABUeE/fC7eXq77w3o/s600/2012-09-15-600.jpg" alt="" />
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-r2XpzvD7hJg/UFaq5cltNxI/AAAAAAABUg0/gAFfHdcw76I/s600/2012-09-15-772.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-r2XpzvD7hJg/UFaq5cltNxI/AAAAAAABUg0/gAFfHdcw76I/s600/2012-09-15-772.jpg" alt="" />
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-9figCgT0uS8/UFaq8LpNksI/AAAAAAABUhM/VnTQce_LQD8/s600/2012-09-15-778.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-9figCgT0uS8/UFaq8LpNksI/AAAAAAABUhM/VnTQce_LQD8/s600/2012-09-15-778.jpg" alt="" />
 
 Mark Hamil
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-NraqC5LpP3I/UFarFINxlBI/AAAAAAABUic/0nSdh6E6DvU/s600/2012-09-15-813.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-NraqC5LpP3I/UFarFINxlBI/AAAAAAABUic/0nSdh6E6DvU/s600/2012-09-15-813.jpg" alt="" />
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-ms_Py7OW7fU/UFarHI4j0JI/AAAAAAABUis/TbNfiYgGwfk/s600/2012-09-15-818.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-ms_Py7OW7fU/UFarHI4j0JI/AAAAAAABUis/TbNfiYgGwfk/s600/2012-09-15-818.jpg" alt="" />
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-36Bf_Qbp8_U/UFarSbWi-kI/AAAAAAABUj8/UaOiptThVvk/s600/2012-09-15-850.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-36Bf_Qbp8_U/UFarSbWi-kI/AAAAAAABUj8/UaOiptThVvk/s600/2012-09-15-850.jpg" alt="" />
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-CwHSHVPfE7w/UFarWMy7TyI/AAAAAAABUkc/tlmgtCfVVuQ/s600/2012-09-15-878.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-CwHSHVPfE7w/UFarWMy7TyI/AAAAAAABUkc/tlmgtCfVVuQ/s600/2012-09-15-878.jpg" alt="" />
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-c07bND1KlEw/UFargWqV_CI/AAAAAAABUlk/V2pm-ca2GSo/s600/2012-09-15-891.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-c07bND1KlEw/UFargWqV_CI/AAAAAAABUlk/V2pm-ca2GSo/s600/2012-09-15-891.jpg" alt="" />
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-4TU77lAlIjE/UFarlOE6MAI/AAAAAAABUmE/eRM-rfnmygM/s600/2012-09-16-7.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-4TU77lAlIjE/UFarlOE6MAI/AAAAAAABUmE/eRM-rfnmygM/s600/2012-09-16-7.jpg" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/James_Hong">James Hong</a>
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-ySDg3ay7vss/UFarnI2oE2I/AAAAAAABUmU/fL_aETpiUsk/s600/2012-09-16-10.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-ySDg3ay7vss/UFarnI2oE2I/AAAAAAABUmU/fL_aETpiUsk/s600/2012-09-16-10.jpg" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/List_of_30_Rock_characters#Dot_Com">DotCom</a>!
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-r_f2hNrjuNA/UFarpcw1RII/AAAAAAABUmk/0aprOCxiesU/s600/2012-09-16-17.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-r_f2hNrjuNA/UFarpcw1RII/AAAAAAABUmk/0aprOCxiesU/s600/2012-09-16-17.jpg" alt="" />
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-iX5YJuYTZis/UFarybyYisI/AAAAAAABUnk/D51ldG9l6ms/s600/2012-09-16-29.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-iX5YJuYTZis/UFarybyYisI/AAAAAAABUnk/D51ldG9l6ms/s600/2012-09-16-29.jpg" alt="" />
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-IqagrJEK1Sw/UFarzT6PrsI/AAAAAAABUns/7TOpOqNWisw/s600/2012-09-16-31.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-IqagrJEK1Sw/UFarzT6PrsI/AAAAAAABUns/7TOpOqNWisw/s600/2012-09-16-31.jpg" alt="" />
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-qVkzs794OAE/UFar0Ds273I/AAAAAAABUn0/WAjDL9WAC04/s600/2012-09-16-38.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-qVkzs794OAE/UFar0Ds273I/AAAAAAABUn0/WAjDL9WAC04/s600/2012-09-16-38.jpg" alt="" />
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-0_L79hNC2nY/UFar1Ce3ImI/AAAAAAABUn8/VPvx-KiMmAk/s600/2012-09-16-43.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-0_L79hNC2nY/UFar1Ce3ImI/AAAAAAABUn8/VPvx-KiMmAk/s600/2012-09-16-43.jpg" alt="" />
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-tj8tkM1wXpc/UFar2wgC3II/AAAAAAABUoE/fHimG1Teng0/s600/2012-09-16-47.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-tj8tkM1wXpc/UFar2wgC3II/AAAAAAABUoE/fHimG1Teng0/s600/2012-09-16-47.jpg" alt="" />
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-_6bTVXQ_BW4/UFar57cMkdI/AAAAAAABUoc/PphEeyC6k2A/s600/2012-09-16-53.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-_6bTVXQ_BW4/UFar57cMkdI/AAAAAAABUoc/PphEeyC6k2A/s600/2012-09-16-53.jpg" alt="" />
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-KtGsnjWZrdw/UFar99lETSI/AAAAAAABUo8/FZH4RydiV5Y/s600/2012-09-16-64.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-KtGsnjWZrdw/UFar99lETSI/AAAAAAABUo8/FZH4RydiV5Y/s600/2012-09-16-64.jpg" alt="" />
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-8LQthKzzow8/UFar78GJ9_I/AAAAAAABUos/mXg7ugDcpEo/s600/2012-09-16-61.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-8LQthKzzow8/UFar78GJ9_I/AAAAAAABUos/mXg7ugDcpEo/s600/2012-09-16-61.jpg" alt="" />

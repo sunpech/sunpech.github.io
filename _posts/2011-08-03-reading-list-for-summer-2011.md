@@ -24,8 +24,8 @@ I have selected the books I'd like to complete before the end of Summer/Fall sea
   <li><a href="http://www.amazon.com/gp/product/1590593898/ref=as_li_ss_tl?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1590593898">Joel on Software</a> by Joel Spolsky</li>
 </ul>
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-F1-5WattxEk/TxVmEghOsFI/AAAAAAAA2pc/Z5S18kuDhXw/s320/www-4.jpeg" />
+<img   border="0" src="http://3.bp.blogspot.com/-F1-5WattxEk/TxVmEghOsFI/AAAAAAAA2pc/Z5S18kuDhXw/s320/www-4.jpeg" />
 
 The Green Lantern: Blackest Night graphic novels below I already finished. Good stuff.
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-zhTTZJz7M6c/TxVmFBHuo9I/AAAAAAAA2ps/zDh6HJQBjsk/s320/www-5.jpeg" />
+<img   border="0" src="http://2.bp.blogspot.com/-zhTTZJz7M6c/TxVmFBHuo9I/AAAAAAAA2ps/zDh6HJQBjsk/s320/www-5.jpeg" />

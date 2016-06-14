@@ -21,18 +21,18 @@ For full set of pictures I've taken at meetups I've been to this year, <a href="
 
 ### Pictures
 
-<a href="http://3.bp.blogspot.com/-wAM9-h8i18I/T3qFDq9-UzI/AAAAAAABAFk/3XDwXNNf1WU/s600/2012-04-02+at+17-52-57.jpg"><img alt=""  border="0"  src="http://3.bp.blogspot.com/-wAM9-h8i18I/T3qFDq9-UzI/AAAAAAABAFk/3XDwXNNf1WU/s320/2012-04-02+at+17-52-57.jpg"  /></a>
+<a href="http://3.bp.blogspot.com/-wAM9-h8i18I/T3qFDq9-UzI/AAAAAAABAFk/3XDwXNNf1WU/s600/2012-04-02+at+17-52-57.jpg" alt=""><img   border="0"  src="http://3.bp.blogspot.com/-wAM9-h8i18I/T3qFDq9-UzI/AAAAAAABAFk/3XDwXNNf1WU/s320/2012-04-02+at+17-52-57.jpg" alt=""  /></a>
 
-<a href="http://4.bp.blogspot.com/-qWlDi6mAZug/T3qFH6e0rXI/AAAAAAABAGU/Y9jICsf1Ghs/s600/2012-04-02+at+18-01-36.jpg"><img alt=""  border="0"  src="http://4.bp.blogspot.com/-qWlDi6mAZug/T3qFH6e0rXI/AAAAAAABAGU/Y9jICsf1Ghs/s320/2012-04-02+at+18-01-36.jpg"  /></a>
+<a href="http://4.bp.blogspot.com/-qWlDi6mAZug/T3qFH6e0rXI/AAAAAAABAGU/Y9jICsf1Ghs/s600/2012-04-02+at+18-01-36.jpg" alt=""><img   border="0"  src="http://4.bp.blogspot.com/-qWlDi6mAZug/T3qFH6e0rXI/AAAAAAABAGU/Y9jICsf1Ghs/s320/2012-04-02+at+18-01-36.jpg" alt=""  /></a>
 
-<a href="http://3.bp.blogspot.com/-E3aU598Yxns/T3qFFnkSTbI/AAAAAAABAF8/K9p33ddAqew/s600/2012-04-02+at+17-56-51.jpg"><img alt=""  border="0"  src="http://3.bp.blogspot.com/-E3aU598Yxns/T3qFFnkSTbI/AAAAAAABAF8/K9p33ddAqew/s320/2012-04-02+at+17-56-51.jpg"  /></a>
+<a href="http://3.bp.blogspot.com/-E3aU598Yxns/T3qFFnkSTbI/AAAAAAABAF8/K9p33ddAqew/s600/2012-04-02+at+17-56-51.jpg" alt=""><img   border="0"  src="http://3.bp.blogspot.com/-E3aU598Yxns/T3qFFnkSTbI/AAAAAAABAF8/K9p33ddAqew/s320/2012-04-02+at+17-56-51.jpg" alt=""  /></a>
 
-<a href="http://2.bp.blogspot.com/-8NXIW8XIf_E/T3qFK2DspGI/AAAAAAABAG8/TbJgH2KBkBc/s600/2012-04-02+at+18-12-55.jpg"><img alt=""  border="0"  src="http://2.bp.blogspot.com/-8NXIW8XIf_E/T3qFK2DspGI/AAAAAAABAG8/TbJgH2KBkBc/s320/2012-04-02+at+18-12-55.jpg"  /></a>
+<a href="http://2.bp.blogspot.com/-8NXIW8XIf_E/T3qFK2DspGI/AAAAAAABAG8/TbJgH2KBkBc/s600/2012-04-02+at+18-12-55.jpg" alt=""><img   border="0"  src="http://2.bp.blogspot.com/-8NXIW8XIf_E/T3qFK2DspGI/AAAAAAABAG8/TbJgH2KBkBc/s320/2012-04-02+at+18-12-55.jpg" alt=""  /></a>
 
-<a href="http://4.bp.blogspot.com/-6U2iqDh10X8/T3qFL435UsI/AAAAAAABAHE/fKO5_PvpY9k/s600/2012-04-02+at+18-16-53.jpg"><img alt=""  border="0"  src="http://4.bp.blogspot.com/-6U2iqDh10X8/T3qFL435UsI/AAAAAAABAHE/fKO5_PvpY9k/s320/2012-04-02+at+18-16-53.jpg"  /></a>
+<a href="http://4.bp.blogspot.com/-6U2iqDh10X8/T3qFL435UsI/AAAAAAABAHE/fKO5_PvpY9k/s600/2012-04-02+at+18-16-53.jpg" alt=""><img   border="0"  src="http://4.bp.blogspot.com/-6U2iqDh10X8/T3qFL435UsI/AAAAAAABAHE/fKO5_PvpY9k/s320/2012-04-02+at+18-16-53.jpg" alt=""  /></a>
 
-<a href="http://2.bp.blogspot.com/-9pEQ3Hw9i8w/T3qFODKQcQI/AAAAAAABAHU/pZHwnhcdNVE/s600/2012-04-02+at+18-39-33.jpg"><img alt=""  border="0"  src="http://2.bp.blogspot.com/-9pEQ3Hw9i8w/T3qFODKQcQI/AAAAAAABAHU/pZHwnhcdNVE/s320/2012-04-02+at+18-39-33.jpg"  /></a>
+<a href="http://2.bp.blogspot.com/-9pEQ3Hw9i8w/T3qFODKQcQI/AAAAAAABAHU/pZHwnhcdNVE/s600/2012-04-02+at+18-39-33.jpg" alt=""><img   border="0"  src="http://2.bp.blogspot.com/-9pEQ3Hw9i8w/T3qFODKQcQI/AAAAAAABAHU/pZHwnhcdNVE/s320/2012-04-02+at+18-39-33.jpg" alt=""  /></a>
 
-<a href="http://4.bp.blogspot.com/-Llm4fWQw_EA/T3qFQUaZhJI/AAAAAAABAHs/h-Fjz1IkjFw/s600/2012-04-02+at+18-55-38.jpg"><img alt=""  border="0"  src="http://4.bp.blogspot.com/-Llm4fWQw_EA/T3qFQUaZhJI/AAAAAAABAHs/h-Fjz1IkjFw/s320/2012-04-02+at+18-55-38.jpg"  /></a>
+<a href="http://4.bp.blogspot.com/-Llm4fWQw_EA/T3qFQUaZhJI/AAAAAAABAHs/h-Fjz1IkjFw/s600/2012-04-02+at+18-55-38.jpg" alt=""><img   border="0"  src="http://4.bp.blogspot.com/-Llm4fWQw_EA/T3qFQUaZhJI/AAAAAAABAHs/h-Fjz1IkjFw/s320/2012-04-02+at+18-55-38.jpg" alt=""  /></a>
 
-<a href="http://1.bp.blogspot.com/-43wLzwnsLF0/T3qFPkiKBTI/AAAAAAABAHo/Mv9HM-EHNJ0/s600/2012-04-02+at+18-55-25.jpg"><img alt=""  border="0"  src="http://1.bp.blogspot.com/-43wLzwnsLF0/T3qFPkiKBTI/AAAAAAABAHo/Mv9HM-EHNJ0/s320/2012-04-02+at+18-55-25.jpg"  /></a>
+<a href="http://1.bp.blogspot.com/-43wLzwnsLF0/T3qFPkiKBTI/AAAAAAABAHo/Mv9HM-EHNJ0/s600/2012-04-02+at+18-55-25.jpg" alt=""><img   border="0"  src="http://1.bp.blogspot.com/-43wLzwnsLF0/T3qFPkiKBTI/AAAAAAABAHo/Mv9HM-EHNJ0/s320/2012-04-02+at+18-55-25.jpg" alt=""  /></a>

@@ -15,7 +15,7 @@ redirect_from: /2012/02/i-am-meetup-junkie.html
 
 I've become a <i>Meetup Junkie.</i> Every month I attend several meetups related to technology and food. I can't seem to get enough of following these interests with other like-minded individuals, <i>in the real world</i>.
 
-<a href="http://1.bp.blogspot.com/-obx1ka9-pv8/T0qZc7_CUgI/AAAAAAAA6sE/HYsQE1rOZdo/s600/meetup_fight_club.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-obx1ka9-pv8/T0qZc7_CUgI/AAAAAAAA6sE/HYsQE1rOZdo/s600/meetup_fight_club.jpg" /></a>
+<a href="http://1.bp.blogspot.com/-obx1ka9-pv8/T0qZc7_CUgI/AAAAAAAA6sE/HYsQE1rOZdo/s600/meetup_fight_club.jpg" alt="" ><img   border="0" src="http://1.bp.blogspot.com/-obx1ka9-pv8/T0qZc7_CUgI/AAAAAAAA6sE/HYsQE1rOZdo/s600/meetup_fight_club.jpg" alt="" /></a>
 
 I primarily use <a href="http://www.meetup.com/">Meetup</a> to find interesting groups by city. I've used it in Chicago, Bangkok, San Francisco, and now Los Angeles. It's fantastic and addicting!
 
@@ -23,7 +23,7 @@ But for those who haven't used such a service, it may be somewhat scary-- especi
 
 However, the lovely thing about meetups, is that a lot of people are walking in like that. Many want to be social. Many are passionate about the topic at hand, and want to talk about it. That's really the upshot of it. Of course that doesn't mean everyone is friendly and talkative. In fact there are meetups I've been meaning to remove off my schedule just because it didn't meet my expectation or it's simply not for me.
 
-<a href="http://1.bp.blogspot.com/-6gj4f8BFIrQ/T0qZdmN8RtI/AAAAAAAA6sM/q4MdfcP-xwg/s600/Meetup+Collage.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-6gj4f8BFIrQ/T0qZdmN8RtI/AAAAAAAA6sM/q4MdfcP-xwg/s600/Meetup+Collage.jpg" /></a><i>
+<a href="http://1.bp.blogspot.com/-6gj4f8BFIrQ/T0qZdmN8RtI/AAAAAAAA6sM/q4MdfcP-xwg/s600/Meetup+Collage.jpg" alt="" ><img   border="0" src="http://1.bp.blogspot.com/-6gj4f8BFIrQ/T0qZdmN8RtI/AAAAAAAA6sM/q4MdfcP-xwg/s600/Meetup+Collage.jpg" alt="" /></a><i>
 </i>
 
 I've been using services such as <a href="http://meetup.com/">Meetup</a> and <a href="http://www.eventbrite.com/">Eventbrite</a> since 2009/2010, give or take a few months. I find <b>these services fills a gap that exists between social networks and the real world</b>. It's interesting how social networks such as Facebook, Twitter, and G+ allow us to be "social" in the virtual sense, but rarely connect people in the real world. <a href="http://www.evite.com/">Evite</a> had their chance at this and blew it.

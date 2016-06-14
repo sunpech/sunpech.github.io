@@ -12,7 +12,7 @@ blogger_orig_url: http://www.sunpech.com/2013/01/cleaning-up-old-social-accounts
 redirect_from: /2013/01/cleaning-up-old-social-accounts.html
 ---
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-0u0hAs9jI6k/UOqVkz_QO8I/AAAAAAABX_g/ijuyfQp5cDg/s600/trash-can-icon.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-0u0hAs9jI6k/UOqVkz_QO8I/AAAAAAABX_g/ijuyfQp5cDg/s600/trash-can-icon.jpg" alt="" />
 
 A week ago I deleted my <a href="http://www.instagram.com/">Instagram</a> and <a href="http://www.path.com/">Path</a> accounts.
 

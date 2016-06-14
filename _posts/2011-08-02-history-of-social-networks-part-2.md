@@ -77,7 +77,7 @@ I haven't been so excited about a music driven social site since <a href="http:/
 
 Since the birth of the mp3, music has long had it's hand in the social network. People just want to share/steal music. However the record labels has made all of that <i>troublesome</i>. But all of that could be a different blog post all together.
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/--Q7AUWyN2UM/TjV_vAVfb6I/AAAAAAAAs10/YcroxbpbNm0/s320/theSocialNetwork_logo.jpeg"  />
+<img   border="0" src="http://2.bp.blogspot.com/--Q7AUWyN2UM/TjV_vAVfb6I/AAAAAAAAs10/YcroxbpbNm0/s320/theSocialNetwork_logo.jpeg"  />
 
 What does the future hold? It's hard to say. But looking at the history, <i>at least my history</i>, of social networks, we can see a few things:
 

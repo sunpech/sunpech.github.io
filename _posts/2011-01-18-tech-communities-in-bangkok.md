@@ -22,7 +22,7 @@ I've been in Thailand now for a little over two months now.  Although I miss the
 
 The day after I arrived, November 9 2010, I attended a Bangkok Hackerspace meetup at True Coffee (Siam Soi 2).  I walked in thinking it was going to be something akin to <a href="http://jellychicago.com/">Jelly Chicago</a> and community building.
 
-<a href="http://3.bp.blogspot.com/_7U5MdumP-no/TTLBFEe0h1I/AAAAAAAAfNc/7bkqHeyGPcg/s1600/IMG_20101109_195137.jpg" imageanchor="1"><img alt=""  border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/TTLBFEe0h1I/AAAAAAAAfNc/7bkqHeyGPcg/s400/IMG_20101109_195137.jpg" height="301" width="400" /></a>
+<a href="http://3.bp.blogspot.com/_7U5MdumP-no/TTLBFEe0h1I/AAAAAAAAfNc/7bkqHeyGPcg/s1600/IMG_20101109_195137.jpg" alt="" imageanchor="1"><img   border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/TTLBFEe0h1I/AAAAAAAAfNc/7bkqHeyGPcg/s400/IMG_20101109_195137.jpg" alt="" height="301" width="400" /></a>
 
 Turns out, it was more about getting an actual physical location, an actual building space to have meetups and hackings-- a <a href="http://en.wikipedia.org/wiki/Hackerspace">hackerspace</a> (Yes, I had to look it up).  A lot of the conversation revolved around money, maybe putting together a business plan, what we would do with such a space, who would take ownership of this or that, etc.
 

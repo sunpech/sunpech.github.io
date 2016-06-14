@@ -22,7 +22,7 @@ The last techie book I read was, <a href="http://www.amazon.com/gp/product/14516
 
 I wouldn't strongly recommend this book if you've kept up on Google through blog posts and editorials online over the past five years. I have read up on them, and I found myself skimming certain sections just because I was familiar with it already.
 
-<a href="http://www.amazon.com/gp/product/B0054U53WG/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0054U53WG"><img alt=""  border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=B0054U53WG&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" /></a>
+<a href="http://www.amazon.com/gp/product/B0054U53WG/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0054U53WG"><img   border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=B0054U53WG&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" /></a>
 
 Other books I've read on Google:
 

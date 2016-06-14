@@ -13,7 +13,7 @@ redirect_from: /2009/02/upcoming-tech-events-in-chicago-for.html
 header-img: /public/images/headers/chicago_skyline.jpg
 ---
 
-<img alt=""   border="0" src="http://images.eventbrite.com/logos/274022609.png" style="height: 200px; width: 358px;" />
+<img    border="0" src="http://images.eventbrite.com/logos/274022609.png" alt="" style="height: 200px; width: 358px;" />
 
 ### Chicago Twestival!
 
@@ -23,7 +23,7 @@ Place: Catalyst Ranch - 656 W Randolph Dr Chicago IL<br />
 Cost: $10 donation<br />
 RSVP: <a href="http://www.chicagotwestival.eventbrite.com/">http://www.chicagotwestival.eventbrite.com</a>
 
-<img alt=""   border="0" src="http://farm4.static.flickr.com/3483/3215808421_a7f488d93c_o.jpg" />
+<img    border="0" src="http://farm4.static.flickr.com/3483/3215808421_a7f488d93c_o.jpg" alt="" />
 
 ### Event: TECH cocktail Chicago 10
 Date: Thursday, February 19, 2009<br />

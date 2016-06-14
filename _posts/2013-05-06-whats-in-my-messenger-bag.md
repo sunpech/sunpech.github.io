@@ -15,7 +15,7 @@ header-img: /public/images/headers/technology.jpg
 
 Not long ago I posted <a href="/2013/04/whats-in-my-camera-bag">what's in my camera bag</a>. I thought I would follow up on what I carry in my other bag-- especially when I travel. Here's what I <i>typically</i> have in my messenger bag.
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-Cj7bH46Csqg/UYGjcgSyDUI/AAAAAAABbz0/k62j6FJQKJU/s640/2013-05-01+at+15-16-14.jpg"   />
+<img   border="0" src="http://1.bp.blogspot.com/-Cj7bH46Csqg/UYGjcgSyDUI/AAAAAAABbz0/k62j6FJQKJU/s640/2013-05-01+at+15-16-14.jpg" alt=""   />
 
 Going from the top, left to right:
 <ol>

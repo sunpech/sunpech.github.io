@@ -32,24 +32,24 @@ Some goals:
 #### Chicago from the Adler Planetarium
 
 Buy print: <a href="http://www.500pxart.com/photo/57661802">http://www.500pxart.com/photo/57661802</a>
-<a href="http://3.bp.blogspot.com/-wgPuwK1I6v4/VKbvlZ5ekfI/AAAAAAAB06Q/Wr2DtMebZcE/s600/2014-01-12%2Bat%2B17-51-42.jpg"><img alt=""  border="0" src="http://3.bp.blogspot.com/-wgPuwK1I6v4/VKbvlZ5ekfI/AAAAAAAB06Q/Wr2DtMebZcE/s600/2014-01-12%2Bat%2B17-51-42.jpg"   /></a>
+<a href="http://3.bp.blogspot.com/-wgPuwK1I6v4/VKbvlZ5ekfI/AAAAAAAB06Q/Wr2DtMebZcE/s600/2014-01-12%2Bat%2B17-51-42.jpg" alt=""><img   border="0" src="http://3.bp.blogspot.com/-wgPuwK1I6v4/VKbvlZ5ekfI/AAAAAAAB06Q/Wr2DtMebZcE/s600/2014-01-12%2Bat%2B17-51-42.jpg" alt=""   /></a>
 
 #### Downtown Los Angeles
 
 Buy print: <a href="http://500pxart.com/photo/58388314">http://500pxart.com/photo/58388314</a>
-<a href="http://4.bp.blogspot.com/--Fuyu3xlctY/VKbvZg27m6I/AAAAAAAB06I/RxqJeppXgak/s600/2014-01-18%2Bat%2B17-58-51.jpg"><img alt=""  border="0" src="http://4.bp.blogspot.com/--Fuyu3xlctY/VKbvZg27m6I/AAAAAAAB06I/RxqJeppXgak/s600/2014-01-18%2Bat%2B17-58-51.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/--Fuyu3xlctY/VKbvZg27m6I/AAAAAAAB06I/RxqJeppXgak/s600/2014-01-18%2Bat%2B17-58-51.jpg" alt=""><img   border="0" src="http://4.bp.blogspot.com/--Fuyu3xlctY/VKbvZg27m6I/AAAAAAAB06I/RxqJeppXgak/s600/2014-01-18%2Bat%2B17-58-51.jpg" alt=""   /></a>
 
 #### Waiting at the Airport
 
 Buy print: <a href="http://500pxart.com/photo/72613877">http://500pxart.com/photo/72613877</a>
-<a href="http://1.bp.blogspot.com/-dRpFCi9dKI4/U7JW2kKUaVI/AAAAAAABs_U/s4TP0UWm1FQ/s600/02-Waiting-at-the-Airport_600px.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-dRpFCi9dKI4/U7JW2kKUaVI/AAAAAAABs_U/s4TP0UWm1FQ/s600/02-Waiting-at-the-Airport_600px.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-dRpFCi9dKI4/U7JW2kKUaVI/AAAAAAABs_U/s4TP0UWm1FQ/s600/02-Waiting-at-the-Airport_600px.jpg" alt="" ><img   border="0" src="http://1.bp.blogspot.com/-dRpFCi9dKI4/U7JW2kKUaVI/AAAAAAABs_U/s4TP0UWm1FQ/s600/02-Waiting-at-the-Airport_600px.jpg" alt=""   /></a>
 
 #### Sunset at El Matador State Beach
 
 Buy print: <a href="https://500pxart.com/photo/59346674/">https://500pxart.com/photo/59346674/</a>
-<a href="http://3.bp.blogspot.com/-mxDyTNVcAEk/VKbvyLRI3XI/AAAAAAAB06Y/zubdhMSy-Z8/s600/2014-01-27%2Bat%2B17-17-19.jpg"><img alt=""  border="0" src="http://3.bp.blogspot.com/-mxDyTNVcAEk/VKbvyLRI3XI/AAAAAAAB06Y/zubdhMSy-Z8/s600/2014-01-27%2Bat%2B17-17-19.jpg"  /></a>
+<a href="http://3.bp.blogspot.com/-mxDyTNVcAEk/VKbvyLRI3XI/AAAAAAAB06Y/zubdhMSy-Z8/s600/2014-01-27%2Bat%2B17-17-19.jpg" alt=""><img   border="0" src="http://3.bp.blogspot.com/-mxDyTNVcAEk/VKbvyLRI3XI/AAAAAAAB06Y/zubdhMSy-Z8/s600/2014-01-27%2Bat%2B17-17-19.jpg" alt=""  /></a>
 
 #### Horseshoe Bend
 
 Buy Print: <a href="http://www.500pxart.com/photo/90205911">http://www.500pxart.com/photo/90205911</a>
-<a href="http://3.bp.blogspot.com/-Ix3TK42AEdk/VHbmEbmhP_I/AAAAAAAB0mw/fjLfhvdKoME/s600/2014-11-18%2Bat%2B17-00-27.jpg"><img alt=""  border="0" src="http://3.bp.blogspot.com/-Ix3TK42AEdk/VHbmEbmhP_I/AAAAAAAB0mw/fjLfhvdKoME/s600/2014-11-18%2Bat%2B17-00-27.jpg"   /></a>
+<a href="http://3.bp.blogspot.com/-Ix3TK42AEdk/VHbmEbmhP_I/AAAAAAAB0mw/fjLfhvdKoME/s600/2014-11-18%2Bat%2B17-00-27.jpg" alt=""><img   border="0" src="http://3.bp.blogspot.com/-Ix3TK42AEdk/VHbmEbmhP_I/AAAAAAAB0mw/fjLfhvdKoME/s600/2014-11-18%2Bat%2B17-00-27.jpg" alt=""   /></a>

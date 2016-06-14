@@ -34,26 +34,26 @@ Topic: <b>The Future of Innovation in Los Angeles</b>
 
 Full set of pictures can be found <a href="https://picasaweb.google.com/101693597219413173200/2013LAUnCubed">here</a>.
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/--h90gI86ngk/UQujbs79HbI/AAAAAAABYjk/uTbcvf8c3X8/s400/2013-01-31+at+13-07-49.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/--h90gI86ngk/UQujbs79HbI/AAAAAAABYjk/uTbcvf8c3X8/s400/2013-01-31+at+13-07-49.jpg" alt="" />
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-7hj6KQbfsFM/UQujg6EyJII/AAAAAAABYow/v-xsrc9ts7s/s400/2013-01-31+at+13-11-07.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-7hj6KQbfsFM/UQujg6EyJII/AAAAAAABYow/v-xsrc9ts7s/s400/2013-01-31+at+13-11-07.jpg" alt="" />
 
-<img alt=""  border="0"  src="http://3.bp.blogspot.com/-zJOACwDmWO4/UQujc-776lI/AAAAAAABYjs/BJ0-lryv5rE/s400/2013-01-31+at+13-08-03.jpg"  />
+<img   border="0"  src="http://3.bp.blogspot.com/-zJOACwDmWO4/UQujc-776lI/AAAAAAABYjs/BJ0-lryv5rE/s400/2013-01-31+at+13-08-03.jpg" alt=""  />
 
-<img alt=""  border="0" src="http://3.bp.blogspot.com/-bocugt6XYGo/UQujkBD2mMI/AAAAAAABYkc/8no0uZJ8ysw/s400/2013-01-31+at+13-41-50.jpg" />
+<img   border="0" src="http://3.bp.blogspot.com/-bocugt6XYGo/UQujkBD2mMI/AAAAAAABYkc/8no0uZJ8ysw/s400/2013-01-31+at+13-41-50.jpg" alt="" />
 
-<img alt=""  border="0"  src="http://1.bp.blogspot.com/-Mm8eCG8RT7I/UQujlwybObI/AAAAAAABYks/QcsrOfawcmk/s400/2013-01-31+at+14-16-20.jpg"  />
+<img   border="0"  src="http://1.bp.blogspot.com/-Mm8eCG8RT7I/UQujlwybObI/AAAAAAABYks/QcsrOfawcmk/s400/2013-01-31+at+14-16-20.jpg" alt=""  />
 
-<img alt=""  border="0"  src="http://3.bp.blogspot.com/-sxTOTeXi-8I/UQujoHFR19I/AAAAAAABYk8/ydwPMHNAz6U/s400/2013-01-31+at+14-19-11.jpg"  />
+<img   border="0"  src="http://3.bp.blogspot.com/-sxTOTeXi-8I/UQujoHFR19I/AAAAAAABYk8/ydwPMHNAz6U/s400/2013-01-31+at+14-19-11.jpg" alt=""  />
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-94tgkn8eA_s/UQujpG2lVMI/AAAAAAABYlE/4sxxjf3Nisg/s400/2013-01-31+at+14-19-18.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-94tgkn8eA_s/UQujpG2lVMI/AAAAAAABYlE/4sxxjf3Nisg/s400/2013-01-31+at+14-19-18.jpg" alt="" />
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-am7eR5egUFE/UQujqF3SwzI/AAAAAAABYlM/lqiZEWDIl-c/s400/2013-01-31+at+14-19-23.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-am7eR5egUFE/UQujqF3SwzI/AAAAAAABYlM/lqiZEWDIl-c/s400/2013-01-31+at+14-19-23.jpg" alt="" />
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-DVL0eM_ilpU/UQujrBr_24I/AAAAAAABYlU/08I0XrV3DVs/s400/2013-01-31+at+14-19-31.jpg" />
+<img   border="0" src="http://4.bp.blogspot.com/-DVL0eM_ilpU/UQujrBr_24I/AAAAAAABYlU/08I0XrV3DVs/s400/2013-01-31+at+14-19-31.jpg" alt="" />
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-WkudmvYxVU8/UQujsF0jWRI/AAAAAAABYlc/HTMBpLhDPuQ/s400/2013-01-31+at+14-19-34.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-WkudmvYxVU8/UQujsF0jWRI/AAAAAAABYlc/HTMBpLhDPuQ/s400/2013-01-31+at+14-19-34.jpg" alt="" />
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-2hRiqmB9C_I/UQuj0ekuICI/AAAAAAABYmc/KyN-kaRIOtU/s400/2013-01-31+at+16-40-04.jpg" />
+<img   border="0" src="http://2.bp.blogspot.com/-2hRiqmB9C_I/UQuj0ekuICI/AAAAAAABYmc/KyN-kaRIOtU/s400/2013-01-31+at+16-40-04.jpg" alt="" />
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-smEme-1AJ5A/UQuj4wrRmsI/AAAAAAABYm8/xRZuEvHmlHU/s400/2013-01-31+at+16-40-42.jpg" />
+<img   border="0" src="http://1.bp.blogspot.com/-smEme-1AJ5A/UQuj4wrRmsI/AAAAAAABYm8/xRZuEvHmlHU/s400/2013-01-31+at+16-40-42.jpg" alt="" />

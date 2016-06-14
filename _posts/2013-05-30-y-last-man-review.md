@@ -31,7 +31,7 @@ It's got a bit of romance, science fiction, adventure, politics, action, and all
 
 That said, there are certain parts-- or rather characters hard to believe in. Just some. It nags at my brain a bit, but I generally suspend disbelief and let it go. A few chapters does jump around a bit to the past a bit, so readers should keep in mind the numerous characters.
 
-<img alt=""  border="0" src="http://2.bp.blogspot.com/-ovArPrDyoUQ/UafznelRNiI/AAAAAAABc3k/uLnxDACopuk/s400/IMG_20130530_174718.jpg"   />
+<img   border="0" src="http://2.bp.blogspot.com/-ovArPrDyoUQ/UafznelRNiI/AAAAAAABc3k/uLnxDACopuk/s400/IMG_20130530_174718.jpg" alt=""   />
 
 Here's are links to the full set of books (paperbacks):
 <ol>

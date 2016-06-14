@@ -17,13 +17,13 @@ header-img: /public/images/headers/joshua_tree.jpg
 I wanted to write a quick post on my experience with getting a SIM card in Singapore.  
 When I arrived to Changi Airport, I immediately went to get a SIM card from a money exchange booth. They seemed to only offer prepaid SIM cards in $50, $100, and $150 SGD if I'm not mistaken. Since I was only staying for 4 days, I chose the smallest one: $50 SGD.
 
-<a href="http://4.bp.blogspot.com/-GPlnDEX8OyY/TbTb--h4vBI/AAAAAAAAnCg/6u5Y_2GY-Bw/s600/IMG_20110425_102052.jpg" ><img alt=""  border="0" height="300" src="http://4.bp.blogspot.com/-GPlnDEX8OyY/TbTb--h4vBI/AAAAAAAAnCg/6u5Y_2GY-Bw/s400/IMG_20110425_102052.jpg"  /></a>
+<a href="http://4.bp.blogspot.com/-GPlnDEX8OyY/TbTb--h4vBI/AAAAAAAAnCg/6u5Y_2GY-Bw/s600/IMG_20110425_102052.jpg" alt="" ><img   border="0" height="300" src="http://4.bp.blogspot.com/-GPlnDEX8OyY/TbTb--h4vBI/AAAAAAAAnCg/6u5Y_2GY-Bw/s400/IMG_20110425_102052.jpg" alt=""  /></a>
 
 After following the instructions, I was able to dial out. But most important to me was to get data. All they told me was to dial *363 to get 3G going. This was true, but they left out a vital piece of information. The APN info!  
 
 I went back to ask what else was needed. After 5 minutes, I was able to convince the lady at the counter that it was probably the APN info that was missing. She took out a booklet and looked up that information, wrote it down on a scrap paper, and gave it to me.  
 
-<a href="http://2.bp.blogspot.com/-xiEqZd-Tzng/TbTb7noDUXI/AAAAAAAAnCc/2ka3Rx0YEe0/s600/IMG_20110425_102031.jpg" ><img alt=""  border="0" height="300" src="http://2.bp.blogspot.com/-xiEqZd-Tzng/TbTb7noDUXI/AAAAAAAAnCc/2ka3Rx0YEe0/s400/IMG_20110425_102031.jpg"  /></a>
+<a href="http://2.bp.blogspot.com/-xiEqZd-Tzng/TbTb7noDUXI/AAAAAAAAnCc/2ka3Rx0YEe0/s600/IMG_20110425_102031.jpg" alt="" ><img   border="0" height="300" src="http://2.bp.blogspot.com/-xiEqZd-Tzng/TbTb7noDUXI/AAAAAAAAnCc/2ka3Rx0YEe0/s400/IMG_20110425_102031.jpg" alt=""  /></a>
 
 ### APN information:
 <blockquote class="tr_bq">

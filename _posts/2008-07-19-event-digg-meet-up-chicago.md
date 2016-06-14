@@ -16,7 +16,7 @@ header-img: /public/images/headers/chicago_skyline.jpg
 
 I published this on my other blog, but wanted to post here too.  Looks like <a href="http://www.digg.com/">Digg</a> is coming to Chicago!
 
-<a href="http://upcoming.yahoo.com/event/830845/"><img alt=""   border="0" id="BLOGGER_PHOTO_ID_5220845073147427778" src="http://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s400/digg_chicago.jpg" /></a>
+<a href="http://upcoming.yahoo.com/event/830845/"><img    border="0" id="BLOGGER_PHOTO_ID_5220845073147427778" src="http://1.bp.blogspot.com/_7U5MdumP-no/SHQq7sxM-8I/AAAAAAAAAks/lcoBl4SRTVI/s400/digg_chicago.jpg" alt="" /></a>
 
 #### Wednesday, July 23, 2008
 6-10 pm<br />

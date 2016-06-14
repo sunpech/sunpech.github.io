@@ -26,18 +26,18 @@ Here are the pictures, many of which are shot in with the HDR feature in the DSL
 
 ### Pictures
 
-<a href="http://2.bp.blogspot.com/-sNtVFyyx-tw/T6J0lxH9-mI/AAAAAAABIBY/kgRy6Jq2zvs/s600/20120429-13-47-33.jpg" ><img alt=""  border="0"  src="http://2.bp.blogspot.com/-sNtVFyyx-tw/T6J0lxH9-mI/AAAAAAABIBY/kgRy6Jq2zvs/s400/20120429-13-47-33.jpg"  /></a>
+<a href="http://2.bp.blogspot.com/-sNtVFyyx-tw/T6J0lxH9-mI/AAAAAAABIBY/kgRy6Jq2zvs/s600/20120429-13-47-33.jpg" alt="" ><img   border="0"  src="http://2.bp.blogspot.com/-sNtVFyyx-tw/T6J0lxH9-mI/AAAAAAABIBY/kgRy6Jq2zvs/s400/20120429-13-47-33.jpg" alt=""  /></a>
 
-<a href="http://1.bp.blogspot.com/-SeY2yhN_70Y/T6J2NHzQN7I/AAAAAAABILE/mX5WvRJUi8w/s600/20120429-15-32-23.jpg" ><img alt=""  border="0"  src="http://1.bp.blogspot.com/-SeY2yhN_70Y/T6J2NHzQN7I/AAAAAAABILE/mX5WvRJUi8w/s400/20120429-15-32-23.jpg"  /></a>
+<a href="http://1.bp.blogspot.com/-SeY2yhN_70Y/T6J2NHzQN7I/AAAAAAABILE/mX5WvRJUi8w/s600/20120429-15-32-23.jpg" alt="" ><img   border="0"  src="http://1.bp.blogspot.com/-SeY2yhN_70Y/T6J2NHzQN7I/AAAAAAABILE/mX5WvRJUi8w/s400/20120429-15-32-23.jpg" alt=""  /></a>
 
-<a href="http://3.bp.blogspot.com/-r1YYCW3unr0/T6J2PFxFRHI/AAAAAAABILM/BRzCqlROfZU/s600/20120429-15-33-32.jpg" ><img alt=""  border="0"  src="http://3.bp.blogspot.com/-r1YYCW3unr0/T6J2PFxFRHI/AAAAAAABILM/BRzCqlROfZU/s400/20120429-15-33-32.jpg"  /></a>
+<a href="http://3.bp.blogspot.com/-r1YYCW3unr0/T6J2PFxFRHI/AAAAAAABILM/BRzCqlROfZU/s600/20120429-15-33-32.jpg" alt="" ><img   border="0"  src="http://3.bp.blogspot.com/-r1YYCW3unr0/T6J2PFxFRHI/AAAAAAABILM/BRzCqlROfZU/s400/20120429-15-33-32.jpg" alt=""  /></a>
 
-<a href="http://1.bp.blogspot.com/-JiYMyptyh-E/T6KfLBCW_0I/AAAAAAABIVo/am6Ddn8PpGc/s600/2012-04-29-162_3_4.jpg" ><img alt=""  border="0"  src="http://1.bp.blogspot.com/-JiYMyptyh-E/T6KfLBCW_0I/AAAAAAABIVo/am6Ddn8PpGc/s400/2012-04-29-162_3_4.jpg"  /></a>
+<a href="http://1.bp.blogspot.com/-JiYMyptyh-E/T6KfLBCW_0I/AAAAAAABIVo/am6Ddn8PpGc/s600/2012-04-29-162_3_4.jpg" alt="" ><img   border="0"  src="http://1.bp.blogspot.com/-JiYMyptyh-E/T6KfLBCW_0I/AAAAAAABIVo/am6Ddn8PpGc/s400/2012-04-29-162_3_4.jpg" alt=""  /></a>
 
-<a href="http://3.bp.blogspot.com/-EAmer3GpYmE/T6J22mDWuzI/AAAAAAABINY/lfIIkmVj-ag/s600/20120429-15-45-07.jpg" ><img alt=""  border="0"  src="http://3.bp.blogspot.com/-EAmer3GpYmE/T6J22mDWuzI/AAAAAAABINY/lfIIkmVj-ag/s400/20120429-15-45-07.jpg"  /></a>
+<a href="http://3.bp.blogspot.com/-EAmer3GpYmE/T6J22mDWuzI/AAAAAAABINY/lfIIkmVj-ag/s600/20120429-15-45-07.jpg" alt="" ><img   border="0"  src="http://3.bp.blogspot.com/-EAmer3GpYmE/T6J22mDWuzI/AAAAAAABINY/lfIIkmVj-ag/s400/20120429-15-45-07.jpg" alt=""  /></a>
 
-<a href="http://3.bp.blogspot.com/-jgrmMpCZtd4/T6J3d1moyRI/AAAAAAABIQQ/zpzjnnCDvQM/s600/20120429-16-01-25.jpg" ><img alt=""  border="0"  src="http://3.bp.blogspot.com/-jgrmMpCZtd4/T6J3d1moyRI/AAAAAAABIQQ/zpzjnnCDvQM/s400/20120429-16-01-25.jpg"  /></a>
+<a href="http://3.bp.blogspot.com/-jgrmMpCZtd4/T6J3d1moyRI/AAAAAAABIQQ/zpzjnnCDvQM/s600/20120429-16-01-25.jpg" alt="" ><img   border="0"  src="http://3.bp.blogspot.com/-jgrmMpCZtd4/T6J3d1moyRI/AAAAAAABIQQ/zpzjnnCDvQM/s400/20120429-16-01-25.jpg" alt=""  /></a>
 
-<a href="http://4.bp.blogspot.com/-6fZh9jEvzb8/T6J4PqaWTAI/AAAAAAABITo/3mU8WpyWvcE/s600/20120429-16-34-08.jpg" ><img alt=""  border="0"  src="http://4.bp.blogspot.com/-6fZh9jEvzb8/T6J4PqaWTAI/AAAAAAABITo/3mU8WpyWvcE/s400/20120429-16-34-08.jpg"  /></a>
+<a href="http://4.bp.blogspot.com/-6fZh9jEvzb8/T6J4PqaWTAI/AAAAAAABITo/3mU8WpyWvcE/s600/20120429-16-34-08.jpg" alt="" ><img   border="0"  src="http://4.bp.blogspot.com/-6fZh9jEvzb8/T6J4PqaWTAI/AAAAAAABITo/3mU8WpyWvcE/s400/20120429-16-34-08.jpg" alt=""  /></a>
 
-<a href="http://2.bp.blogspot.com/-d03Uc4AKSPQ/T6J4Rz8D1VI/AAAAAAABITw/TH1HeUsHJVs/s600/20120429-16-34-10.jpg" ><img alt=""  border="0"  src="http://2.bp.blogspot.com/-d03Uc4AKSPQ/T6J4Rz8D1VI/AAAAAAABITw/TH1HeUsHJVs/s400/20120429-16-34-10.jpg"  /></a>
+<a href="http://2.bp.blogspot.com/-d03Uc4AKSPQ/T6J4Rz8D1VI/AAAAAAABITw/TH1HeUsHJVs/s600/20120429-16-34-10.jpg" alt="" ><img   border="0"  src="http://2.bp.blogspot.com/-d03Uc4AKSPQ/T6J4Rz8D1VI/AAAAAAABITw/TH1HeUsHJVs/s400/20120429-16-34-10.jpg" alt=""  /></a>

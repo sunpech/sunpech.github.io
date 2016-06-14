@@ -14,6 +14,6 @@ redirect_from: /2008/08/software-development-comic.html
 header-img: /public/images/headers/software_development.jpg
 ---
 
-<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s600-h/software_development.jpg"><img alt=""   border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s400/software_development.jpg" id="BLOGGER_PHOTO_ID_5235919981203486242" /></a>
+<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s600-h/software_development.jpg" alt=""><img    border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/SKm5e1gA9iI/AAAAAAAAAlg/crpgqO6Ooms/s400/software_development.jpg" alt="" id="BLOGGER_PHOTO_ID_5235919981203486242" /></a>
 
 I find this comic to be hilarious.

@@ -18,4 +18,4 @@ Got this in my inbox from <a href="http://www.linkedin.com/">LinkedIn</a>.  iPho
 
 No love for Android.
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPihs2s/s640/linkedin_mobile_no_love_for_android.png"  />
+<img   border="0" src="http://4.bp.blogspot.com/_7U5MdumP-no/S77EJIvaBsI/AAAAAAAAOIw/9EPHSPihs2s/s640/linkedin_mobile_no_love_for_android.png" alt=""  />

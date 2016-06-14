@@ -18,7 +18,7 @@ Next week, on October 22, I should be getting my pre-ordered <a href="http://www
 
 Let me get one thing straight, I extended the contract only to get my hand on a device running <a href="http://en.wikipedia.org/wiki/Android_(mobile_device_platform)">Google Android</a>.  I love pretty much everything that comes from Google.  Everything.  And I want to be one of the first to get my hands on this toy.  Even though it's costing me $300.
 
-<img alt=""  src="http://1.bp.blogspot.com/_7U5MdumP-no/SPU7xQYooGI/AAAAAAAAIIg/wbhjqnijWfE/s400/g1.jpg" border="0" id="BLOGGER_PHOTO_ID_5257173857422844002" />
+<img   src="http://1.bp.blogspot.com/_7U5MdumP-no/SPU7xQYooGI/AAAAAAAAIIg/wbhjqnijWfE/s400/g1.jpg" alt="" border="0" id="BLOGGER_PHOTO_ID_5257173857422844002" />
 
 Links:
 

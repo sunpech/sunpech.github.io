@@ -25,7 +25,7 @@ This is the list of add-ons that I install on any computer I use running Firefox
   <li><a href="https://addons.mozilla.org/en-US/firefox/addon/590">ShowIP</a> - Shows the IP address of the site I'm viewing</li>
 </ul>
 
-<a href="http://www.mozilla.com/firefox?from=sfx&amp;uid=0&amp;t=331"><img alt=""  alt="Spreadfirefox Affiliate Button" border="0" src="http://sfx-images.mozilla.org/affiliates/Buttons/firefox3/125x125FF3.png" /></a>
+<a href="http://www.mozilla.com/firefox?from=sfx&amp;uid=0&amp;t=331"><img   alt="Spreadfirefox Affiliate Button" border="0" src="http://sfx-images.mozilla.org/affiliates/Buttons/firefox3/125x125FF3.png" alt="" /></a>
 
 Links:
 <ul>

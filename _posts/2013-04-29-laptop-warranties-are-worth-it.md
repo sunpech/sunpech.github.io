@@ -39,4 +39,4 @@ What makes it worth it is not having to go through the headache of spending time
 
 Here's a picture of both laptops, still in use today.
 
-<img alt=""  border="0" src="http://1.bp.blogspot.com/-USx-cqUYusQ/UXuk3exJ-6I/AAAAAAABbu0/q2JKWVMrkGc/s600/2013-04-27+at+02-05-06.jpg"  />
+<img   border="0" src="http://1.bp.blogspot.com/-USx-cqUYusQ/UXuk3exJ-6I/AAAAAAABbu0/q2JKWVMrkGc/s600/2013-04-27+at+02-05-06.jpg" alt=""  />

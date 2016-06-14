@@ -25,28 +25,28 @@ I hope to get around to blogging about some of my thoughts related to some of th
 As always, here are some of the pictures I took at Chicago Code Camp 2011. Full album <a href="https://picasaweb.google.com/101693597219413173200/2011ChicagoCodeCamp">here</a>.
 
 The updated schedule
-<a href="http://4.bp.blogspot.com/-rmrocbUzGGI/Tc9CXwGtkvI/AAAAAAAAnxQ/FCmoXpNe_bM/s600/2011-05-14+at+08-29-25.jpg" ><img alt=""  border="0" src="http://4.bp.blogspot.com/-rmrocbUzGGI/Tc9CXwGtkvI/AAAAAAAAnxQ/FCmoXpNe_bM/s400/2011-05-14+at+08-29-25.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-rmrocbUzGGI/Tc9CXwGtkvI/AAAAAAAAnxQ/FCmoXpNe_bM/s600/2011-05-14+at+08-29-25.jpg" alt="" ><img   border="0" src="http://4.bp.blogspot.com/-rmrocbUzGGI/Tc9CXwGtkvI/AAAAAAAAnxQ/FCmoXpNe_bM/s400/2011-05-14+at+08-29-25.jpg" alt=""   /></a>
 
 Registration at 8:30am
-<a href="http://3.bp.blogspot.com/-bsxXq7sslRg/Tc9CYVIj5kI/AAAAAAAAnxY/G1Hu51H3Hw8/s600/2011-05-14+at+08-30-07.jpg" ><img alt=""  border="0" src="http://3.bp.blogspot.com/-bsxXq7sslRg/Tc9CYVIj5kI/AAAAAAAAnxY/G1Hu51H3Hw8/s400/2011-05-14+at+08-30-07.jpg"   /></a>
+<a href="http://3.bp.blogspot.com/-bsxXq7sslRg/Tc9CYVIj5kI/AAAAAAAAnxY/G1Hu51H3Hw8/s600/2011-05-14+at+08-30-07.jpg" alt="" ><img   border="0" src="http://3.bp.blogspot.com/-bsxXq7sslRg/Tc9CYVIj5kI/AAAAAAAAnxY/G1Hu51H3Hw8/s400/2011-05-14+at+08-30-07.jpg" alt=""   /></a>
 
 Snacks and drinks (lots of caffeine)
-<a href="http://2.bp.blogspot.com/-g74iXwW2v_s/Tc9CY0d9TrI/AAAAAAAAnxg/1FeeLZ4MOac/s600/2011-05-14+at+08-31-02.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-g74iXwW2v_s/Tc9CY0d9TrI/AAAAAAAAnxg/1FeeLZ4MOac/s400/2011-05-14+at+08-31-02.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-g74iXwW2v_s/Tc9CY0d9TrI/AAAAAAAAnxg/1FeeLZ4MOac/s600/2011-05-14+at+08-31-02.jpg" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-g74iXwW2v_s/Tc9CY0d9TrI/AAAAAAAAnxg/1FeeLZ4MOac/s400/2011-05-14+at+08-31-02.jpg" alt=""   /></a>
 
 Michael Eaton talking about going Independent
-<a href="http://2.bp.blogspot.com/-qF0ZcGQN8E0/Tc_R6YvnNHI/AAAAAAAAn8U/Vw6WFBOsAPk/s600/IMG_20110514_092811.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-qF0ZcGQN8E0/Tc_R6YvnNHI/AAAAAAAAn8U/Vw6WFBOsAPk/s400/IMG_20110514_092811.jpg"  /></a>
+<a href="http://2.bp.blogspot.com/-qF0ZcGQN8E0/Tc_R6YvnNHI/AAAAAAAAn8U/Vw6WFBOsAPk/s600/IMG_20110514_092811.jpg" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-qF0ZcGQN8E0/Tc_R6YvnNHI/AAAAAAAAn8U/Vw6WFBOsAPk/s400/IMG_20110514_092811.jpg" alt=""  /></a>
 
 Dave Hoover and Damien Tanner pair-presenting on PusherApp
-<a href="http://2.bp.blogspot.com/-H0CQzBPx2gk/Tc9Cb7SdwDI/AAAAAAAAnys/gk3b7TAg9Yg/s600/2011-05-14+at+12-44-57.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-H0CQzBPx2gk/Tc9Cb7SdwDI/AAAAAAAAnys/gk3b7TAg9Yg/s400/2011-05-14+at+12-44-57.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-H0CQzBPx2gk/Tc9Cb7SdwDI/AAAAAAAAnys/gk3b7TAg9Yg/s600/2011-05-14+at+12-44-57.jpg" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-H0CQzBPx2gk/Tc9Cb7SdwDI/AAAAAAAAnys/gk3b7TAg9Yg/s400/2011-05-14+at+12-44-57.jpg" alt=""   /></a>
 
 Clark Sell hosting a discussion on the Chicago Tech Community
-<a href="http://3.bp.blogspot.com/-x_sA8jM70lU/Tc9Cdckrp5I/AAAAAAAAnzM/ec0XexE2NnY/s600/2011-05-14+at+14-04-22.jpg" ><img alt=""  border="0" src="http://3.bp.blogspot.com/-x_sA8jM70lU/Tc9Cdckrp5I/AAAAAAAAnzM/ec0XexE2NnY/s400/2011-05-14+at+14-04-22.jpg"   /></a>
+<a href="http://3.bp.blogspot.com/-x_sA8jM70lU/Tc9Cdckrp5I/AAAAAAAAnzM/ec0XexE2NnY/s600/2011-05-14+at+14-04-22.jpg" alt="" ><img   border="0" src="http://3.bp.blogspot.com/-x_sA8jM70lU/Tc9Cdckrp5I/AAAAAAAAnzM/ec0XexE2NnY/s400/2011-05-14+at+14-04-22.jpg" alt=""   /></a>
 
 Steve Kim presenting on GNU Smalltalk
-<a href="http://1.bp.blogspot.com/-TS25xncE7Qo/Tc_R7Z8rLyI/AAAAAAAAn8s/GHn9maKTlKQ/s600/IMG_20110514_150149.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-TS25xncE7Qo/Tc_R7Z8rLyI/AAAAAAAAn8s/GHn9maKTlKQ/s400/IMG_20110514_150149.jpg" /></a>
+<a href="http://1.bp.blogspot.com/-TS25xncE7Qo/Tc_R7Z8rLyI/AAAAAAAAn8s/GHn9maKTlKQ/s600/IMG_20110514_150149.jpg" alt="" ><img   border="0" src="http://1.bp.blogspot.com/-TS25xncE7Qo/Tc_R7Z8rLyI/AAAAAAAAn8s/GHn9maKTlKQ/s400/IMG_20110514_150149.jpg" alt="" /></a>
 
 Everyone waiting in the JLC for the raffle prizes
-<a href="http://2.bp.blogspot.com/-v7cxrNsePEc/Tc9Cexci5PI/AAAAAAAAnzw/ZGk606VeT8o/s600/2011-05-14+at+16-15-31.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-v7cxrNsePEc/Tc9Cexci5PI/AAAAAAAAnzw/ZGk606VeT8o/s400/2011-05-14+at+16-15-31.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-v7cxrNsePEc/Tc9Cexci5PI/AAAAAAAAnzw/ZGk606VeT8o/s600/2011-05-14+at+16-15-31.jpg" alt="" ><img   border="0" src="http://2.bp.blogspot.com/-v7cxrNsePEc/Tc9Cexci5PI/AAAAAAAAnzw/ZGk606VeT8o/s400/2011-05-14+at+16-15-31.jpg" alt=""   /></a>
 
 The nice prizes for the raffle
-<a href="http://3.bp.blogspot.com/-yQQdSlYPT3g/Tc9ChVq1mmI/AAAAAAAAn00/Ue3bjxKK8GI/s600/2011-05-14+at+16-33-45.jpg" ><img alt=""  border="0" src="http://3.bp.blogspot.com/-yQQdSlYPT3g/Tc9ChVq1mmI/AAAAAAAAn00/Ue3bjxKK8GI/s400/2011-05-14+at+16-33-45.jpg"   /></a>
+<a href="http://3.bp.blogspot.com/-yQQdSlYPT3g/Tc9ChVq1mmI/AAAAAAAAn00/Ue3bjxKK8GI/s600/2011-05-14+at+16-33-45.jpg" alt="" ><img   border="0" src="http://3.bp.blogspot.com/-yQQdSlYPT3g/Tc9ChVq1mmI/AAAAAAAAn00/Ue3bjxKK8GI/s400/2011-05-14+at+16-33-45.jpg" alt=""   /></a>

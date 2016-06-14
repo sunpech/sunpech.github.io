@@ -21,4 +21,4 @@ Check out the result of the collaboration below:
 
 <a href="http://docs.google.com/Doc?id=ajjmpghqf6r8_6fjvqm7cx">Steven's San Francisco Trip (Sept. 2008)</a>
 
-<a href="http://docs.google.com/Doc?id=ajjmpghqf6r8_6fjvqm7cx"><img alt=""   border="0" id="BLOGGER_PHOTO_ID_5252419594425936018" src="http://4.bp.blogspot.com/_7U5MdumP-no/SORXyukPKJI/AAAAAAAAIHs/mn5kb3gxf64/s400/google_doc.jpg" /></a>
+<a href="http://docs.google.com/Doc?id=ajjmpghqf6r8_6fjvqm7cx"><img    border="0" id="BLOGGER_PHOTO_ID_5252419594425936018" src="http://4.bp.blogspot.com/_7U5MdumP-no/SORXyukPKJI/AAAAAAAAIHs/mn5kb3gxf64/s400/google_doc.jpg" alt="" /></a>

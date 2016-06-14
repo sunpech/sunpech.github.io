@@ -17,7 +17,7 @@ header-img: /public/images/headers/software_development.jpg
 
 The schedule for <a href="http://chicagocodecamp.com/">Chicago Code Camp</a> is now up! You can register for the <b>free</b> event <a href="http://chicagocodecamp.eventbrite.com/">here</a>. You can follow them on twitter at: <a href="https://twitter.com/#!/chicagocodecamp">@chicagocodecamp</a>. The twitter hash tag to follow at the event is: <a href="https://twitter.com/#!/search?q=%23ccc3">#ccc3</a>
 
-<img alt=""  border="0" src="http://4.bp.blogspot.com/-GO8zdM4suwo/TcwN0B7fOpI/AAAAAAAAnss/T1nD2L7lmJc/s400/logo-horizontal.png"  />
+<img   border="0" src="http://4.bp.blogspot.com/-GO8zdM4suwo/TcwN0B7fOpI/AAAAAAAAnss/T1nD2L7lmJc/s400/logo-horizontal.png" alt=""  />
 
 The link to actual schedule: <a href="http://chicagocodecamp.com/schedules">Chicago Code Camp 2011 Schedule</a> (<i>this link may not work in the future-- beyond 2011</i>).
 
