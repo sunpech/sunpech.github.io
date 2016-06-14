@@ -26,7 +26,7 @@ It's a good book that covers Elon's childhood, family, marital life, business/wo
 
 **Elon Musk more interesting than Steve Jobs**.  There I said it.
 
-I've [previously written](/2015/06/becoming-steve-jobs/) about Steve Jobs. As much as I find Jobs to be a complex, flawed, and impressive business man-- Elon is all that and more.
+I've [previously written](/2015/06/becoming-steve-jobs) about Steve Jobs. As much as I find Jobs to be a complex, flawed, and impressive business man-- Elon is all that and more.
 
 Both of these men are people that saw an opportunity to create something that would enrich our lives and pursued it with such boldness that it both inspired and hurt many people along the way. I guess you don't make it to a billion dollars without being a controversial person?
 
