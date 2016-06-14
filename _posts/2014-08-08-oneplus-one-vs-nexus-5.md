@@ -21,7 +21,7 @@ Last month in July, I purchased two Android phones: <a href="http://www.google.c
 I got the white Nexus 5 (16GB). I had it only for a few weeks before I got a OnePlus invite in mid-July. I had to act quickly since the invite was good for only 24 hours. I was already happy with the Nexus 5, but here I was given an opportunity to try out something highly sought after. So after some talking I was able to find a new home for my Nexus 5 and decided to move forward to be one of the lucky few OPO owners.
 
 My OnePlus invite email:
-<a href="http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg" ><img border="0" src="http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg"  width="492" /></a>
+<a href="http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-UfUssiPpE9w/U-Lx018AUyI/AAAAAAABv9U/v_LXI7QYWnA/s600/Screen_Shot_2014-07-18_at_3_34_48_AM.jpg"  width="492" /></a>
 
 ## Nexus 5
 
@@ -35,7 +35,7 @@ At first I thought that the phone would be too big and uncomfortable to use. Aft
 
 I cannot think of a single thing to dislike about this phone. None.
 
-<img border="0" src="http://3.bp.blogspot.com/-__MwiiGAWVg/U-Ls8TcAXPI/AAAAAAABv9I/i7kOcQq827o/s600/2014-07-02+at+14-20-30.jpg"  style="color: #0000ee;"  />
+<img alt=""  border="0" src="http://3.bp.blogspot.com/-__MwiiGAWVg/U-Ls8TcAXPI/AAAAAAABv9I/i7kOcQq827o/s600/2014-07-02+at+14-20-30.jpg"  style="color: #0000ee;"  />
 
 ## OnePlus One
 
@@ -53,7 +53,7 @@ What I don't like is that it's a heavier device than the Nexus 5. I can really n
 
 <b>The CM 11S build is also a bit buggy</b>. I get app crashes consistently on certain workflows. I do hope that they get fixed in the next update. Even the Android L Preview is more stable than this ROM.
 
-<a href="http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg" ><img border="0" src="http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-qDhuwNxE0Lw/U-QUGAtg4eI/AAAAAAABwEE/qLwyfqbGmcY/s600/2014-08-07+at+16-55-38.jpg"   /></a>
 
 ## Final Thoughts
 

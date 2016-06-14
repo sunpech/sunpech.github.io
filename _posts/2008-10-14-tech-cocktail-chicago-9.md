@@ -18,7 +18,7 @@ header-img: /public/images/headers/chicago_skyline.jpg
 
 Another <a href="http://en.wikipedia.org/wiki/Digerati">digerati</a> networking event coming up in November!  Last time I went I had a pretty good time talking with various people in the Chicago tech community.  Only wish my company would sport me with actual up-to-date business cards!
 
-<a href="http://www.techcocktail.com"><img src="http://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s400/112682035.jpg" border="0"  /></a>
+<a href="http://www.techcocktail.com"><img alt=""  src="http://4.bp.blogspot.com/_7U5MdumP-no/SD62YIHHDHI/AAAAAAAAAjY/1VIo7fli2ks/s400/112682035.jpg" border="0"  /></a>
 
 When: Thursday, November 6, 2008 - 6:30 p.m. to 9:00 p.m. CST
 Where: John Barleycorn Wrigleyville

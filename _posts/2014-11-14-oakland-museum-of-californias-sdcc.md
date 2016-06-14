@@ -23,29 +23,29 @@ The exhibit runs from May 23, 2014 to May 31, 2015.
 
 Below is the photo I took at SDCC in 2013 that they used. It's taken on the escalators leading up to the ticket booths.
 
-<a href="http://4.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAAB0Ag/Q2GTo5K5VUg/s600/2013-07-18%2Bat%2B17-23-17.jpg"><img border="0" src="http://4.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAAB0Ag/Q2GTo5K5VUg/s600/2013-07-18%2Bat%2B17-23-17.jpg"  /></a>
+<a href="http://4.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAAB0Ag/Q2GTo5K5VUg/s600/2013-07-18%2Bat%2B17-23-17.jpg"><img alt=""  border="0" src="http://4.bp.blogspot.com/-FU0gFVz3MeU/Ue-O425xFII/AAAAAAAB0Ag/Q2GTo5K5VUg/s600/2013-07-18%2Bat%2B17-23-17.jpg"  /></a>
 
 Full set of photos can be found <a href="https://plus.google.com/photos/101693597219413173200/albums/6081433354928343105?banner=pwa">here</a>.
 
 Here are some of my pictures from the museum and the SDCC exhibit:
 
-<a href="http://1.bp.blogspot.com/-Db7TmCRvqLc/VGWXbi9ey7I/AAAAAAAB0Wg/XVSpEXx6-zg/s600/2014-11-12%2Bat%2B11-07-45.jpg"><img border="0" src="http://1.bp.blogspot.com/-Db7TmCRvqLc/VGWXbi9ey7I/AAAAAAAB0Wg/XVSpEXx6-zg/s600/2014-11-12%2Bat%2B11-07-45.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-Db7TmCRvqLc/VGWXbi9ey7I/AAAAAAAB0Wg/XVSpEXx6-zg/s600/2014-11-12%2Bat%2B11-07-45.jpg"><img alt=""  border="0" src="http://1.bp.blogspot.com/-Db7TmCRvqLc/VGWXbi9ey7I/AAAAAAAB0Wg/XVSpEXx6-zg/s600/2014-11-12%2Bat%2B11-07-45.jpg"   /></a>
 
-<a href="http://3.bp.blogspot.com/-WG1TuZMTD7Q/VGWXdHEJ4kI/AAAAAAAB0Ww/izAp4AU3ykM/s600/2014-11-12%2Bat%2B11-10-30.jpg"><img border="0" src="http://3.bp.blogspot.com/-WG1TuZMTD7Q/VGWXdHEJ4kI/AAAAAAAB0Ww/izAp4AU3ykM/s600/2014-11-12%2Bat%2B11-10-30.jpg"   /></a>
+<a href="http://3.bp.blogspot.com/-WG1TuZMTD7Q/VGWXdHEJ4kI/AAAAAAAB0Ww/izAp4AU3ykM/s600/2014-11-12%2Bat%2B11-10-30.jpg"><img alt=""  border="0" src="http://3.bp.blogspot.com/-WG1TuZMTD7Q/VGWXdHEJ4kI/AAAAAAAB0Ww/izAp4AU3ykM/s600/2014-11-12%2Bat%2B11-10-30.jpg"   /></a>
 
 That's me standing in front of my photo blown up to the size of a wall!
-<a href="http://1.bp.blogspot.com/-SoQtuoIARN0/VGWXeT2vWJI/AAAAAAAB0XA/P710Dkpjl-8/s600/2014-11-12%2Bat%2B11-16-41.jpg"><img border="0" src="http://1.bp.blogspot.com/-SoQtuoIARN0/VGWXeT2vWJI/AAAAAAAB0XA/P710Dkpjl-8/s600/2014-11-12%2Bat%2B11-16-41.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-SoQtuoIARN0/VGWXeT2vWJI/AAAAAAAB0XA/P710Dkpjl-8/s600/2014-11-12%2Bat%2B11-16-41.jpg"><img alt=""  border="0" src="http://1.bp.blogspot.com/-SoQtuoIARN0/VGWXeT2vWJI/AAAAAAAB0XA/P710Dkpjl-8/s600/2014-11-12%2Bat%2B11-16-41.jpg"   /></a>
 
-<a href="http://1.bp.blogspot.com/-hK6GOwBfYk4/VGWXfLAJ8yI/AAAAAAAB0XI/nMHeGVBpyao/s600/2014-11-12%2Bat%2B11-17-00.jpg"><img border="0" src="http://1.bp.blogspot.com/-hK6GOwBfYk4/VGWXfLAJ8yI/AAAAAAAB0XI/nMHeGVBpyao/s600/2014-11-12%2Bat%2B11-17-00.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-hK6GOwBfYk4/VGWXfLAJ8yI/AAAAAAAB0XI/nMHeGVBpyao/s600/2014-11-12%2Bat%2B11-17-00.jpg"><img alt=""  border="0" src="http://1.bp.blogspot.com/-hK6GOwBfYk4/VGWXfLAJ8yI/AAAAAAAB0XI/nMHeGVBpyao/s600/2014-11-12%2Bat%2B11-17-00.jpg"   /></a>
 
-<a href="http://4.bp.blogspot.com/-9Q0RZnrNt_8/VGWXgNDkI8I/AAAAAAAB0XQ/BnnQr8DYcmY/s600/2014-11-12%2Bat%2B11-18-51.jpg"><img border="0" src="http://4.bp.blogspot.com/-9Q0RZnrNt_8/VGWXgNDkI8I/AAAAAAAB0XQ/BnnQr8DYcmY/s600/2014-11-12%2Bat%2B11-18-51.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-9Q0RZnrNt_8/VGWXgNDkI8I/AAAAAAAB0XQ/BnnQr8DYcmY/s600/2014-11-12%2Bat%2B11-18-51.jpg"><img alt=""  border="0" src="http://4.bp.blogspot.com/-9Q0RZnrNt_8/VGWXgNDkI8I/AAAAAAAB0XQ/BnnQr8DYcmY/s600/2014-11-12%2Bat%2B11-18-51.jpg"   /></a>
 
-<a href="http://1.bp.blogspot.com/-FdyE6Rqvj0g/VGWXgvwoiAI/AAAAAAAB0Xc/eSgSW6cHe68/s600/2014-11-12%2Bat%2B11-20-27.jpg"><img border="0" src="http://1.bp.blogspot.com/-FdyE6Rqvj0g/VGWXgvwoiAI/AAAAAAAB0Xc/eSgSW6cHe68/s600/2014-11-12%2Bat%2B11-20-27.jpg"  width="474" /></a>
+<a href="http://1.bp.blogspot.com/-FdyE6Rqvj0g/VGWXgvwoiAI/AAAAAAAB0Xc/eSgSW6cHe68/s600/2014-11-12%2Bat%2B11-20-27.jpg"><img alt=""  border="0" src="http://1.bp.blogspot.com/-FdyE6Rqvj0g/VGWXgvwoiAI/AAAAAAAB0Xc/eSgSW6cHe68/s600/2014-11-12%2Bat%2B11-20-27.jpg"  width="474" /></a>
 
-<a href="http://1.bp.blogspot.com/-yISP_igPCgI/VGWXhW2B70I/AAAAAAAB0Xg/lUGT1vYyDp8/s600/2014-11-12%2Bat%2B11-26-41.jpg"><img border="0" src="http://1.bp.blogspot.com/-yISP_igPCgI/VGWXhW2B70I/AAAAAAAB0Xg/lUGT1vYyDp8/s600/2014-11-12%2Bat%2B11-26-41.jpg"  width="474" /></a>
+<a href="http://1.bp.blogspot.com/-yISP_igPCgI/VGWXhW2B70I/AAAAAAAB0Xg/lUGT1vYyDp8/s600/2014-11-12%2Bat%2B11-26-41.jpg"><img alt=""  border="0" src="http://1.bp.blogspot.com/-yISP_igPCgI/VGWXhW2B70I/AAAAAAAB0Xg/lUGT1vYyDp8/s600/2014-11-12%2Bat%2B11-26-41.jpg"  width="474" /></a>
 
-<a href="http://4.bp.blogspot.com/-xp6h2UR9HOs/VGWXhwnZgBI/AAAAAAAB0Xo/MwU5TM0fD7w/s600/2014-11-12%2Bat%2B11-29-48.jpg"><img border="0" src="http://4.bp.blogspot.com/-xp6h2UR9HOs/VGWXhwnZgBI/AAAAAAAB0Xo/MwU5TM0fD7w/s600/2014-11-12%2Bat%2B11-29-48.jpg"  width="474" /></a>
+<a href="http://4.bp.blogspot.com/-xp6h2UR9HOs/VGWXhwnZgBI/AAAAAAAB0Xo/MwU5TM0fD7w/s600/2014-11-12%2Bat%2B11-29-48.jpg"><img alt=""  border="0" src="http://4.bp.blogspot.com/-xp6h2UR9HOs/VGWXhwnZgBI/AAAAAAAB0Xo/MwU5TM0fD7w/s600/2014-11-12%2Bat%2B11-29-48.jpg"  width="474" /></a>
 
-<a href="http://2.bp.blogspot.com/-BAQe2-gIz8o/VGWXivBVKoI/AAAAAAAB0Xw/OlPCM3kVlkU/s600/2014-11-12%2Bat%2B11-48-00.jpg"><img border="0" src="http://2.bp.blogspot.com/-BAQe2-gIz8o/VGWXivBVKoI/AAAAAAAB0Xw/OlPCM3kVlkU/s600/2014-11-12%2Bat%2B11-48-00.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-BAQe2-gIz8o/VGWXivBVKoI/AAAAAAAB0Xw/OlPCM3kVlkU/s600/2014-11-12%2Bat%2B11-48-00.jpg"><img alt=""  border="0" src="http://2.bp.blogspot.com/-BAQe2-gIz8o/VGWXivBVKoI/AAAAAAAB0Xw/OlPCM3kVlkU/s600/2014-11-12%2Bat%2B11-48-00.jpg"   /></a>
 
 The museum is comfortably small and had a lot of school children visiting. If you are in the area, give it a visit.

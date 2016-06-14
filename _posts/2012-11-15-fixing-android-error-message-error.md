@@ -23,7 +23,7 @@ I got the following error message:
 
 <span style="font-family: Courier New, Courier, monospace;">Update for "Foursquare" could not be downloaded due to an error. (Error retrieving information from server. [RPC:AEC:0])</span>
 
-<img border="0" src="http://4.bp.blogspot.com/-DbUPW35q1z8/UKQaM0IRF2I/AAAAAAABVvg/ZrAWFQtepXc/s400/A7j94bVCYAI6WZd.png-large.jpg"  width="360" />
+<img alt=""  border="0" src="http://4.bp.blogspot.com/-DbUPW35q1z8/UKQaM0IRF2I/AAAAAAABVvg/ZrAWFQtepXc/s400/A7j94bVCYAI6WZd.png-large.jpg"  width="360" />
 
 This would apply to any app, but for my case both Foursquare and Google Music.
 

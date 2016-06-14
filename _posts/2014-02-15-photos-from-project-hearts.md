@@ -20,7 +20,7 @@ The kit itself is just okay. I've had it for a few years now, but never shot wit
 
 #### Project Hearts
 Buy print: <a href="http://500pxart.com/photo/60973944">http://500pxart.com/photo/60973944</a>
-<a href="http://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s600/2014-02-13+at+20-13-11.jpg" ><img border="0" src="http://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s600/2014-02-13+at+20-13-11.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s600/2014-02-13+at+20-13-11.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-F1kR-2UoqBE/Uv5edvAxJEI/AAAAAAABmVQ/FwDBskRCbxg/s600/2014-02-13+at+20-13-11.jpg"   /></a>
 
 #### Hearts at El Rey Theatre
-<a href="http://1.bp.blogspot.com/-AmE-vWINv9c/Uv5eeZ7pRhI/AAAAAAABmVk/twSglMi1Hmc/s600/2014-02-13+at+20-20-58.jpg" ><img border="0" src="http://1.bp.blogspot.com/-AmE-vWINv9c/Uv5eeZ7pRhI/AAAAAAABmVk/twSglMi1Hmc/s600/2014-02-13+at+20-20-58.jpg" /></a>
+<a href="http://1.bp.blogspot.com/-AmE-vWINv9c/Uv5eeZ7pRhI/AAAAAAABmVk/twSglMi1Hmc/s600/2014-02-13+at+20-20-58.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-AmE-vWINv9c/Uv5eeZ7pRhI/AAAAAAABmVk/twSglMi1Hmc/s600/2014-02-13+at+20-20-58.jpg" /></a>

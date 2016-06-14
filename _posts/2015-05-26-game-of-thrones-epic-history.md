@@ -17,7 +17,7 @@ Well, you should. Her <i>epic history</i> videos cover all the major houses (Bar
 
 If you haven't read the books like me, her videos helps me appreciate the TV show immensely. I previously blogged about my [Top 5 YouTube Channels for Comic Geeks](/2015/05/top-5-youtube-channels-for-comic-geeks/), and she's listed there as being one of my favorites. I really enjoy these content creators' channels.
 
-<img src="/public/images/blog/comicbookgirl19-GameofThrones.jpg" alt="Comic Book Girl 19's Game of Thrones Epic History" />
+<img alt=""  src="/public/images/blog/comicbookgirl19-GameofThrones.jpg" alt="Comic Book Girl 19's Game of Thrones Epic History" />
 
 If you just want to hit play once, here's Comic Book Girl 19's Game of Thrones videos playlist: [Game of Thrones Videos &amp; GOT Epic Histories Playlist](https://www.youtube.com/playlist?list=PLHZDkFt4F9fNO6XB4L1mi4v-vs96zy53g). It will play in the order one after another.
 

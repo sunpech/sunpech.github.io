@@ -50,4 +50,4 @@ I look forward to using my Macbook Pro more and more.  I'm not saying I'm never 
 
 So here's to 2011, to learning new things!
 
-<img border="0" src="http://4.bp.blogspot.com/_7U5MdumP-no/TS1a-9DgV7I/AAAAAAAAfLg/B20G9RlSsFs/s400/IMG_2979.jpg" />
+<img alt=""  border="0" src="http://4.bp.blogspot.com/_7U5MdumP-no/TS1a-9DgV7I/AAAAAAAAfLg/B20G9RlSsFs/s400/IMG_2979.jpg" />

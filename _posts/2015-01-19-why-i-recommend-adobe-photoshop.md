@@ -21,7 +21,7 @@ Adobe Lightroom is essentially a trimmed down version of <a href="http://www.ado
 
 This is not an extensive guide to using Lightroom (LR) and all its features.
 
-<a href="http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png" ><img border="0" src="http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png"   /></a>
+<a href="http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png" ><img alt=""  border="0" src="http://4.bp.blogspot.com/-Zipr0C0tMBc/VL0se9qr0xI/AAAAAAAB1Ds/S8XN3YRjjGw/s600/Screen%2BShot%2B2015-01-19%2Bat%2B10.09.11%2BAM.png"   /></a>
 
 ## Developing a Workflow
 
@@ -41,7 +41,7 @@ I like to rename my files to the following format: <span style="font-family: Cou
 
 My folder structure is in the format: <span style="font-family: Courier New, Courier, monospace;">PICTURES/YEAR/MONTH/DAY</span>
 
-<a href="http://3.bp.blogspot.com/-WwZ9WcYthN4/VLzD6HkfyiI/AAAAAAAB1Ck/QW6JXY9JaRY/s600/Screen%2BShot%2B2015-01-19%2Bat%2B2.43.58%2BAM.png" ><img border="0" src="http://3.bp.blogspot.com/-WwZ9WcYthN4/VLzD6HkfyiI/AAAAAAAB1Ck/QW6JXY9JaRY/s600/Screen%2BShot%2B2015-01-19%2Bat%2B2.43.58%2BAM.png" height="166"  /></a><br /><span style="font-size: x-small;">Example folder/file naming convention.</span>
+<a href="http://3.bp.blogspot.com/-WwZ9WcYthN4/VLzD6HkfyiI/AAAAAAAB1Ck/QW6JXY9JaRY/s600/Screen%2BShot%2B2015-01-19%2Bat%2B2.43.58%2BAM.png" ><img alt=""  border="0" src="http://3.bp.blogspot.com/-WwZ9WcYthN4/VLzD6HkfyiI/AAAAAAAB1Ck/QW6JXY9JaRY/s600/Screen%2BShot%2B2015-01-19%2Bat%2B2.43.58%2BAM.png" height="166"  /></a><br /><span style="font-size: x-small;">Example folder/file naming convention.</span>
 
 At the top folder, you may have a folder simply called "Pictures". For me I have it called "Photos Raw". This is the folder where you should organize all your photos.
 
@@ -55,7 +55,7 @@ Having these conventions gives you the long term benefit of a high level overvie
 
 You should also use photo editing software to properly create metadata information for each photo during the export/import process. This meta information is basically a set of descriptions that you can use to not only describe the photo, but to further filter and organize your photos later.
 
-<a href="http://1.bp.blogspot.com/-_idK_MTiGCM/VLzHqo7K6bI/AAAAAAAB1DA/m0PECDATmsc/s600/Screen_Shot_2015-01-19_at_2_56_51_AM.jpg" ><img border="0" src="http://1.bp.blogspot.com/-_idK_MTiGCM/VLzHqo7K6bI/AAAAAAAB1DA/m0PECDATmsc/s600/Screen_Shot_2015-01-19_at_2_56_51_AM.jpg"  width="242" /></a><br /><span style="font-size: x-small;">Example metadata information.</span>
+<a href="http://1.bp.blogspot.com/-_idK_MTiGCM/VLzHqo7K6bI/AAAAAAAB1DA/m0PECDATmsc/s600/Screen_Shot_2015-01-19_at_2_56_51_AM.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-_idK_MTiGCM/VLzHqo7K6bI/AAAAAAAB1DA/m0PECDATmsc/s600/Screen_Shot_2015-01-19_at_2_56_51_AM.jpg"  width="242" /></a><br /><span style="font-size: x-small;">Example metadata information.</span>
 
 Say, for example, you want to only see your photos that you took in Los Angeles. Well, having the keyword "Los Angeles" in this metadata will allow you to sort out any photos you tagged as "Los Angeles". Of course this requires that you tag photos you took in Los Angeles to begin with.
 
@@ -65,13 +65,13 @@ My favorite part of the workflow is <b>editing</b> the actual photos. This may n
 
 The amount of options and sliders in LR can be a little intimidating. But they are very powerful and can help improve your photos significantly.
 
-<a href="http://2.bp.blogspot.com/-SdXai6IXJs8/VLzNr7BuyVI/AAAAAAAB1DY/Et9j-34Qkd8/s600/Screen%2BShot%2B2015-01-19%2Bat%2B3.24.40%2BAM.png" ><img border="0" src="http://2.bp.blogspot.com/-SdXai6IXJs8/VLzNr7BuyVI/AAAAAAAB1DY/Et9j-34Qkd8/s600/Screen%2BShot%2B2015-01-19%2Bat%2B3.24.40%2BAM.png"  width="195" /></a><br /><span style="font-size: x-small;">Screenshot of the sliders and tools in Lightroom.</span>
+<a href="http://2.bp.blogspot.com/-SdXai6IXJs8/VLzNr7BuyVI/AAAAAAAB1DY/Et9j-34Qkd8/s600/Screen%2BShot%2B2015-01-19%2Bat%2B3.24.40%2BAM.png" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-SdXai6IXJs8/VLzNr7BuyVI/AAAAAAAB1DY/Et9j-34Qkd8/s600/Screen%2BShot%2B2015-01-19%2Bat%2B3.24.40%2BAM.png"  width="195" /></a><br /><span style="font-size: x-small;">Screenshot of the sliders and tools in Lightroom.</span>
 
 Recently I've been scanning some old photo slides from the late 1960s for my parents-- this is way before I was even born! I would scan them and then bring them into Lightroom for editing. On many of them the colors weren't vibrant and had so much visible dust or dirt particles.
 
 Below is an example of an edit of my mom in downtown Chicago in 1968. As you can see, it's already a nice photo, the subject is in focus and a nice blurred (<a href="http://en.wikipedia.org/wiki/Bokeh">bokeh</a>) background. But there's some dust particles in the upper portions of the photo and a distracting piece of litter on the ground to the left of the subject. I removed the dust, litter, boosted the colors, and added a radial vignette to the photo to make the subject more prominent.
 
-<a href="http://2.bp.blogspot.com/-ZXcYSCkP6sY/VLzMTTD65AI/AAAAAAAB1DM/Pk_4NNwNrHc/s600/Screen%2BShot%2B2015-01-17%2Bat%2B4.59.53%2BPM.png" ><img border="0" src="http://2.bp.blogspot.com/-ZXcYSCkP6sY/VLzMTTD65AI/AAAAAAAB1DM/Pk_4NNwNrHc/s600/Screen%2BShot%2B2015-01-17%2Bat%2B4.59.53%2BPM.png" height="454"  /></a><br /><span style="font-size: x-small;">Example before and after editing in Lightroom.</span><br /><span style="font-size: x-small;"><br /></span>The quality of the edits in Lightroom is far superior than what I've seen come out of other photo editing software.
+<a href="http://2.bp.blogspot.com/-ZXcYSCkP6sY/VLzMTTD65AI/AAAAAAAB1DM/Pk_4NNwNrHc/s600/Screen%2BShot%2B2015-01-17%2Bat%2B4.59.53%2BPM.png" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-ZXcYSCkP6sY/VLzMTTD65AI/AAAAAAAB1DM/Pk_4NNwNrHc/s600/Screen%2BShot%2B2015-01-17%2Bat%2B4.59.53%2BPM.png" height="454"  /></a><br /><span style="font-size: x-small;">Example before and after editing in Lightroom.</span><br /><span style="font-size: x-small;"><br /></span>The quality of the edits in Lightroom is far superior than what I've seen come out of other photo editing software.
 
 ## Why Lightroom Rocks
 

@@ -21,22 +21,22 @@ I bought the phone yesterday, 1/5/2010, at 1:05pm.  Overnight FedEx shipping (fr
 
 The Nexus One can be purchased here: <a href="http://www.google.com/phone">http://www.google.com/phone</a>
 
-<a href="http://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.JPG"><img border="0" src="http://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.JPG" /></a>
+<a href="http://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.JPG"><img alt=""  border="0" src="http://3.bp.blogspot.com/-DWHYiqrpf-U/S0VhxGZwNPI/AAAAAAAAN7k/yp1vUH5ikAk/s600/IMG_0115.JPG" /></a>
 
-<a href="http://2.bp.blogspot.com/-cuUyyetoHGE/S0VhxRM6e7I/AAAAAAAAN7o/xHEE2YUhpXw/s600/IMG_0116.JPG"><img border="0" src="http://2.bp.blogspot.com/-cuUyyetoHGE/S0VhxRM6e7I/AAAAAAAAN7o/xHEE2YUhpXw/s600/IMG_0116.JPG"   /></a>
+<a href="http://2.bp.blogspot.com/-cuUyyetoHGE/S0VhxRM6e7I/AAAAAAAAN7o/xHEE2YUhpXw/s600/IMG_0116.JPG"><img alt=""  border="0" src="http://2.bp.blogspot.com/-cuUyyetoHGE/S0VhxRM6e7I/AAAAAAAAN7o/xHEE2YUhpXw/s600/IMG_0116.JPG"   /></a>
 
-<a href="http://3.bp.blogspot.com/-oG74-SnRlzs/S0Vhx65gF7I/AAAAAAAAN7s/ZHoDbylKgGQ/s600/IMG_0117.JPG"><img border="0" src="http://3.bp.blogspot.com/-oG74-SnRlzs/S0Vhx65gF7I/AAAAAAAAN7s/ZHoDbylKgGQ/s600/IMG_0117.JPG"   /></a>
+<a href="http://3.bp.blogspot.com/-oG74-SnRlzs/S0Vhx65gF7I/AAAAAAAAN7s/ZHoDbylKgGQ/s600/IMG_0117.JPG"><img alt=""  border="0" src="http://3.bp.blogspot.com/-oG74-SnRlzs/S0Vhx65gF7I/AAAAAAAAN7s/ZHoDbylKgGQ/s600/IMG_0117.JPG"   /></a>
 
-<a href="http://2.bp.blogspot.com/-gfKCeQMPjY4/S0VhyOqfAQI/AAAAAAAAN7w/vIach-UdiNQ/s600/IMG_0118.JPG"><img border="0" src="http://2.bp.blogspot.com/-gfKCeQMPjY4/S0VhyOqfAQI/AAAAAAAAN7w/vIach-UdiNQ/s600/IMG_0118.JPG"   /></a>
+<a href="http://2.bp.blogspot.com/-gfKCeQMPjY4/S0VhyOqfAQI/AAAAAAAAN7w/vIach-UdiNQ/s600/IMG_0118.JPG"><img alt=""  border="0" src="http://2.bp.blogspot.com/-gfKCeQMPjY4/S0VhyOqfAQI/AAAAAAAAN7w/vIach-UdiNQ/s600/IMG_0118.JPG"   /></a>
 
-<a href="http://2.bp.blogspot.com/-lB4XMZX1JmY/S0VhyU_EfqI/AAAAAAAAN70/bhNSJxeGlls/s600/IMG_0119.JPG"><img border="0" src="http://2.bp.blogspot.com/-lB4XMZX1JmY/S0VhyU_EfqI/AAAAAAAAN70/bhNSJxeGlls/s600/IMG_0119.JPG"   /></a>
+<a href="http://2.bp.blogspot.com/-lB4XMZX1JmY/S0VhyU_EfqI/AAAAAAAAN70/bhNSJxeGlls/s600/IMG_0119.JPG"><img alt=""  border="0" src="http://2.bp.blogspot.com/-lB4XMZX1JmY/S0VhyU_EfqI/AAAAAAAAN70/bhNSJxeGlls/s600/IMG_0119.JPG"   /></a>
 
-<a href="http://4.bp.blogspot.com/-i32GHsKtmmE/S0VhyqNMNuI/AAAAAAAAN74/GaFqWFK25wg/s600/IMG_0120.JPG"><img border="0" src="http://4.bp.blogspot.com/-i32GHsKtmmE/S0VhyqNMNuI/AAAAAAAAN74/GaFqWFK25wg/s600/IMG_0120.JPG"   /></a>
+<a href="http://4.bp.blogspot.com/-i32GHsKtmmE/S0VhyqNMNuI/AAAAAAAAN74/GaFqWFK25wg/s600/IMG_0120.JPG"><img alt=""  border="0" src="http://4.bp.blogspot.com/-i32GHsKtmmE/S0VhyqNMNuI/AAAAAAAAN74/GaFqWFK25wg/s600/IMG_0120.JPG"   /></a>
 
-<a href="http://3.bp.blogspot.com/-dS-Jz5TbKDo/S0Vhy2PcKmI/AAAAAAAAN78/W7gGUpkXSGI/s600/IMG_0124.JPG"><img border="0" src="http://3.bp.blogspot.com/-dS-Jz5TbKDo/S0Vhy2PcKmI/AAAAAAAAN78/W7gGUpkXSGI/s600/IMG_0124.JPG"   /></a>
+<a href="http://3.bp.blogspot.com/-dS-Jz5TbKDo/S0Vhy2PcKmI/AAAAAAAAN78/W7gGUpkXSGI/s600/IMG_0124.JPG"><img alt=""  border="0" src="http://3.bp.blogspot.com/-dS-Jz5TbKDo/S0Vhy2PcKmI/AAAAAAAAN78/W7gGUpkXSGI/s600/IMG_0124.JPG"   /></a>
 
-<a href="http://3.bp.blogspot.com/-fah4M6iQWRg/S0VhzNMp3xI/AAAAAAAAN8A/rO1m74iqqmA/s600/IMG_0114.JPG"><img border="0" src="http://3.bp.blogspot.com/-fah4M6iQWRg/S0VhzNMp3xI/AAAAAAAAN8A/rO1m74iqqmA/s600/IMG_0114.JPG"   /></a>
+<a href="http://3.bp.blogspot.com/-fah4M6iQWRg/S0VhzNMp3xI/AAAAAAAAN8A/rO1m74iqqmA/s600/IMG_0114.JPG"><img alt=""  border="0" src="http://3.bp.blogspot.com/-fah4M6iQWRg/S0VhzNMp3xI/AAAAAAAAN8A/rO1m74iqqmA/s600/IMG_0114.JPG"   /></a>
 
-<a href="http://3.bp.blogspot.com/-sJv5nliFM7I/S0VlVyHoxTI/AAAAAAAAN9I/-aQ9SnBMHzU/s600/IMG_0128.JPG"><img border="0" src="http://3.bp.blogspot.com/-sJv5nliFM7I/S0VlVyHoxTI/AAAAAAAAN9I/-aQ9SnBMHzU/s600/IMG_0128.JPG"   /></a>
+<a href="http://3.bp.blogspot.com/-sJv5nliFM7I/S0VlVyHoxTI/AAAAAAAAN9I/-aQ9SnBMHzU/s600/IMG_0128.JPG"><img alt=""  border="0" src="http://3.bp.blogspot.com/-sJv5nliFM7I/S0VlVyHoxTI/AAAAAAAAN9I/-aQ9SnBMHzU/s600/IMG_0128.JPG"   /></a>
 
-<a href="http://4.bp.blogspot.com/-cN3l_qkvyQo/S0VlWIklHCI/AAAAAAAAN9M/mtjzVHzb1Ds/s600/IMG_0129.JPG"><img border="0" src="http://4.bp.blogspot.com/-cN3l_qkvyQo/S0VlWIklHCI/AAAAAAAAN9M/mtjzVHzb1Ds/s600/IMG_0129.JPG"   /></a>
+<a href="http://4.bp.blogspot.com/-cN3l_qkvyQo/S0VlWIklHCI/AAAAAAAAN9M/mtjzVHzb1Ds/s600/IMG_0129.JPG"><img alt=""  border="0" src="http://4.bp.blogspot.com/-cN3l_qkvyQo/S0VlWIklHCI/AAAAAAAAN9M/mtjzVHzb1Ds/s600/IMG_0129.JPG"   /></a>

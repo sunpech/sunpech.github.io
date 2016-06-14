@@ -22,7 +22,7 @@ Over the weekend, mostly on Saturday I spent doing 2 main things:
 
 The development tool installation didn't take well at all, but the Linux install went very well, a bit long to download, install, and configure everything, but overall very well.  The distro I chose was <a href="http://www.terrasoftsolutions.com/products/ydl/">Yellow Dog Linux</a>, specifically for the PS3.  The driving force behind this is that I have a USB external hard drive which is in NTFS, which the PS3 currently cannot read.  So the workaround is to install another operating system (OS) onto the PS3, and have that run instead, which will be able to read the files.
 
-<img  border="0" id="BLOGGER_PHOTO_ID_5170678275589150402" src="http://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s400/ydl_logo.jpg" />
+<img alt=""   border="0" id="BLOGGER_PHOTO_ID_5170678275589150402" src="http://1.bp.blogspot.com/_7U5MdumP-no/R8HwfwhSFsI/AAAAAAAAAgI/DUh0vPPHiSg/s400/ydl_logo.jpg" />
 
 Here are the links I used to get it all done with:
 

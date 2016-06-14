@@ -20,18 +20,18 @@ Full album can be found: [Drink and Click LA Downtown Fun Artwalk](https://www.f
 
 ### Pictures
 
-<img src="http://4.bp.blogspot.com/-4a29F5LxFyk/UjM0Mp74yjI/AAAAAAABiIg/NUdais7EZVY/s800/2013-09-12%2Bat%2B20-18-23.jpg" />
+<img alt=""  src="http://4.bp.blogspot.com/-4a29F5LxFyk/UjM0Mp74yjI/AAAAAAABiIg/NUdais7EZVY/s800/2013-09-12%2Bat%2B20-18-23.jpg" />
 
-<img src="http://4.bp.blogspot.com/-9_JFlJQBaRE/UjM0MsZNcvI/AAAAAAABiJE/tMst6AaNa-0/s800/2013-09-12%2Bat%2B20-30-58.jpg" />
+<img alt=""  src="http://4.bp.blogspot.com/-9_JFlJQBaRE/UjM0MsZNcvI/AAAAAAABiJE/tMst6AaNa-0/s800/2013-09-12%2Bat%2B20-30-58.jpg" />
 
-<img src="http://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s800/2013-09-12%2Bat%2B20-32-38.jpg" />
+<img alt=""  src="http://3.bp.blogspot.com/-iE17riuDdCA/UjM0MhyCZYI/AAAAAAAByzk/kgqHbG0vXVA/s800/2013-09-12%2Bat%2B20-32-38.jpg" />
 
-<img src="http://2.bp.blogspot.com/-dSMKY4ceDZI/UjM0Mk3S49I/AAAAAAABiHM/0zeBGyCadJw/s800/2013-09-12%2Bat%2B20-42-22.jpg" />
+<img alt=""  src="http://2.bp.blogspot.com/-dSMKY4ceDZI/UjM0Mk3S49I/AAAAAAABiHM/0zeBGyCadJw/s800/2013-09-12%2Bat%2B20-42-22.jpg" />
 
-<img src="http://2.bp.blogspot.com/-Z9Tpf6hwNBU/UjM0MpOaQbI/AAAAAAAByzo/0Xbmwuv7Qp0/s800/2013-09-12%2Bat%2B20-42-37.jpg" />
+<img alt=""  src="http://2.bp.blogspot.com/-Z9Tpf6hwNBU/UjM0MpOaQbI/AAAAAAAByzo/0Xbmwuv7Qp0/s800/2013-09-12%2Bat%2B20-42-37.jpg" />
 
-<img src="http://2.bp.blogspot.com/-d_Gb6Ef-bis/UjM0MqSeTmI/AAAAAAABiGI/jdts5FCuIVg/s800/2013-09-12%2Bat%2B20-59-53.jpg" />
+<img alt=""  src="http://2.bp.blogspot.com/-d_Gb6Ef-bis/UjM0MqSeTmI/AAAAAAABiGI/jdts5FCuIVg/s800/2013-09-12%2Bat%2B20-59-53.jpg" />
 
-<img src="http://1.bp.blogspot.com/-81-q_Nd9zU0/UjM0MicRA5I/AAAAAAABiGw/mJvi8mwB7u4/s800/2013-09-12%2Bat%2B21-00-13.jpg" />
+<img alt=""  src="http://1.bp.blogspot.com/-81-q_Nd9zU0/UjM0MicRA5I/AAAAAAABiGw/mJvi8mwB7u4/s800/2013-09-12%2Bat%2B21-00-13.jpg" />
 
-<img src="http://2.bp.blogspot.com/-zE_lOxXeozM/UjM0MiWB1II/AAAAAAAByzU/Ca-F7adbwVE/s800/2013-09-12%2Bat%2B21-05-40.jpg" />
+<img alt=""  src="http://2.bp.blogspot.com/-zE_lOxXeozM/UjM0MiWB1II/AAAAAAAByzU/Ca-F7adbwVE/s800/2013-09-12%2Bat%2B21-05-40.jpg" />

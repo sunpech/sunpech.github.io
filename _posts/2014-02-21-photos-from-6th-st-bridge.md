@@ -26,13 +26,13 @@ Below are three pictures taken from relatively the same spot on the bridge. I pr
 
 #### Dark DTLA
 Buy print: <a href="http://500pxart.com/photo/61340603">http://500pxart.com/photo/61340603</a>
-<a href="http://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg" ><img border="0" src="http://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg" /></a>
+<a href="http://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-bT98cz8mX8w/UwN-9BA_TxI/AAAAAAABmX0/2Xwn6zJ6qss/s600/2014-02-15+at+19-45-14.jpg" /></a>
 
 #### DTLA Skyline
 Buy print: <a href="http://500pxart.com/photo/61433677">http://500pxart.com/photo/61433677</a>
-<a href="http://4.bp.blogspot.com/-Dt6gpobxkb4/UwN-_Ot3FkI/AAAAAAABmYE/zfW6_txP7AM/s600/2014-02-15+at+20-08-49.jpg" ><img border="0" src="http://4.bp.blogspot.com/-Dt6gpobxkb4/UwN-_Ot3FkI/AAAAAAABmYE/zfW6_txP7AM/s600/2014-02-15+at+20-08-49.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-Dt6gpobxkb4/UwN-_Ot3FkI/AAAAAAABmYE/zfW6_txP7AM/s600/2014-02-15+at+20-08-49.jpg" ><img alt=""  border="0" src="http://4.bp.blogspot.com/-Dt6gpobxkb4/UwN-_Ot3FkI/AAAAAAABmYE/zfW6_txP7AM/s600/2014-02-15+at+20-08-49.jpg"   /></a>
 
 #### Starbust DTLA
-<a href="http://2.bp.blogspot.com/-YEfS6a44_sY/UwN--Sj1i6I/AAAAAAABmX8/4Vp_CpPNNuQ/s600/2014-02-15+at+19-57-58.jpg" ><img border="0" src="http://2.bp.blogspot.com/-YEfS6a44_sY/UwN--Sj1i6I/AAAAAAABmX8/4Vp_CpPNNuQ/s600/2014-02-15+at+19-57-58.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-YEfS6a44_sY/UwN--Sj1i6I/AAAAAAABmX8/4Vp_CpPNNuQ/s600/2014-02-15+at+19-57-58.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-YEfS6a44_sY/UwN--Sj1i6I/AAAAAAABmX8/4Vp_CpPNNuQ/s600/2014-02-15+at+19-57-58.jpg"   /></a>
 
 To view my collection of pictures taken in Los Angeles, <a href="https://plus.google.com/photos/101693597219413173200/albums/5971477409792464481">click here</a>.

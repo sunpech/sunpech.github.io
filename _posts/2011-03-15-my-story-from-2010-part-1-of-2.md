@@ -27,7 +27,7 @@ Shortly after quitting, I made my way to San Diego with my sisters for the <a hr
 
 Afterwards, I came across <a href="http://www.jetblue.com/aycj/">JetBlue's All-You-Can-Jet</a> (AYCJ) package for traveling in September 2010. I took advantage of this and decided to visit family and friends all around the US. I visited the following cities: Boston, New York City, Denver, San Francisco, and Los Angeles. It was an amazing traveling adventure for me as everyone I visited were able to put a roof over my head. I met other JetBlue travelers on my flights, many of them too were visiting cities all across America.
 
-<img border="0" height="301" src="https://lh6.googleusercontent.com/-OsvAPJsKT2s/TX9b3Hs2swI/AAAAAAAAhyk/i4hoy-1yBdM/s400/IMG_20100920_084235.jpg" width="400" />
+<img alt=""  border="0" height="301" src="https://lh6.googleusercontent.com/-OsvAPJsKT2s/TX9b3Hs2swI/AAAAAAAAhyk/i4hoy-1yBdM/s400/IMG_20100920_084235.jpg" width="400" />
 
 I went to Boston to visit my sister and my undergraduate school, <a href="http://www.bu.edu/">Boston University</a> (BU). I actually have a blog post of my visit to the CS lab where I used to work and basically live many study and programming nights.
 

@@ -18,7 +18,7 @@ header-img: /public/images/headers/san_diego_comic_con.jpg
 
 Last week I as in San Diego for <a href="http://www.comic-con.org/cci">Comic Con</a> (SDCC). This visit marks my fourth visit to San Diego's Comic Con, with <i>next year (2015) marking twenty years since I attended my first comic con in Chicago</i>. I cannot believe it's been that long since I first ventured into a convention
 
-<a href="http://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s600/2014-07-23+at+13-48-44.jpg" ><img border="0" src="http://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s600/2014-07-23+at+13-48-44.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s600/2014-07-23+at+13-48-44.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/--7DxkTqh2d8/U9dGeoCJv3I/AAAAAAABvFs/mX2fttU1Bu0/s600/2014-07-23+at+13-48-44.jpg"   /></a>
 
 This year I didn't take as many pictures as I did in previous years. I think it's mostly because I'm more interested in attending panels and enjoying myself. Just a few weeks ago I was at <a href="/2014/07/anime-expo-2014">Anime Expo 2014</a> (AX) and took a lot of photos of cosplayers. AX honestly has the best cosplay I've ever seen. Although SDCC has a greater number of attendees and ultimately cosplayers, the quality of craftsmanship of AX cosplayers is unmatched except maybe for <a href="http://www.dragoncon.org/">DragonCon</a>.
 
@@ -30,19 +30,19 @@ I like how <b>there's a variety of celebrities, panels, and activities</b> acros
 
 #### Celebrities
 
-<a href="http://2.bp.blogspot.com/-_tD7GHSBnCI/U9l-0M6b02I/AAAAAAABv0k/XLEYqL4Lhv4/s600/2014+SDCC+-+Celebrities+Collage.jpg" ><img border="0" src="http://2.bp.blogspot.com/-_tD7GHSBnCI/U9l-0M6b02I/AAAAAAABv0k/XLEYqL4Lhv4/s600/2014+SDCC+-+Celebrities+Collage.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-_tD7GHSBnCI/U9l-0M6b02I/AAAAAAABv0k/XLEYqL4Lhv4/s600/2014+SDCC+-+Celebrities+Collage.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-_tD7GHSBnCI/U9l-0M6b02I/AAAAAAABv0k/XLEYqL4Lhv4/s600/2014+SDCC+-+Celebrities+Collage.jpg"   /></a>
 
 #### Toys, toys, toys
 
-<a href="http://4.bp.blogspot.com/-ma7hgQrjHTc/U9mJiP6gkCI/AAAAAAABv1U/uqCm9BB4xLE/s600/2014+SDCC+-+Toys+Collage.jpg" ><img border="0" src="http://4.bp.blogspot.com/-ma7hgQrjHTc/U9mJiP6gkCI/AAAAAAABv1U/uqCm9BB4xLE/s600/2014+SDCC+-+Toys+Collage.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-ma7hgQrjHTc/U9mJiP6gkCI/AAAAAAABv1U/uqCm9BB4xLE/s600/2014+SDCC+-+Toys+Collage.jpg" ><img alt=""  border="0" src="http://4.bp.blogspot.com/-ma7hgQrjHTc/U9mJiP6gkCI/AAAAAAABv1U/uqCm9BB4xLE/s600/2014+SDCC+-+Toys+Collage.jpg"   /></a>
 
 #### Events and booths
 
-<a href="http://2.bp.blogspot.com/-O-8GrdGRIi4/U9mHnKdikOI/AAAAAAABv1A/njn7nI23gEA/s600/2014+SDCC+-+Events.jpg" ><img border="0" src="http://2.bp.blogspot.com/-O-8GrdGRIi4/U9mHnKdikOI/AAAAAAABv1A/njn7nI23gEA/s600/2014+SDCC+-+Events.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-O-8GrdGRIi4/U9mHnKdikOI/AAAAAAABv1A/njn7nI23gEA/s600/2014+SDCC+-+Events.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-O-8GrdGRIi4/U9mHnKdikOI/AAAAAAABv1A/njn7nI23gEA/s600/2014+SDCC+-+Events.jpg"   /></a>
 
 #### Gotham Zip Line
 
-<a href="http://3.bp.blogspot.com/-uqN9YfGp2Ww/U9dIp3CoygI/AAAAAAABvYM/SU93Z5K5Pvg/s600/2014-07-25+at+11-28-23.jpg" ><img border="0" src="http://3.bp.blogspot.com/-uqN9YfGp2Ww/U9dIp3CoygI/AAAAAAABvYM/SU93Z5K5Pvg/s600/2014-07-25+at+11-28-23.jpg" height="286"  /></a>
+<a href="http://3.bp.blogspot.com/-uqN9YfGp2Ww/U9dIp3CoygI/AAAAAAABvYM/SU93Z5K5Pvg/s600/2014-07-25+at+11-28-23.jpg" ><img alt=""  border="0" src="http://3.bp.blogspot.com/-uqN9YfGp2Ww/U9dIp3CoygI/AAAAAAABvYM/SU93Z5K5Pvg/s600/2014-07-25+at+11-28-23.jpg" height="286"  /></a>
 
 Picking up tickets is really easy if you pick it up on Wednesday or Thursday-- especially if you have Preview Night. <b>There's virtually no wait in line</b>, just walk the 2-3 minutes up the escalator straight to one of the many service desks.
 
@@ -60,7 +60,7 @@ Here's a story where someone outright lied to my face. On <i>Friday</i> near the
 
 Check out the <a href="http://public.tableausoftware.com/profile/kuangkeng#!/vizhome/shared/KM2MYTDM6">Comic Con Attendance 1970-2014</a> (graph shown below).
 
-<a href="http://2.bp.blogspot.com/-u8bTjMDz3as/U9j7L946SmI/AAAAAAABvyM/CW36sIIBZno/s600/Screen+Shot+2014-07-30+at+7.02.51+AM.png" ><img border="0" src="http://2.bp.blogspot.com/-u8bTjMDz3as/U9j7L946SmI/AAAAAAABvyM/CW36sIIBZno/s600/Screen+Shot+2014-07-30+at+7.02.51+AM.png" height="468"  /></a>
+<a href="http://2.bp.blogspot.com/-u8bTjMDz3as/U9j7L946SmI/AAAAAAABvyM/CW36sIIBZno/s600/Screen+Shot+2014-07-30+at+7.02.51+AM.png" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-u8bTjMDz3as/U9j7L946SmI/AAAAAAABvyM/CW36sIIBZno/s600/Screen+Shot+2014-07-30+at+7.02.51+AM.png" height="468"  /></a>
 
 The numbers of attendees grew from roughly 150 people in 1970 to 150,000 people this year! That's nearly a 1000% growth!
 
@@ -92,19 +92,19 @@ Here are the collection of picture albums from all five days (including Preview 
 
 #### Cosplay
 
-<a href="http://1.bp.blogspot.com/-lASjSQtMVzo/U9mIhHQzCzI/AAAAAAABv1M/agagsMoVD9E/s600/2014+SDCC+-+Cosplay+Collage.jpg" ><img border="0" src="http://1.bp.blogspot.com/-lASjSQtMVzo/U9mIhHQzCzI/AAAAAAABv1M/agagsMoVD9E/s600/2014+SDCC+-+Cosplay+Collage.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-lASjSQtMVzo/U9mIhHQzCzI/AAAAAAABv1M/agagsMoVD9E/s600/2014+SDCC+-+Cosplay+Collage.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-lASjSQtMVzo/U9mIhHQzCzI/AAAAAAABv1M/agagsMoVD9E/s600/2014+SDCC+-+Cosplay+Collage.jpg"   /></a>
 
 Please check out <a href="http://www.cinemamakeup.com/">Cinema Makeup School</a>. They had a booth there where they showed how they assembled and applied all the makeup on many great cosplayers.
 
 Apocalypse being put together.
 
-<a href="http://4.bp.blogspot.com/-EiDcTGZKrP8/U9dIiUtcuwI/AAAAAAABvXM/thhu56ydPck/s600/2014-07-25+at+10-44-34.jpg" ><img border="0" src="http://4.bp.blogspot.com/-EiDcTGZKrP8/U9dIiUtcuwI/AAAAAAABvXM/thhu56ydPck/s600/2014-07-25+at+10-44-34.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-EiDcTGZKrP8/U9dIiUtcuwI/AAAAAAABvXM/thhu56ydPck/s600/2014-07-25+at+10-44-34.jpg" ><img alt=""  border="0" src="http://4.bp.blogspot.com/-EiDcTGZKrP8/U9dIiUtcuwI/AAAAAAABvXM/thhu56ydPck/s600/2014-07-25+at+10-44-34.jpg"   /></a>
 
 I am on Instagram at: <a href="http://instagram.com/sunpech">http://instagram.com/sunpech</a>. I tend to post quick edits up there first, so follow me there if you want an almost daily-instant photos I take.
 
 ## Final Thoughts
 
-<a href="http://2.bp.blogspot.com/-4YI5s6JfjIU/U9dGjIvNkwI/AAAAAAABvGM/M8pXiNolBI4/s600/2014-07-23+at+14-38-43.jpg" ><img border="0" src="http://2.bp.blogspot.com/-4YI5s6JfjIU/U9dGjIvNkwI/AAAAAAABvGM/M8pXiNolBI4/s600/2014-07-23+at+14-38-43.jpg" height="358"  /></a>
+<a href="http://2.bp.blogspot.com/-4YI5s6JfjIU/U9dGjIvNkwI/AAAAAAABvGM/M8pXiNolBI4/s600/2014-07-23+at+14-38-43.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-4YI5s6JfjIU/U9dGjIvNkwI/AAAAAAABvGM/M8pXiNolBI4/s600/2014-07-23+at+14-38-43.jpg" height="358"  /></a>
 
 Let's face it. Comic con is not so much about comics anymore. It's mostly for Hollywood and industries to promote their new movies, shows, games, and other over-priced gimmicky exclusives. The panels that are actually about comics are the ones that area easy to get into and mostly don't even fill up completely.
 

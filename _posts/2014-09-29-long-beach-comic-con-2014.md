@@ -37,31 +37,31 @@ The only minuses I found is that the food and restaurant options are a little li
 
 Below are some of my favorite pictures I took. Full album can be found on <a href="https://www.facebook.com/media/set/?set=a.763688073696219.1073741871.408588035872893&amp;type=1">my Facebook page</a> and on <a href="https://www.flickr.com/photos/sunpech/sets/72157648090876146/">my Flickr</a>.
 The entrance to the convention. The main floor is actually down the escalator.
-<a href="http://3.bp.blogspot.com/-AGuoADBTcug/VCf9IO-eH-I/AAAAAAABxug/Cs8flcjwxIo/s600/2014-09-27%2Bat%2B10-13-16.jpg"><img border="0" src="http://3.bp.blogspot.com/-AGuoADBTcug/VCf9IO-eH-I/AAAAAAABxug/Cs8flcjwxIo/s600/2014-09-27%2Bat%2B10-13-16.jpg"   /></a>
+<a href="http://3.bp.blogspot.com/-AGuoADBTcug/VCf9IO-eH-I/AAAAAAABxug/Cs8flcjwxIo/s600/2014-09-27%2Bat%2B10-13-16.jpg"><img alt=""  border="0" src="http://3.bp.blogspot.com/-AGuoADBTcug/VCf9IO-eH-I/AAAAAAABxug/Cs8flcjwxIo/s600/2014-09-27%2Bat%2B10-13-16.jpg"   /></a>
 
 Joe Field at the "And the Geeks Shall Inherit the Earth" panel
-<a href="http://4.bp.blogspot.com/-J0u69U6y6GM/VCf9VU0Fz9I/AAAAAAABxwE/t_Cb3pjyZmg/s600/2014-09-27%2Bat%2B11-03-34.jpg"><img border="0" src="http://4.bp.blogspot.com/-J0u69U6y6GM/VCf9VU0Fz9I/AAAAAAABxwE/t_Cb3pjyZmg/s600/2014-09-27%2Bat%2B11-03-34.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-J0u69U6y6GM/VCf9VU0Fz9I/AAAAAAABxwE/t_Cb3pjyZmg/s600/2014-09-27%2Bat%2B11-03-34.jpg"><img alt=""  border="0" src="http://4.bp.blogspot.com/-J0u69U6y6GM/VCf9VU0Fz9I/AAAAAAABxwE/t_Cb3pjyZmg/s600/2014-09-27%2Bat%2B11-03-34.jpg"   /></a>
 
 Arrow and Black Canary
-<a href="http://4.bp.blogspot.com/-gwFwV7eS8f0/VCf9Z6P0nEI/AAAAAAABxwo/Rp5A8ASJ5ME/s600/2014-09-27%2Bat%2B12-05-12.jpg"><img border="0" src="http://4.bp.blogspot.com/-gwFwV7eS8f0/VCf9Z6P0nEI/AAAAAAABxwo/Rp5A8ASJ5ME/s600/2014-09-27%2Bat%2B12-05-12.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-gwFwV7eS8f0/VCf9Z6P0nEI/AAAAAAABxwo/Rp5A8ASJ5ME/s600/2014-09-27%2Bat%2B12-05-12.jpg"><img alt=""  border="0" src="http://4.bp.blogspot.com/-gwFwV7eS8f0/VCf9Z6P0nEI/AAAAAAABxwo/Rp5A8ASJ5ME/s600/2014-09-27%2Bat%2B12-05-12.jpg"   /></a>
 
 A very large Chewbacca
-<a href="http://4.bp.blogspot.com/-dOg6edX_txw/VCf9cFtA-JI/AAAAAAABxw4/7HZipZilQTI/s600/2014-09-27%2Bat%2B12-07-37.jpg"><img border="0" src="http://4.bp.blogspot.com/-dOg6edX_txw/VCf9cFtA-JI/AAAAAAABxw4/7HZipZilQTI/s600/2014-09-27%2Bat%2B12-07-37.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-dOg6edX_txw/VCf9cFtA-JI/AAAAAAABxw4/7HZipZilQTI/s600/2014-09-27%2Bat%2B12-07-37.jpg"><img alt=""  border="0" src="http://4.bp.blogspot.com/-dOg6edX_txw/VCf9cFtA-JI/AAAAAAABxw4/7HZipZilQTI/s600/2014-09-27%2Bat%2B12-07-37.jpg"   /></a>
 
 Poison Ivy
-<a href="http://4.bp.blogspot.com/-kXibdu3Ccnc/VCf9dIFVT7I/AAAAAAABxxA/ahzaZrkpoHk/s600/2014-09-27%2Bat%2B12-14-37.jpg"><img border="0" src="http://4.bp.blogspot.com/-kXibdu3Ccnc/VCf9dIFVT7I/AAAAAAABxxA/ahzaZrkpoHk/s600/2014-09-27%2Bat%2B12-14-37.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-kXibdu3Ccnc/VCf9dIFVT7I/AAAAAAABxxA/ahzaZrkpoHk/s600/2014-09-27%2Bat%2B12-14-37.jpg"><img alt=""  border="0" src="http://4.bp.blogspot.com/-kXibdu3Ccnc/VCf9dIFVT7I/AAAAAAABxxA/ahzaZrkpoHk/s600/2014-09-27%2Bat%2B12-14-37.jpg"   /></a>
 
 A family that cosplays together
-<a href="http://1.bp.blogspot.com/-_o_Vo8D8xQs/VCf9fNfA5mI/AAAAAAABxxQ/B2hKy2dXNfc/s600/2014-09-27%2Bat%2B12-20-50.jpg"><img border="0" src="http://1.bp.blogspot.com/-_o_Vo8D8xQs/VCf9fNfA5mI/AAAAAAABxxQ/B2hKy2dXNfc/s600/2014-09-27%2Bat%2B12-20-50.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-_o_Vo8D8xQs/VCf9fNfA5mI/AAAAAAABxxQ/B2hKy2dXNfc/s600/2014-09-27%2Bat%2B12-20-50.jpg"><img alt=""  border="0" src="http://1.bp.blogspot.com/-_o_Vo8D8xQs/VCf9fNfA5mI/AAAAAAABxxQ/B2hKy2dXNfc/s600/2014-09-27%2Bat%2B12-20-50.jpg"   /></a>
 
 Kids playing with LEGOS. I know kids find sitting in this fun, but I see it as nothing but pain. Haha.
-<a href="http://1.bp.blogspot.com/-DCFSNidGZ8o/VCf9gVo8hEI/AAAAAAABxxY/oAe_Db3Luq8/s600/2014-09-27%2Bat%2B12-26-05.jpg"><img border="0" src="http://1.bp.blogspot.com/-DCFSNidGZ8o/VCf9gVo8hEI/AAAAAAABxxY/oAe_Db3Luq8/s600/2014-09-27%2Bat%2B12-26-05.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-DCFSNidGZ8o/VCf9gVo8hEI/AAAAAAABxxY/oAe_Db3Luq8/s600/2014-09-27%2Bat%2B12-26-05.jpg"><img alt=""  border="0" src="http://1.bp.blogspot.com/-DCFSNidGZ8o/VCf9gVo8hEI/AAAAAAABxxY/oAe_Db3Luq8/s600/2014-09-27%2Bat%2B12-26-05.jpg"   /></a>
 
 The best Elsa cosplayer I've ever seen. Cosplay by <a href="https://www.facebook.com/Paulinhacosplay">Paulinha Silva</a>.
-<a href="http://4.bp.blogspot.com/-T-YoIXmcZPg/VCf9hruPFNI/AAAAAAABxxg/ESrrCtp_NU8/s600/2014-09-27%2Bat%2B12-38-54.jpg"><img border="0" src="http://4.bp.blogspot.com/-T-YoIXmcZPg/VCf9hruPFNI/AAAAAAABxxg/ESrrCtp_NU8/s600/2014-09-27%2Bat%2B12-38-54.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-T-YoIXmcZPg/VCf9hruPFNI/AAAAAAABxxg/ESrrCtp_NU8/s600/2014-09-27%2Bat%2B12-38-54.jpg"><img alt=""  border="0" src="http://4.bp.blogspot.com/-T-YoIXmcZPg/VCf9hruPFNI/AAAAAAABxxg/ESrrCtp_NU8/s600/2014-09-27%2Bat%2B12-38-54.jpg"   /></a>
 
 The best Loki cosplayer I've ever seen. Cosplay by <a href="https://www.facebook.com/lokiwillalwayshateyou?fref=ts">Loki Hates You</a>.
-<a href="http://1.bp.blogspot.com/-FIe-QBxw3dE/VCf9iiPBAeI/AAAAAAABxxo/D5Twg7IJ9Mo/s600/2014-09-27%2Bat%2B12-43-35.jpg"><img border="0" src="http://1.bp.blogspot.com/-FIe-QBxw3dE/VCf9iiPBAeI/AAAAAAABxxo/D5Twg7IJ9Mo/s600/2014-09-27%2Bat%2B12-43-35.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-FIe-QBxw3dE/VCf9iiPBAeI/AAAAAAABxxo/D5Twg7IJ9Mo/s600/2014-09-27%2Bat%2B12-43-35.jpg"><img alt=""  border="0" src="http://1.bp.blogspot.com/-FIe-QBxw3dE/VCf9iiPBAeI/AAAAAAABxxo/D5Twg7IJ9Mo/s600/2014-09-27%2Bat%2B12-43-35.jpg"   /></a>
 
 The best Mystique cosplayer I've ever seen. Cosplay by <a href="http://instagram.com/gripgoddess/">@GripGoddess</a>.
-<a href="http://2.bp.blogspot.com/-ITjv7l28Yu8/VCf9nBKn1eI/AAAAAAABxyI/r0QUSQsKa1w/s600/2014-09-27%2Bat%2B14-02-17.jpg"><img border="0" src="http://2.bp.blogspot.com/-ITjv7l28Yu8/VCf9nBKn1eI/AAAAAAABxyI/r0QUSQsKa1w/s600/2014-09-27%2Bat%2B14-02-17.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-ITjv7l28Yu8/VCf9nBKn1eI/AAAAAAABxyI/r0QUSQsKa1w/s600/2014-09-27%2Bat%2B14-02-17.jpg"><img alt=""  border="0" src="http://2.bp.blogspot.com/-ITjv7l28Yu8/VCf9nBKn1eI/AAAAAAABxyI/r0QUSQsKa1w/s600/2014-09-27%2Bat%2B14-02-17.jpg"   /></a>

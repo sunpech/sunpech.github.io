@@ -18,17 +18,17 @@ I use <a href="http://500px.com/">500px</a> to do research on where I want to go
 
 #### Griffith Observatory Before Sunrise
 Buy print: <a href="http://500pxart.com/photo/59933986">http://500pxart.com/photo/59933986</a>
-<img border="0" src="http://2.bp.blogspot.com/-NkvvpZOgOgE/UvCCLn6JzVI/AAAAAAABmNA/4fjFbzC6Smc/s600/2014-02-03+at+06-15-00.jpg"   />
+<img alt=""  border="0" src="http://2.bp.blogspot.com/-NkvvpZOgOgE/UvCCLn6JzVI/AAAAAAABmNA/4fjFbzC6Smc/s600/2014-02-03+at+06-15-00.jpg"   />
 
 #### Griffith Observatory (After Sunrise)
 Buy print: <a href="http://500pxart.com/photo/59957370">http://500pxart.com/photo/59957370</a>
-<img border="0" src="http://2.bp.blogspot.com/-ZOsIDNyLfco/UvDB3jba6WI/AAAAAAABmOA/FkG5ZB8s3Vw/s600/2014-02-03+at+07-08-48.jpg"   />
+<img alt=""  border="0" src="http://2.bp.blogspot.com/-ZOsIDNyLfco/UvDB3jba6WI/AAAAAAABmOA/FkG5ZB8s3Vw/s600/2014-02-03+at+07-08-48.jpg"   />
 
 I went on a different day and night to get a night shot of the Observatory as well as LA's skyline (see below). This is my favorite shot, as I consider LA to be more of a city lights kind of city. Any daylight photos would be better served on the beaches of LA.
 
 #### Griffith Observatory at Night
 Buy print:<a href="http://500pxart.com/photo/60086824">http://500pxart.com/photo/60086824</a>
-<img border="0" src="http://4.bp.blogspot.com/-xPQT8reE-QE/UvH262pHTdI/AAAAAAABmO0/0Jg_Wk-9Tkk/s600/2014-02-04+at+20-37-54.jpg"   />
+<img alt=""  border="0" src="http://4.bp.blogspot.com/-xPQT8reE-QE/UvH262pHTdI/AAAAAAABmO0/0Jg_Wk-9Tkk/s600/2014-02-04+at+20-37-54.jpg"   />
 
 ### On Getting Lost
 
@@ -46,10 +46,10 @@ Below is the map of the area and the paths I took:
 <span style="color: #b6d7a8;">Green</span>, is the actual path I went on today. Looks more like I went almost 4 times the distance!
 <span style="color: #6fa8dc;">Blue</span>, is the last path I went on that actually took me to the spot I wanted.
 
-<img border="0" src="http://2.bp.blogspot.com/-8EuOO-f91Ik/UuzOV4Xb_pI/AAAAAAABmJs/mn3_XOXq4s0/s600/Screen_Shot_2014-01-31_at_6_49_20_PM.jpg"   />
+<img alt=""  border="0" src="http://2.bp.blogspot.com/-8EuOO-f91Ik/UuzOV4Xb_pI/AAAAAAABmJs/mn3_XOXq4s0/s600/Screen_Shot_2014-01-31_at_6_49_20_PM.jpg"   />
 
 Here is another shot of Griffith Observatory with all the trailers and sets from the Glee crew:
-<img border="0" src="http://3.bp.blogspot.com/-VWKt5ZeWMMU/UvDrzKPJAlI/AAAAAAABmOQ/R4kubdI5EM4/s600/2014-02-03+at+06-59-26.jpg"   />
+<img alt=""  border="0" src="http://3.bp.blogspot.com/-VWKt5ZeWMMU/UvDrzKPJAlI/AAAAAAABmOQ/R4kubdI5EM4/s600/2014-02-03+at+06-59-26.jpg"   />
 
 Some observations I've made about going to Griffith Park:
 <ol>

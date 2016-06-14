@@ -19,7 +19,7 @@ So I thought I would share what I typically carry with me when I'm out and about
 
 Here's what is <i>typically</i> in my camera bag, unless otherwise noted:
 
-<img border="0"  src="http://4.bp.blogspot.com/-itgDoYkpqyw/UXw5PYB4hxI/AAAAAAABbvo/f3YFiG4A5XA/s400/IMG_20130427_134020.jpg"  />
+<img alt=""  border="0"  src="http://4.bp.blogspot.com/-itgDoYkpqyw/UXw5PYB4hxI/AAAAAAABbvo/f3YFiG4A5XA/s400/IMG_20130427_134020.jpg"  />
 
 I have (going from left to right, starting at the top left):
 

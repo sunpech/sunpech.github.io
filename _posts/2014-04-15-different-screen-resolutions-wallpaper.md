@@ -20,7 +20,7 @@ My screen is a 2560x1440 resolution 27" Mac display, so I made the wallpaper for
 
 Hope you enjoy it, it's free for everybody!
 
-<a href="https://www.pixelapse.com/sunpech/projects/Screen%20Resolution%20Wallpaper/2560x1440_wallpaper.jpg" ><img border="0" src="http://3.bp.blogspot.com/-75gF8jF6mAU/U02pJ4uoXVI/AAAAAAABoHo/TQxJMKrEmFw/s600/2560x1440_wallpaper.jpg"   /></a>
+<a href="https://www.pixelapse.com/sunpech/projects/Screen%20Resolution%20Wallpaper/2560x1440_wallpaper.jpg" ><img alt=""  border="0" src="http://3.bp.blogspot.com/-75gF8jF6mAU/U02pJ4uoXVI/AAAAAAABoHo/TQxJMKrEmFw/s600/2560x1440_wallpaper.jpg"   /></a>
 
 Project: <a href="http://www.pixelapse.com/s/C6WYTKJ3FH6R7QR3Q">Screen Resolution Wallpaper</a> (contains PSD file and JPG)
 

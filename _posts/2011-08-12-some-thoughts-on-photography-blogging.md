@@ -16,7 +16,7 @@ header-img: /public/images/headers/old_cameras.jpg
 
 It was the summer of 2010 that I decided I wanted to dust off the DSLR I bought in 2006 and put it to good use more often. So throughout that summer, I made an effort to bring my camera with me everywhere I went. I brought it to work, to my various meetups I attended, and even when I walked around Chicago. I just kept taking photos of whatever I thought was interesting.
 
-<img border="0" src="http://1.bp.blogspot.com/-WuLnoARIQSA/TxVm8julanI/AAAAAAAA2qw/QJGYhDm_jo0/s600/IMG_1101.jpeg" />
+<img alt=""  border="0" src="http://1.bp.blogspot.com/-WuLnoARIQSA/TxVm8julanI/AAAAAAAA2qw/QJGYhDm_jo0/s600/IMG_1101.jpeg" />
 
 I discovered that I really enjoyed taking photos and sharing them with everyone on my social networks. I felt that I wanted to share the things that were going on around me. From comic conventions, a friend's night out, someone presenting at a meetup or conference, or the food I was eating-- I enjoy publishing it for all the world to see.
 

@@ -20,11 +20,11 @@ It's such an amazing time to be a comic book fan/geek. From movies to TV shows a
 
 Here they are:
 
-<img border="0"  src="http://4.bp.blogspot.com/-43oWAaB2058/VVP6WIYsGlI/AAAAAAAB5ac/51I-ngg8GOU/s640/Top-5-YouTubes-for-Comic-Geeks.jpg" />
+<img alt=""  border="0"  src="http://4.bp.blogspot.com/-43oWAaB2058/VVP6WIYsGlI/AAAAAAAB5ac/51I-ngg8GOU/s640/Top-5-YouTubes-for-Comic-Geeks.jpg" />
 
 <h4>#1 Emergency Awesome</h4>
 
-<img border="0"  src="http://1.bp.blogspot.com/-0_NNXBZtBxg/VVP0DDGYtjI/AAAAAAAB5Zk/AVSrB_QqNKI/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.01.44%2BPM.png" />
+<img alt=""  border="0"  src="http://1.bp.blogspot.com/-0_NNXBZtBxg/VVP0DDGYtjI/AAAAAAAB5Zk/AVSrB_QqNKI/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.01.44%2BPM.png" />
 
 Charlie covers pop culture movies and TV shows with videos coming out <i>almost daily</i>. He has insightful commentary of recent shows and trailers even! It's like he's there to watch your favorite shows with you. Not to mention there are times he puts out a few videos a day even. The timeliness and quality of his videos is a great, which makes him my favorite youTube channel currently.
 
@@ -35,7 +35,7 @@ Charlie covers pop culture movies and TV shows with videos coming out <i>almost 
 
 <h4>#2 Comic Book Girl 19</h4>
 
-<img border="0"  src="http://1.bp.blogspot.com/-ZdHQ-7cpbBA/VVP1xZWVAQI/AAAAAAAB5Zw/5Map2REepYc/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.09.05%2BPM.png" />
+<img alt=""  border="0"  src="http://1.bp.blogspot.com/-ZdHQ-7cpbBA/VVP1xZWVAQI/AAAAAAAB5Zw/5Map2REepYc/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.09.05%2BPM.png" />
 
 ComicBookGirl19 does an incredible amount of research into each of her videos. The production on set is also amazing and her interaction with Robot is quite entertaining. In particular, I like her videos on Game of Thrones. She has curated probably hundreds of hours of work into bite size videos that are extremely well edited.
 
@@ -46,7 +46,7 @@ ComicBookGirl19 does an incredible amount of research into each of her videos. T
 
 <h4>#3 Comics Explained</h4>
 
-<img border="0"  src="http://2.bp.blogspot.com/-FMnZuNPoFUU/VVP3BsNYvUI/AAAAAAAB5Z8/EUP4efNOYIo/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.14.32%2BPM.png" />
+<img alt=""  border="0"  src="http://2.bp.blogspot.com/-FMnZuNPoFUU/VVP3BsNYvUI/AAAAAAAB5Z8/EUP4efNOYIo/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.14.32%2BPM.png" />
 
 Rob used to make videos only on Marvel, which was named MarvelExplained at the time, but has since expanded to be what it is now. Just a better name, branding, and why limit to just Marvel material right? His focus is more on comic books than on the movies and TV shows, but he's pretty awesome at covering such a large history that is comics. What makes it even more awesome is that he doesn't rely on Wikipedia entries in his research.
 
@@ -57,7 +57,7 @@ Rob used to make videos only on Marvel, which was named MarvelExplained at the t
 
 <h4>#4 Comicstorian</h4>
 
-<img border="0"  src="http://1.bp.blogspot.com/-TSCYYRR5hiw/VVP4Qcp9EuI/AAAAAAAB5aI/aGkbISAd06I/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.19.42%2BPM.png" />
+<img alt=""  border="0"  src="http://1.bp.blogspot.com/-TSCYYRR5hiw/VVP4Qcp9EuI/AAAAAAAB5aI/aGkbISAd06I/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.19.42%2BPM.png" />
 
 If you are every too lazy/busy to read a comics series or graphic novel, this is the channel to listen to. He reads them to you dramatically and in a short digestible video.
 
@@ -68,7 +68,7 @@ If you are every too lazy/busy to read a comics series or graphic novel, this is
 
 <h4>#5 Nerdist News</h4>
 
-<img border="0"  src="http://1.bp.blogspot.com/-nuesXfXFtZk/VVP49DhFfGI/AAAAAAAB5aQ/akMHyOM_OGk/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.22.45%2BPM.png"  />
+<img alt=""  border="0"  src="http://1.bp.blogspot.com/-nuesXfXFtZk/VVP49DhFfGI/AAAAAAAB5aQ/akMHyOM_OGk/s400/Screen%2BShot%2B2015-05-13%2Bat%2B8.22.45%2BPM.png"  />
 
 A great resource on daily news of all things geek. I don't always catch every bit of news released everyday and rely on Nerdist News to summarize them for me within a day.
 

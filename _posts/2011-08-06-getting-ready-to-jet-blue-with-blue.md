@@ -18,11 +18,11 @@ Last year, in 2010, I took off with <a href="http://www.jetblue.com/">JetBlue</a
 
 On my plane rides, I met many other jet-setters flying around the US. I remember having interesting conversations with them, and even on one flight, sitting next to a dog!
 
-<img border="0" src="http://1.bp.blogspot.com/-IqWzGKfEWEs/TxVmCbV3RJI/AAAAAAAA2og/A0qiVuWc3nw/s320/IMG_20100920_084235.jpeg"  />
+<img alt=""  border="0" src="http://1.bp.blogspot.com/-IqWzGKfEWEs/TxVmCbV3RJI/AAAAAAAA2og/A0qiVuWc3nw/s320/IMG_20100920_084235.jpeg"  />
 
 Sadly, they're not offering that pass this year.&nbsp;Instead, they're offering the <a href="http://jetblue.com/bluepass/">Blue Pass</a>. Unlimited travel for THREE months. I chose to go with the <strong>Long Beach Select</strong> option. The cities available to me to/from Long Beach are: Seatle, Portland, Oakland, San Francisco, Sacramento, Salt Lake City, Las Vegas, Austin, and Chicago. So during the months of September, October, and November, I will be visiting some of these great cities.
 
-<img border="0" src="http://1.bp.blogspot.com/-nKm8yZME7BA/TxVmDVRgLrI/AAAAAAAA2pA/hgNqgaqjZyg/s320/Screen_Shot_2011-08-05_at_12.51.15_AM.png"  />
+<img alt=""  border="0" src="http://1.bp.blogspot.com/-nKm8yZME7BA/TxVmDVRgLrI/AAAAAAAA2pA/hgNqgaqjZyg/s320/Screen_Shot_2011-08-05_at_12.51.15_AM.png"  />
 
 My goal is still to make it out to California and find a great job and live a good life chasing down all my other dreams.
 

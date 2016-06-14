@@ -31,15 +31,15 @@ We made three stops throughout the evening and into the night:
 My full set of pictures I took can be found <a href="https://plus.google.com/photos/101693597219413173200/albums/5884138675860285265">here</a>.
 
 Here is a group picture I took at Lola's.
-<img border="0"  src="http://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s640/2013-05-30+at+19-48-35.jpg"  />
+<img alt=""  border="0"  src="http://1.bp.blogspot.com/-NSXFZkX3T_A/UaipDxHNDaI/AAAAAAABc4g/NCCZhWozA_8/s640/2013-05-30+at+19-48-35.jpg"  />
 
 On our way to Santa Monica Blvd, I took this shot of one of the group member who obliged to get back in this position he was in earlier.
-<img border="0"  src="http://1.bp.blogspot.com/-RHAWmT2n2k8/UaipIjOSa0I/AAAAAAABc44/lSHGVzY9zHU/s400/2013-05-30+at+19-59-51.jpg" />
+<img alt=""  border="0"  src="http://1.bp.blogspot.com/-RHAWmT2n2k8/UaipIjOSa0I/AAAAAAABc44/lSHGVzY9zHU/s400/2013-05-30+at+19-59-51.jpg" />
 
-<img border="0" height="285" src="http://4.bp.blogspot.com/-V_xmsZIzu7c/UaipKSKjPUI/AAAAAAABc5A/AxpH9uwlANM/s400/2013-05-30+at+20-00-14.jpg"  />
+<img alt=""  border="0" height="285" src="http://4.bp.blogspot.com/-V_xmsZIzu7c/UaipKSKjPUI/AAAAAAABc5A/AxpH9uwlANM/s400/2013-05-30+at+20-00-14.jpg"  />
 
 Playing with the shutter speed to paint some light.
-<img border="0"  src="http://2.bp.blogspot.com/-FFJBe_D2mHg/UaipR_1VDcI/AAAAAAABc5o/lLwv9dpX8dw/s400/2013-05-30+at+21-21-35.jpg"  />
+<img alt=""  border="0"  src="http://2.bp.blogspot.com/-FFJBe_D2mHg/UaipR_1VDcI/AAAAAAABc5o/lLwv9dpX8dw/s400/2013-05-30+at+21-21-35.jpg"  />
 
 I liked this stack of newspapers at Canter's Deli.
-<img border="0"  src="http://1.bp.blogspot.com/-azm8jLucaQY/UaipheOQ4vI/AAAAAAABc64/67qdIZFtWHc/s400/2013-05-30+at+23-47-45.jpg"  />
+<img alt=""  border="0"  src="http://1.bp.blogspot.com/-azm8jLucaQY/UaipheOQ4vI/AAAAAAABc64/67qdIZFtWHc/s400/2013-05-30+at+23-47-45.jpg"  />

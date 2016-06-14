@@ -36,4 +36,4 @@ And I'm really happy I did. The chair is comfortable, sturdy, and encourages goo
 
 If you are thinking of getting a better chair because you sit in front of the computer all day long, I recommend you go try out a Herman Miller chair. I've looked at the <a href="http://hermanmiller.com/Products/Mirra-Chairs">Mirra</a> line, which is slightly cheaper than Aeron, but I really felt more comfortable in the Aeron. I think you'll be glad you did.
 
-<img border="0" src="http://2.bp.blogspot.com/-6D5Og5RH0Ig/TxVmC40SSpI/AAAAAAAA2os/kWZWK6GL8y4/s320/JfGCq.jpeg"  />
+<img alt=""  border="0" src="http://2.bp.blogspot.com/-6D5Og5RH0Ig/TxVmC40SSpI/AAAAAAAA2os/kWZWK6GL8y4/s320/JfGCq.jpeg"  />

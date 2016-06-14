@@ -23,30 +23,30 @@ My personal favorite is Brown the bear. And no, I won't be giving them to my sis
 
 #### Gimme a Call
 Buy on 500px: <a href="http://500pxart.com/photo/72602935/">http://500pxart.com/photo/72602935/</a>
-<a href="http://1.bp.blogspot.com/-wvPKw4iOnD0/U7JW1630loI/AAAAAAABs_M/JYHSWFn-sFQ/s600/01-Gimme-a-Call_600px.jpg" ><img border="0" src="http://1.bp.blogspot.com/-wvPKw4iOnD0/U7JW1630loI/AAAAAAABs_M/JYHSWFn-sFQ/s600/01-Gimme-a-Call_600px.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-wvPKw4iOnD0/U7JW1630loI/AAAAAAABs_M/JYHSWFn-sFQ/s600/01-Gimme-a-Call_600px.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-wvPKw4iOnD0/U7JW1630loI/AAAAAAABs_M/JYHSWFn-sFQ/s600/01-Gimme-a-Call_600px.jpg"   /></a>
 
 #### Waiting at the Airport
 Buy on 500px: <a href="http://500pxart.com/photo/72613877">http://500pxart.com/photo/72613877</a>
-<a href="http://1.bp.blogspot.com/-dRpFCi9dKI4/U7JW2kKUaVI/AAAAAAABs_U/s4TP0UWm1FQ/s600/02-Waiting-at-the-Airport_600px.jpg" ><img border="0" src="http://1.bp.blogspot.com/-dRpFCi9dKI4/U7JW2kKUaVI/AAAAAAABs_U/s4TP0UWm1FQ/s600/02-Waiting-at-the-Airport_600px.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-dRpFCi9dKI4/U7JW2kKUaVI/AAAAAAABs_U/s4TP0UWm1FQ/s600/02-Waiting-at-the-Airport_600px.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-dRpFCi9dKI4/U7JW2kKUaVI/AAAAAAABs_U/s4TP0UWm1FQ/s600/02-Waiting-at-the-Airport_600px.jpg"   /></a>
 
 #### I'll Wait Here
 Buy on 500px: <a href="http://500pxart.com/photo/72725267">http://500pxart.com/photo/72725267</a>
-<a href="http://2.bp.blogspot.com/-v7kzOwE9e8M/U7JW3xcuaNI/AAAAAAABs_k/bsTAIp3shio/s600/04-I%2527ll-Wait-Here_600px.jpg" ><img border="0" src="http://2.bp.blogspot.com/-v7kzOwE9e8M/U7JW3xcuaNI/AAAAAAABs_k/bsTAIp3shio/s600/04-I%2527ll-Wait-Here_600px.jpg"  /></a>
+<a href="http://2.bp.blogspot.com/-v7kzOwE9e8M/U7JW3xcuaNI/AAAAAAABs_k/bsTAIp3shio/s600/04-I%2527ll-Wait-Here_600px.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-v7kzOwE9e8M/U7JW3xcuaNI/AAAAAAABs_k/bsTAIp3shio/s600/04-I%2527ll-Wait-Here_600px.jpg"  /></a>
 
 #### What to Drink?
-Buy on 500px: <a href="http://500pxart.com/photo/72673401">http://500pxart.com/photo/72673401</a><a href="http://4.bp.blogspot.com/-CZ1LNCvVODA/U7JW3EwwvzI/AAAAAAABs_c/KBBWIfollB8/s600/03-What-to-Drink_600px.jpg" ><img border="0" src="http://4.bp.blogspot.com/-CZ1LNCvVODA/U7JW3EwwvzI/AAAAAAABs_c/KBBWIfollB8/s600/03-What-to-Drink_600px.jpg" /></a>
+Buy on 500px: <a href="http://500pxart.com/photo/72673401">http://500pxart.com/photo/72673401</a><a href="http://4.bp.blogspot.com/-CZ1LNCvVODA/U7JW3EwwvzI/AAAAAAABs_c/KBBWIfollB8/s600/03-What-to-Drink_600px.jpg" ><img alt=""  border="0" src="http://4.bp.blogspot.com/-CZ1LNCvVODA/U7JW3EwwvzI/AAAAAAABs_c/KBBWIfollB8/s600/03-What-to-Drink_600px.jpg" /></a>
 
 #### Where is my Gate?
 Buy on 500px: <a href="http://500pxart.com/photo/72790335">http://500pxart.com/photo/72790335</a>
-<a href="http://1.bp.blogspot.com/-58C30j86PD0/U7JW4k7tRVI/AAAAAAABs_s/HrO6hubjZEA/s600/05-Where-is-my-Gate_600px.jpg" ><img border="0" src="http://1.bp.blogspot.com/-58C30j86PD0/U7JW4k7tRVI/AAAAAAABs_s/HrO6hubjZEA/s600/05-Where-is-my-Gate_600px.jpg"   /></a>
+<a href="http://1.bp.blogspot.com/-58C30j86PD0/U7JW4k7tRVI/AAAAAAABs_s/HrO6hubjZEA/s600/05-Where-is-my-Gate_600px.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/-58C30j86PD0/U7JW4k7tRVI/AAAAAAABs_s/HrO6hubjZEA/s600/05-Where-is-my-Gate_600px.jpg"   /></a>
 
 #### Flight Delayed
 Buy on 500px: <a href="http://500pxart.com/photo/73175243">http://500pxart.com/photo/73175243</a>
-<a href="http://4.bp.blogspot.com/-wy7ACn8_c1k/U7JW5RiRWmI/AAAAAAABs_0/RefmKyXdgpc/s600/06-Flight-Delayed_600px.jpg" ><img border="0" src="http://4.bp.blogspot.com/-wy7ACn8_c1k/U7JW5RiRWmI/AAAAAAABs_0/RefmKyXdgpc/s600/06-Flight-Delayed_600px.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-wy7ACn8_c1k/U7JW5RiRWmI/AAAAAAABs_0/RefmKyXdgpc/s600/06-Flight-Delayed_600px.jpg" ><img alt=""  border="0" src="http://4.bp.blogspot.com/-wy7ACn8_c1k/U7JW5RiRWmI/AAAAAAABs_0/RefmKyXdgpc/s600/06-Flight-Delayed_600px.jpg"   /></a>
 
 #### Friends Visit the Chicago Bean
 Buy on 500px: <a href="http://500pxart.com/photo/73918603">http://500pxart.com/photo/73918603</a>
-<a href="http://4.bp.blogspot.com/-mihpJWYSUuo/U7JW6XyogbI/AAAAAAABtAE/opHcW-XmfW8/s600/07-Friends-Visit-the-Chicago-Bean_600px.jpg" ><img border="0" src="http://4.bp.blogspot.com/-mihpJWYSUuo/U7JW6XyogbI/AAAAAAABtAE/opHcW-XmfW8/s600/07-Friends-Visit-the-Chicago-Bean_600px.jpg"   /></a>
+<a href="http://4.bp.blogspot.com/-mihpJWYSUuo/U7JW6XyogbI/AAAAAAABtAE/opHcW-XmfW8/s600/07-Friends-Visit-the-Chicago-Bean_600px.jpg" ><img alt=""  border="0" src="http://4.bp.blogspot.com/-mihpJWYSUuo/U7JW6XyogbI/AAAAAAABtAE/opHcW-XmfW8/s600/07-Friends-Visit-the-Chicago-Bean_600px.jpg"   /></a>
 
 #### Not Part of the Wedding Party
-Buy on 500px: <a href="http://500pxart.com/photo/74207347">http://500pxart.com/photo/74207347</a><a href="http://2.bp.blogspot.com/-twwe97j4qpY/U7JW59-_zuI/AAAAAAABtAA/tRh-Qpiw2Fg/s600/08-Not-Part-of-the-Wedding-Party_600px.jpg" ><img border="0" src="http://2.bp.blogspot.com/-twwe97j4qpY/U7JW59-_zuI/AAAAAAABtAA/tRh-Qpiw2Fg/s600/08-Not-Part-of-the-Wedding-Party_600px.jpg"   /></a>
+Buy on 500px: <a href="http://500pxart.com/photo/74207347">http://500pxart.com/photo/74207347</a><a href="http://2.bp.blogspot.com/-twwe97j4qpY/U7JW59-_zuI/AAAAAAABtAA/tRh-Qpiw2Fg/s600/08-Not-Part-of-the-Wedding-Party_600px.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-twwe97j4qpY/U7JW59-_zuI/AAAAAAABtAA/tRh-Qpiw2Fg/s600/08-Not-Part-of-the-Wedding-Party_600px.jpg"   /></a>

@@ -35,13 +35,13 @@ The topic was: <i><b>Let's talk about hiring and training developers</b></i>. Be
   <li>Thailand has technical talent, just need to know how to reach out to them.</li>
 </ul>
 
-<a href="http://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID1JPw/s600/IMG_5097.JPG" ><img border="0"  src="http://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID1JPw/s320/IMG_5097.JPG"  /></a>
+<a href="http://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID1JPw/s600/IMG_5097.JPG" ><img alt=""  border="0"  src="http://1.bp.blogspot.com/-dBG2xj67XC8/TYl8qTHcaqI/AAAAAAAAkOU/60YDaID1JPw/s320/IMG_5097.JPG"  /></a>
 
-<a href="http://3.bp.blogspot.com/-LsmKT6K6ON8/TYl9e-apQjI/AAAAAAAAkOs/YTJWBxgqP_A/s600/IMG_5100.JPG" ><img border="0"  src="http://3.bp.blogspot.com/-LsmKT6K6ON8/TYl9e-apQjI/AAAAAAAAkOs/YTJWBxgqP_A/s320/IMG_5100.JPG"  /></a>
+<a href="http://3.bp.blogspot.com/-LsmKT6K6ON8/TYl9e-apQjI/AAAAAAAAkOs/YTJWBxgqP_A/s600/IMG_5100.JPG" ><img alt=""  border="0"  src="http://3.bp.blogspot.com/-LsmKT6K6ON8/TYl9e-apQjI/AAAAAAAAkOs/YTJWBxgqP_A/s320/IMG_5100.JPG"  /></a>
 
-<a href="http://1.bp.blogspot.com/-MzR9Z16B_jY/TYl9lGDEM9I/AAAAAAAAkO4/Ei_PIyoUS88/s600/IMG_5101.JPG" ><img border="0"  src="http://1.bp.blogspot.com/-MzR9Z16B_jY/TYl9lGDEM9I/AAAAAAAAkO4/Ei_PIyoUS88/s320/IMG_5101.JPG"  /></a>
+<a href="http://1.bp.blogspot.com/-MzR9Z16B_jY/TYl9lGDEM9I/AAAAAAAAkO4/Ei_PIyoUS88/s600/IMG_5101.JPG" ><img alt=""  border="0"  src="http://1.bp.blogspot.com/-MzR9Z16B_jY/TYl9lGDEM9I/AAAAAAAAkO4/Ei_PIyoUS88/s320/IMG_5101.JPG"  /></a>
 
-<a href="http://4.bp.blogspot.com/-tCW1loZFz-o/TYl9tRBqULI/AAAAAAAAkPA/-Mg8wfjR2OI/s600/IMG_5102.JPG" ><img border="0"  src="http://4.bp.blogspot.com/-tCW1loZFz-o/TYl9tRBqULI/AAAAAAAAkPA/-Mg8wfjR2OI/s320/IMG_5102.JPG"  /></a>
+<a href="http://4.bp.blogspot.com/-tCW1loZFz-o/TYl9tRBqULI/AAAAAAAAkPA/-Mg8wfjR2OI/s600/IMG_5102.JPG" ><img alt=""  border="0"  src="http://4.bp.blogspot.com/-tCW1loZFz-o/TYl9tRBqULI/AAAAAAAAkPA/-Mg8wfjR2OI/s320/IMG_5102.JPG"  /></a>
 
 Full album <a href="https://picasaweb.google.com/101693597219413173200/2011MarchBKKWebMeetup">here</a>.
 
@@ -62,7 +62,7 @@ Some that I would like to briefly point out:
 
 The picture below sums up how there is a weakness in how the Thai language is very traditional.
 
-<a href="https://lh4.googleusercontent.com/-y_zxCsNvGyg/TYmsckxki-I/AAAAAAAAkP0/ZcOaXLg0vBA/s600/181615_686374807707_48601744_36609693_7906932_n.jpg"><img border="0" src="https://lh4.googleusercontent.com/-y_zxCsNvGyg/TYmsckxki-I/AAAAAAAAkP0/ZcOaXLg0vBA/s400/181615_686374807707_48601744_36609693_7906932_n.jpg"  /></a>
+<a href="https://lh4.googleusercontent.com/-y_zxCsNvGyg/TYmsckxki-I/AAAAAAAAkP0/ZcOaXLg0vBA/s600/181615_686374807707_48601744_36609693_7906932_n.jpg"><img alt=""  border="0" src="https://lh4.googleusercontent.com/-y_zxCsNvGyg/TYmsckxki-I/AAAAAAAAkP0/ZcOaXLg0vBA/s400/181615_686374807707_48601744_36609693_7906932_n.jpg"  /></a>
 
 (Credit to my friend Amanda for taking a photo of this. Source is from <a href="http://bk.asia-city.com/">BK Magazine</a>)
 

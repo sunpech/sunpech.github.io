@@ -27,13 +27,13 @@ Here are three of my favorites of the Toronto skyline.
 
 #### Toronto Skyline
 Buy prints: <a href="http://500pxart.com/photo/50844494">http://500pxart.com/photo/50844494</a>
-<img border="0" src="http://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s600/2013-10-27+at+20-10-06.jpg"   />
+<img alt=""  border="0" src="http://2.bp.blogspot.com/-GPnCprSblqo/UnJeV0Ib2KI/AAAAAAABi2s/jenw0b9_upY/s600/2013-10-27+at+20-10-06.jpg"   />
 
 #### Good Night, Toronto
 Buy prints: <a href="http://500pxart.com/photo/51458094">http://500pxart.com/photo/51458094</a>
-<img border="0" src="http://2.bp.blogspot.com/-CO4fU7Q0Eds/UnJeU_FpXWI/AAAAAAABi2g/1sJtu3yhpZg/s600/2013-10-27+at+18-34-35.jpg"   />
+<img alt=""  border="0" src="http://2.bp.blogspot.com/-CO4fU7Q0Eds/UnJeU_FpXWI/AAAAAAABi2g/1sJtu3yhpZg/s600/2013-10-27+at+18-34-35.jpg"   />
 
 #### Toronto Skyline Colors
-Buy prints: <a href="http://500pxart.com/photo/51267068">http://500pxart.com/photo/51267068</a><img border="0" src="http://4.bp.blogspot.com/-M27DT8UQ2HY/UnJeWRBHw1I/AAAAAAABi24/hJWHMbL2Cuo/s600/2013-10-28+at+23-21-18.jpg"   />
+Buy prints: <a href="http://500pxart.com/photo/51267068">http://500pxart.com/photo/51267068</a><img alt=""  border="0" src="http://4.bp.blogspot.com/-M27DT8UQ2HY/UnJeWRBHw1I/AAAAAAABi24/hJWHMbL2Cuo/s600/2013-10-28+at+23-21-18.jpg"   />
 
 I hope to return in the near future to take some more photos there. Toronto reminds me so much of Chicago-- clean, big, metropolitan, yet also suburban-like, with some of the most friendliest people around. My biggest praise for the city is that it has some delicious Chinese food there-- way better than Chicago's! I could almost live there if it weren't for all the <i>funny money</i> they use up there-- just kidding, I love Toronto.

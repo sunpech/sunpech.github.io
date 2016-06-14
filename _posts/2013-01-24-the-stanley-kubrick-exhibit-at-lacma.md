@@ -24,20 +24,20 @@ I took the pictures below with my Galaxy Nexus Android phone. I didn't post-proc
 
 Full set of pictures can be found <a href="https://picasaweb.google.com/101693597219413173200/2013StanleyKubrickExhibitAtLACMA">here</a>.
 
-<img border="0" src="http://2.bp.blogspot.com/-9E3ZzvtHbTk/UQHd5KVuODI/AAAAAAABYZU/oAVNDhWpGGI/s400/IMG_20130124_163545.jpg" />
+<img alt=""  border="0" src="http://2.bp.blogspot.com/-9E3ZzvtHbTk/UQHd5KVuODI/AAAAAAABYZU/oAVNDhWpGGI/s400/IMG_20130124_163545.jpg" />
 
-<img border="0" src="http://3.bp.blogspot.com/-sE6TjJQow0E/UQHd8bzGl3I/AAAAAAABYaE/3XOahgPJ5Zw/s400/IMG_20130124_161317.jpg" />
+<img alt=""  border="0" src="http://3.bp.blogspot.com/-sE6TjJQow0E/UQHd8bzGl3I/AAAAAAABYaE/3XOahgPJ5Zw/s400/IMG_20130124_161317.jpg" />
 
-<img border="0"  src="http://3.bp.blogspot.com/-S1VUVWv80V0/UQHd9-xCAEI/AAAAAAABYac/cIBBiKMgpWY/s400/IMG_20130124_161943.jpg" />
+<img alt=""  border="0"  src="http://3.bp.blogspot.com/-S1VUVWv80V0/UQHd9-xCAEI/AAAAAAABYac/cIBBiKMgpWY/s400/IMG_20130124_161943.jpg" />
 
-<img border="0" src="http://3.bp.blogspot.com/-cUw1poVOpsk/UQHd_CUhBTI/AAAAAAABYas/5ctiBzL-R6E/s400/IMG_20130124_155118.jpg" />
+<img alt=""  border="0" src="http://3.bp.blogspot.com/-cUw1poVOpsk/UQHd_CUhBTI/AAAAAAABYas/5ctiBzL-R6E/s400/IMG_20130124_155118.jpg" />
 
-<img border="0" src="http://1.bp.blogspot.com/-PL3LerGaQ0U/UQHd_8NfLnI/AAAAAAABYa0/BoAUgUE9VnU/s400/IMG_20130124_155133.jpg" />
+<img alt=""  border="0" src="http://1.bp.blogspot.com/-PL3LerGaQ0U/UQHd_8NfLnI/AAAAAAABYa0/BoAUgUE9VnU/s400/IMG_20130124_155133.jpg" />
 
-<img border="0"  src="http://2.bp.blogspot.com/-xXbXtyw5oog/UQHeAyLlMKI/AAAAAAABYbE/aUnWvS_BxwA/s400/IMG_20130124_155449.jpg" />
+<img alt=""  border="0"  src="http://2.bp.blogspot.com/-xXbXtyw5oog/UQHeAyLlMKI/AAAAAAABYbE/aUnWvS_BxwA/s400/IMG_20130124_155449.jpg" />
 
-<img border="0" src="http://2.bp.blogspot.com/-M8eD4wdV9rk/UQHeC-l7ImI/AAAAAAABYbk/4DHUV8-THVE/s400/IMG_20130124_160603.jpg" />
+<img alt=""  border="0" src="http://2.bp.blogspot.com/-M8eD4wdV9rk/UQHeC-l7ImI/AAAAAAABYbk/4DHUV8-THVE/s400/IMG_20130124_160603.jpg" />
 
-<img border="0"  src="http://2.bp.blogspot.com/-UwGxOMse7rU/UQHeFalPLpI/AAAAAAABYcE/xw2cLWeYkwk/s400/IMG_20130124_161031.jpg" />
+<img alt=""  border="0"  src="http://2.bp.blogspot.com/-UwGxOMse7rU/UQHeFalPLpI/AAAAAAABYcE/xw2cLWeYkwk/s400/IMG_20130124_161031.jpg" />
 
-<img border="0" src="http://4.bp.blogspot.com/-oC9QK0093sU/UQHeMvD4GrI/AAAAAAABYd8/HXdtTK56aio/s400/IMG_20130124_163048.jpg" />
+<img alt=""  border="0" src="http://4.bp.blogspot.com/-oC9QK0093sU/UQHeMvD4GrI/AAAAAAABYd8/HXdtTK56aio/s400/IMG_20130124_163048.jpg" />

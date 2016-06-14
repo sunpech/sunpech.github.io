@@ -23,7 +23,7 @@ This is sad for me because other than <a href="http://mail.google.com/">Gmail</a
 
 As much as I like <a href="http://plus.google.com/">Google Plus</a>, it's no <a href="http://google.com/reader">Google Reader</a> in terms of importance for my daily reading.
 
-<img border="0" src="http://3.bp.blogspot.com/-m620JTXukHw/UUHa9S71IdI/AAAAAAABZdg/GRdIKXEEb6I/s400/GR_v_GPlus.jpg"  />
+<img alt=""  border="0" src="http://3.bp.blogspot.com/-m620JTXukHw/UUHa9S71IdI/AAAAAAABZdg/GRdIKXEEb6I/s400/GR_v_GPlus.jpg"  />
 
 ### What I love about Google Reader
 
@@ -35,7 +35,7 @@ It's simple. I know what websites I like, there's not many, but I do like to at 
 
 My <a href="https://www.google.com/reader/view/#trends-page">Reader Trends</a> screenshot shows I have read 300,000-plus items! Although I'm pretty sure I used Reader since maybe 2007 or so.
 
-<img border="0" src="http://1.bp.blogspot.com/-Phd_9lHzt7k/UUHVVdb0OlI/AAAAAAABZdU/OTxUspVTEE4/s640/Screen+Shot+2013-03-14+at+3.02.22+AM.png"  />
+<img alt=""  border="0" src="http://1.bp.blogspot.com/-Phd_9lHzt7k/UUHVVdb0OlI/AAAAAAABZdU/OTxUspVTEE4/s640/Screen+Shot+2013-03-14+at+3.02.22+AM.png"  />
 
 ### What it means to see Google Reader shut down
 

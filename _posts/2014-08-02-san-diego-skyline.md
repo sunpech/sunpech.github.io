@@ -21,4 +21,4 @@ I was there for <a href="http://www.comic-con.org/cci">Comic Con</a> a few days 
 I was planning to take shots in bulb-mode, but I forgot to bring my shutter release. So I just stuck in aperture-priority mode around f/8 on my tripod and hoped that no ferries would come into the shot for the long exposure.
 
 Buy Print: <a href="http://500pxart.com/photo/77506553">http://500pxart.com/photo/77506553</a>
-<a href="http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg" ><img border="0" src="http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-rSPMMWzwuxM/U9uteV6eoTI/AAAAAAABv4I/k-u3YnqEhJg/s600/2014-07-22+at+21-32-55.jpg"   /></a>

@@ -33,13 +33,13 @@ Some things I noticed about Singapore:
 
 I ate out often at hawker centers.  
 
-<a href="http://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s400/IMG_6276.JPG" ><img border="0" src="http://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s400/IMG_6276.JPG"   /></a>
+<a href="http://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s400/IMG_6276.JPG" ><img alt=""  border="0" src="http://3.bp.blogspot.com/-YqGssZIltHs/TbQt1qQRk0I/AAAAAAAAm6U/lJ3I9xCjPxg/s400/IMG_6276.JPG"   /></a>
 
 Checked out Orchard Road.  
-<a href="http://2.bp.blogspot.com/-8eY7o-Q4ci0/TbQujGobjoI/AAAAAAAAm8o/8SewDRCC2pQ/s600/2011-04-24+at+10-37-39.jpg" ><img border="0" src="http://2.bp.blogspot.com/-8eY7o-Q4ci0/TbQujGobjoI/AAAAAAAAm8o/8SewDRCC2pQ/s400/2011-04-24+at+10-37-39.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-8eY7o-Q4ci0/TbQujGobjoI/AAAAAAAAm8o/8SewDRCC2pQ/s600/2011-04-24+at+10-37-39.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-8eY7o-Q4ci0/TbQujGobjoI/AAAAAAAAm8o/8SewDRCC2pQ/s400/2011-04-24+at+10-37-39.jpg"   /></a>
 
 Also had the chance to visit <a href="http://hackerspace.sg/">Hackerspace</a>.  
 
-<a href="http://2.bp.blogspot.com/-uiQ7yiwwmSQ/TbQvaLrEI3I/AAAAAAAAm_s/GGev35vjINs/s600/2011-04-24+at+18-07-21.jpg" ><img border="0" src="http://2.bp.blogspot.com/-uiQ7yiwwmSQ/TbQvaLrEI3I/AAAAAAAAm_s/GGev35vjINs/s400/2011-04-24+at+18-07-21.jpg"   /></a>
+<a href="http://2.bp.blogspot.com/-uiQ7yiwwmSQ/TbQvaLrEI3I/AAAAAAAAm_s/GGev35vjINs/s600/2011-04-24+at+18-07-21.jpg" ><img alt=""  border="0" src="http://2.bp.blogspot.com/-uiQ7yiwwmSQ/TbQvaLrEI3I/AAAAAAAAm_s/GGev35vjINs/s400/2011-04-24+at+18-07-21.jpg"   /></a>
 
 Full album <a href="https://plus.google.com/photos/+StevenSuwatanapongched/albums/5599150284035065121?banner=pwa">here</a>.

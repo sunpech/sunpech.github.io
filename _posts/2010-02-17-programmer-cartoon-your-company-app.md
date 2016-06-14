@@ -18,6 +18,6 @@ I was watching <a href="http://www.youtube.com/watch?v=NWHfY_lvKIQ">Joel Spolsky
 
 This may be my new favorite...
 
-<a href="http://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg" ><img border="0" src="http://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg"  /></a>
+<a href="http://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg" ><img alt=""  border="0" src="http://3.bp.blogspot.com/-g28CovsHgRE/U_IIlPLVHrI/AAAAAAABwzk/MYpXe4iU6wk/s600/intapplications.jpg"  /></a>
 
 Here is the original link to the comic post:<a href="http://stuffthathappens.com/blog/2008/03/05/simplicity/">http://stuffthathappens.com/blog/2008/03/05/simplicity/</a>

@@ -18,16 +18,16 @@ In September 2010, I had the opportunity to visit Boston as part of my All-You-C
 ### Back in 2001:
 
 Windows machines running Windows 2000 Prof.
-<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s144/nt_side.jpg" ><img border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s400/nt_side.jpg"  /></a>
+<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s144/nt_side.jpg" ><img alt=""  border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/SMSIl-Lcz5I/AAAAAAAAcTg/0IsD2RutCFo/s400/nt_side.jpg"  /></a>
 
 Solaris machines
-<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SMSIlvVhB-I/AAAAAAAAcTg/pchWxt9tAGA/s144/solaris_side.jpg" ><img border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/SMSIlvVhB-I/AAAAAAAAcTg/pchWxt9tAGA/s400/solaris_side.jpg"  /></a> 
+<a href="http://3.bp.blogspot.com/_7U5MdumP-no/SMSIlvVhB-I/AAAAAAAAcTg/pchWxt9tAGA/s144/solaris_side.jpg" ><img alt=""  border="0" src="http://3.bp.blogspot.com/_7U5MdumP-no/SMSIlvVhB-I/AAAAAAAAcTg/pchWxt9tAGA/s400/solaris_side.jpg"  /></a> 
 
 ### Now in 2010:
 
 Windows machines
-<a href="http://1.bp.blogspot.com/_7U5MdumP-no/TIt5Z-hpcDI/AAAAAAAAW_s/s--t8pnAFkQ/s144/IMG_2377.jpg" ><img border="0" src="http://1.bp.blogspot.com/_7U5MdumP-no/TIt5Z-hpcDI/AAAAAAAAW_s/s--t8pnAFkQ/s400/IMG_2377.jpg"   /></a> 
+<a href="http://1.bp.blogspot.com/_7U5MdumP-no/TIt5Z-hpcDI/AAAAAAAAW_s/s--t8pnAFkQ/s144/IMG_2377.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/_7U5MdumP-no/TIt5Z-hpcDI/AAAAAAAAW_s/s--t8pnAFkQ/s400/IMG_2377.jpg"   /></a> 
 
 Computers running BU Linux
-<a href="http://1.bp.blogspot.com/_7U5MdumP-no/TIt5bNbDmLI/AAAAAAAAW_0/OPDw7Q2ci1U/s144/IMG_2378.jpg" ><img border="0" src="http://1.bp.blogspot.com/_7U5MdumP-no/TIt5bNbDmLI/AAAAAAAAW_0/OPDw7Q2ci1U/s400/IMG_2378.jpg"   /></a> 
+<a href="http://1.bp.blogspot.com/_7U5MdumP-no/TIt5bNbDmLI/AAAAAAAAW_0/OPDw7Q2ci1U/s144/IMG_2378.jpg" ><img alt=""  border="0" src="http://1.bp.blogspot.com/_7U5MdumP-no/TIt5bNbDmLI/AAAAAAAAW_0/OPDw7Q2ci1U/s400/IMG_2378.jpg"   /></a> 
 

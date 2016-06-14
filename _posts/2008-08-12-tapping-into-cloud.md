@@ -15,7 +15,7 @@ header-img: /public/images/headers/technology.jpg
 
 A few years ago I envisioned a world where computers would return back to acting more like terminal PCs connected to a mainframe.  A world where accessing files/applications locally would be a thing of the past.  In a way, that's what <a href="http://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a> seems to be about.  A user can be on any computer (albeit a PC, a Mac, or a Linux box), all that is required is Internet connection and a web browser, and the user can run most of his/her computing needs.
 
-<img  border="0" id="BLOGGER_PHOTO_ID_5233868836528939586" src="http://2.bp.blogspot.com/_7U5MdumP-no/SKJv-gJLYkI/AAAAAAAAAlQ/VNgf9rCJw1I/s400/datacenter.gif" />
+<img alt=""   border="0" id="BLOGGER_PHOTO_ID_5233868836528939586" src="http://2.bp.blogspot.com/_7U5MdumP-no/SKJv-gJLYkI/AAAAAAAAAlQ/VNgf9rCJw1I/s400/datacenter.gif" />
 
 I think it's interesting that applications these days are almost synonymous with web applications than with the original desktop application.  I wanted to share some of my favorite online applications with everyone, and encourage you to also tap into the cloud.
 

@@ -20,6 +20,6 @@ The first three chapters on fundamentals, equipment, and lighting I thought were
 
 The rest of the book talks about styling/props and the post-processing, which may be a bit much for those not interested in doing studio-like setups. To be honest, when I take pictures of food, I don't cook it myself, I don't have a setup in place, and most importantly-- I plan on eating the food I take a picture of!
 
-<a href="http://www.amazon.com/gp/product/0321784111/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321784111"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=0321784111&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" height="200" width="145" /></a>
+<a href="http://www.amazon.com/gp/product/0321784111/ref=as_li_ss_il?ie=UTF8&amp;tag=sunpech-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321784111"><img alt=""  border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&amp;Format=_SL160_&amp;ASIN=0321784111&amp;MarketPlace=US&amp;ID=AsinImage&amp;WS=1&amp;tag=sunpech-20&amp;ServiceVersion=20070822" height="200" width="145" /></a>
 
 I do have a food blog over at <a href="http://www.foodishappiness.com/">Foodishappiness.com</a>. Please check it out!
