@@ -5,7 +5,7 @@ date: '2016-06-14T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Movies
-- Reviews
+- Review
 modified_time: '2016-06-14T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_warcraft-movie.jpg
 image: /public/images/blog/warcraft-movie.jpg
