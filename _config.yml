@@ -48,8 +48,3 @@ gplus_username: StevenSuwatanapongched
 facebook_username:  SunpechPhotography
 instagram_username: sunpech
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-gems:
-  - jekyll-redirect-from
-  - jekyll-paginate
-  - jekyll-sitemap
