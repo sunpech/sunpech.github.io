@@ -56,6 +56,15 @@ There is a folder called `best`, which contains pages regarding recommendations 
 * `best` - set to true or false, to be used as part of index of best pages. Optional, only required if to be displayed.
 * `header-img` can be set for custom header image. Should be 1900px wide. Also dim the photo, maybe 1-3 exposure stops.
 
+
+### Testing
+
+I use [HTML::Proofer](https://github.com/gjtorikian/html-proofer) to help check my HTML. The Rakefile is set to ignore alt tags and check only external links.
+
+```shell
+bundle exec rake test
+```
+
 ## TODO:
 
 * Move all images to be local, instead of hosted on blogspot.
