@@ -34,6 +34,8 @@ I went to the Niantic Labs panel, *Re-Imaging Reality: Bringing Games Into the R
 
 ### Marvel and DC
 
+**Everything from Marvel and DC looks good in terms of TV and movies.**
+
 The [Wonder Woman Comic Con trailer](https://www.youtube.com/watch?v=46gQ869ejMM) looked amazing, also the [Justice League trailer](https://www.youtube.com/watch?v=4zhENoYrkZk) was also good. Ths shows how the [DCEU](https://en.wikipedia.org/wiki/DC_Extended_Universe), Warner Brothers, is making corrections from Snyder's gritty universe with Superman.
 
 Marvel did well too with a new [Doctor Strange trailer](https://www.youtube.com/watch?v=HSzx-zryEgM) along with the official announcement that [Brie Larson is the new Captain Marvel](https://www.instagram.com/p/BIOkQm_Bvl5/). I heard that Guardians of the Galaxy 2 exclusive footage also looked great.
@@ -44,18 +46,25 @@ Netflix is rocking it with [The Defenders teaser](https://www.youtube.com/watch?
 
 Source: [@hardwick](https://www.instagram.com/p/BIOzMQLjLtD/)
 
-**So basically everything from Marvel and DC looks good in terms of TV and movies.**
+### Favorite Restaurants
+
+I'm a big foodie and these are the places I always go to when I'm in San Diego.
+
+* [Sushi Deli 2](http://www.sushidelitwo.com/)
+* [Kebab Shop](http://www.thekebabshop.com/)
+* [Lolita's](http://lolitasmexicanfood.com/)
 
 ## The Bad
 
 **Security and staff/volunteer training is getting worse.**
 
-It's becoming a media circus and the mobs of fans that crowd the booths to see their movie and TV stars is getting to be ridiculous. In previous years I would be able to go take quick photos and go about my business. Now it's a crowd rush where I am stuck a tight crowd of hundreds of fans for 30-40 minutes. The fans are becoming unruly and pushy, and worst of all the security are less professional. **A few security guards actually makes the situation worse by being aggressive and taunting the crowd.**
+It's becoming a media circus and the mobs of fans that crowd the booths to see their movie and TV stars is getting to be ridiculous. In previous years I would be able to go take quick photos and go about my business. Now it's a crowd rush where I am stuck a tight crowd of hundreds of fans for 30-40 minutes. The fans are becoming unruly and pushy, and worst of all the security are less professional. **A few security guards actually made the situation worse by being aggressive and taunting the crowd.**
 
 Comic Con is basically line con-- there are lines for everything. I normally don't get in lines for anything because I know it's not worth it. Well, I was reminded of that when I was line a the [American Gods](http://www.imdb.com/title/tt1898069/) booth, or at least what I thought was the line. I asked the end of the line volunteer if this was the end of the line for the booth, he said "yes". So I get in line and wait about 5-10 minutes when a more senior staff member brings another group of people, tells everyone in line to step back from the booth, and tells us all to go to the end of the line along the wall. Basically, the 40-50 people waiting in line at the booth, weren't really in line because no staff there could direct or coordinate things. I just left, reminded once again that it's not worth getting in line for something unless you are really interested or are buying something.
 
-
 ## Pictures
+
+The collages below are just some of my favorites I picked out. I posted the rest on my [Facebook page](https://www.facebook.com/SunpechPhotography/). The links to the photo albums are below.
 
 ### Out and About
 
@@ -71,12 +80,26 @@ The quality of the cosplay is improving, but there doesn't seem to be as many pe
 
 ### Celebrities
 
-
+I enjoy taking photos of TV and movie stars. Of course they are beautiful and are there to promote their new work. But one of the things I notice is that some stars are there and are really happy to be there. They are grateful to fans and do what they so everyone is having a good time. Then there are others that may just be tired, or are just there because they are obligated to be there and put forth minimum effort. I thank everyone for greeting and signing posters to fans, but extra kudos to those that put in more because it really shows.
 
 ![SDCC 2016 Celebrities](/public/images/blog/2016-sdcc-collage-celebrities.jpg)
 
 ## Photo Albums
 
+Normally I organize by day, but this time I'm organizing the albums by topic/theme.
+
+* [2016 San Diego Comic Con - Out and About](https://www.facebook.com/media/set/?set=a.1128590490539307.1073741910.408588035872893&type=3)
 * [2016 San Diego Comic Con - Cosplay](https://www.facebook.com/media/set/?set=a.1128605903871099.1073741912.408588035872893&type=3)
 * [2016 San Diego Comic Con - Celebrities](https://www.facebook.com/media/set/?set=a.1128597067205316.1073741911.408588035872893&type=3)
-* [2016 San Diego Comic Con - Out and About](https://www.facebook.com/media/set/?set=a.1128590490539307.1073741910.408588035872893&type=3)
+
+## Final Thoughts and Tips
+
+Besides snacks, drinks and comfy shoes/clothes, the best thing you can bring with you to Comic Con is a positive attitude. It's a big party of 100,000+ people, so there's bound to be people that are out to hate and put their needs over others. But if you can stay positive, be respectful, and offer understanding, then you are bound to help others around you.
+
+The staff working the booths are people too. They stand for long hours and deal with hundreds if not thousands of fans every day. A simple please, thank you, or have a nice day can go a long way not only for them, but for yourself.
+
+Example: Every year I pick up the TV Guide magazines at the WB booth. Thing is, they hand them out randomly, but mostly on the first day (Thursday), because Friday-Sunday is filled with a lot of signing schedules. This year I went on Saturday to try to pick them up, I asked this booth staff when they would hand them out, he told me not that day and to come back tomorrow, Sunday. So I thanked him and left. Next day, which is the last, I come back asking for the magazine and he said they wold hand them out later after this signing. I told him my situation that I would have to leave for the airport by the time they were going to hand them out-- so he told me to go to the back and he would get them for me. He didn't have to, but he was nice enough to. I thanked him again and told him that he saved me a lot of time.
+
+So as a fan, we go to Comic Con wanting things, from seeing panels, celebrities, free stuff, toys, trailers, etc. We should remind ourselves that we are lucky to even go to Comic Con when so many others are not able to get tickets. I hope the rude behaviors I saw this year was mostly due to the heat.
+
+Comic Con is incredibly fun for those that enjoy story telling and entertainment in all it's various forms. I've been going to comic conventions for 21 years now. Things have changed so much and gotten so much better not only for the industry, but for fans. I hope this trends continues for years to come.
