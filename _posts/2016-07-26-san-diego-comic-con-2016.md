@@ -30,7 +30,7 @@ The weather was hot as the sun was unforgiving most of the time during the day. 
 
 ![Pokemon Go](/public/images/blog/2016-sdcc-screenshot-pokemon-go.jpg)
 
-I went to the Niantic Labs panel, *Re-Imaging Reality: Bringing Games Into the Real World With Ingress and Pokemon Go*, in Hall H on Sunday where the founde, John Hanke, revealed the team leaders. There was [a rumor](https://twitter.com/nerdist/status/757299843362455552) that a legendary Pokemon would drop in Hall H-- which turned out to be just that, a rumor. The vibe I got was that they wouldn't make such Pokemon available until the game is fully released worldwide.
+I went to the Niantic Labs panel, *Re-Imaging Reality: Bringing Games Into the Real World With Ingress and Pokemon Go*, in Hall H on Sunday where the founde, John Hanke, revealed the team leaders. There was [a rumor](https://twitter.com/nerdist/status/757299843362455552) that a *legendary Pokemon* would drop in Hall H-- which turned out to be just that, a rumor. The vibe I got was that they wouldn't make such Pokemon available until the game is fully released worldwide.
 
 ### Marvel and DC
 
@@ -40,7 +40,7 @@ The [Wonder Woman Comic Con trailer](https://www.youtube.com/watch?v=46gQ869ejMM
 
 Marvel did well too with a new [Doctor Strange trailer](https://www.youtube.com/watch?v=HSzx-zryEgM) along with the official announcement that [Brie Larson is the new Captain Marvel](https://www.instagram.com/p/BIOkQm_Bvl5/). I heard that Guardians of the Galaxy 2 exclusive footage also looked great.
 
-Netflix is rocking it with [The Defenders teaser](https://www.youtube.com/watch?v=wBZtM8q2Z1g).
+Netflix is rocking it with [Luke Cage](https://www.youtube.com/watch?v=Ymw5uvViqPU), [Iron Fist](https://www.youtube.com/watch?v=QCSPda7xQ3s), and [The Defenders](https://www.youtube.com/watch?v=wBZtM8q2Z1g) teasers.
 
 ![Hardwick at Hall H](/public/images/blog/hardwick_IG_Marvel.jpg)
 
