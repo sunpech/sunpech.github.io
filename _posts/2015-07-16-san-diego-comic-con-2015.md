@@ -41,7 +41,7 @@ Some of the strollers I saw didn't even have any kids in them. And some of them 
 
 Selfie sticks were also pretty annoying. I thought they were banned from SDCC starting this year, but there was plenty of them being extended above the crowd.
 
-The parties outside of the convention center is just too noisy and douche-y for my taste now. I think a lot of locals use it as an excuse to have a big city-wide costume party with some hopes of running into a celebrity. Yeah, sure it's great for the local bars and restaurants, as they make
+The parties outside of the convention center is just too noisy and douche-y for my taste now. I think a lot of locals use it as an excuse to have a big city-wide costume party with some hopes of running into a celebrity. Yeah, sure it's great for the local bars and restaurants, as they make a year's worth of profit from a week's work.
 
 Some of the security staff on the exhibit floor were not well trained or professional. Many are pretty good and do what they can to have fun with the large crowds, but a few were rude. For instance, in a crowded line of people moving in one direction trying to take photos of celebrities at a signing booth, a security personal should not be yelling at the people in the middle to keep moving forward if they are unable to. Obviously the people at the end/exit need to keep moving so everyone else can move. Asking for the middle line to trample on top of others is just stupid.
 
