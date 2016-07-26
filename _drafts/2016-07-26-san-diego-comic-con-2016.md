@@ -1,14 +1,14 @@
 ---
 layout: post
 title: San Diego Comic Con 2016
-date: '2016-07-26T09:00:00.000-05:00'
+date: '2016-07-26T01:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Comic Con
 - Cosplay
 - San Diego
 - San Diego Comic Con
-modified_time: '2016-04-20T09:00:00.000-05:00'
+modified_time: '2016-07-26T01:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_san-diego-comic-con-2016.jpg
 image: /public/images/blog/san-diego-comic-con-2016.jpg
 description: My thoughts and photos from San Diego Comic Con 2016.
@@ -46,13 +46,24 @@ Netflix is rocking it with [The Defenders teaser](https://www.youtube.com/watch?
 
 Source: [@hardwick](https://www.instagram.com/p/BIOzMQLjLtD/)
 
-### Favorite Restaurants
+### Favorite Eats
 
 I'm a big foodie and these are the places I always go to when I'm in San Diego.
 
 * [Sushi Deli 2](http://www.sushidelitwo.com/)
 * [Kebab Shop](http://www.thekebabshop.com/)
 * [Lolita's](http://lolitasmexicanfood.com/)
+
+
+### Other Good Stuff
+
+The [Kevin Smith](http://www.imdb.com/name/nm0003620/) panel on Saturday night was great as usual. Hall H does empty out by evening so his panel is quite doable with a short line. I love hearing his stories, but his Q & A is section of his panel is getting shorter, as his stories get longer. It's just a nice way to wind down a long day at a con.
+
+I really enjoy having [Conan O'Brien](http://teamcoco.com/) at Comic Con. Although I never get tickets, it's another fun way to wind down a long day by watching his show at night.
+
+They seem to have downgraded the playback room to a smaller room in the [San Diego Marriott Marquis and Marina](http://www.marriott.com/hotels/travel/sandt-marriott-marquis-san-diego-marina/). The room used to be in the [Omni Hotel](https://www.omnihotels.com/hotels/san-diego), but the room never fully fills to capacity.
+
+The RFID badge system was great, despite slowing entrance/exits a bit. The pickup for bags, brochures, and lanyards is significantly shorter by having badges mailed before hand.
 
 ## The Bad
 
@@ -91,6 +102,7 @@ Normally I organize by day, but this time I'm organizing the albums by topic/the
 * [2016 San Diego Comic Con - Out and About](https://www.facebook.com/media/set/?set=a.1128590490539307.1073741910.408588035872893&type=3)
 * [2016 San Diego Comic Con - Cosplay](https://www.facebook.com/media/set/?set=a.1128605903871099.1073741912.408588035872893&type=3)
 * [2016 San Diego Comic Con - Celebrities](https://www.facebook.com/media/set/?set=a.1128597067205316.1073741911.408588035872893&type=3)
+* [2016 San Diego Comic Con - Toys](https://www.facebook.com/media/set/?set=a.1128605903871099.1073741912.408588035872893&type=3)
 
 ## Final Thoughts and Tips
 
