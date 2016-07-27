@@ -115,3 +115,10 @@ Example: Every year I pick up the TV Guide magazines at the WB booth. Thing is, 
 So as a fan, we go to Comic Con wanting things, from seeing panels, celebrities, free stuff, toys, trailers, etc. We should remind ourselves that we are lucky to even go to Comic Con when so many others are not able to get tickets. I hope the rude behaviors I saw this year was mostly due to the heat.
 
 Comic Con is incredibly fun for those that enjoy story telling and entertainment in all it's various forms. I've been going to comic conventions for 21 years now. Things have changed so much and gotten so much better not only for the industry, but for fans. I hope this trends continues for years to come.
+
+### YouTube Playlists of Comic Con
+
+* [Flick and the City SDCC 2016 Panel Playlist](https://www.youtube.com/watch?v=0uOkwDLAgRM&list=PLi8DA5V4mmmcIv5kTbL9KWMb34r9-3fRw) - A rather extensive list of panels from Hall H and Ballroom 20.
+* [Emergency Awesome SDCC 2016 Playlist](https://www.youtube.com/playlist?list=PLOIeYdZ3Qczxp8PAZCMXmF0v513DXUBed)
+* [Nerdist at SDCC 2016 Playlist](https://www.youtube.com/playlist?list=PLl4T6p7km9dZe2mc_vmTILHSNYcddpx5j)
+* [Collider Videos](https://www.youtube.com/user/ColliderVideos/videos) - Not a playlist, since they seem to have deleted their SDCC playlist.
