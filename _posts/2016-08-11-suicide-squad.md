@@ -6,10 +6,10 @@ author: Steven Suwatanapongched
 tags:
 - Comics
 - Movies
--Reviews
+- Review
 modified_time: '2016-08-11T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_suicide-squad.jpg
-image: /public/images/blog/suicide-squad.jpg
+image: /public/images/blog/suicide_squad.jpg
 description: My review of the Suicide Squad movie. A movie that has problems, but has promise.
 header-img: /public/images/headers/suicide-squad.jpg
 ---
@@ -79,5 +79,5 @@ Here are some of my favorite youTubers with their spoiler-y reviews of the movie
 
 * [Suicide Squad Top 20 Easter Eggs](https://www.youtube.com/watch?v=6Zky2S7Dhhw) by [Emergency Awesome](https://www.youtube.com/user/emergencyawesome)
 * [Suicide Squad Spoilers Movie Review](https://www.youtube.com/watch?v=0xx8BJd0rts) by [Beyond the Trailer](https://www.youtube.com/user/BeyondTheTrailer)
-* [Suicide Squad | Movie Review](https://www.youtube.com/watch?v=191ww6ec8Eg) by [Alachia Queen](https://www.youtube.com/user/queenalachia)
+* [Suicide Squad Movie Review](https://www.youtube.com/watch?v=191ww6ec8Eg) by [Alachia Queen](https://www.youtube.com/user/queenalachia)
 * [Suicide Squad Spoilers Review](https://www.youtube.com/watch?v=5h8irQzqemQ) by [Collider Videos](https://www.youtube.com/user/ColliderVideos)
