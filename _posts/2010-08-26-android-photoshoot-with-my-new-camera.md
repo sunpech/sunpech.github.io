@@ -15,9 +15,9 @@ redirect_from: /2010/08/android-photoshoot-with-my-new-camera.html
 header-img: /public/images/headers/android.jpg
 ---
 
-I got my new lens in the mail yesterday.  It's a <a href="http://www.amazon.com/Canon-50mm-1-8-Camera-Lens/dp/B00007E7JU?ie=UTF8&amp;tag=sunpech-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Canon EF 50mm f/1.8 II Camera Lens</a>.
+I got my new lens in the mail yesterday.  It's a <a href="http://www.amazon.com/Canon-50mm-1-8-Camera-Lens/dp/B00007E7JU?ie=UTF8&amp;tag=sunpech-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank" rel="noopener noreferrer">Canon EF 50mm f/1.8 II Camera Lens</a>.
 
-<a href="http://www.amazon.com/Canon-50mm-1-8-Camera-Lens/dp/B00007E7JU?ie=UTF8&amp;tag=sunpech-20&amp;link_code=bil&amp;camp=213689&amp;creative=392969"  target="_blank"><img   alt="Canon EF 50mm f/1.8 II Camera Lens" src="http://ws-na.amazon-adsystem.com/widgets/q?MarketPlace=US&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL160_&amp;ASIN=B00007E7JU&amp;tag=sunpech-20" /></a>
+<a href="http://www.amazon.com/Canon-50mm-1-8-Camera-Lens/dp/B00007E7JU?ie=UTF8&amp;tag=sunpech-20&amp;link_code=bil&amp;camp=213689&amp;creative=392969"  target="_blank" rel="noopener noreferrer"><img   alt="Canon EF 50mm f/1.8 II Camera Lens" src="http://ws-na.amazon-adsystem.com/widgets/q?MarketPlace=US&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL160_&amp;ASIN=B00007E7JU&amp;tag=sunpech-20" /></a>
 
 I was studying at the time, but once I got my email notification that it arrived, I rushed to pick it up and did a little photoshoot of my Android toy at the table I was studying at.  I played with the aperture for most of the shoot (in AV mode). Afterwards, I used Adobe Lightroom to polish it up a bit (created a set of Black &amp; White photos too).
 

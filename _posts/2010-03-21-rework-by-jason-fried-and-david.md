@@ -12,7 +12,7 @@ blogger_orig_url: http://www.sunpech.com/2010/03/rework-by-jason-fried-and-david
 redirect_from: /2010/03/rework-by-jason-fried-and-david.html
 ---
 
-I finished reading <a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745?ie=UTF8&amp;tag=sunpech-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Rework </a><img    border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=0307463745" style="border: none !important; margin: 0px !important; padding: 0px !important;" width="1" />by the founders of <a href="http://www.37signals.com/">37Signals</a>. I really really enjoyed the book. The chapters were concise and to the point.
+I finished reading <a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745?ie=UTF8&amp;tag=sunpech-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank" rel="noopener noreferrer">Rework </a><img    border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=0307463745" style="border: none !important; margin: 0px !important; padding: 0px !important;" width="1" />by the founders of <a href="http://www.37signals.com/">37Signals</a>. I really really enjoyed the book. The chapters were concise and to the point.
 
 Here are my favorite chapters:
 
@@ -38,4 +38,4 @@ Here are my favorite chapters:
 
 I highly recommend people to pick up a copy if you are at all interested in how a great business should be run.
 
-<a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745?ie=UTF8&amp;tag=sunpech-20&amp;link_code=bil&amp;camp=213689&amp;creative=392969"  target="_blank"><img   alt="Rework" src="http://ws-na.amazon-adsystem.com/widgets/q?MarketPlace=US&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL160_&amp;ASIN=0307463745&amp;tag=sunpech-20" /></a><img    border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=bil&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=0307463745" style="border: none !important; margin: 0px !important; padding: 0px !important;" width="1" />
+<a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745?ie=UTF8&amp;tag=sunpech-20&amp;link_code=bil&amp;camp=213689&amp;creative=392969"  target="_blank" rel="noopener noreferrer"><img   alt="Rework" src="http://ws-na.amazon-adsystem.com/widgets/q?MarketPlace=US&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL160_&amp;ASIN=0307463745&amp;tag=sunpech-20" /></a><img    border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=sunpech-20&amp;l=bil&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=0307463745" style="border: none !important; margin: 0px !important; padding: 0px !important;" width="1" />

@@ -55,8 +55,8 @@ I was only able to attend the Executive Panel event since there was an event con
 The best description of cloud services given by the panel were: ### As-a-service, Self-service, and Metering.
 
 <ul>
-  <li><a href="http://www.cloudcamp.org/chicago/2010-03-05" target="_blank">CloudCamp Chicago Executive Panel, Mar 5, 2010</a></li>
-  <li><a href="http://www.cloudcamp.org/chicago/2010-03-06" target="_blank">CloudCamp Chicago, Mar 6, 2010</a></li>
+  <li><a href="http://www.cloudcamp.org/chicago/2010-03-05" target="_blank" rel="noopener noreferrer">CloudCamp Chicago Executive Panel, Mar 5, 2010</a></li>
+  <li><a href="http://www.cloudcamp.org/chicago/2010-03-06" target="_blank" rel="noopener noreferrer">CloudCamp Chicago, Mar 6, 2010</a></li>
   <li><a href="http://twitter.com/sunpech/status/10050491851">My Tweet on Panelists discussion</a></li>
 </ul>
 

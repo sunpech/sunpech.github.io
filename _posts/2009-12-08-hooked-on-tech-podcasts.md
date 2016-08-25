@@ -17,21 +17,21 @@ Lately I’ve been immersed in code at work as well as at home for a side projec
 Here are the direct links to the current individual podcasts I subscribe to:
 
 <ul>   
-  <li><a href="http://feeds.feedburner.com/netRocksFullMp3Downloads" target="_blank">.Net Rocks</a></li>    
-  <li><a href="http://feeds.feedburner.com/37signals_podcast" target="_blank">37signals Podcast</a></li>    
-  <li><a href="http://feeds.feedburner.com/altnetpodcast" target="_blank">Alt.NET Podcast</a></li>    
-  <li><a href="http://feeds.feedburner.com/DnrtvWmv" target="_blank">dnrTV</a></li>
-  <li><a href="http://feeds.feedburner.com/HanselminutesCompleteMP3" target="_blank">Hanselminutes</a></li>    
-  <li><a href="http://pragprog.com/podcasts/feed.rss" target="_blank">Pragmatic Podcasts</a></li>    
-  <li><a href="http://se-radio.net/rss" target="_blank">Software Engineering Radio - The Podcast for Professional Software Developers</a></li>    
-  <li><a href="http://feeds.feedburner.com/ThirstyDeveloperPodcast" target="_blank">The Thirsty Developer – Podcast</a></li>    
-  <li><a href="http://leoville.tv/podcasts/ww.xml" target="_blank">Windows Weekly</a></li>
+  <li><a href="http://feeds.feedburner.com/netRocksFullMp3Downloads" target="_blank" rel="noopener noreferrer">.Net Rocks</a></li>    
+  <li><a href="http://feeds.feedburner.com/37signals_podcast" target="_blank" rel="noopener noreferrer">37signals Podcast</a></li>    
+  <li><a href="http://feeds.feedburner.com/altnetpodcast" target="_blank" rel="noopener noreferrer">Alt.NET Podcast</a></li>    
+  <li><a href="http://feeds.feedburner.com/DnrtvWmv" target="_blank" rel="noopener noreferrer">dnrTV</a></li>
+  <li><a href="http://feeds.feedburner.com/HanselminutesCompleteMP3" target="_blank" rel="noopener noreferrer">Hanselminutes</a></li>    
+  <li><a href="http://pragprog.com/podcasts/feed.rss" target="_blank" rel="noopener noreferrer">Pragmatic Podcasts</a></li>    
+  <li><a href="http://se-radio.net/rss" target="_blank" rel="noopener noreferrer">Software Engineering Radio - The Podcast for Professional Software Developers</a></li>    
+  <li><a href="http://feeds.feedburner.com/ThirstyDeveloperPodcast" target="_blank" rel="noopener noreferrer">The Thirsty Developer – Podcast</a></li>    
+  <li><a href="http://leoville.tv/podcasts/ww.xml" target="_blank" rel="noopener noreferrer">Windows Weekly</a></li>
 </ul>
 
 Or if you really trust my taste, here’s a single RSS feed to all the podcasts I subscribe to:
 
 <ul>
-  <li><a href="http://www.google.com/reader/public/atom/user%2F16938590580940313293%2Flabel%2FPodcasts" target="_blank">Steven's Podcast RSS feed on Google Reader</a></li>
+  <li><a href="http://www.google.com/reader/public/atom/user%2F16938590580940313293%2Flabel%2FPodcasts" target="_blank" rel="noopener noreferrer">Steven's Podcast RSS feed on Google Reader</a></li>
 </ul>
 
 The latter link will get updated with new feeds I find interesting.&#160; Enjoy!
