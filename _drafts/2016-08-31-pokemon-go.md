@@ -17,23 +17,28 @@ I've been playing [Pokemon Go](http://www.pokemongo.com/) for almost two months 
 
 ![Pokemon Go Logo](/public/images/blog/pokemon_go_logo.png)
 
-**This post is a quick guide for those of you that want to get into this Pokemon Go craze.** I assume that you've already installed and played the game a bit and are familiar with the in-game terminology. By no means is it a complete guide to everything, as many out there are still discovering new things all the time.
+**This post is a quick guide for those of you that want to get into this Pokemon Go craze.** I assume that you've already installed and played the game a bit and are familiar with the in-game terminology. By no means is it a complete guide to everything, as many out there are still discovering new things all the time, on top of [Niantics Labs](https://www.nianticlabs.com/) is still tweaking the game.
 
 *Note: Just because I recommend against something, if you find that it's fun, then ignore my advice. This game can be played in many ways for fun. **I optimize my game around value and the long game (levels 30+).***
 
-**There are haters and jokers that give grief on the game, but if you are going outside, getting exercise, socializing, and most importantly having fun, then I encourage you to ignore them.** *Pokemon Go is for everyone.* I've seen players as in the single digit age, teens, high school kids, college kids, parents, and even older play the game in parks, river walks, malls, and in their cars.
+**Also, there are haters and jokers that give grief on the game, but if you are going outside, getting exercise, socializing, and most importantly having fun, then I encourage you to ignore them.** *Pokemon Go is for everyone.* I've seen players as in the single digit age, teens, high school kids, college kids, parents, and even older play the game in parks, river walks, malls, and in their cars.
 
-I enjoy the game for the *health benefits of getting my steps in every day* with my [Fitbit Charge](https://www.fitbit.com/charge). I'm fitting in between 10,000 to 20,000 steps every day and occasionally chat with other players I find. *I also love the strategies involved to be the best in the game* that involves some math, spreadsheet knowledge, and a lot of patience.
+I enjoy the game for the *health benefits of getting my steps in every day* with my [Fitbit Charge](https://www.fitbit.com/charge). I'm fitting in between 10,000 to 20,000 steps every day and occasionally chat with other players I find.
+
+![Fitbit Charge Steps](/public/images/blog/pokemon-go-fitbit-charge-steps.jpg)
+
+
+*I also love the strategies involved to be the best in the game* that involves some math, spreadsheet knowledge, and a lot of patience.
 
 ## Top 5 Tips
 
 If you don't want to read this entire post, here is the TL;DR; section for those of you just starting out and/or want to improve.
 
 1. Focus on leveling your trainer from levels 1-20.
-2. Save your stardust-- don't power-up any Pokemon until you're level 25+, ideally level 30.
+2. Save your stardust-- don't power-up any Pokemon until you're level 25+, ideally level 30+.
 3. Capture as much Pokemon you can-- *gotta catch'em all.*
 4. Hatch eggs, especially after level 20.
-5. Avoid gyms.
+5. Avoid gyms, unless they're convenient.
 
 ## Pokecoins and Pokeshop
 
