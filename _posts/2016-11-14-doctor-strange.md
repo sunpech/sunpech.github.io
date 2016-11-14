@@ -6,7 +6,7 @@ author: Steven Suwatanapongched
 tags:
 - Comics
 - Movies
-- Reviews
+- Review
 modified_time: '2016-11-14T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_dr-strange.jpg
 image: /public/images/blog/dr-strange.jpg
