@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comic Book Movies of 2016
+title: Comic Book Movies of 2017
 date: '2017-01-26T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
