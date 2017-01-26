@@ -1,21 +1,22 @@
 ---
 layout: post
 title: Comic Book Movies of 2016
-date: '2017-01-25T09:00:00.000-05:00'
+date: '2017-01-26T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Comics
 - Movies
-modified_time: '2017-01-25T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_2017_superhero_movies_posters.jpg
-image: /public/images/blog/2017_superhero_movies_posters.jpg
+modified_time: '2017-01-26T09:00:00.000-05:00'
+thumbnail: /public/images/blog/tn_comic-book-movies-2017.jpg
+image: /public/images/blog/comic-book-movies-2017.jpg
 description: The Super Hero movies I'm looking forward to the most in 2017.
 header-img: /public/images/headers/2017-comic-book-movies.jpg
 ---
 
 Last year I wrote a post about [Super Hero Movies of 2016](/2016/01/super-hero-movies-of-2016). I wanted to do the same for 2017, as it looks to be another amazing year for comic fans.
 
-## My 2017 Rankings
+## 2017 Rankings
+This is the ranking, 1-6, ranked from most looking forward to, to least.
 
 1. Guardians of the Galaxy Vol. 2 (May 5, 2017)
 2. Wonder Woman (June 2, 2017)
@@ -24,13 +25,11 @@ Last year I wrote a post about [Super Hero Movies of 2016](/2016/01/super-hero-m
 5. Spiderman: Homecoming (July 7, 2017)
 6. Logan (March 3, 2017)
 
-This is the ranking, 1-6, ranked from most looking forward to, to least.
-
 ### Logan
 
-I cannot get my excited about another Wolverine movie, [Logan](http://www.imdb.com/title/tt3315342/), from Fox. It has everything to do with the fact that I haven't enjoyed a single standalone Wolverine movie. There was [X-men Origins: Wolverine](http://www.imdb.com/title/tt0458525/) in 2009, which was a missed opportunity to tell a good origin story, not to mention they totally messed up Deadpool. In 2013, [The Wolverine](http://www.imdb.com/title/tt1430132/) was boring and the scene that really bothered me was how Wolverine was unable to beat ninjas in the snow.
+I cannot get my excited about Fox's [Logan](http://www.imdb.com/title/tt3315342/). It has everything to do with the fact that I haven't enjoyed a single standalone Wolverine movie. There was [X-men Origins: Wolverine](http://www.imdb.com/title/tt0458525/) in 2009, which was a missed opportunity to tell a good origin story, not to mention they totally messed up Deadpool. In 2013, [The Wolverine](http://www.imdb.com/title/tt1430132/) was boring. A scene that really bothered me was how Wolverine was unable to beat ninjas in the snow. It's just another Wolverine movie that takes few cues from the comics.
 
-The X-Men franchise has rested on Hugh Jackman's shoulders. I thank him for his portrayal and years of dedication, but I'd like to see him retire the role to someone else. I think that's what this movie is. I think it's best I go in with low expectations.
+The X-Men franchise rests on Hugh Jackman's shoulders. I thank him for his portrayal and years of dedication to playing Wolverine, but I'd like to see him retire the role to someone else. I think that's what this movie is, his final farewell and possibly a passing of the torch. I think it's best I go in with low expectations.
 
 Release date: March 3, 2017
 
@@ -38,7 +37,7 @@ Release date: March 3, 2017
 
 ### Guardians of the Galaxy Vol. 2
 
-The first [Guardians of the Galaxy](http://www.imdb.com/title/tt2015381/) movie is my favorite movie from the MCU thus far. I have high expectations for [Guardians of the Galaxy Vol 2](http://www.imdb.com/title/tt3896198/) and I suspect I won't be disappointed. Marvel made a great space adventure movie out of comic characters that weren't super popular. Unlike Marvels Earth-bound heroes, this rag-tag group of misfits aren't bound by anything and are free to be as fun and creative as they want.
+The first [Guardians of the Galaxy](http://www.imdb.com/title/tt2015381/) movie is my favorite movie from the MCU thus far. I have high expectations for [Guardians of the Galaxy Vol 2](http://www.imdb.com/title/tt3896198/) and I suspect I won't be disappointed. Marvel made a great space adventure movie out of characters that weren't super popular in the comics. Unlike Marvels Earth-bound heroes, this rag-tag group of misfits aren't bound by anything and are free to be as fun and creative as they want. The colors and backdrop of other worlds is so refreshing compared to the rather bland look of Earth-based movies. I have the utmost confidence in [James Gunn](http://www.imdb.com/name/nm0348181/).
 
 Release date: May 5, 2017
 
@@ -88,4 +87,4 @@ There's a nice spread of movies for 2017.
 
 ## Final Thoughts
 
-2017 is another great year for comic fans. But most of the movies represent how well a studio can improve upon what they've done before (Logan, Spider-man, and Justice League). Plenty of room for excitement, but also plenty for disappointment too.
+2017 is another great year for comic fans. But most of the movies represent how well a studio can improve upon what they've done before (Logan, Spider-man, and Justice League). Plenty of room for excitement, but also plenty for disappointment too for flops.
