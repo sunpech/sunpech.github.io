@@ -27,7 +27,7 @@ This is the ranking, 1-6, ranked from most looking forward to, to least.
 
 ### Logan
 
-I cannot get my excited about Fox's [Logan](http://www.imdb.com/title/tt3315342/). It has everything to do with the fact that I haven't enjoyed a single standalone Wolverine movie. There was [X-men Origins: Wolverine](http://www.imdb.com/title/tt0458525/) in 2009, which was a missed opportunity to tell a good origin story, not to mention they totally messed up Deadpool. In 2013, [The Wolverine](http://www.imdb.com/title/tt1430132/) was boring. A scene that really bothered me was how Wolverine was unable to beat ninjas in the snow. It's just another Wolverine movie that takes few cues from the comics.
+I cannot get excited about Fox's [Logan](http://www.imdb.com/title/tt3315342/). It has everything to do with the fact that I haven't enjoyed a single standalone Wolverine movie. There was [X-men Origins: Wolverine](http://www.imdb.com/title/tt0458525/) in 2009, which was a missed opportunity to tell a good origin story, not to mention they totally messed up Deadpool. In 2013, [The Wolverine](http://www.imdb.com/title/tt1430132/) was boring. A scene that really bothered me was how Wolverine was unable to beat ninjas in the snow. It's just another Wolverine movie that takes few cues from the comics.
 
 The X-Men franchise rests on Hugh Jackman's shoulders. I thank him for his portrayal and years of dedication to playing Wolverine, but I'd like to see him retire the role to someone else. I think that's what this movie is, his final farewell and possibly a passing of the torch. I think it's best I go in with low expectations.
 
@@ -45,7 +45,7 @@ Release date: May 5, 2017
 
 ### Wonder Woman
 
-I've been waiting for this [Wonder Woman](http://www.imdb.com/title/tt0451279/) movie for what seems like decades now. Warner Bros/DC has really pushed Batman and Superman for years and have neglected the third of the holy trinity of DC comics, Wonder Woman. I'm both excited and scared for this movie as they cannot afford to mess it up.
+I've been waiting for this [Wonder Woman](http://www.imdb.com/title/tt0451279/) movie for what seems like decades now. Warner Bros/DC has really pushed Batman and Superman for years and have neglected the third of the holy trinity of DC Comics, Wonder Woman. I'm both excited and scared for this movie, as they cannot afford to mess it up.
 
 I reviewed both [Man of Steel](2013/06/man-of-steel-review) and [Batman v Superman](2016/03/batman-v-superman-dawn-of-justice-review), and they are both so gloomy and depressing. The DCEU needs to turn things around and give fans hope.
 
@@ -55,7 +55,7 @@ Release date: June 2, 2017
 
 ### Spider-man: Homecoming
 
-Similar to the Wolverine character in movies, I also have a hard time looking forward to seeing Spider-man on the big screen. There's just been too many bad movies and reboots. I liked seeing [Tom Holland](http://www.imdb.com/name/nm4043618/) in [Civil War](http://www.imdb.com/title/tt3498820), but that was just a small intro/tease of a young, sarcastic, and funny Spider-man.
+Similar to Wolverine's character in movies, I also have a hard time looking forward to seeing Spider-man on the big screen. There's just been too many bad movies and reboots. I liked seeing [Tom Holland](http://www.imdb.com/name/nm4043618/) in [Civil War](http://www.imdb.com/title/tt3498820), but that was just a small intro of a young, sarcastic, and funny modern Spider-man.
 
 I like Spider-man, but we'll see if Sony/Marvel teamup can undo years of terrible movies.
 
@@ -73,7 +73,7 @@ Release date: November 3, 2017
 
 ### Justice League
 
-I really hope they don't screw up [Justice League](http://www.imdb.com/title/tt0974015/). If DCEU can't get their first JL movie right, then they should consider just rebooting their entire franchise. I love [Ben Affleck](http://www.imdb.com/name/nm0000255/) as Batman, and I'm surprised at great [Gal Gadot](http://www.imdb.com/name/nm2933757/) looks as Wonder Woman, but I'm just don't like the look of Cyborg.
+I really hope they don't screw up [Justice League](http://www.imdb.com/title/tt0974015/) (JL). If DCEU can't get their first JL movie right, then they should consider just rebooting their entire franchise. I love [Ben Affleck](http://www.imdb.com/name/nm0000255/) as Batman, and I'm surprised at how great [Gal Gadot](http://www.imdb.com/name/nm2933757/) looks as Wonder Woman, but I'm just don't like the look of Cyborg. And I'm not sure I can get over a non-blonde Aquaman.
 
 Release date: November 17, 2017
 
@@ -87,4 +87,4 @@ There's a nice spread of movies for 2017.
 
 ## Final Thoughts
 
-2017 is another great year for comic fans. But most of the movies represent how well a studio can improve upon what they've done before (Logan, Spider-man, and Justice League). Plenty of room for excitement, but also plenty for disappointment too for flops.
+This year looks like another great one for comic fans. But most of the movies represent how well a studio can improve upon what they've done before (Logan, Spider-man, and Justice League). Plenty of room for excitement, but also plenty for disappointment too for flops.
