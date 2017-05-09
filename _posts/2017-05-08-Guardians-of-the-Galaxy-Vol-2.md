@@ -36,7 +36,7 @@ Yondu, played by [Michael Rooker](http://www.imdb.com/name/nm0740264/?ref_=ttfc_
 
 ### Easter Eggs and Post-credits
 
-There were two scenes that had [The Watchers](https://en.wikipedia.org/wiki/Watcher_(comics)) along with [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee)'s cameo. Entertaining of course for comic cans, but a part of me wishes that it wasn't a funny bit but more serious since this race only watches/observes things without interfering. With Thanos coming for the Infinity stones, I'd imagine they'd be observing Earth in a major way.
+There were two scenes that had [The Watchers](https://en.wikipedia.org/wiki/Watcher_(comics)) along with [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee)'s cameo. Entertaining of course for comic cans, but a part of me wishes that it wasn't a funny bit and was more serious since this race only watches/observes things without interfering, especially when something big is happening. With Thanos coming for the Infinity stones, I thought they would us that to that.
 
 I'm surprised they were even in the MCU, because [Watcher Uatu](https://en.wikipedia.org/wiki/Uatu) is part of the Fantastic Four comics, which Fox owns as part of their movie contract. **I'm guessing Marvel probably has rights to use their race, and specifically not Uatu.** Perhaps that is the reason it had to be reduced to a cameo rather than the Watcher looking upon Earth's sector from the moon, because that would have to be Uatu specifically.
 
