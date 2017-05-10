@@ -33,6 +33,7 @@ Yondu, played by [Michael Rooker](http://www.imdb.com/name/nm0740264/?ref_=ttfc_
  * *“I’m Mary Poppins, y’all!”*
  * *“He may have been your father but he wasn’t your daddy.”*
 
+There are also some dark stories that were just hinted at, probably because the movie is PG-13. For instance, Yondu did some child-trafficking for Ego's children all over the universe. All but Peter Quill weren't able to tap into the light, and what happened to them-- remember all the skulls/bones that Gamora and Nebula found? Speaking of which, whenever Nebula lost to Gamora, Thanos would upgrade her body parts-- that would require her parts to be broken or torn off to begin with. Yeah, super dark stuff.
 
 ### Easter Eggs and Post-credits
 
@@ -73,3 +74,4 @@ It's not just Disney/Marvel, but all of Hollywood that walks on eggs shells when
 * [Guardians of the Galaxy Vol. 2 Marvel Movie Review! (all the SPOILERS)](https://www.youtube.com/watch?v=IG0AQ4lwwXY&t=3122s) by [NerdSync](https://www.youtube.com/user/NerdSyncProductions)
 * [Guardians of the Galaxy Vol 2 Review](https://www.youtube.com/watch?v=p0GOWiNPK64) by [Kevin Smith](https://www.youtube.com/user/KevinSmith37)
 * [Guardians of the Galaxy Vol. 2 Spoiler Review - Collider Video](https://www.youtube.com/watch?v=cfnNeon9gZw) by [Collider Videos](https://www.youtube.com/user/ColliderVideos)
+* [Guardians of the Galaxy Vol. 2 | Movie Review (Non Spoilers + Spoilers)](https://www.youtube.com/watch?v=ULXKqYsP1ig) by [Alachia Queen](https://www.youtube.com/user/queenalachia)
