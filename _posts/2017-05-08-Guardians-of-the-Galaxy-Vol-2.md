@@ -66,12 +66,16 @@ I really enjoy the Guardians of the Galaxy and the whole space adventure stories
 It's not just Disney/Marvel, but all of Hollywood that walks on eggs shells when it comes to the creative stories involving foreign countries, mainly China, where they have to make compromises as to how they depict foreign governments and outright censorship just so they can get their movies into the countries. **With a larger cosmic universe, they are no longer limited to Earth, their stories are only limited by their imagination, or budget.**
 
 
-#### Recommended YouTube Videos
+### Recommended YouTube Videos
+
+Reviews by some of my favorite youTubers.
 
 * [Guardians Of The Galaxy 2 - TOP 10 Comics Changes Explained](https://www.youtube.com/watch?v=skAiRR-F4uM) by [Emergency Awesome](https://www.youtube.com/user/emergencyawesome/)
 * [Guardians Of The Galaxy 2 Post Credits Scenes Explained](https://www.youtube.com/watch?v=JYfsoT832-o) by [Emergency Awesome](https://www.youtube.com/user/emergencyawesome/)
 * [Guardians Of The Galaxy 2 Review](https://www.youtube.com/watch?v=1jfWL5GV--c) by [Emergency Awesome](https://www.youtube.com/user/emergencyawesome/)
+* [Guardians of The Galaxy 2 ALL Easter Eggs and Marvel References Explained](https://www.youtube.com/watch?v=nml5BwNMjZA) by [Emergency Awesome](https://www.youtube.com/user/emergencyawesome/)
 * [Guardians of the Galaxy Vol. 2 Marvel Movie Review! (all the SPOILERS)](https://www.youtube.com/watch?v=IG0AQ4lwwXY&t=3122s) by [NerdSync](https://www.youtube.com/user/NerdSyncProductions)
 * [Guardians of the Galaxy Vol 2 Review](https://www.youtube.com/watch?v=p0GOWiNPK64) by [Kevin Smith](https://www.youtube.com/user/KevinSmith37)
 * [Guardians of the Galaxy Vol. 2 Spoiler Review - Collider Video](https://www.youtube.com/watch?v=cfnNeon9gZw) by [Collider Videos](https://www.youtube.com/user/ColliderVideos)
 * [Guardians of the Galaxy Vol. 2 | Movie Review (Non Spoilers + Spoilers)](https://www.youtube.com/watch?v=ULXKqYsP1ig) by [Alachia Queen](https://www.youtube.com/user/queenalachia)
+* [Guardians of the Galaxy Vol.2 (spoilers)](https://www.youtube.com/watch?v=wo_wYf63d-E) by [ComicBookGirl19](https://www.youtube.com/user/comicbookgirl19)
