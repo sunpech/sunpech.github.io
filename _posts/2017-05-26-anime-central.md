@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pokemon Go
+title: Anime Central 2017
 date: '2017-05-26T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
