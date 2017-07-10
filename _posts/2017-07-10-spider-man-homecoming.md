@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spider-Man Homecoming
-date: '2016-08-31T09:00:00.000-05:00'
+date: '2017-07-10T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Movies
@@ -24,6 +24,8 @@ I like how [Tom Holland](https://en.wikipedia.org/wiki/Tom_Holland_(actor)) actu
 ![Spider-Man History](/public/images/blog/spider-man-character-history.jpg)
 
 The casting of [Marisa Tomei](http://www.imdb.com/name/nm0000673/) as Aunt May is a big step away from the traditional white haired elderly woman. And it makes sense to make Peter's aunt to be younger since she's his mom/dad's sister, not grandmother!
+
+Although Michelle, played by [Zendaya](http://www.imdb.com/name/nm3918035/), had only a few lines, it's clear that Marvel has bigger plans for her, especially after she revealed that *her friends* call her MJ.
 
 [Michael Keaton](http://www.imdb.com/name/nm0000474/) as the Vulture was amazing! The first three minutes of the film established him as the regular hardworking guy trying to make things work that got crushed by the government and corporation. They didn't even ever call him the Vulture throughout the movie! The car scene before the Homecoming dropoff was brilliant. Seeing how Keaton was putting together how Parker was secretly Spider-Man was so well written and acted.
 
@@ -51,4 +53,9 @@ Think of the Star Wars franchise. There was a *sixteen year gap* between [Return
 
 The cast is young, diverse, and are a hint of this new Marvel universe that is coming post Infinity War. So many people have written that this movie represents the beginning of [Robert Downey Jr's](http://www.imdb.com/name/nm0000375/) exit from the MCU and Tom Holland is picking up the torch. I think that's pre-mature to call for now considering that Sony still owns the movie rights for Spider-Man. This may be more of a example of what other Hollywood studios can work out if they work with Marvel Studios. *Ya hear that Fox??*
 
-The movie is good, despite not being made for fans like me. It's been too long since I was a teenager in high school.
+The movie is good, despite not being made for fans like me. It's been too long since I was a teenager in high school, so it's hard for me to relate.
+
+### youTube Videos
+
+* [Spider-Man Homecoming Timeline Problem Revealed](https://www.youtube.com/watch?v=562Hjb5af1A) by [Emergency Awesome](https://www.youtube.com/user/emergencyawesome)
+* [Spider-Man Homecoming TOP 20 Easter Eggs and Things You Missed](https://www.youtube.com/watch?v=zIfxPwtlLT8) by [Emergency Awesome](https://www.youtube.com/user/emergencyawesome)
