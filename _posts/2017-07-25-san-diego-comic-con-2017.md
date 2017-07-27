@@ -27,7 +27,7 @@ I love taking photos of cosplayers, but it's really difficult to be at the right
 
 ### Celebrities
 
-The WB booth is the best place to catch and photograph celebrities from the mainstream panels. The other booths that they sign at are the Marvel, DC, and Fox booths primarily. The lighting and mobile access is what makes the WB booth a favorite for photography. The Marvel and DC signings lets crowds gather to stand in area, but most people will never get a good shot because no one moves anywhere.
+The WB booth is the best place to catch and photograph celebrities from the mainstream panels. The other booths that they sign at are the Marvel, DC, and Fox booths primarily. The lighting and no-static-crowd-gathering is what makes the WB booth a favorite for photography. The Marvel and DC signings lets crowds gather to stand in area, but most people will never get a good shot because no one moves anywhere.
 
 Like previous years, the crowds at these signings are getting bigger, and more unwilling to take direction from the security services.
 
@@ -60,8 +60,15 @@ Here are some useful resources for things in and outside of Comic Con:
 
 These resources will help you with everything from getting tickets, understanding rules, the schedule, etc.
 
+Here are some post-con reviews:
+
+* [5 Winners & 5 Losers from San Diego Comic-Con 2017](http://sdccblog.com/2017/07/5-winners-5-losers-from-san-diego-comic-con-2017/)
+* [SDConCast 7/26/17 - The SDCC 2017 Wrap Up Show](https://www.youtube.com/watch?v=Rqipk6oMIUk)
+
 ## Final Thoughts
 
 San Diego Comic Con is still very fun. As long as there are amazing TV shows and competing movie studios that *bring it*, SDCC will continue to thrive. The merchandizing that goes on looks to be incredibly lucrative as so many vendors continue to return every year.
 
-I still hope for a day when a livestream will open the convention to more people/fans/consumers. The fans want to see it and spend money, and I'm sure the companies want to make more money.
+The lines are always a headache. When you have a mass gathering of bodies like this, there are always so many that take advantage of others and chat the line system.
+
+I still hope for a day when a livestream will open the convention to more people/fans/consumers. The fans want to see it and spend money, and I'm sure the companies want to make more money from more fan participation.
