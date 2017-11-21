@@ -51,11 +51,11 @@ The serious parts of the movie could be better. The deaths of Odin ([Anthony Hop
 
 ### Final Thoughts
 
-Thor Ragnarok is fantastic. It feels like a blend of Guardians of the Galaxy comedic space team with the sci-fi adventure of [Heavy Metal](https://en.wikipedia.org/wiki/Heavy_Metal_(film)). The movie overall is a transitional film in the big picture aspect of where the MCU is going-- some heroes are now dead or out of the picture, Asgard went through Ragnarok as is gone, Mjolnir was destroyed, etc..
-
-![Thor Ragnarok's Colors](/public/images/blog/thor-ragnarok-colorful.jpg)
+Thor Ragnarok is fantastic. It feels like a blend of Guardians of the Galaxy comedic space team with the sci-fi adventure of [Heavy Metal](https://en.wikipedia.org/wiki/Heavy_Metal_(film)). The movie is a transitional film in the big picture aspect of where the MCU is going-- some heroes are now dead or out of the picture, Asgard went through Ragnarok, Mjolnir was destroyed-- things are no longer the same.
 
 We are now one movie away before [Avengers Infinity War](http://www.imdb.com/title/tt4154756/). What will [Black Panther](http://www.imdb.com/title/tt1825683/) have to say right before IW when our heroes are up against the power of the Infinity Gauntlet?
+
+![Thor Ragnarok's Colors](/public/images/blog/thor-ragnarok-colorful.jpg)
 
 #### youTube Reviews
 
