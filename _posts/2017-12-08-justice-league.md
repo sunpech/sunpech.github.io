@@ -7,8 +7,8 @@ tags:
 - Movies
 - Review
 modified_time: '2017-12-08T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_justice-league.jpg
-image: /public/images/blog/justice-league.jpg
+thumbnail: /public/images/blog/tn_justice-league-team.jpg
+image: /public/images/blog/justice-league-team.jpg
 description: My review of the Justice League movie.
 header-img: /public/images/headers/justice-league-2017.jpg
 ---
