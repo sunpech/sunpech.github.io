@@ -73,17 +73,17 @@ Rey's parents were drunks that sold her off. I think it's true, as it lends itse
 
 ![Star Wars The Last Jedi Mirror Images](/public/images/blog/star-wars-the-last-jedi-mirror-sides.jpg)
 
-## Miscellaneous Issues
+## Miscellaneous
 
 The [Knights of Ren](http://starwars.wikia.com/g00/wiki/Knights_of_Ren?i10c.encReferrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D&i10c.ua=1) were present in the flashbacks in The Force Awakens, but were completely absent in this movie. Maybe in the blu-ray release there will be scenes that didn't make the cut.
 
-There should have been more backstory on Finn, Captain Phasma, and expecially Snoke. For a 2.5 hour movie, some time should be given to these new characters, ableit the latter are two are probably dead now.
+There should have been more backstory on Finn, Captain Phasma, and expecially Snoke. For a 2.5 hour movie, some time should be given to these new characters, ableit the latter are two are probably dead now. Phasma looks great, but I mostly just see her stand or walk into a scene-- she barely has any actual action. What a waste.
 
 The Canto Bight casino story felt a little long considering the their transports were under heavy fire and they were running out of... fuel. I didn't think starships back then used fuel to do space travel.
 
 The scene where Luke was milking the local creature and drinking it fresh was just odd. I'm just not sure what they're trying to say other than that Luke really has to live off the land there.
 
-The [DJ](http://starwars.wikia.com/wiki/DJ) character seemed rather annoying and incomplete. The stuttering and oddity didn't work for me. However I did like how he pointed out that the filthy rich made their money from selling weapons and ships to both the First Order and Resistance. Getting political here!
+The [DJ](http://starwars.wikia.com/wiki/DJ) character seemed rather annoying and incomplete. The stuttering and oddity didn't work for me. However I did like how he pointed out that the filthy rich made their money from selling weapons and ships to both the First Order and Resistance. This is an interesting bit that was added. Now the arms industry has been introduced. I'm not sure if they are going to expand on something so complex going forward or not. But at least we know it exists.
 
 I initially found [BB-8](http://starwars.wikia.com/wiki/BB-8)'s take over of the First Order's mech unit to be funny, but then it felt a bit much for a droid to do. I was hoping it would be DJ to redeem himself in some way, like Lando. But when in doubt, BB-8 is used to be the hero's way out.
 
