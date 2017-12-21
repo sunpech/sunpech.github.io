@@ -77,7 +77,7 @@ Rey's parents were drunks that sold her off. I think it's true, as it lends itse
 
 The [Knights of Ren](http://starwars.wikia.com/g00/wiki/Knights_of_Ren?i10c.encReferrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D&i10c.ua=1) were present in the flashbacks in The Force Awakens, but were completely absent in this movie. Maybe in the blu-ray release there will be scenes that didn't make the cut.
 
-There should have been more backstory on Finn, Captain Phasma, and expecially Snoke. For a 2.5 hour movie, some time should be given to these new characters, ableit the latter are two are probably dead now.
+There should have been more backstory on Finn, Captain Phasma, and expecially Snoke. For a 2.5 hour movie, some time should be given to these new characters, ableit the latter are two are probably dead now. Phasma looks great, but I mostly just see her stand or walk into a scene-- she barely has any actual action. What a waste.
 
 The Canto Bight casino story felt a little long considering the their transports were under heavy fire and they were running out of... fuel. I didn't think starships back then used fuel to do space travel.
 
