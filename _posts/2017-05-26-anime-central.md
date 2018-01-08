@@ -8,7 +8,7 @@ tags:
 - Chicago
 - Comic Con
 modified_time: '2017-05-26T09:00:00.000-05:00'
-thumbnail: /public/images/blog/tn_a2017-anime-central-entrance.jpg
+thumbnail: /public/images/blog/tn_2017-anime-central-entrance.jpg
 image: /public/images/blog/2017-anime-central-entrance.jpg
 description: Photos and thoughts from Anime Central 2017.
 header-img: /public/images/headers/anime-central.jpg

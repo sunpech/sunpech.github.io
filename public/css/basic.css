@@ -3,6 +3,14 @@ body {
   padding-top: 3.5rem;
 }
 
+p {
+  line-height: 1.5;
+  margin: 30px 0;
+}
+p a {
+  text-decoration: underline;
+}
+
 .social-media-icon {
   color: #000;
 }

@@ -9,9 +9,9 @@ layout: default
     <div class="row">
       <div class="col-lg-12 col-md-12 mx-auto">
         <div class="site-heading">
-          <h1>{{ page.title }}</h1>
+          <h3>{{ page.title }}</h3>
           {% if page.subtitle %}
-          <h2 class="subheading">{{ page.subtitle }}</h2>
+          <h4 class="subheading">{{ page.subtitle }}</h4>
           {% endif %}
           <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
           <span class="post-tag-light">
@@ -67,10 +67,6 @@ layout: default
           </ul>
         </div>
       {% endif %}
-
-      <hr />
-
-      {% include tag_cloud.html %}
 
     </div>
   </div>
