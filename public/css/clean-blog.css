@@ -30,6 +30,21 @@ a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
+
+ul#social-list{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  list-style-type: none;
+}
+
+#social-list li{
+  margin: 0;
+  padding: 0;
+  display: inline;
+  list-style: none;
+  list-style-type: none;
+}
 blockquote {
   color: #808080;
   font-style: italic;

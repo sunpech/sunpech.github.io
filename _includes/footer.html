@@ -1,87 +1,66 @@
 <!-- Footer -->
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <ul class="list-inline text-center">
-                    {% if site.twitter_username %}
-                    <li>
-                        <a href="https://twitter.com/{{ site.twitter_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    {% if site.facebook_username %}
-                    <li>
-                        <a href="https://facebook.com/{{ site.facebook_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    {% if site.instagram_username %}
-                    <li>
-                        <a href="https://instagram.com/{{ site.instagram_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    {% if site.gplus_username %}
-                    <li>
-                        <a href="http://plus.google.com/+{{ site.gplus_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    {% if site.github_username %}
-                    <li>
-                        <a href="https://github.com/{{ site.github_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    <li>
-                        <a href="http://www.amazon.com/?&tag=sunpech-20&camp=216797&creative=394545&linkCode=ur1&adid=0ZFPJ55TZ4HA30WVQBCS&&ref-refURL=http%3A%2F%2Fwww.sunpech.com%2F">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-amazon fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ "/atom.xml" | prepend: site.baseurl }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
-            </div>
-        </div>
+<footer class="container">
+  <div class="row">
+    <div class="col-lg-12 col-md-12">
+
+      <ul class="list-inline" style="font-size: 2em">
+        {% if site.twitter_username %}
+          <li class="list-inline-item">
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <i class="fab fa-twitter social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.facebook_username %}
+          <li class="list-inline-item">
+            <a href="https://facebook.com/{{ site.facebook_username }}">
+              <i class="fab fa-facebook-f social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.instagram_username %}
+        <li class="list-inline-item">
+          <a href="https://instagram.com/{{ site.instagram_username }}">
+            <i class="fab fa-instagram social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+          </a>
+        </li>
+        {% endif %}
+        {% if site.gplus_username %}
+          <li class="list-inline-item">
+            <a href="http://plus.google.com/+{{ site.gplus_username }}">
+              <i class="fab fa-google-plus social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.github_username %}
+          <li class="list-inline-item">
+            <a href="https://github.com/{{ site.github_username }}">
+              <i class="fab fa-github social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+            </a>
+          </li>
+        {% endif %}
+          <li class="list-inline-item">
+            <a href="http://www.amazon.com/?&tag=sunpech-20&camp=216797&creative=394545&linkCode=ur1&adid=0ZFPJ55TZ4HA30WVQBCS&&ref-refURL=http%3A%2F%2Fwww.sunpech.com%2F">
+              <i class="fab fa-amazon social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="{{ " /atom.xml " | prepend: site.baseurl }}">
+              <i class="fa fa-rss social-media-icon" data-fa-transform="shrink-6" data-fa-mask="fas fa-circle"></i>
+            </a>
+          </li>
+      </ul>
+      <hr/>
+      
+      <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
     </div>
+  </div>
 </footer>
 
-<!-- jQuery -->
-<script src="{{ site.homeurl }}public/js/jquery.min.js"></script>
-
-<!-- Bootstrap Core JavaScript -->
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-slim.min.js"><\/script>')</script>
+<script src="{{ site.homeurl }}public/js/popper.min.js"></script>
 <script src="{{ site.homeurl }}public/js/bootstrap.min.js"></script>
-
-<!-- Custom Theme JavaScript -->
-<script src="{{ site.homeurl }}public/js/clean-blog.min.js"></script>

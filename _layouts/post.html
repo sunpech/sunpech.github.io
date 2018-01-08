@@ -3,16 +3,17 @@ layout: default
 ---
 
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<header class="masthead" style="background-image: url('{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+  <div class="overlay"></div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-        <div class="post-heading">
-          <h1>{{ page.title }}</h1>
-          {% if page.subtitle %}
-          <h2 class="subheading">{{ page.subtitle }}</h2>
-          {% endif %}
-          <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+      <div class="col-lg-12 col-md-12 mx-auto">
+        <div class="site-heading">
+          <h2>{{ page.title }}</h2>
+          <span class="meta">
+            {{ page.date | date: "%B %-d, %Y" }}<br/>
+            by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}
+          </span>
           <span class="post-tag-light">
             <i class="fa fa-tags"></i>
             {% for t in page.tags %}<a href="/tag/{{ t | replace: " ", "-"  }}" style="color: #fff;">{{ t }}</a>{% if page.tags.last != t %},&nbsp;{% endif %}{% endfor %}
@@ -25,25 +26,24 @@ layout: default
 
 <!-- Post Content -->
 <article>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-
-        {{ content }}
-
+  <main role="main">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+          {{ content }}
+        </div>
       </div>
     </div>
-  </div>
+  </main>
 </article>
 
 
 
-<!-- Related Posta and Tag Cloud -->
+<!-- Related Posts -->
 <div class="container">
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-      <hr/>
-      
+
       {% assign hasSimilar = '' %}
       {% for post in site.posts %}
         {% assign postHasSimilar = false %}
@@ -66,10 +66,6 @@ layout: default
           </ul>
         </div>
       {% endif %}
-
-      <hr />
-
-      {% include tag_cloud.html %}
 
     </div>
   </div>
