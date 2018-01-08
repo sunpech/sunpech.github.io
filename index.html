@@ -7,7 +7,7 @@ title: Home
 
 <div class="row">
   {% for post in paginator.posts %}
-  <div class="col">
+  <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12 col-sm-12 col-xs-12">
     <div class="media">
       {% if post.image %}
       <div class="mr-3" style="width: 300px; height: 300px"><img class="img-fluid" src="{{ post.image }}"  alt="{{ post.title }}" /></div>
