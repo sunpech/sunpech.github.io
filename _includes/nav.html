@@ -1,36 +1,30 @@
 <!-- Navigation -->
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}/">sunpech.blog</a>
-        </div>
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="{{ site.baseurl }}/"><i class="fas fa-laptop"></i> sunpech.blog</a></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="{{ site.baseurl }}/">Home</a>
-                </li>
-                {% assign pages_list = site.pages %}
-                {% for node in pages_list %}
-                  {% if node.title != null %}
-                    {% if node.layout == "page" %}
-                      {% if node.navigation == true %}
-                        <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
-                      {% endif %}
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav mr-auto">
+        <li>
+          <a class="nav-item active" href="{{ site.baseurl }}/">Home</a>
+        </li>
+        {% assign pages_list = site.pages %}
+        {% for node in pages_list %}
+          {% if node.title != null %}
+            {% if node.layout == "page" %}
+              {% if node.navigation == true %}
+                <li class="nav-item {% if page.url == node.url %} active{% endif %}"><a class="nav-link" href="{{ node.url }}">{{ node.title }}</a></li>
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
     </div>
-    <!-- /.container -->
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container -->
 </nav>
