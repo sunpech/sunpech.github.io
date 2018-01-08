@@ -10,6 +10,5 @@ header-img: /public/images/headers/book_stacks.jpg
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
 
-<hr/>
 
 {% include tag_cloud.html %}
