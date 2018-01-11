@@ -9,8 +9,6 @@ header-img: /public/images/headers/best_graphic_novels.jpg
 
 I've put together a list of my all time favorite comics and graphic novels. I hope you enjoy this list of books I've read across twenty plus years! I've organized them by publisher for a more organized look at stuff. For simplicity, I've categorized the books by publishers since publishers generally represent their own respective universe.
 
-![Comic Books](http://1.bp.blogspot.com/-2_xhbBLK3rQ/U_KCntY80oI/AAAAAAABw1Q/QH8n0WviyIg/s1600/2014-08-18%2Bat%2B15-39-19.jpg)
-
 ### DC Entertainment
 
 Since I was little I've been a fan of both Superman and Batman. When I started to read comics as a teenager, I read more of the <a href="http://www.vertigocomics.com/">Vertigo</a> line of comics which had <a href="http://www.neilgaiman.com/">Neil Gaiman</a>'s Sandman and Books of Magic, both amazing pieces of fantasy.
