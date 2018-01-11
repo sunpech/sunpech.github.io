@@ -15,7 +15,7 @@ Here are some helpful tips in creating a post, particularly in [front matter](ht
 
 ### Variables
 * `thumbnail` - width should be 300px.
-* `image` - width should be 600px or wider. Recommended: 800px.
+* `image` - width should be 600px or wider. Recommended: 1080px. Dimension of 1080x720.
 * `description` - should be filled out for better Twitter Cards and Facebook Graph posts (optional).
 * `header-img` - can be set for custom header image. Should be 1900px wide. Also dim the photo, maybe 1-3 exposure stops.
 
