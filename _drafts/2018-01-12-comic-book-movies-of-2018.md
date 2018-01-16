@@ -24,6 +24,7 @@ May 4, 2018
 
 Deadpool 2
 June 1, 2018
+moved to May 18, 2018
 
 Ant-Man and the Wasp
 July 6, 2018
