@@ -3,4 +3,5 @@ _site/
 .ruby-version
 tmp/*
 *~
+.jekyll-cache/
 .jekyll-metadata
