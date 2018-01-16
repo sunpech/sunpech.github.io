@@ -14,7 +14,7 @@ I enjoy software development, photography, food, reading, blogging, traveling, a
 
 I have a BA in Computer Science from [Boston University](http://www.bu.edu/) and an MS in Information Systems from [Depaul University](http://www.depaul.edu/).
 
-![Steven at Iron Fairies](http://2.bp.blogspot.com/-98dl07cNMA8/UYorD3dTaGI/AAAAAAABcao/B3EdQGBSCE4/s800/2011-04-19+at+19-23-20.jpg)
+![Steven at Iron Fairies](/public/images/steven-iron-fairies.jpg)
 
 ## Software Development and Blogging
 
@@ -26,7 +26,7 @@ I like to contribute my idle CPU cycles to help crunch some numbers for a good c
 
 I'm also a casual blogger. I've been blogging since 1999. I've written my own blog software using various tools back then. From Perl, PHP, MySQL, ASP, ASP.net, C#, and MSSQL. I've also used several blogging platforms from Wordpress, Posterous, Blogger, and finally to [Github pages](https://pages.github.com/) using [Jekyll](http://jekyllrb.com). My old blog is at: [spong.org](http://spong.org/).
 
-![Software Development collage](http://3.bp.blogspot.com/-3OJfCx4Bk1E/UYrLku_Ma5I/AAAAAAABcbE/0whmJZNlqLg/s800/technology_collage.jpg)
+![Software Development collage](/public/images/technology-collage.jpg)
 
 ## Photography
 I'm also a photographer. I generally take my camera most places and take pictures of whatever I find interesting.
@@ -46,7 +46,7 @@ I have a food site at [Foodishappiness](http://www.foodishappiness.com) (under [
 
 I'm a traveler of awesome places. Every year I try to travel to a city I've never been before. Since 2007, I've been to: Seattle, Portland, Vancouver, San Diego, Los Angeles, San Francisco, Denver, New York City, Boston, Baltimore, Las Vegas, Singapore, Bangkok, Chiang Mai, Hua Hin, Phang Nga, Phuket, and Pattaya. As part of my travels, I take pictures, eat delicious food, and share it.
 
-![Foodishappiness collage](http://2.bp.blogspot.com/-RwBqdl1YyFk/UPYLjtOxgyI/AAAAAAABYQ0/6Pl_UTb_ods/s800/Best+Pictures+of+2012.jpg)
+![Foodishappiness collage](/public/images/food-collage.jpg)
 
 ## Support me
 
