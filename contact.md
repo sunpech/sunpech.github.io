@@ -6,9 +6,9 @@ permalink: contact/
 header-img: /public/images/headers/wooden_bolt_fence.jpg
 ---
 
-<img src="/public/images/sunpech_almajis.jpg" class="img-responsive img-circle" width="180" alt="Steven" />
+<img src="/public/images/sunpech_almajis.jpg" class="img-fluid img-thumbnail" width="180" alt="Steven" />
 
-The best way to contact me is via email. You can email me at: <a href="mailto:&#115;&#116;&#101;&#118;&#101;&#110;&#064;&#115;&#117;&#110;&#112;&#101;&#099;&#104;&#046;&#099;&#111;&#109;">&#115;&#116;&#101;&#118;&#101;&#110;&#064;&#115;&#117;&#110;&#112;&#101;&#099;&#104;&#046;&#099;&#111;&#109;</a>
+<i class="fas fa-envelope"></i> <a href="mailto:&#115;&#116;&#101;&#118;&#101;&#110;&#064;&#115;&#117;&#110;&#112;&#101;&#099;&#104;&#046;&#099;&#111;&#109;">&#115;&#116;&#101;&#118;&#101;&#110;&#064;&#115;&#117;&#110;&#112;&#101;&#099;&#104;&#046;&#099;&#111;&#109;</a>
 
 Here is my [public key](https://pgp.mit.edu/pks/lookup?op=get&search=0x9F45490B0472FEA6).
 
