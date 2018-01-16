@@ -39,26 +39,10 @@ I enjoy all kinds of photography, but have stronger interests in landscape, HDR,
 
 ![Chicago Theatre](/public/images/blog/the_chicago_theatre.jpg)
 
-## Food and Travel
-I'm a bit of a foodie. I often eat out at great places and will take pictures of the food to share with everyone. I use my Android phone to take a lot food pictures. I've switched over to use my DSLR more these days.
-
-I have a food site at [Foodishappiness](http://www.foodishappiness.com) (under [development](http://alpha.foodishappiness.com/)). I also tweet at [@foodishappiness](http://twitter.com/foodishappiness) *sometimes*.
-
-I'm a traveler of awesome places. Every year I try to travel to a city I've never been before. Since 2007, I've been to: Seattle, Portland, Vancouver, San Diego, Los Angeles, San Francisco, Denver, New York City, Boston, Baltimore, Las Vegas, Singapore, Bangkok, Chiang Mai, Hua Hin, Phang Nga, Phuket, and Pattaya. As part of my travels, I take pictures, eat delicious food, and share it.
-
-![Foodishappiness collage](/public/images/food-collage.jpg)
-
 ## Support me
 
 Disclaimer: I am an [Amazon Affiliate](https://affiliate-program.amazon.com/). Product links on my site often will go to Amazon.
 
 You can also click [this Amazon link](http://www.amazon.com/?&tag=sunpech-20&camp=216797&creative=394545&linkCode=ur1&adid=0ZFPJ55TZ4HA30WVQBCS&&ref-refURL=http%3A%2F%2Fwww.sunpech.com%2F) to do your shopping.
-
-If you want to buy me stuff, I also have wish-lists for:
-
-* [General stuff](http://amzn.com/w/L00UXFFE0OIB)
-* [Books](http://amzn.com/w/1KCZ0Q93IFYZ2)
-* [Camera Gear](http://amzn.com/w/14T7IX6RACNRU)
-* [Toys](http://amzn.com/w/IT34RTWGZEQM)
 
 You can also check out [my Affiliates page](/affiliates) to see what other sites gives referral credits.
