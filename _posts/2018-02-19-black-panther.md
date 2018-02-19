@@ -25,7 +25,7 @@ The characters were really solid. It's an all-star cast!
 
 [Letitia Wright](http://www.imdb.com/name/nm4004793/) is amazing as Black Panther's sister, Shuri. She was having fun and it really showed. She's also starred in an episode of Black Mirror: [Black Museum](http://www.imdb.com/title/tt5058700/).
 
-[Michael B. Jordan](http://www.imdb.com/name/nm0430107/) knocked it out of the park as Erik Killmonger. Marvel finally did a villain justice by fleshing out a backstory with motivation for why he does the things he does.
+[Michael B. Jordan](http://www.imdb.com/name/nm0430107/) knocked it out of the park as Erik Killmonger. Marvel finally did a villain justice by fleshing out a backstory with motivation for why he does the things he does. As a child, he knows he is from Wakanda and a potential heir to the throne. He returns home to find his father dead with claw marks. All his father wanted to do was help arm his people to fight back. It's so tragic!
 ## The Bad
 
 I thought the fight sequences weren't as dramatic as [Captain America: Civil War](http://www.imdb.com/title/tt3498820/). Most notably the final fight between Black Panther and Erik Killmonger. 
