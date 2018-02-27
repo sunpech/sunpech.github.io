@@ -4,7 +4,7 @@ title: Documentaries
 navigation: false
 best: true
 permalink: best/documentaries/
-header-img: /public/images/headers/best-documentaries.jpg
+header-img: /public/images/headers/documentaries.jpg
 ---
 
 These are some of the best documentaries/videos on the subjects I enjoy.
