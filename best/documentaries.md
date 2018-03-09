@@ -28,6 +28,10 @@ These are some of the best documentaries/videos on the subjects I enjoy.
 * [The Triumph of the Nerds: The Rise of Accidental Empires (1996)](http://www.imdb.com/title/tt0115398/)
 * [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 
+## Toys
+
+* [The Toys That Made Us (2017)](https://www.imdb.com/title/tt7053920/)
+
 ## Video Games
 
 * [Atari: Game Over (2014)](http://www.imdb.com/title/tt3715406)
