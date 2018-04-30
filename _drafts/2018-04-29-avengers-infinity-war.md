@@ -60,7 +60,14 @@ Phase Three:
 
 Thor, Iron Man, and Captain America really shined in the movie (ranked in that order mentioned). Thor and Rocket Raccoon had great chemistry with their mission to get Stormbreaker on Nidavellir. Iron Man, Spider Man, and Dr. Strange were fantastic with their mission on planet Titan. Captain America is solid as always with bringing the team on Earth together.
 
-Scarlett Witch and Vision. Tony and Peter. Bucky and Rocket. Starlord and Gamora. Drax and Mantis. It was such a treat to see these heroes interact, crossover, and have their moments.
+Scarlet Witch and Vision. Tony and Peter. Bucky and Rocket. Starlord and Gamora. Drax and Mantis. It was such a treat to see these heroes interact, crossover, and have their moments.
+
+These are the scenes I cheered and nudged my friends at:
+
+* Spider Man getting the Iron Spider suit.
+* Captain America catching Proxima Midnight's spear.
+* Thor's entrance to the battle at Wakanda with Stormbreaker.
+
 
 ## The Villains
 
@@ -78,37 +85,56 @@ The Black Order served their purpose. I really liked Ebony Maw, how he was able 
 
 ![The Black Order](/public/images/blog/avengers-infinity-war-black-order-loki.jpg)
 
+## Miscellaneoous Things
+
+* The opening scene, I really liked how they showcased how strong and powerful Thanos is by having him beat the Hulk easily MMA-style.
+* Scarlett Witch dropped her heavy accent. 
+* Thanos finally "met the boyfriend" of Gamora and had a moment. He departed away with Gamora saying "I like him.".
+* Not sure what the status is of Valkyrie, Korg, and Meek on the Asgardian ship. Can be written about later I guess.
+* I don't see what it is about child Gamora that Thanos took a liking to right away.
+* The scene where Thanos turned Drax into stone blocks and Mantis into strings was a hat tip to the comics.
+
+![Thanos and Gamora](/public/images/blog/avengers-infinity-war-thanos-child-gamora.jpg)
+
 ## The Ending and Post Credits Scene
 
 Thanos assembles the Infinity Gauntlet and snaps his fingers, wiping out half the population of the universe. Infinity War is like the Empire Strikes Back in the original Star Wars trilogy. The good guys need to know what it's like to lose to come back for a victory in the next movie.
 
 I am uncertain on the status of the Infinity Gauntlet by the end of the movie. It looks burnt and damaged, but it still functioned (snaps fingers and teleported away). Thanos is alone on what looks like a habitable planet/area where he can watch the sunset of a "grateful universe".
 
-As Nick Fury is ashing out of existence, he pages someone. That someone is Captain Marvel. This is a great tease for next year's movie that takes place in the 1990s.
+As Nick Fury is ashing out of existence, he contacts someone on his pager. That someone is Captain Marvel. This is a great tease for next year's movie that takes place in the 1990s. Is she what the Avengers need to turn the tide? We shall see.
 
 ![Captain Marvel](/public/images/blog/captain-marvel-logo.jpg)
 
 ## Avengers 4 Predictions
 
-The title has been held back, but I'm pretty sure it's going to be called **Avengers: Infinity Gauntlet** or **Avengers: Infinity Crusade**.
+The title has been held back, but I'm pretty sure it's going to be called **Avengers: Infinity Gauntlet** or **Avengers: Infinity Crusade**. Also possible they choose a more uplifiting title such as **New Avengers**, but I suspect that is a better Phase 4 title.
 
-In this case, the term thrown around by the directors is *sacrifice*. In order to save those that have perished, not everyone is going to make it through the next movie.
+Like in the comics, no one stays dead forever. The writers can do whatever they want that serves the purpose of the story and/or character. Those affected by the snap of death will likely return in some fashion. Those that died pre-snap-- maybe not so much.
+
+Phase 3 started with Civil War where the Avengers broke up. They need to wrap that up before they advance to Phase 4 for new stories. So the Iron Man and Captain America need to patch up their differences, and it's quite possible that one or both of them don't make it.
 
 Dr. Strange said he peered into the 14,000,650 possible futures where only one had them winning. That one most likely had Tony Stark in it, thus why he was willing to trade the Time stone for Tony's life. Thus Tony will play an important role in the *end game* of the next movie.
 
-Thanos's sacrifice of his favorite daughter, Gamora, was a pivotal moment in the movie. His action gave him the Soul stone. I can see Peter Quill taunting Thanos if he was so powerful, why doesn't he bring Gamora back. In doing so, it would undo the sacrifice and the Soul stone would leave the Infinity Guantlet.
+Thanos's sacrifice/murder of his favorite daughter, Gamora, was a pivotal moment in the movie. His action gave him the Soul stone. I can see Peter Quill taunting Thanos-- if he was so powerful, why doesn't he bring Gamora back. In doing so, it would undo the sacrifice and the Soul stone would leave the Infinity Guantlet.
+
+![Avengers Infinity War Black](/public/images/blog/avengers-infinity-war-black.jpg)
 
 ## Final Thoughts
 
 I consider Infinity War to be a huge success for comic book fans and to a degree non-comic-ready-movie-fans, as they finally got a taste of how good the original material in comic books are.
 
-Avengers 3 and 4 was originally announced to be a two part movie. But they changed that since typically movies that are split into two parts aren't well received-- look at Harry Potter and Hunger Games series. It's just better to market them as separate movies that stand on their own rather than incomplete movies without the other.
+Avengers 3 and 4 was originally announced to be a two part movie. But they changed that since typically movies that are split into two parts aren't well received-- look at Harry Potter and Hunger Games series. It's just better to market them as separate movies that stand on their own rather than incomplete movies without the other. But Infinity War is a full movie that stands on its own, as it did have a beginning, middle, and end-- just not the ending most would have wanted because the bad guy won. I imagine the tone of Avengers 4 will be different, thus a different movie addressing another kind of story and characters.
+
+I'm hoping that they will bring in Celestials, Eternals, and other cosmic beings to really blow open the Marvel universe. It would help mark the end of the Earth based heroes and showcase that the MCU has a whole universe to play with for story-telling, not just Earth ones.
+
+With the Disney/Fox deal still going on, and not finalized yet, there's a whole slew of properties that could return to Disney/Marvel. X-Men, Fantastic Four, Dr. Doom, Galactus, Silver Surfer, Namor, etc. So many other stories to tell!
 
 ![Infinity War Part 1 and 2 Announcement](/public/images/blog/avengers-infinity-war-part-1-2.jpg)
 
-If you crave more, below are some of the source material the movie pulls from.
-
 ### Recommended Reading
+
+If you crave more, below are some of the source material the movie pulls from.
 
 For the best overall best read on the Infinity Guantlet stories, I recommend: [Infinity Guantlet Omnibus](https://amzn.to/2r7FNfr). It is the most complete colleciton of stories in one giant book. This is the first place to start reading.
 
@@ -120,4 +146,8 @@ To read more on the Black Order, check out: [Infinity](https://amzn.to/2r6pgby).
 
 Even more: [Thanos Rising](https://amzn.to/2HBjU38) and [The Thanos Imperative](https://amzn.to/2jgSAIW).
 
+Below is what my coffee table looks like. Yes, that's a [Marvel Legends Series Infinity Gauntlet Articulated Electronic Fist](https://amzn.to/2r6JuTs), for adults.
+
 ![My Coffee Table](/public/images/blog/avengers-infinity-war-coffee-table-2.jpg)
+
+*Some images for this post was lifted from [wall.alphacoders.com](https://wall.alphacoders.com/)*
