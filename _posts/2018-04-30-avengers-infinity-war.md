@@ -4,7 +4,6 @@ title: Avengers Infinity War
 date: '2018-04-30T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
-- Comics
 - Movies
 - Review
 modified_time: '2018-04-30T09:00:00.000-05:00'
