@@ -84,7 +84,7 @@ The Black Order served their purpose. I really liked Ebony Maw, how he was able 
 
 ![The Black Order](/public/images/blog/avengers-infinity-war-black-order-loki.jpg)
 
-## Miscellaneoous Things
+## Miscellaneous Things
 
 * The opening scene, I really liked how they showcased how strong and powerful Thanos is by having him beat the Hulk easily MMA-style.
 * Scarlett Witch dropped her heavy accent. 
