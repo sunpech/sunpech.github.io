@@ -2,7 +2,7 @@
 
 This is my website/blog that is run using [Jekyll](http://jekyllrb.com/) and is hosted on [Github Pages](https://pages.github.com/). The posts were converted from [Blogger](http://www.blogger.com). See: [Blogger migration](http://jekyllrb.com/docs/migrations/).
 
-The website is at: [sunpech.com](http://sunpech.com)
+The website is at: [sunpech.com](https://sunpech.com)
 
 The theme is called [basic-theme](https://github.com/sunpech/basic-theme), which is based off of [Clean Blog Jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll).
 
