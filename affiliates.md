@@ -29,10 +29,12 @@ If you're  running an ad-blocker, [click here](https://www.namecheap.com/?aff=63
 ## Other referral links
 
 * [Amazon Prime](http://www.amazon.com/dp/B00DBYBNEE?_encoding=UTF8&ref=mrp_10002_shr_cpbd_rf_d&refcust=AZGEHQ225EO67OKL5ORKHN6IYE)
+* [BorrowLenses](https://www.talkable.com/x/ECqWAZ) - $20 off your first order of $99+
 * [Cloudinary](http://cloudinary.com/invites/lpov9zyyucivvxsnalc5/ehbqvpqromhkepo5z5yd)
 * [Dropbox](https://db.tt/pHCTifn)
 * [Google Apps for Work](https://goo.gl/PsqXKA)
 * [Groupon](https://www.groupon.com/visitor_referral/h/6f92ebed-203f-48bb-a581-2ae84791f038)
+* [Kit.com](https://kit.com/sunpech) - My recommended photography gear
 * [LastPass](https://lastpass.com/f?3306226)
 * [Lenstag](https://www.lenstag.com/invite/7gb07)
 * [Parking Panda](https://www.parkingpanda.com/invite/sunpech)
