@@ -12,7 +12,7 @@ modified_time: '2018-07-27T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_2018-sdcc-banner.jpg
 image: /public/images/blog/2018-sdcc-banner.jpg
 description: My thoughts and photos from San Diego Comic Con 2018.
-header-img: /public/images/headers/san-diego-comic-con.jpg
+header-img: /public/images/headers/san-diego-comic-con-2018.jpg
 ---
 
 Another year, another [Comic Con](https://www.comic-con.org/cci) (SDCC) in the bag! 
