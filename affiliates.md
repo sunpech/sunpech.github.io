@@ -32,12 +32,14 @@ If you're  running an ad-blocker, [click here](https://www.namecheap.com/?aff=63
 * [BorrowLenses](https://www.talkable.com/x/ECqWAZ) - $20 off your first order of $99+
 * [Cloudinary](http://cloudinary.com/invites/lpov9zyyucivvxsnalc5/ehbqvpqromhkepo5z5yd)
 * [Dropbox](https://db.tt/pHCTifn)
+* [GitKraken](https://www.gitkraken.com/invite/28dNjYLM)
 * [Google Apps for Work](https://goo.gl/PsqXKA)
 * [Groupon](https://www.groupon.com/visitor_referral/h/6f92ebed-203f-48bb-a581-2ae84791f038)
 * [Kit.com](https://kit.com/sunpech) - My recommended photography gear
 * [LastPass](https://lastpass.com/f?3306226)
 * [Lenstag](https://www.lenstag.com/invite/7gb07)
 * [Parking Panda](https://www.parkingpanda.com/invite/sunpech)
+* [Ridge Wallet](https://www.talkable.com/x/oH7Er3)
 * [StatusCake](https://www.statuscake.com/?aff=22752)
 * [Trello](https://trello.com/sunpech/recommend)
 * [Uber](https://www.uber.com/invite/ubersunpech)
