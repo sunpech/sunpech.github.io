@@ -42,5 +42,6 @@ If you're  running an ad-blocker, [click here](https://www.namecheap.com/?aff=63
 * [Ridge Wallet](https://www.talkable.com/x/oH7Er3)
 * [Siteground](https://www.siteground.com/?referrer_id=7534499)
 * [StatusCake](https://www.statuscake.com/?aff=22752)
+* [Tesla](https://www.tesla.com/referral/sunpech24432)
 * [Trello](https://trello.com/sunpech/recommend)
 * [Uber](https://www.uber.com/invite/ubersunpech)
