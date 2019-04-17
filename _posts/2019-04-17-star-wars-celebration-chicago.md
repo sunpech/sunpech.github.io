@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Star Wars Celebration Chicago
-date: '2019-04-18T09:00:00.000-05:00'
+date: '2019-04-17T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Chicago
 - Comic Con
 - Cosplay
-modified_time: '2019-04-18T09:00:00.000-05:00'
+modified_time: '2019-04-17T09:00:00.000-05:00'
 thumbnail: /public/images/blog/tn_2019-star-wars-celebration-chicago.jpg
 image: /public/images/blog/2019-star-wars-celebration-chicago.jpg
 description: My photos and thoughts from Star Wars Celebration Chicago 2019.
