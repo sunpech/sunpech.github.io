@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Star Wars Celebration Chicago
+title: Star Wars Celebration
 date: '2019-04-17T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
