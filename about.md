@@ -14,7 +14,7 @@ I enjoy software development, photography, food, reading, blogging, traveling, a
 
 I have a BA in Computer Science from [Boston University](http://www.bu.edu/) and an MS in Information Systems from [Depaul University](http://www.depaul.edu/).
 
-![Steven at Iron Fairies](/public/images/steven-iron-fairies.jpg)
+![Steven at Iron Fairies](/public/images/steven-at-iron-fairies.jpg)
 
 ## Software Development and Blogging
 
@@ -22,22 +22,18 @@ I enjoy solving problems, and coding is one of the ways I go about creating solu
 
 I have [Github](http://github.com/sunpech) and [Bitbucket](http://bitbucket.org/sunpech) accounts where I host some of my projects-- most of which are private.
 
-I like to contribute my idle CPU cycles to help crunch some numbers for a good cause. See [Team Spong World Community Grid](http://wcg.spong.org/)
+I like to contribute my idle CPU cycles to help crunch some numbers for a good cause. See [Team Spong World Community Grid](http://wcg.spong.org/).
 
-I'm also a casual blogger. I've been blogging since 1999. I've written my own blog software using various tools back then. From Perl, PHP, MySQL, ASP, ASP.net, C#, and MSSQL. I've also used several blogging platforms from Wordpress, Posterous, Blogger, and finally to [Github pages](https://pages.github.com/) using [Jekyll](http://jekyllrb.com). My old blog is at: [spong.org](http://spong.org/).
+I'm also a casual blogger. I've been blogging since 1999. I've written my own blog software using various technology stacks.. From Perl, PHP, MySQL, ASP, ASP.net, C#, and MSSQL. I've also used several blogging platforms from Wordpress, Posterous, Blogger, and finally to [Github Pages](https://pages.github.com/) using [Jekyll](http://jekyllrb.com). My old blog is at: [spong.org](http://spong.org/).
 
-![Software Development collage](/public/images/technology-collage.jpg)
+![Software Development collage](/public/images/technology-stacks.jpg)
 
 ## Photography
-I'm also a photographer. I generally take my camera most places and take pictures of whatever I find interesting.
-
-I have a photography site at [sunpechphotograpy.com](http://sunpechphotography.com/).
-
-I'm also on [Facebook](https://www.facebook.com/SunpechPhotography), [500px](http://500px.com/sunpech), [Instagram](http://www.instagram.com/sunpech), [Twenty20](http://www.twenty20.com/sunpech), and [Flickr](http://www.flickr.com/photos/sunpech/).
+I'm also a photographer. I generally take my camera most places and take pictures of whatever I find interesting. I have a photography site at [sunpechphotograpy.com](http://sunpechphotography.com/). I'm also on [Facebook](https://www.facebook.com/SunpechPhotography), [500px](http://500px.com/sunpech), [Instagram](http://www.instagram.com/sunpech), [Twenty20](http://www.twenty20.com/sunpech), and [Flickr](http://www.flickr.com/photos/sunpech/).
 
 I enjoy all kinds of photography, but have stronger interests in landscape, HDR, and event/journalistic photographs. I'm beginning to do some headshot/portrait photography. In case you're curious here is a [list of my camera gear](/best/camera-gear).
 
-![Chicago Theatre](/public/images/blog/the_chicago_theatre.jpg)
+![Chicago Theatre](/public/images/chicago-theater.jpg)
 
 ## Support me
 
