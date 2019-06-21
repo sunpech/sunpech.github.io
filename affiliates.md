@@ -38,6 +38,7 @@ If you're  running an ad-blocker, [click here](https://www.namecheap.com/?aff=63
 * [Kit.com](https://kit.com/sunpech) - My recommended photography gear
 * [LastPass](https://lastpass.com/f?3306226)
 * [Lenstag](https://www.lenstag.com/invite/7gb07)
+* [M1 Finance](https://mbsy.co/wzGMJ)
 * [Parking Panda](https://www.parkingpanda.com/invite/sunpech)
 * [Ridge Wallet](https://www.talkable.com/x/oH7Er3)
 * [Siteground](https://www.siteground.com/?referrer_id=7534499)
