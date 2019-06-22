@@ -38,7 +38,6 @@ Here are some more ways to interact and reach me.
 * [@foodishappiness](http://www.twitter.com/foodishappiness)
 * [Google Plus](http://plus.google.com/+StevenSuwatanapongched)
 * [Kit.com](https://kit.com/sunpech)
-* [Foodspotting](http://www.foodspotting.com/foodishappiness)
 * [Kindle](https://kindle.amazon.com/profile/S--Suwatanapongched/1869189)
 * [About.me](http://about.me/sunpech)
 * [Pinterest](http://pinterest.com/sunpech/)
