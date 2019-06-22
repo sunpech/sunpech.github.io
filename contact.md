@@ -41,7 +41,6 @@ Here are some more ways to interact and reach me.
 * [Kindle](https://kindle.amazon.com/profile/S--Suwatanapongched/1869189)
 * [About.me](http://about.me/sunpech)
 * [Pinterest](http://pinterest.com/sunpech/)
-* [App.net](https://alpha.app.net/sunpech)
 
 ### Other Sites
 
