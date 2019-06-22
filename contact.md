@@ -45,6 +45,6 @@ Here are some more ways to interact and reach me.
 
 * [Foodishappiness.com](http://www.foodishappiness.com/)
 * [spong.org](http://spong.org/) - Blog content merged into sunpech.com now
-* [my Depaul University site](http://students.depaul.edu/~ssuwatan/)
-* [my Boston University site](http://cs-people.bu.edu/spong) - Apparently they disabled old alumni accounts. But I have a [gitub repo](https://github.com/sunpech/boston_university_website) containing what it used to look like.
+* [my Depaul University site](http://students.depaul.edu/~ssuwatan/) - Disabled alumni accounts.
+* [my Boston University site](http://cs-people.bu.edu/spong) - Also disabled alumni accounts. But I have a [gitub repo](https://github.com/sunpech/boston_university_website) containing what it used to look like.
 
