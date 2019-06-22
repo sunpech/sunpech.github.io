@@ -23,7 +23,6 @@ I am an affiliate at the following sites. Clicking on any these links to join or
 ## Shopping
 
 ![Amazon](/public/images/affiliates/amazon-logo-100px.jpg)
-![Amazon Prime](/public/images/affiliates/amazon-prime-logo-100px.jpg)
 ![BorrowLenses](/public/images/affiliates/borrowlenses-logo-100px.jpg)
 ![Tesla](/public/images/affiliates/tesla-logo-red-100px.jpg)
 
