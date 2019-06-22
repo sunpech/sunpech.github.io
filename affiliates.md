@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Affiliates
-navigation: false
+navigation: true
 permalink: affiliates/
 header-img: /public/images/headers/LA_home_office.jpg
 ---
