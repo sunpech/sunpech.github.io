@@ -30,7 +30,7 @@ I am an affiliate at the following sites. Clicking on any these links to join or
 * [Amazon Prime](http://www.amazon.com/dp/B00DBYBNEE?_encoding=UTF8&ref=mrp_10002_shr_cpbd_rf_d&refcust=AZGEHQ225EO67OKL5ORKHN6IYE) - Sign up for Amazon Prime.
 * [BorrowLenses](https://www.talkable.com/x/ECqWAZ) - $20 off your first order of $99+.
 * [Groupon](https://www.groupon.com/visitor_referral/h/6f92ebed-203f-48bb-a581-2ae84791f038) - I sometimes shop here for deals. But not really.
-* [Kit.com](https://kit.com/sunpech) - I sometimes shop here for deals. But not really.
+* [Kit.com](https://kit.com/sunpech) - My recommended photography gear.
 * [Ridge Wallet](https://www.talkable.com/x/oH7Er3) - Slim metal RFID-blocking wallet.
 * [Tesla](https://www.tesla.com/referral/sunpech24432) - The best electric vehicle you can buy. They are the future!
 
