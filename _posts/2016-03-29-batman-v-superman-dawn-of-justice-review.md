@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Batman v Superman Dawn of Justice Review
-date: '2016-3-29T09:00:00.000-05:00'
+date: '2016-03-29T09:00:00.000-05:00'
 author: Steven Suwatanapongched
 tags:
 - Comics
