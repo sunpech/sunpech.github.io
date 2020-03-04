@@ -9,3 +9,4 @@ gem 'rouge'
 gem 'kramdown'
 gem 'html-proofer'
 gem 'rake'
+gem "nokogiri", ">= 1.10.8"
